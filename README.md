@@ -33,15 +33,13 @@ peer-to-peer network<br>
 				1320 EST: Voicemail from Mr. PAUL regan [USC 18, §241]<br>
 -----------		Stephen O'Connell <sgo2107@columbia.edu><br>
 peer-to-peer network<br>
-
-1. Reference<br>
-https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf<br>
-<br>
-2. Reference<br>
-https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
 ✨ Special <br>
+##### TCR 5 INDEX
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf<br>
 
-
+##### ACS DOI NOTICE
+https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
+<br>
 ##### MANHATTAN MOTORSPORTS - MOST WANTED - FEDERAL REGISTER, AUGUST 22 2022<br>
 https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service  
 
