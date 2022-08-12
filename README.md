@@ -33,6 +33,14 @@ peer-to-peer network<br>
 				1320 EST: Voicemail from Mr. PAUL regan [USC 18, §241]<br>
 -----------		Stephen O'Connell <sgo2107@columbia.edu><br>
 peer-to-peer network<br>
+
+1. Reference<br>
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf<br>
 <br>
 
-✨ a"100 file finders anonymous. 
+✨ a"100 file finders anonymous. <br>
+
+
+##### MANHATTAN MOTORSPORTS - MOST WANTED - FEDERAL REGISTER, AUGUST 22 2022<br>
+https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service  
+
