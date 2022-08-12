@@ -34,14 +34,59 @@ peer-to-peer network<br>
 -----------		Stephen O'Connell <sgo2107@columbia.edu><br>
 peer-to-peer network<br>
 ✨ Special <br>
-##### MAY 27 2022 TCR5, INDEX WITH SUPPLEMENTS
+#### MAY 27 2022 TCR5, INDEX WITH SUPPLEMENTS
 https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf<br>
 
-##### NOVEMBER 16 2021 NOTICE TO PROMOTERS
+##### NOVEMBER 16 2021, NOTICE TO PROMOTERS "COMPLIANCE"
 https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf<br>
 
 ##### NOVEMBER 16 2021 NOTICE TO STATE FARM
 https://saaze2311prdsra.blob.core.windows.net/clean/521e9ac936d6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF<br>
+
+##### NOVEMBER 17 2021, "MATERIAL NOTICE"
+https://saaze2311prdsra.blob.core.windows.net/clean/0010c00837d6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF<br>
+
+
+##### DOC NOTICE
+https://saaze2311prdsra.blob.core.windows.net/clean/3c87e47421d6ec11a7b5002248307f33/2021-11-16-483docNotice.png<br>
+
+##### NOTICE TO THIRD PARTY SERVICE PROVIDERS, 2022-03-10
+https://saaze2311prdsra.blob.core.windows.net/clean/3217723b20d6ec11a7b5002248307f33/2020-03-10—ICE%20Data%20Services.PDF<br>
+
+##### NOTICE TO AUDITORS (EY, PWC) AND FIRM 8209 (MSCO), 2022-04-12
+https://saaze2311prdsra.blob.core.windows.net/clean/b67c1a2d29d6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf<br>
+
+##### MAY 9 2022, INSIDER INFORMATION IS NOT REPORTED IN THE EDGAR BY EITHER OF CIK FILER 93715, OR 1516523
+https://saaze2311prdsra.blob.core.windows.net/clean/46c8dc8e20d6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF<br>
+
+##### NOVEMBER 17 2021 NOTICE TO CRD FIRM 8209, CORPACT
+https://saaze2311prdsra.blob.core.windows.net/clean/0010c00837d6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF<br>
+
+##### TAX RECEIPTS FILED (USC TITLE 18.21) WITH THE NYC DEPT. OF FINANCE
+https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf<br>
+
+
+### Loan dockets, premerger. 
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==<br>
+/s/ AUGUST 8TH, 2020
+
+#### LOCATED THOSE IN THE NYC DEPT OF FINANCE AND FILED WITH REGISTER.
+**** REQUIRED PER THE PROSPECTUS OF CIK FILER 93715<br><br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291002<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003<br>
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291004<br>
+
+### 50074 SUPPORTING DOCUMENTS, TO OBTAIN AN UNLAWFUL $6,000,000.00 FROM 
+## STATE STATE FARM LIFE INSURANCE COMPANY 
+#### ON MAY 13TH 2020 - to support the Gross Negligence in their Dealings during the Covid-19 Pandemic
+X-------<br>
+https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20190201&stmtType=SOA<br>
+X-------<br>
+https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20181116&stmtType=SOA<br>
+X-------<br>
+https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20180824&stmtType=SOA<br>
+
+X------- https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20180601&stmtType=SOA<br>
 
 ##### DOI NOTICE
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
