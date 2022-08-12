@@ -70,15 +70,15 @@ https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1a
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=H4jMXghoLMU1ozmlj4VYHg==<br>
 /s/ AUGUST 8TH, 2020
 
-#### LOCATED THOSE IN THE NYC DEPT OF FINANCE AND FILED WITH REGISTER.
-**** REQUIRED PER THE PROSPECTUS OF CIK FILER 93715<br><br>
+#### LOCATED THIS IN THE NYC DEPT OF FINANCE - IT WAS FILED ON MAY 15TH 2020.
+**** REQUIRED PER THE PROSPECTUS OF CIK FILER 93715, OFFERED BY STATE FARM LIFE INSURANCE ON MAY 11 2020<br><br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291002<br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291003<br>
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=2020052000291004<br>
 
 ### 50074 SUPPORTING DOCUMENTS, TO OBTAIN AN UNLAWFUL $6,000,000.00 FROM 
-## STATE STATE FARM LIFE INSURANCE COMPANY 
-#### ON MAY 13TH 2020 - to support the Gross Negligence in their Dealings during the Covid-19 Pandemic
+## STATE FARM LIFE INSURANCE COMPANY 
+##### ON MAY 13TH 2020 - to support the Gross Negligence in their Dealings during the Covid-19 Pandemic
 X-------<br>
 https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20190201&stmtType=SOA<br>
 X-------<br>
@@ -86,7 +86,8 @@ https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDat
 X-------<br>
 https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20180824&stmtType=SOA<br>
 
-X------- https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20180601&stmtType=SOA<br>
+X-------<br>
+https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDate=20180601&stmtType=SOA<br>
 
 ##### DOI NOTICE
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
