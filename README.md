@@ -91,6 +91,36 @@ https://a836-mspuvw-dofptsz.nyc.gov/PTSCM/StatementSearch?bbl=1005030011&stmtDat
 
 ##### DOI NOTICE
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
+
+
+---
+
+
+>  PREMIUMS ON THESE RECEIPTS HERE GO BACK 15 YEARS + 
+>
+> **
+> NYSCEF DOC. NO.                       220
+> RECEIVED NYSCEF:               08/02/2020
+> INDEX NO.                     153974/2020
+>
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=oFSKORPzy551BVUfHZGI_PLUS_Q==
+>
+>
+>
+> NYSCEF DOC. NO.      348
+> RECEIVED NYSCEF:               08/09/2020
+> INDEX NO.                     153974/2020
+>
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=TxAa7cNVIHKtnJU/ni/zvg==
+>
+>
+> WARNING. JUNE 3RD, 2021 -----------------
+>
+> NYSCEF DOC. NO.      385
+> RECEIVED NYSCEF:               08/10/2020
+> INDEX NO.                     153974/2020
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==
+> 
 <br>
 ##### MANHATTAN MOTORSPORTS - MOST WANTED - FEDERAL REGISTER, AUGUST 22 2022<br>
 https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service  
