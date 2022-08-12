@@ -1,4 +1,7 @@
 @BBO-IC3-HIT<br>
+
+#### JUST clone this. Can't update email triggers.
+
 Jacob A. Riis Neighborhood Settlement<br>
 10-25 41st Ave, Queens, NY 11101<br>
 <br>
@@ -26,4 +29,4 @@ peer-to-peer network<br>
 peer-to-peer network<br>
 <br>
 
-✨ is what 
+✨ a"100 file finders anonymous. 
