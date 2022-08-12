@@ -123,5 +123,27 @@ https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1a
 > 
 <br>
 ##### MANHATTAN MOTORSPORTS - MOST WANTED - FEDERAL REGISTER, AUGUST 22 2022<br>
-https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service  
+https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service  <br>
+
+
+---
+
+Oxley 63.18 Violated in two concurrent and consecutive years, CERT-99 by CIK filer 93715, CIK filer 1516523 neglected to publicly inform their custodian and customers of this “letter of credit” and “legal proceedings” which has been missing in the Edgar since May 11TH, 2020.<br>
+
+Upon discovery, CRD firm 8209 decided not to share, updated their premiums received as promoters and also swapped their CRD in the new improved disfunction under CIK filer 1516523.<br>
+
+I believe JP Morgan was the custodian in the former, unsure who is responsible for those deposits and leverage risk as of current. <br>
+
+Enjoy the afternoon!<br>
+
+https://www.bop.gov/contact/index.jsp <br>
+
+
+Federal Register 4<br>
+
+https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service <br>
+
+
+https://www.fbi.gov/video-repository/newss-chasing-the-dragon-the-life-of-an-opiate-addict/file_view <br>
+
 
