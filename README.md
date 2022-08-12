@@ -40,6 +40,9 @@ https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20
 ##### NOVEMBER 16 2021 NOTICE TO PROMOTERS
 https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf<br>
 
+##### NOVEMBER 16 2021 NOTICE TO STATE FARM
+https://saaze2311prdsra.blob.core.windows.net/clean/521e9ac936d6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF<br>
+
 ##### DOI NOTICE
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
 <br>
