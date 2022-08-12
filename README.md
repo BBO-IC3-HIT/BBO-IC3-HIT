@@ -34,10 +34,13 @@ peer-to-peer network<br>
 -----------		Stephen O'Connell <sgo2107@columbia.edu><br>
 peer-to-peer network<br>
 ✨ Special <br>
-##### TCR 5 INDEX
+##### MAY 27 2022 TCR5, INDEX WITH SUPPLEMENTS
 https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf<br>
 
-##### ACS DOI NOTICE
+##### NOVEMBER 16 2021 NOTICE TO PROMOTERS
+https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf<br>
+
+##### DOI NOTICE
 https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF<br>
 <br>
 ##### MANHATTAN MOTORSPORTS - MOST WANTED - FEDERAL REGISTER, AUGUST 22 2022<br>
