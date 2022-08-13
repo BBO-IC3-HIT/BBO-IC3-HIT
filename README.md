@@ -17,7 +17,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==<br>
 > ACRIS Detailed Document Information (2019000021408)2019010800475001<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==<br>
-> ACRIS Detailed Document Information
+> ACRIS Detailed Document Information<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==<br>
 > ACRIS Detailed Document Information (2020000155421)2020052000291002<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
