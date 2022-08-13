@@ -1,0 +1,86 @@
+From - Wed May 18 00:05:08 2022
+X-Account-Key: account1
+X-UIDL: ALpIStAoOpgqYoRdoArVcHHmjdw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.167.142
+ by atlas314.free.mail.gq1.yahoo.com with HTTPS; Wed, 18 May 2022 02:44:48 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.13]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.13 as permitted sender)
+Authentication-Results: atlas314.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 18 May 2022 02:44:48 +0000
+X-YMailAVSC: 3FFCo503bBuUrRVDLHvnSiJULco20x0_b.uAzsV.i.Rs4ks
+ rLSqF6OGwHUAKOs0j0zPlXFsy2l1BFUn9CIYjYSZiqkZdfdAP_h3Bn5KhXH4
+ a0MeWFJJpYc49UwOzAtHrTrdhhLAzF1i_vZTBygYI.GYXrdl7MPuQT0D_2WA
+ IkzfEE1WHaoH0A429YYdSHfYaw5QYKrRUItyoKWiiJ1okjCluGPAf9WQaif9
+ cAiC9fMppJR542cX_2WZte1LnZ_j2abvFcde8nBmtr90t4wgB11Pih8kNv_K
+ Qb20vUDYo3vF_yz.6B7CM.S4w6r6AmlFau5eBG0qM_wZTjHMX_7DbHz6pRts
+ uX.O0.lms1ppHhmvyqXgfYsOMqv1ySoDTy7Hva9FOzg.ZiQ7ib0E-
+X-YMailISG: aqzqEwUWLDsZdgmFJAzrN_hOTuq_6gOSVaALAhvhDbiVYNQ0
+ dhHhOJgPHzsEJbi2kD6WRdM52O2vAYV5Zq8X.qMJDbKCiDQAsSD92IuALYkI
+ ce9iqaeoB0zKOFD7pFoSnntEFz4YxqZd2EVypMhDR3VS2BooyMT_bCqDg3IF
+ b2lJraTcrX9te4vMx0Lj93ZqBjN8zIOrihZWUPDqaVscRwfK5ScqCoJezibE
+ B3fOnFm24FQ6OhpE2WlFf4EFeKENkkgs.ISyttQorI8JBiJsxF_p8UoqtPE1
+ c772x9qGaWaS9Uo_DyY4GonNL.mikXZvw9zhlWwKHp91iLy3f2LaY8P39u5t
+ RTcihDDo9o0esGIuWBvfwmW4UYhaeLt0aStfehFR_ctmNOcYi4fhsdeUyEd_
+ 6tXCdt2OOoPX1Jg6hgLyotUdYbo6L_OKHuGCvd5GbjTk8kXVbFRhUQXatwof
+ b2pbiH4syoIZjMl4MYqyplDr43yNqsubQrSKtPdJ5CPmiy4YTbpFIj89oGGp
+ ufK_3AyjB7JLfaPHKOCqzWKjUI1.pQThymQ8fxYRct5ybPW7yRHZNUOgu.bK
+ 0bHFJo1wYAotK1HGr2wdvUEDUU0Lq6oSeJZXoSJuuAo_dQnaWmtKfji2cFPe
+ MkcxvGnTQ.CDOlv5jn4EJGtAqA_vQzNsAZhWCQpWKNsOX8XPTlfUpyV1rqdL
+ 2qffrAjk5Pug36vnHBpsTen0p2DWWyZTO8Ww0A5Ts8frP5AEkVL1lZHSYvGD
+ bCVrNM_PmSpdp3hwrb0_MlDIPBGvrLFymsHll6vaabV9c5lz5xih9rkB3E_E
+ c3b_rjijn2AKqYHsEqy6CLS8Liqp5JgLJx2IpcJ8VJr2quV5abkJhaO6IjEF
+ NvPiIW6YZ.vglVTzPK7mBAvVCArgBtX9N5ZkLHJLlcLSH87uxCnXeESrJhvS
+ zHAiy.z20uQcLZhrQGLvb1cuWc0Wc7aVL1CSLAbmd2itAdqvPb5Furwq2kmj
+ AlmQsVDEBJOpRFhiT3TzZB3vianNEE_npX3jvO5c4J5lGfp8AJJtOPUfAE03
+ 0CoMIG3T6q6FDkpyKMv_3Bz.ChnhnKctgXtNsKIty2rBnD3xSTMM21I-
+Received: from 17.57.156.13 (EHLO ci74p00im-qukt09082302.me.com)
+ by 10.214.167.142 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 18 May 2022 02:44:48 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652841887;
+	bh=wLUdu/fhOQX7IoPCigGIEcFrr3PKUkieNSZLW7sZNn4=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=F0xLjOYI+FYSIE3WysC1PcVRWeCQyOTPfdjCO3atdAf6F+W9RQyf+zOszbURbON4k
+	 0wpqKRqDeyGbEr+4f+A2ZTGhOMfeMnNLYIGOqB50sFDRy4t35xzJBP1snlMn/yeQBt
+	 7K6kpq2fGL4nLFF5ytdwbY148uVWJlP+R1buRTKZxj886FSfFrwSFVgs8+dHt5uXaT
+	 9o5aYbWDZgcBRJvHSCXSA5wzUTtBDF7XZlT8Th8Fj/Vjwc+obbNF9sBpGfs4csim+C
+	 S7CaESJ3hpxvtJA3vC5FGRgIGKA2Glx6R5seA5/Ocum0YbsMXJuBhd/qMgbl5wG/fZ
+	 YMBNoAMEBgXig==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09082302.me.com (Postfix) with ESMTPSA id 356DD2FC0632
+	for <ms60710444266@yahoo.com>; Wed, 18 May 2022 02:44:46 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 17 May 2022 22:44:44 -0400
+Subject: merger form n-8f application.pdf
+Message-Id: <683F9D21-14E8-44E0-B2EE-DEBDAB05BA0A@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: cQGzA0KYqHgi7bUykMPqAtahsmYhimlq
+X-Proofpoint-ORIG-GUID: cQGzA0KYqHgi7bUykMPqAtahsmYhimlq
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 suspectscore=0 mlxscore=0
+ bulkscore=0 mlxlogscore=579 malwarescore=0 clxscore=1015 adultscore=0
+ phishscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205180013
+Content-Length: 133
+
+https://saaze2311prdsra.blob.core.windows.net/clean/95a1de3254d6ec11a7b50022=
+48307aa9/merger%20FORM%20N-8F%20application.pdf
+
+
+/BD
+

@@ -1,0 +1,91 @@
+From - Thu Jun  2 19:24:35 2022
+X-Account-Key: account1
+X-UIDL: AMRCpSMx+oF+YplUpw4RkDFIvPQ
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.210
+ by atlas301.free.mail.bf1.yahoo.com with HTTPS; Fri, 3 Jun 2022 00:24:07 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.205]
+Received-SPF: pass (domain of github.com designates 192.30.252.205 as permitted sender)
+Authentication-Results: atlas301.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 3 Jun 2022 00:24:07 +0000
+X-YMailAVSC: IXIUXmM3bBv9GWyuK4hHzWbMfjPAkwrk1oKIVebhK_o9PFT
+ 0poFJqfQpcbjFYrYDIzXgsHzYV42UJEjaQ_tapPc9DgpQs8OyCWuaK7guqUx
+ 3TLTzA6lCDF7nJSBYRQcjG9HgSRaMmN3n0SgdcMdfWX95mdSHUoVJ4Nvxjrq
+ mQhsVBUJQcHdfQFR8u_SoqHZiuHx7W4F0GqUghiDS0nTQQ90NP71z3ykQmnd
+ Izc0HKXg3QYOZFsQeu_MHZ.o5ARXyBGqTPyVmvjF8tDHe3aTq3GE7VNlvbz1
+ rNZToDSn3p5QwzkYt9JdzYPaky8UhC2fLTUuKXX7_gi6s0otWiUHtmvduEg-
+ -
+X-YMailISG: dMB8ufEWLDtQUJrs0Y4UjSGkMBuUOmO2NkI5Fg1gX0xmJ50C
+ KWdGZ7E1mClWqXnpr2VNx6CZaGpKSyrSih_ZrU2tn7yos5O91IXkclkptp0X
+ gp3LQwIE0EqtAAuDGV2z5.BU82M_EaNS3DFUB8WHmpFbvc62p1OzcudFsGTL
+ otH5ek3qS2P.b2jy0WZSn_u13NQypCpudZj8EFrTBqRrEQZeYTCoTPzEcedr
+ rBa9N3NxJ0.6nbVL3z9urc5ctSpZgURc64lXM_NUIHkqvuFFLt14OHPzPG4U
+ OuRTTWHdsUd0DwwuZAF_XqELsVd7h3P_Ls5WI6kot.e9a1OEO2l3HDArCzwd
+ nkR.NsHm58xq2FJuU22PgWD.u_u4DxLfyj3.0OLo62NzhN_OzaxhE6Jz8yry
+ F3kHJdBLUrng1cu5vkXzF_9a2VpOpjRRp66DMCnwjnwhnEV2_UySHKCijNfE
+ omyVzqXMj1_Yd9Ukt0FYmIfE8lZEoeVSgPBH4hplrcWN9mzVxUeat1RaR0YO
+ WrGpxfSBSCncK.Ato3FM4hDz0hI_xQBgOfrjuY3ijma6Hr88TTl32_k8OziC
+ U_UgS.BdX917JeojX.gdraYkqjA2i5lDzwALKgGoE3tTmRIvdtEWWaYlI3RY
+ T9UMW6qHAB2Ojy_kBKXYhkE5mF35KepAW_6elTVlD_d1bLF33eSY3J5HmfCU
+ 57eb0_QtFzhp2fPQJAEMyPWRy6Hq1wirafRExwkiXa7jVi5_jt0nI4Zdiz3c
+ GDqUY448L4N8.s9vLoQAYcyLcgpuE0iJ_cjeg_e5Q2wlYY105czzy71g5KDe
+ tNxdZlkXj_1VCCVzbGTQUJUtkOH4EozEuA5SConCLP.5VyMJT.vcwuW.6rKD
+ EfP4SCwQ4WHnqoj35_ifLKgtiyhKoXSCikrGssPgA2aAzWL3C8luyanp4GHR
+ JnQV8sq_8l_JpRmJRzoIgL1I88d7tGtdgB3fpz4kWqcbPBQXPj9IQEH33gve
+ XTbxi_I8gPNLsDkYHanXAHbn_5YO5cNXcbqARhymSE6ZXmHxZIxfY8PMF1gF
+ Q_9AIXuLVp66wVJ8mVGyP5sutgfLju0m61kxubXOHAAsoq65EuWKoLAGqy2m
+ fTVvZ4HzBGmOSbnjO_RnD8kp570hAg.xfglgwTsU7.6EuZaJT0SmMrbYMF1W
+ QNkd71W_yNsy0o2bkg--
+Received: from 192.30.252.205 (EHLO smtp.github.com)
+ by 10.197.40.210 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 03 Jun 2022 00:24:07 +0000
+Received: from github.com (hubbernetes-node-4491340.ac4-iad.github.net [10.52.210.20])
+	by smtp.github.com (Postfix) with ESMTPA id 70B33721FDD;
+	Thu,  2 Jun 2022 17:24:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654215847;
+	bh=ByO4v5PUGfLC2I/v+/vslI/e+PQEMKdGKIEnx+2v6ZU=;
+	h=Date:From:To:Subject:From;
+	b=tIMBNjUIxf3Wl7zHyJaLS90cYCWp0nkWIotvDzXm6GTGE4nnIHO0SCQqbm7b3h9As
+	 B8XP/pO9GmHW44CJjI8YrkgHPgrryWLBn24jsq0JF882ESvvaxbmhMNXnLgPbqyWkg
+	 cA7sRjDoGg4l/a6CSD6gaYbYUSKpKxf+bqnLEAnY=
+Date: Thu, 02 Jun 2022 17:24:07 -0700
+From: 1212-5858 <noreply@github.com>
+To: ms60710444266@yahoo.com, 
+ fed-mmkt-ops@bloomberg.net
+Message-ID: <BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/push/refs/heads/OMISSIONS-AIDED-BY-OBSTRUCTIONS/ad35a2-39d03e@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER] 39d03e: [THEY MOVE IT LIKE
+ BERNIE](https://www.youtube.com...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: C16-93715 OBSTRUCTION STFGX - STFBX - SFITX - STATEFARM
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com,fed-mmkt-ops@bloomberg.net
+X-Auto-Response-Suppress: All
+Content-Length: 681
+
+  Branch: refs/heads/OMISSIONS-AIDED-BY-OBSTRUCTIONS
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+  Commit: 39d03ee35570dd8053f5ba76595dd35ec35197cf
+      https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/39d03ee35570dd8053f5ba76595dd35ec35197cf
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-02 (Thu, 02 Jun 2022)
+
+  Changed paths:
+
+  Log Message:
+  -----------
+  [THEY MOVE IT LIKE BERNIE](https://www.youtube.com/watch?v=0EnOhpMRgwg)
+
+-- HEY SHOW ME THOSE RENT RECEIPTS AND DEPOSITS FOR THE BUILDINGS AND ILL REST ON THE MATTER
+[JUST LIKE BERNIE](https://www.youtube.com/watch?v=0EnOhpMRgwg)
+
+

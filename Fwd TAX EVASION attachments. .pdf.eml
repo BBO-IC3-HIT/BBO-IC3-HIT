@@ -1,0 +1,86 @@
+From - Tue May 10 00:52:54 2022
+X-Account-Key: account1
+X-UIDL: ANuL4E1DZbuNYnmu0AjGGH7xa+I
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.155.146
+ by atlas121.free.mail.gq1.yahoo.com with HTTPS; Tue, 10 May 2022 00:16:16 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.13]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.13 as permitted sender)
+Authentication-Results: atlas121.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 10 May 2022 00:16:16 +0000
+X-YMailAVSC: OKvUid83bBviAcg99HmvJB.Ri4hMKK4DVa8gqnuHK5kk91Z
+ ZzbCzyLBxnGujqNnXv3BAeAcGgIZt1kUPSl6.lMUgyAzDbIoSDsikNEXaTca
+ ZuP48p0QtzRgpxKrNgUk55NLTJZCfS2Xw8DSOdzlnrLm3lEusRluvEzteIF1
+ oO5UYwZiAKfhXC1XA0vPjINs2wg1MG389Swu1wmabrEIuuloviWTeKkjUwBt
+ oBf1IzBIUmqwtX54yId1d6c8J.rbPgMwjLZByJheDk45ummwGCUUm7jq26DS
+ fnxxWGLQllcpNO_GeLKAOhXztzV7yDroc6gp2KvzD1zrV5o1tbq0JVTyiGUP
+ 2q5NnbwXfmal2RwwnNh_.MUh4sCZHIBLm_Q8-
+X-YMailISG: hsFDV_kWLDvwDrkSb_vNjyBXOYrQE5QQIcFpOHk0cvwtPRJn
+ hQoPteJpO73iYbwclFRFo7iUypugHrGlYAAaJQV8lJpkqcY1iSEfYgYRWrnS
+ ghEpcRWEViS.5uTBKsr4yALyhn_UlRPiA_Dxml3W71sJNNLNsUIbtQCZ1pUh
+ 3lydwIlVNunErYr3ZdbJlh77sT3GV0Fp2cqwWJ6gU9ru6EU.AfQv_BDKa6bZ
+ VDW3IeIy.emSHHsjR9IbJqPet7fo9ztNFPOWGQ5UK2WolWCWor0uh7mXN8hf
+ c9R.OlbUXQ8xNAHzhBqS3x9gxaeO83kcXtEISQNoQw31E0isb45pPAKZkyr7
+ FaZJT_xLTVsi5BI91wDvM1_AJsRydmSWvXH_ox8HcWcq8HFT4I3sSSa7gm92
+ QOSihBOKnpYS523GoY_4VgyrjnfZHZSkWCb4adPv9t8BTK1_qpWWlW0G879f
+ WCjcddZozulgFRqhDSNhEXTx6KbJ_N8tIYw0SOTCFCE2kuR86IkmDe2.mb4P
+ 9CwQDnvWAZETq9ddPIImk1DHBPdA9i8TCaPWbO70JTStPWxysVohPkir8wME
+ eNffCIV506POwLenZ.Kys0onEeD_IjbKz1NOKXTKMqeVIVu6tyNs2DxKNTzY
+ ob.9Ll6s6Q123xVUTESsQKeKN3dpp6XHemyMdJo1ekIZM9vy.A5sEEWuYFxc
+ bMM8dufUmcBiBdK32WNkDDvKhIW531SGz7tR60zdjQoaza6ivISdGnDtOn0h
+ Jclgc5fP9_5S4RpDZvtDiWjC.GyX9MTc50tmExJymlfT22PPYMjR.KJIX6kF
+ Y21Oc3B_waEmcfVu1eg10QbkdPI5ZW74yqLS.ooGUEtNVow9gbnkPOTerOyE
+ _raZ5qRoJDhpF5kDM6e825wEEUa07QVEAx_29cX_kV.Bavs1jyKWFIDP2Aqx
+ CDBHwUVRapAeeJT6cg.JedzG_C.2foi7iihNKLZkfak3FhbIdWw8yWEPdtpW
+ YaZWqg34aUcCnn5vXYCI0FTwB6cdKMcgBPtlH5VESGNYJfa.KMiAYwS_cZ6K
+ c6k1N0SEmMIBrNrqCPOfwVK9JqxyBoiGPBoTtnAI6NJ.u03PrA--
+Received: from 17.57.156.13 (EHLO ci74p00im-qukt09082302.me.com)
+ by 10.214.155.146 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 10 May 2022 00:16:16 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652141775;
+	bh=m3Q23iFSkspofUT3hqFEEf0zmEzgSbEw6Jw0tMcUc70=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=WqFS/TxnZ0wdqxGYMA92uB/1eXlF1/foatgM3w12QzBuVMwnSUeg6nRXIWaD7VBdD
+	 y8wUWtzDHibCFSBR9tpTd8s+mVUFHQkNkWItfXtwWa3l9FigmW7bL25kAH4wbcR8Wf
+	 LgddIvpefJGHwlUVjmLFEpTHoUzM5ofr12JpXDuuL1g+WlGepwSPkgrx/jWBDNWS9z
+	 3I+EST62R87NlSCtQm+F+dfLEmFSh/1bOK3gNW8+7sLRtsrzJi+KJCLNRL+pWUgPmm
+	 WZmbwVZ0eI4goRPgiE2FQeuSHyoY74pdLXMR6uUzYwDdvzrfHmuibd1wfzrLrVc4M7
+	 wSG5uy6JtuK0Q==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09082302.me.com (Postfix) with ESMTPSA id 95F2A2FC0258
+	for <ms60710444266@yahoo.com>; Tue, 10 May 2022 00:16:14 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 9 May 2022 20:16:13 -0400
+Subject: Fwd: TAX EVASION  attachments. .pdf
+Message-Id: <F09F0DF0-57EA-4146-B50F-D30D1BA65A70@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: S_1weiHLPKZwJYiCQt_zijRi-3KlhEzp
+X-Proofpoint-ORIG-GUID: S_1weiHLPKZwJYiCQt_zijRi-3KlhEzp
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=1 suspectscore=0 spamscore=1 mlxscore=1
+ malwarescore=0 mlxlogscore=213 bulkscore=0 adultscore=0 phishscore=0
+ clxscore=1015 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205100000
+Content-Length: 106
+
+https://acrobat.adobe.com/link/track?uri=3Durn:aaid:scds:US:8e003ab7-2c33-3b=
+dc-9d04-059978f893b6
+
+
+/BD
+

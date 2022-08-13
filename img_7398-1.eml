@@ -1,0 +1,88 @@
+From - Wed May 18 00:05:08 2022
+X-Account-Key: account1
+X-UIDL: AKdmMJgCOi3WYoRdBwMNQDF75VY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.112
+ by atlas323.free.mail.gq1.yahoo.com with HTTPS; Wed, 18 May 2022 02:42:14 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.155.13]
+Received-SPF: pass (domain of icloud.com designates 17.57.155.13 as permitted sender)
+Authentication-Results: atlas323.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 18 May 2022 02:42:15 +0000
+X-YMailAVSC: uwHjHic3bBtUgJP8foog8X8Bexv8lk599qZq8.P8J0gvZTU
+ vmQ53vQqKoDUD64xCpe9771xExEbYO7F9wKNdCQWdh_CaQnM_Ce2XXgw7QWH
+ Npi5VrC9mlLHZPUL2tOLO5Hka19m6CUWkb.qZTtYaox.9pfl2U61f.j2R3il
+ eEHrTCoxx9vKp.OggpZBuNBdW9ZXKubQ0.35MGzSnjQ2txSlY_Z1fSxPkGdI
+ i8iObkVYoBu8.BYxbqHWvjnZopef5.bOP33Ng_jvFv85ZqQIzZDBa6SUll1L
+ OPhWt9mukpk8.JZKHRT7beIKjMOTQfddnOTfwtlKvhO4C0_D5fSXzzQr6c9B
+ ZKj2X6wUu6xb1Hl5hs6RXrHyxx7Rildc8SwuRdLYoDk1z9xRTg7g-
+X-YMailISG: EYojNHoWLDtZ4zIUoGVYJTZvoRN1iUxNaWYczN9L0iKJEWzA
+ gkesBtATD1APkewlgHuIL_wyIWfDeS6no4coingKT1voZP1XElgvWpuAm6Jm
+ 7p2TBXB.CbUTFuuKMx6TmWxOjo31UqAa6S8aFhAAnK5StYNJMGiZH2EmH3kb
+ BLkJ6rm0IjsZPjBp5D9.WA2lwp.SNsvFSaVYdWoleDjSUn74TuHXuUcoZkdm
+ vDKjf90CrODUpMLZUl_MH96KonwqJ988tP0y7WYYeikpheR7Mm8yWdY89wBJ
+ hmrt2uUXn06RUVqBPh9iZIbMeRd3RbWXIis_nTmiOJKbdETgRsHsuU4hFL0z
+ 4JUD0WcrdWnDtICNuCOPtn2m2iCgu2drWnuzsQeKK0NAxIhjgl6CdcTKBgnl
+ 0OGWPWooKmRuxxtrfUOjmdZwNG2vuKWDjLBje1dXidfXP1Vjn13FUWS0C.6b
+ 2ETjaM01ztKZZXxw5dhxt.6n1nbf75VHf7kSojirZ6CU2_ONzMaDHlK_Iyak
+ vrLtsr2lC0Yy3WXgEn..Zynf7SMVvJ31oq8G57h..xPuEKsaQPYAxlTbJsTN
+ Lk5Q1iX8fk.7kIXfBn2mrwWvNZzRuxD9glkOkM.833RVnVcoP1V9uS.qntes
+ 6b2lGZg.8dBeToz6yEKcys5CSyh2Qh4xOp_QlRK6JN3RhrVlMpi_dnYdsNwF
+ ZaKO39hpsxiSI0NTOo8VbDfDfDuatutIoYIcTbi.7Q6wkzDUE3nisy_sFcZs
+ HrMC.RhCX4BDZm7B_yxwG8_LS5w0ztPgV9E2KltUEJeJPHc_ja_trzml4FfV
+ rV481yyKMq4yt002MFuCTpXqgceTF9rJjjbK8rS_1ZYBCeIxI5iqFx4G_wU8
+ eOEsMOGRc8x5rewbG6CYozh7Olryl5ktOqMACuo6gOEm5NkkRA.0o44Y8c_V
+ OWFM7drKeVHCXUu2Az5dBfWeT5SW4FwReAcCkq9w75xvzhmf7_QtReG7yRB3
+ yyGuP9SzTcYsHF_OJCq7U_nqHzGoFWGyLMJ.Mwjn7UwF_eMQ.lM.om6AF9X9
+ rndlISSX.YVvexqN..8MPjGLDX7vUUHGTPXf6u_wbZU8C7B1kDZdOas-
+Received: from 17.57.155.13 (EHLO qs51p00im-qukt01072302.me.com)
+ by 10.253.31.112 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 18 May 2022 02:42:14 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652841733;
+	bh=FbM2tWsOYU9yZfEuo8D84hDDGWz3evENUSSWtmYiI8U=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=zCwLLu88/O6Lh64Dc46XTYvhLGktz9WZ8EAhA67S3V0p7NyMaHLbXIutF62nNJ9oJ
+	 Dm7sv6UottKKtiZiOLtDen8OhyHvwEmFFPB4A+B9epZsBgl2oQlilWxciCJyNiA2A7
+	 DexL4u+uA5XaSg6wzOSXQ1dHmW2wuHYgko20KRm/qf9NkySd+NA9QInovJxJha1rsA
+	 9RAjAMe1+X1LPSEmjvANu+6qEbDwIVvhMO0Ds/a/aBedl/qWrQiPO1EdPqI49Z/7Uy
+	 2A0/fGQGKdZAFlSVSXWTI6m0vOsTETKUAClF0IKZNvJ3BhTbcqN2JKEwfhzaJdKVqO
+	 6NfJMkekf559A==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28])
+	by qs51p00im-qukt01072302.me.com (Postfix) with ESMTPSA id 24BDC63004F6
+	for <ms60710444266@yahoo.com>; Wed, 18 May 2022 02:42:13 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 17 May 2022 22:42:12 -0400
+Subject: img_7398-1
+Message-Id: <01E81063-2DC3-490E-9961-99A328080E33@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: YM5GLr9UN_ELxsngkl-BkHqbl5NSuErh
+X-Proofpoint-ORIG-GUID: YM5GLr9UN_ELxsngkl-BkHqbl5NSuErh
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-11=5F01:2022-01-11=5F01,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ clxscore=1015 adultscore=0 bulkscore=0 spamscore=0 mlxlogscore=389
+ phishscore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205180013
+Content-Length: 111
+
+https://saaze2311prdsra.blob.core.windows.net/clean/df1109e153d6ec11a7b50022=
+48307aa9/IMG_7398-1.jpg
+
+
+
+
+/BD
+

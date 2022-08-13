@@ -1,0 +1,86 @@
+From - Wed May 11 05:13:50 2022
+X-Account-Key: account1
+X-UIDL: AGzgsLlNhOgxYntu+w8HqPYIIvQ
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.230.151
+ by atlas210.free.mail.gq1.yahoo.com with HTTPS; Wed, 11 May 2022 08:08:27 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.16]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.16 as permitted sender)
+Authentication-Results: atlas210.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 11 May 2022 08:08:27 +0000
+X-YMailAVSC: Io3WZt83bBvBUTmojF3k6r7mYawlphx6zZ2ZBPNaMy9PgX7
+ aa7r_AOf0WIaHLF_1JIu_SEFR72.Fly5fQrbpgkO7gPMCwuMQSXfu69iTFTc
+ oFzJyzUjDE85RLeCW1GHoyHFV2XA3iWHlSAQhN.j8QgN1AtRd6m74GPIBKMA
+ b6Hij46_QuFtL3yOAb43WUru7sk6vmvApU5aMsyNelIHJv6rif7T22dQcHsR
+ rR7N4O3fKQhyMFl59GpqpwwoN3D4.kOFULKeecFErB8FXYIXWOzNXWmXin1z
+ kS1N32ruS6pfpiZSrP2ziV..RNyDoO1wrbQmoc..c6eXufSgjvK0CQrPvrsX
+ 1w6itkM61iCdrB8C_Do6BPf1W5SHE4irzXrNt1A--
+X-YMailISG: 6vW2VYoWLDutc8iRfe7nmOxHGMytoV5J2CNnKi3NXd5Vkowb
+ aYK5ZF9oaXfP3gmijuhbphwtJGT2kHuN1VhpGMB7WTyZnzL8YW2awQLuc.BS
+ coWcGplL64Mg4fvxGpaQYMwNeLa_zF53K6j9W7WGxcifxDRqY3D3jFPp2yNd
+ KQcruEksko2CAhJ.3KrH39sTBFbpz2ESrGqa_OIC.0LbhZPnlyBTV5vGnJPV
+ gttaz.ip3_bkmugSOuSujVTzd1z8ud7Sn86v5VUlREcOrXdLnQUH5B0YXiGf
+ b5KZuY8gK2BAFG2pbuabLzmz7hnqdl2eTjgtktmH5zqrjwxH9BGkh7xtVAbz
+ 9IPU_Vut8f8LoIkh.UY1yRBYmAyNGtQFAecU8O1Y9NrDkI9fPURkpd9TBTcz
+ 6WxZlGR5GKesYxxye9Hu2lNS.Emc4.eY7Qij0yjT.pNQ88kECpssq7Hq6nO6
+ ALFsKJAms73cwJo0CNVV0fyn8fUNijKsUE29f5gtd3SNPJomJu_qgsplwLb.
+ SdYpWoDRv.qE9rak4nVvHtUPi2cPtBA7s_zG03fMe8rtJ.9YaxdGPBe37P6J
+ U30mVpNXQmVJv81qC1gCElt.5tFlkVWT_F5uhXqUhwAmT83.Cy5xX06BBnFB
+ mtl1.J9m_djLtO8KVrgDXPBkoXjWSj4sqt45IV4CGrQBByXsayzALqNCTNXo
+ X_AW8H9VSYE_qMoonONzIQwZM4CacMB.4kg.S7ZwDBD6ou.d26x6r_cMjCng
+ RgIaff8b4I3madDvhEbhWz60xEcUDzi1dlCG0OCZwEvgt7XD9Fz4yY3_yo9O
+ bdQAH_zojWUXcKbSB7__kiZXfehfCwa6PTHSjiqjLpOSMlu3p3TmfIzJSEuo
+ LJ246511a4OH5GXH0b3EZtTNlM_QVZuabsGLlYBI5pCwdFBUNCLJwPNy_Dkd
+ m.WPpHb0QYlekb2xceq8bnwhZNwWAEOx_DRioQCiw1ehRVEF0pmz4j6mfYUu
+ Hf4XQ0u0l7TWxcTacje7BO8EISdXd4R4M.46RvO6jUoIa32cO1hWWdVLxtH3
+ Oei9wv4voRovMZb432OqRvABhRRgq7WZfUuV.SyMFuJUYeg-
+Received: from 17.57.156.16 (EHLO ci74p00im-qukt09082701.me.com)
+ by 10.253.230.151 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 11 May 2022 08:08:27 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652256506;
+	bh=evijD+gqp0lpmB8ENhinGkS9rZ+Og380asEZxztTLlY=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=eNL61msBf68Xj52Gc7x/NoOWWdKQdnnfYuzGu3+6y4t29I1VWCkABQMYEwOh18bnS
+	 Y0A58yDm8ebaIknguNVjDAmmmcReEuI6Y8v89JbhydAJ23rZ7qzq69J4QkoE0AeWFt
+	 Zu+CSZlI4BjW133bM9g3LMo2NiznOLNy4hLjTKLIHK0YEIzsu26tjQGwh9fG8XidQE
+	 3fsbwBrE4UpIFJHD+usbAsqjQWjcEnlZYSE1OdjP+H1i0zV63DhCWfzog1PBAR8lGX
+	 LdwfHmYUUK1tcRbl2N2jPBD0045IkPc9wkUvy/79b9TRGHX0sSFKa56SF5RoFF43rw
+	 QR1CdmIZF9INA==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09082701.me.com (Postfix) with ESMTPSA id 7D6174A0037F
+	for <ms60710444266@yahoo.com>; Wed, 11 May 2022 08:08:24 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Wed, 11 May 2022 04:08:21 -0400
+Subject: Entirely Unique UWS 3-5 Bedroom Condos | 555 West End Ave
+Message-Id: <A9ED4A36-0D7B-4D9E-B268-D4BB6ABAB28D@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-ORIG-GUID: L2XAG5oiCjimyiC-41YCWwPLoyPW2ytC
+X-Proofpoint-GUID: L2XAG5oiCjimyiC-41YCWwPLoyPW2ytC
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-11=5F01:2022-01-11=5F01,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlxlogscore=425 malwarescore=0
+ adultscore=0 clxscore=1015 suspectscore=0 mlxscore=0 phishscore=0
+ spamscore=0 bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205110035
+Content-Length: 46
+
+
+https://555westendave.com/residences/
+
+
+/BD
+

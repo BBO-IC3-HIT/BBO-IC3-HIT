@@ -1,0 +1,91 @@
+From - Thu Jun  2 19:04:29 2022
+X-Account-Key: account1
+X-UIDL: AJKvq7x28xJPYplOTQvLiCczPDA
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.231.24
+ by atlas307.free.mail.gq1.yahoo.com with HTTPS; Thu, 2 Jun 2022 23:57:01 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.209]
+Received-SPF: pass (domain of github.com designates 192.30.252.209 as permitted sender)
+Authentication-Results: atlas307.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 2 Jun 2022 23:57:01 +0000
+X-YMailAVSC: HQfGzN43bBsmKOvBjCCB3m5nzKLaz4l86KgI52uBNuDx_vd
+ S85Q2PoLwCW0Bh0eFoZEAe85KUpmK92qAYvBb0mMtSJBvh20bBFn5qIFfwH6
+ ki4.t4bDbieM1hyOqqdHVnGDZrg6udlvmA0G.MVaPLsp.u.5L5_jAnknild4
+ 4P4Tt9RIDo1lCKdoS13DWYiQGYs0CGa6PWbbmBsEY208bGXUVQLZFAnzH30p
+ AKfjzseVT5vgWbIPMez2qawRbiutS6rFhj.cfbbWGToygOLzn.l.d5u0uYqw
+ m0DSiS6hFrNTkEeTKANJcCFXqzrwmlp6oBYGWhIcCyQl8PLLX8YALZmbcuMe
+ eyWhxAADtlWqLiiSjyKZ8rWp5v0X.1TVMkWI-
+X-YMailISG: .RGlvj8WLDtGw1falqm8XMmOelB9XgZAuWQ75juo4vFa0S7n
+ eT6ju5Xd.Lauv8ALvUTGVFFRNCawQk8p_rWnE7P6Taw3I64BMDC8flC9byqD
+ 7xoOMhiMGdIk5bCn1QeWLurf3UoANd8en1Z5DguTOtXlINp82LQmP6UtjBWF
+ ozPqVw5XHBb.EMxqj5aqIS.k1zh.2GnIl1IaLu47I6HF6AVnWOqO51qtUkmM
+ o3hZJix89Im8Aph3MVt.Pp6NJWtxLLskGKTwmroesYrjMHF9rzrWZKSG6pj4
+ Hpv.QATCqyHyA.mu5mOWZoDdJA0n0p18lz5rxtjm8GX4hMfmcDAGxNfAZ7gr
+ AW87VSSNIzatp9nE0VoeGdkQhon0uE_f2nxBJiWm2fKz4Rma8gboWCivsqsd
+ UByRiaNumN4RlRNWLCEpnXBkTn2YGTm_lrXq2GCbVPNucU0MEsgneXI_pPu8
+ NBmx6yAc1Q09Sq.50hqkk4Vsb2mBllgQbC.wdypOx7NLoiITht7SN2whULyZ
+ HsTySg.aTyvnBDybzZTkLKuzHfFyHBLXsBmYxnNqw31F7JBx4Vdkb0GFuLZq
+ _E1qzwgNXv5Z7FH93AqJpZ9JlrhNuD_bGmACgMDVWrbM_FBy4TsvYKsAzVk6
+ 90w2BgtPL4tO622MRKNJ28PmJgTl57ylbZkyKsxHN0NfAgnkXtqN13kRE8sy
+ ksu4Y4.B5f2kSkXdkN6YVN4NqCTvLss3pBOVKwGXU1B5rYpQQ_a4k0CJXpsq
+ FmrDeq8HpScKUzHBZSQrEj5Sc4GtiWTbk9f8HULdrhFVOdodA9K_e0iSHT3J
+ t90pr.Jn8eu322QIm4Q05i_hh9yLaSSb3F28fVZrcA7jHK_Lb1tyIiPyrCb7
+ h5rCqNQ9B.TLgnxiMmVBnk.dIYkkkL_rW4sVC43gW0bh8.2cN7f6M3Bji7M8
+ xYQ1h36O7yHMvN5HHxodDWUAEAp0qBbaBX33F8wN101DQRlLM_GNWjsyn2po
+ Lzpcru5vjWeQvF_R4AdPkFGOvIIrLUiXSvzNiC1mFCLYOYfoiOoJXs3weYjk
+ v01zz1k09MIecXg2XAh2bjzf81RuRVY__cPhonZZPVEg5GZpPlGfa6bVtVWh
+ EQ6KI57A5TeD3m2m3uU7U4vm9.67oB46O_Cv5JDrWkZr1GJvR0iu5ZYLv83m
+ 6HLEYHAiD7BA2rtOmf7y
+Received: from 192.30.252.209 (EHLO smtp.github.com)
+ by 10.253.231.24 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 02 Jun 2022 23:57:01 +0000
+Received: from github.com (hubbernetes-node-9b8ac2e.ash1-iad.github.net [10.56.200.46])
+	by smtp.github.com (Postfix) with ESMTPA id B661A5E0261;
+	Thu,  2 Jun 2022 16:57:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654214220;
+	bh=F1Z/GbfRVWdrP3/9II1UbQlGmMsgJlnfKRULzM3PEQk=;
+	h=Date:From:To:Subject:From;
+	b=LU6BzGhgEhZimZWEvEFKKrzj/kylC46HFKSIFQ7MI8ZGOIxMbAGdBp8ZJy9p85VAa
+	 y6aQlC1qBb6F0CmpMhJ5Su7dAJWUCzIQMLPkF5Tq94rUgWRRZHkTZ1xVtRtEZMc/vR
+	 CK+BY/NkmBglxU2GY3oj0qKLb3Jlr4Y9Sb5DqV4w=
+Date: Thu, 02 Jun 2022 16:57:00 -0700
+From: 1212-5858 <noreply@github.com>
+To: MS60710444266@YAHOO.COM, 
+ governor.hochul@exec.ny.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER/push/refs/heads/C16-93715-1516523-OBSTRUCTION-WILSONELSER/b0dc3e-b589bb@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER] b589bb: Available at:
+ http://www.fdsys.gov/ For convenienc...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: C16-93715 OBSTRUCTION & OMISSION [ STFGX - STFBX ] HOLDING
+X-GitHub-Recipient-Address: MS60710444266@YAHOO.COM,governor.hochul@exec.ny.gov
+X-Auto-Response-Suppress: All
+Content-Length: 699
+
+  Branch: refs/heads/C16-93715-1516523-OBSTRUCTION-WILSONELSER
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER
+  Commit: b589bbcd2c507c837a896ca8df23d751dc3e75a0
+      https://github.com/BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER/commit/b589bbcd2c507c837a896ca8df23d751dc3e75a0
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-02 (Thu, 02 Jun 2022)
+
+  Changed paths:
+    A archive (1212).zip
+
+  Log Message:
+  -----------
+  Available at: http://www.fdsys.gov/ For convenience, 153974/2020.        
+
+Below, for reference to State Farm, FSB. 1516523 vis 93715 on Deposit and for consideration by the Representatives, where applicable.
+
+
