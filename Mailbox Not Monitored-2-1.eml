@@ -1,77 +1,100 @@
-From - Thu Jun  9 14:36:20 2022
+From - Sat Jul  9 08:29:27 2022
 X-Account-Key: account1
-X-UIDL: AJ5T2Q4fIM5GYqDqQA0H8A9KB6Q
+X-UIDL: AMVv7OxIgcX2YsmA8AFIIL9U1nI
 X-Mozilla-Status: 0001
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Received: from 10.197.39.75
- by atlas321.free.mail.bf1.yahoo.com with HTTPS; Wed, 8 Jun 2022 18:28:15 +0000
+Received: from 10.217.134.140
+ by atlas114.free.mail.ne1.yahoo.com with HTTPS; Sat, 9 Jul 2022 13:21:51 +0000
 Return-Path: <Governor.Hochul@exec.ny.gov>
 X-Originating-Ip: [161.11.121.124]
 Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
-Authentication-Results: atlas321.free.mail.bf1.yahoo.com;
- dkim=unknown;
+Authentication-Results: atlas114.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@exec.ny.gov header.s=NYSECTrendMicro;
  spf=pass smtp.mailfrom=exec.ny.gov;
  dmarc=pass(p=NONE) header.from=exec.ny.gov;
-X-Apparently-To: ms60710444266@yahoo.com; Wed, 8 Jun 2022 18:28:15 +0000
-X-YMailAVSC: 5wMp4Bs3bBvaKJf0u_yK.FeL6EFYspsAlXkEuQN8DNppt0Z
- MVtZdxu9Edzb1.1hXj2Vf10lYtScejsd7R4f4D6x_08WyNNwtbajt5MkuNkK
- tNqJHe6P.RYeKtCnNTFAgxNgd4IQY_Urkty1Qy6BlGkJqcPoXonkL.lPBm5q
- VPnsCVNB14Dd4.VLLzAHHf.ymBeAVtx6uJsBVxRwHohdIBfzJgeIg2V.kOeZ
- 2dwuuuG7zqK6J.a29UD7_VzhcuHzH9ZfBd7kjCPHh7msLT2TpER2TQQAGlCO
- MXxlzZdAMtgnrPQdIdIT5Sf3WHtQN1nhNGlOVHqMsQ.I5Ny.zmz9FS8lZsA-
- -
-X-YMailISG: qrEMJ.gWLDsh7sUCUhEikfKr9Lhn2lDyrM5hRx7j_jcV2OsN
- 3wZRclOYUGpL3F9HTipv7RgQ.4P9JfHxftE3WU8L6BQG76S70xTQDRvXOhxr
- u8wECQxbkfTERnNNnFAtZvkW.rwpwe7_vqH_veJQ_pAxxfba77zT5ZfOUMr8
- 7j9S2AVtNvaL8zdqEDKWB7YjXMdR5xhozZcFMkq0QQAWrHbDnyj14kLWT1Qe
- FxZ4HgzaWPa2bjEB.teWefDXmMx0XeSjTu2RPkZxMClxOs3G6Icx7V77r3CZ
- c4nv0U36DbA6Lj9owOvf3obnMHtlAhFYeXf0GaKsf5FLZBGk2kLtDtDU6f10
- nhmZUX7CC4hLB3LLBh91KpZ1kPRBPfj8b1n5BxPgNEuqq5xgMFrAfmTox6Cy
- YOfBtacDMaRVvgYHy7RHA7XvHfl4ecxUaNCVLd6JgErM1dvyoN0CYeszMrdJ
- m0jNdPLmZ39TAjliXcZ5PfIWR_qwmvWQbfbPURZQQpxCwj3iPLzsGEchOChe
- e9TuAK04HYjI_ZH9rF8xtbMMh7ctERYYZlGeFMG.QGesqTeoazr.VGtP2bsD
- shB_Rx08nviypAIecPHHRENkytTs6VVuRLV41BKx60ma4TazvB0mtewSFuQ_
- se7s3.PhzjZiowqbix1R6kN7dsJzmi6F6tczQArlWbVxvTbrYNiIqWxrI5tZ
- Or3UU9Y4ahm07s3uuzU_GSH7IgeYgcK8y_u6rBZQm_xWjgO_x8U7VzM01le2
- 0i5f6K7BUnovv3TW_LQ6XqLFA9EyGPcS5Hz4S91CD1RsnckiXPqlZiqH1YOj
- dPe2Lz83PvVcBcXwMsl7nSXuAXpVqjdPbCk_TyvhspYgbGjE316pHoRH0SI9
- 3mNRyx_gksEyNWkkFdo5Na7Prw6dsLXmgIZcgAZdyL990kMJmMVp6etadt3c
- yyLhemAamgw4UthGAsVOJwr9fmUj3CC3Oqh_E2hSkSkQX2T9YTKrOERXiOmk
- h7qaoQlELelR
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 9 Jul 2022 13:21:51 +0000
+X-YMailAVSC: ydihzkc3bBuvH55klVzHaCU3SKLZgsBWOEDQS_sEwx0aiCw
+ kqssh_gpcOmEmTauJG6DyUB_Y2tGqv_M9kuG_XXNI.30xfQoAdp5LfPHO1Ak
+ pA9sI..GkX2e2gXMU_FMkjvyLuZNQpoOuz8lMHfVeBQDtC0ijIshPg_dpYZe
+ Or14VCvyno49Himh0GQSTl9mijqtQhS.9nxVfx3qT8Z8MimHWMNCznICkxvu
+ Jk2d28oXuGm7zSlK8l_oNNeeipyvyGlKC9gcFe70sclYcnJ1Tqpgpxlxl3aV
+ YUALB.VFmfl6WrbCFYqfYtBpFNrM7dn.snWevucd2oXFoWpjHtWsjKwWugyq
+ 6zmsjFh7iNqFzqlmuT2gTUNAYDmSklx4Q3ilyZWm_VB7NA8vhtrn5dITAMr4
+ y11vmYm6IrJKdV4bNrQ53x_1rGVI3FJ8-
+X-YMailISG: ObfzIOUWLDuWE4zlqI66mMJiKNdHf8rH36clOhxABRSWlVAw
+ LYbh_lDi.tlMsPuClI0quoPhL3ULqC2exrRojIiTZesw7LggumDnRPee.TFd
+ Uit5swgHwVrQWPLO3XYRUEfZZRsrfFJHbEjG7tAs9HGma_x9kN9OrWtBzroZ
+ XiR1JYww_4Pbo7bEE3tb1Cr8piowtFO40snlm7W.OI9d5bIZDI9tqdYnfqtO
+ XtK2fK7xmFLRx2ubvVsreWv27tgbb.374aZJu7MZ3ys_4N_o4o2xpzecowrv
+ uihltU25r_tVEffQgxSdbnN.od0NIuOxqmHb1_.oWCdFfhFHb7BhEt7f.4Mq
+ INvZEtzw1jTDQ6LBJmoK3N_zl0Iv5egG7uQ7eQ_p16DiXrDFCHjYOC8jE4AB
+ L.Ak_TXbL9jQ.ZkP1qG85Fw_f7a5VXk9NCD2tfR0HwI3hOIGbT4hCsiK3pdP
+ EyDAza.803ODqyrjouJjVdqGqtfUWUdFCdKdJd.7PynSLKG7f8berM3jRm_e
+ fDT_1jn.j_Kbh93SJs5usXpKwW.ygRLSfC3DkJmMZGcaockV9nnELy6synWd
+ _yxot8v2nqL6nF6Nm4LjLJI093q_DDRYe5FKVoS0nEM3YruS0eAkm3sY4yE.
+ yQqJtILGd5vzYsHLZkPABbwjEFCJ5eUyON1KNAzZNppV51jlEnNPIUIAOnFZ
+ DO87AGcCyV7cALjeDF0mdSQL9dDu.Yi5ATqpY2ML9OELIFx91vQ1V4zunQw2
+ ALex9sCohegz1bUD4HWJ1_oC.fCwY4xWOgOwsjpTDd48wdK42csgy44.Znt9
+ rca2RPAEkNdOeAy1qNtsF1UFveX7wKVmhyQ.6oAONRgykDcbd_.5z3ggUAD7
+ FI7MBd0P5pqWOWAo7yLDUSRDLJi0uuKPzESRqsPRqjQI0jCCi3pUSxHyWdBp
+ 2jqI6KXix.nnds5AGfxlQd3jELe2p_o_xYSulbr.rFs1sBG2rQSyEdlxPwDM
+ SacUnZ.OpMCC34WN5SlPDXbSzbo2unpq_yu6ybD.Kc26rEQrt6yGu.CcK_Zy
+ .6gFG6F7hrHOnv4EIvozeRKOBmmQvnTshVH9eokFg74Mfa.NAOY5OlK8Gkn3
+ xTDetDeQ4ZLU2srwfXW0vY.qrPhpMqFwwUfaLwTb4ZZ9gOIPl4n4nsNVvcDu
+ f6TvJcHccusMCqTVuuSbq.EjHY88Lsmp3S_6eh6DhTRHKHJ9L1XNMTMJEA0L
+ tXJUM8bxo1mytWr8Lzg2pGg8ST5LCCyuM.rPYg--
 Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
- by 10.197.39.75 with SMTPs
+ by 10.217.134.140 with SMTPs
  (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
- Wed, 08 Jun 2022 18:28:15 +0000
+ Sat, 09 Jul 2022 13:21:51 +0000
 Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with SMTP id 0BEA5D20D6
-	for <ms60710444266@yahoo.com>; Wed,  8 Jun 2022 14:28:13 -0400 (EDT)
+	by IMSVA (Postfix) with SMTP id AC073D20C4
+	for <ms60710444266@yahoo.com>; Sat,  9 Jul 2022 09:21:50 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=exec.ny.gov;
+	s=NYSECTrendMicro; t=1657372911;
+	bh=wAH4fl44o2FBJGZg4KPo6aUBOtlLSkDuJeNO63yi9OA=; h=From:Date:To;
+	b=GAk4PDb01NpVrhi7U+hj//x/B8LnxQ1hNRe7jb8BiLlsxkd136OtL/D2CPpCEGr0U
+	 nVYq4C9iLoNjlJL6dShzUXSTP7UrBbih/WYV+Q6maXTLnOk3BfdxeHGUv4FFSXLGHl
+	 kcK4w4lolOqQzHRz5fFU/5fFlQM3x1S/F1M6GrwgGmTYkigCtRcWL5Ft56hG2rHgMn
+	 e4NHqsbS+wAva9wPgjGLkMoHfP4Dr5RcPopP3mfG57M7eobQ6oXStSgPmzqk7jdaSL
+	 nSdYnWG1XBanUPBBLkdtOQe49zpH/TKB2MiCEoPKppl2M+h9e/fKecbU3ZVcKyQals
+	 EEZkgaZQhhkaw==
 From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
 Content-Type: multipart/mixed;
 	charset="utf-8";
-	boundary="TMMSG_96C04906_6A4E_AE75_187E_820F0525721E"
+	boundary="TMMSG_489A4356_7A29_7D89_B928_4FC394E419FC"
 Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
-Date: Wed, 08 Jun 2022 14:28:10 -0400
+Date: Sat, 09 Jul 2022 09:21:50 -0400
 MIME-Version: 1.0
 To: <ms60710444266@yahoo.com>
 X-TM-AS-GCONF: 00
-X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26944.001
-X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26944.001
-X-TMASE-Result: 10--15.436200-10.000000
-X-TMASE-MatchedRID: U/aZ2k7A89kqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
-	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEqYCjN6RNw8otHPsJ4sMNsUaEQSMuSdJfAUK/
-	HNleb7IuhKtz33KRunY/6Rc/0HDBbTQWQdO3zkmoZca7SN08UZN44NytD4s3O1JgjmknH4JB5pZ
-	Zp/Dd5pwGf0pI+JbOPgDLqnrRlXraBbIFObf3IGYMbH85DUZXysvE9d/s7JGyU2f6691EBiL6rl
-	t7KDWsiSGWa+LtLcz+X3hchxjbng/RdX2DBreIBMQCUQPDk820=
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-27004.007
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-27004.007
+X-TMASE-Result: 10--32.677700-10.000000
+X-TMASE-MatchedRID: HQYVVRq48RwEC8rNTltqbLTDRJYmI12MgCgxvjJCHkH5vOQjFIPDg1Wr
+	LH2cfZwd/UhHSdHyK7uwOmfjQ30zeVso34KcwKn4dySxEXBwZslm+j6YVbX2YIVC+Bm0EOS9nTj
+	SAfW9qMC54jAx4fKGxvHkpkyUphL9rthpnZXZolATxRyba9WG/TP8Oolpl4WM+H5zDDs0S2rGMP
+	Io0pX0u/rnGvZO97+lox5cBdU3pAdlRzZAkKRGDValcpREHF3zBjMZi1W1qsFV4X+lhihRrp7D8
+	rkznA1j427c8vrg7BlWwlR2225siUr9RmeG1EHiJc4Pu5wpFsgIpjLek0l1pXxGrc5J9ZCilNZ5
+	BYp2r6PmOzW2IQkhLO5b8GtgkaX9MSLJ2zDQy1G15eNIExieaYjG2euiMczcGPnFffd0+lLT00J
+	ySEpRt3gAAY0t0q//BApSYI86Y6jPyP5vGiJYDKj9SapJLFGWdL9U2Dbek1pXFYaU3OwXoqB8fP
+	msvZQC1AacdAplL3PmnV13DpXhG6sFO9Xc69ErT9Ky9AjL+3LTohhY3qi5AnEwhgYKYWWDEHhtz
+	PkNamev2v1IOalyxy+PrAd8gbHJyiKgKtIyB4pT5tg8d9WA/vdIm8S+G8+gQykjihkoUFxIdTwQ
+	HFGkBFOse/HBCkRPPNFSp45HGjA2SSdNEgI3sJzxbndL7Esm+qwVnrAaY18ha/Oaa/N+dogUjYY
+	r6ob1Nom9oBSPl9/A2ATSpIq7L54tYFP6MN0NmcHarMzdQ5RfPeq3iAoZIr3SKCxDfa5NnFl3JN
+	2gl9S7e2vtRCulXOJOzIOycbNPNNNNLDf7bembKItl61J/yZUdXE/WGn0FFUew0Fl/1pGypq0eC
+	3FVtkY41YX/o/8K3dE+9qAP854rINMHRnDCMNGqjGoqDdf4U69FF1s5kaCQkrWSaG8S4nuQ8kCs
+	PEaNftwZ3X11IV0=
 X-IMSS-DKIM-White-List: No
 X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
-Message-Id: <20220608182813.0BEA5D20D6@mail4.chamber.state.ny.us>
-Content-Length: 11993
+Message-Id: <20220709132150.AC073D20C4@mail4.chamber.state.ny.us>
+Content-Length: 64983
 
 This is a multi-part message in MIME format.
 
 
---TMMSG_96C04906_6A4E_AE75_187E_820F0525721E
+--TMMSG_489A4356_7A29_7D89_B928_4FC394E419FC
 Content-Type: text/plain;
 	charset="utf-8"
 Content-Transfer-Encoding: base64
@@ -82,210 +105,1143 @@ dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
 Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
 cyBvZiB0aGUgR292ZXJub3Iu
 
---TMMSG_96C04906_6A4E_AE75_187E_820F0525721E
+--TMMSG_489A4356_7A29_7D89_B928_4FC394E419FC
 Content-Type: message/rfc822
 
 Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with ESMTP id BB8A9D20D6
-	for <governor.hochul@exec.ny.gov>; Wed,  8 Jun 2022 14:28:10 -0400 (EDT)
-Received: from sonic310-43.consmr.mail.bf2.yahoo.com (sonic310-43.consmr.mail.bf2.yahoo.com [74.6.135.217])
+	by IMSVA (Postfix) with ESMTP id 02685D20C4
+	for <governor.hochul@exec.ny.gov>; Sat,  9 Jul 2022 09:21:49 -0400 (EDT)
+Received: from sonic301-30.consmr.mail.bf2.yahoo.com (sonic301-30.consmr.mail.bf2.yahoo.com [74.6.129.229])
 	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
-	for <governor.hochul@exec.ny.gov>; Wed,  8 Jun 2022 14:28:10 -0400 (EDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654712890; bh=sLCVsg4BEMXKRuMyHC1Lc7b2QHtdeP6zk32ol/jBOR8=; h=Date:Subject:References:To:Cc:From:In-Reply-To:From:Subject:Reply-To; b=nG0sU/BSy+MoG//xTxARpukmdf4wmdJsZf3nhcSWMCsaZ6/gU+QI5LiqDc7V/FqBNIMGReHdoiRQXYv6ehsk9NFELBBHvANvN5OxuBgnDJ5Lsc3DDyI97iFuhMgUTiC2hdNARnqV05jEb97AqpHCJweKCtw+Wpt2y+vvjnzd6mbUyEh3SyD14NFirFb33tHKWvuy/D9TJZuNcYjr/NbLpNat/JnxGvDu2tbbgu+2aIpVoZPHZ2i/mOsnCT6a6Dj4oE6WLNs3dQhmucHaGTgSsQwy5RVLVA5/tVMd/e0Sb/etBw3ESGhhKrl2f9mYnjJXzLqXliJpxpPggJScnZ9bug==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654712890; bh=lW+qfTGm0iKEbWXhQr4evYiNKOHGhlp/7EWOBBbge9k=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=XJi8sLUkrv55gvScMgAJfcuQY9o0i2+8XizPnfTGcozy4Uob7j4bp46OoS/3AxrRv+5nvc8IGQr2CaRjXs8g61kVKORXjRmgI59fbj0c9Oa1CwbFgeWffNH0WVSJrBBcdjYsmP9KeLiEybo4Kds1FiCI32AcaH6TaymQyjTbLZQKWzm3vKRB2ntwCs2qUKC/DJVF44zNvcBQpbV0IKCHuFg0clnql3nsruFLvR8ZSlN5asSe93NxLl2DL8IdT1KVpINiqFmOzHsKP0vlOAf/HbiAdEcJeB5xRhWeYOekPJ6G1uKk5phDkyj9oKbvijOpe7ahKDWduRsh3iB7e6BT/A==
-X-YMail-OSG: 3CVBBeUVM1mHPU.m3htosbmj07GOgHOhl4lQNQIFKy1dEJCN3zpiuoGp1v4HDsb
- vPx_8X0xBXqzqLcP8f0WtLIXr_ZbsE0.HeHhwe40XFHjp4SuTlC49oeQOB4HD5y6PwQMSHbcydaE
- cgvUOe00EILatP0HKV6eFlrq9mP8Ml79ZgZ3q3Cgz9FyqL1L4L918Cz1DHQ312ESP3u7wXH_Xn2l
- si6On9hXriEXaA5Gs7MJiNiHyiRyBfWanVUmsKkaePVWqnP.8LR5FSdMSJkdP_NTS65SHpbWK4bk
- lW5lfccMMveYZ3jLnuP248w89qziQWizK6tZQqMIEAT.ZAeg0OZkp7st1xtAmvCgU5Jf8yo4eXVW
- F.2oIP4_YPbmlxd4T7MSUa_o7cmMZ3G.TVrLk4t2RFSdLP_JHs4usMIF58ta7jDjqo4NIc4VvWds
- RpL40Wje13IGOyKx4CuTbFFKsMOFGvOn2yZJbkGATCEV4FR_XaTOz9FsfSnsyEg73te..EZAwzTk
- O3AS7W5UAz2gydv8TwRoxzFbigWJseAn6Jns1rcYQ3vZKLoPLSPsdqPeoqqrnDwwg_sx2wnh3uh.
- P1zYMOe5vTcogMlxrM.4FDfBsifBMQdzlFyV94H8bIxdl5Kn1jfNfNuz6DYEqjXCQkV.PaeRO9vi
- 5TrxIs_eR3pN7N_r.YjUtO80tllvPHXd8cP9.VLg5WyB4eI9KGmpyAyREyI0R.0_KDXEkFpQXNRE
- 4GA8Aw3vmIvMaHaYChfImaMf_3EE8xgx2Bp8F_bGdx44JYa.wCfkJGH9o1C.ZOFX_aapU9ir5t8j
- QsBmODL79GJUdHCZLxHNP7EoxQSUwmVJCI_HqNI5EQoT8jJLuN6h3Gv2YtXkrGhTMK6SS2ZhsC7x
- 6Tb7oUwr9PvBwpDZhsVZnX_gwU7P9zFpa.cZ8HjQdSFEonpnhwvN3rz4mfRjlNfoHUHFE6lbnzIv
- Kuv_YXjIDBtHSNCPWRmDfndBMrxcClx5qJjjf.wCB1LRI7mYkd03MIcOdFz45wk.3P7TgBwb7j7N
- dJdGz7JLcp0B9vNnmmO4VPTK89UfUPq7Ka3gT6g54syl7TuecDfB99XoeJSUMFJpujs_R1D30b1V
- PUGMowbh_GTB3V.4FEQA3f9CwARog3JJ_ur6UdlYSQWiEvL0qjWIQ7QV8kYfhcnJv.H4MgpUJgd0
- 0asx1Ojw0W5vXJ9ag1Xdj.m3hs9oxHvmxH9tykSoE3EQzs1jH2yuTaWBaagduwlHuosV6ryiF6Yt
- .f8XMsVkIA0zWYE6BEntnc.6uBzQ86kVnj_R7q8cdXILuBHyQVVGEeUjCS2DeCUyQqlwndFHjDvJ
- wSBJPGuY1zcHdah7C4TndEMqhFD_EuaRrVKQLCmp00DnZZZDBNHbJvlaL.RnVhq.vwR0zlTiyJHo
- fNZ3x1QlOe6l1LJJO3Y5QfiPtx6TkGwDNcS5wsUmJ5KemeGmdCL3biK_e3JoAqwNzOaWKpLZwxzR
- S_l9tFQ7pnlnZ_o3LHDsFOyvn.TgZxZIxvzF48ejvQqtGOoejPYFpfXpoTOy3CYR04oOmtBNUMyJ
- FWWy0h2h32wKvdht79sxoJOEvvL5iUipRwDBwX98V5RxLZy1FGvSNvQ9OrbM1RjTBUV_qpHp.OIM
- z1Ki7jq4hdKz4H1eny60B.eTx_JB05Ysaytse2tUqo5Vh.7gQpQuad59EhF87MwaN4ktclB2Hy5c
- 9EzY7ZESMEW.pyoJTYl0PTWMDb_QxILjtWnRJnDjd7D0AnmiXYdVuh1udG1GmuAzPifrR5IBi6f5
- m9eUXohBSJWztHJ6wDauploRQwgJ7RLK6v0nLC_0Yo06kuMU722Ej7kwVXcG9wwAtehvuzKkqEmG
- PTk6EMux71ntDa0NopGmMYzrwxpBAZ659LVEfur96QMplk7nnzZTaqX6S05NzuRdhRhheuIPNzWm
- shm7yYrGoBmg0OQptVqKg8RQbihVaSjlFzjzM4D_2GHFtxjgMyEUf04eHKldhyc2_wFOzkbtJOGD
- Far4XtblrFnqVAFDLXNpGoICOkEtnpKLXXQ.XjgOzLjfO8o9DPkYjB7LYkAc_yl_EpduBV.DxVKY
- R7QPE_ek.slh1e7unr2sMxgvwT8p9yPNfJtNCKNqUFSujlx.R_IWlbdU1NF7SkAvCYdQP3DwEZ4H
- 0cD4pJSXk_JUozHXIZh3PHTsQAh_DCHhaGmo6g2qRkCoUwTnqyIsoIWtrioWMgbTfzHSN4NqbkDE
- 7OFDk_rxCeJLhZ1drW_SF0r_FHGZ5BlOGQJWYzWNpcccdKUNPuZiMYLO1Fr5bMvljekGF4Tbgzze
- qwsk77fKHkGzh4wa3bg--
+	for <governor.hochul@exec.ny.gov>; Sat,  9 Jul 2022 09:21:49 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657372909; bh=roezCqHHMqpLUp8RHBqDegcJGtTJZCTgVGyojLqI5mw=; h=Date:Subject:From:To:Cc:References:In-Reply-To:From:Subject:Reply-To; b=CWYpGINqT+Lnq10BUHf22pzpNHXGyXOALOqv3exyfvLUXmCABj9RWIKcHCWYaNy4+5vhVuWenKciFWsuT81dqXoD8RF5STgY2l3oq2fWzncjtNl96E5C7gGo6K4HopYWOOMlbLRZ/kSnhNZ8kMu8A5xa+YDD73AhrhyQWllCPQ7s2G4/+mw3U/lBcEMWc3TYpTHnS2aKFXQs5oOeEf1m/mZ9O9JzI2BeArtWgvD3xXUin3ocPO3vLIz25+dRoC4HCd8UdQcZil0fiytCIgqnfrY0GgZbwy/m22BKfFWmNh+OJ1WYYt+OoKaI53wtz1h7d1HzpayLrzqyGkHkUHaxGA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657372909; bh=p6a/8DCrLwMlnY+KIUb5ChlqPrt0kyxyn0Fd6DLXHtj=; h=X-Sonic-MF:Date:Subject:From:To:From:Subject; b=HpLlTGwHiyTBwJqKJFFraLNCN/GJ/2Chi/j2Otk/vQZPT9yk5B+hOSdlf6F4YiF4YAnS7YEPAbTIC/9pSaFnr5jNoWSQslQeU0XagFotK6u+jIGE4+gV7tCBBgyzUzTgz4+2a1/08ESjGs24uwoP2wKbu2GmDhOr+uGHpJ7lH6qHvTbBEdsoQK6h3WrpgtpwatbzYioGiUh8uS1K1bsxDvYozHxLUAcS8Rrt6RVxg8WsLTzauhwXybkWnx9Onu4buhylvDbGFWabVBmFkuPN9hS6KEuaa3Q5gq4iXIfkRdKpHqaMPSQA/bscQIxi12ctNT3pIgEliMxqwgXefvmU3A==
+X-YMail-OSG: DDOuOyAVM1kcc048x2GfiprNhyqD1gggl4zCDVXOcIm8hV8fCGtATmFceLLO_pj
+ uzFK.WGVFcpo9VtIQ3pN8mxGeqSd360PkRFZiNvpTaKDJvKC8eF9fUYWl1JeHQfh_RGXHIQ9Hj6R
+ hdSWf7ZTq2jaKN7Qu4vhNGFZfB345VZemeEtDjTF5fW_hQC_seP8gMo5mkS7ca0gigqGFt0naDzv
+ KH4KDxJCTyZTVxAhSAeV7eeghUoffbTVDBWeDvzS8LBEgF.vISRXZflrxyj3KfQvQp2UsX7xPARt
+ zCQhFxdDPZG9hq6PEaRHS9oGYTIm_lLq4SsuiTECLZ2Fgz.glpPCR1mC9pnmZqGaxGq6Qgsq2E3h
+ yBYRnrXU6ErL1TOsPV_YFqWsWBlPuXPLCqqIjLKvh3m1krhWt.cnXg.zChtJnrAwTLqerSNsJSYB
+ jlvJT7qHIFIP76Cqi58YEf0rogigYfJyGCw3V3CWnN75ORyd5RlbmKEbk5s8.saThm7eqZYLI8yj
+ th_kbf6LySd.8QPbPWHqRHopqP8cvJZd02J9AI..GleYz2MhzDi1lftHu8KmjzDt..nE_eeYaNlm
+ VXB4gJPw61fmzC4rrlHnBAuzuFOVa7fcy67NEhem5zU0tBeGOtOATTG6CT2KRUwIul8Lae8dWChv
+ TA4jsx45P8RyaxWI5G3x2.hZC7lgZsvInDE1XGmge903wIv7FsFXFDrHex4OYSrrBQMyGnNrlz6K
+ ldDagDkXudYcKEyAEpKW3NcNIxFvohAHWOAKgSO1aaVAddn5oNd_ml69r5TFPR6gRNRK4v6kFBbc
+ xDy.hLWPTf0cN04cymkQbGry4uH4xAf5xsCneQiytiNesV99aJxI6Gpe1aFnS3edF6whBz0JwtB_
+ aCCSHBtSNJQSAHL_kKsztBxoWt_bsJ9P_RRCgm9aoMXstBy873K9JT9u6LdMbun4xPNTLNpDtysk
+ snDSf6C8WO0wC3eXJylsG.h2YVB4EcY.5zZ6Juth1rx24w4oTpY3pC9I.IvMFi_LdHyVXhQ6zFHl
+ M3gFGeOgHUwFjPqRuG7JaBtjK1EqdMa7MAUOINvDo0gVqCv8cBXXame3u8dbb2cmA_vN3bi3Kl0W
+ Rxva7iDcwH9B8L1qz5UeVXOMP59qnR0J7cRtVf5QLsrv0oMFTkmc7YXn_VKESTqZbSwiNeAwIkgT
+ u7NOeu9m_BOV1MBAfhvUeW2Ajw09msfFF29ZfeALpDFiyewmCnvjKEzi1atO.Ruarj7kM8vLZ6Hg
+ j_jQLcCqdqvQwrsbkWBtR91bKTFTscGKvkz.e.gbvhBm5DteEegLGy82PTgzFU1fDoWIhwsoJmXB
+ SpXR1.ht087UhIozP_437T8o1JCussE5tnLx9nhcU2Qd5cbeNUshIy.HQzTIjAfxQU71jTL4jIwl
+ SxvqnE6fIuXRSKhiZBO8A_lNHiQT3I9tcjGWcf178AZu7.28Hv3YfbfytLz2JaqopJz39tU.dy49
+ Z4wNTap11KHVxO7PC_aMNMLn0NpvMI56sLu3HDM62Bo.KIGxIwrN.TPNaLiqNgYO..ZSJIl7axsv
+ pwvLmjVnTOXhFXBovyMnv_JPdZb7Zshqc5dMkeRFK9quhBa.bz7nyLm7IdbCgqV3Qzb2hb4r6xRb
+ Lad8n_c13IEY8kn5HYAeYyBCjMqE7LWP2poArZsbqRV7nK9UUtJn5iWzXVK5SkVF1w4lixMg4zhC
+ c2EdRw33Xize5Hcis0OJlCm6ygbRoR92rXn4drAVytAFg4eGCDQvh85uSa8uq8pYSZ2xP4WYQM7m
+ CbBsJ.m7M7DeiT3s6sAlt6_dK4wS92Pv8hgsPzIyqnBSAobpbfhr_u0KGYlF8quQGHqGBMIVcRW0
+ 3DTl5nwNzoWjFDJh7Yo0BJ69WEgMhQXX7Dqywl3Iogno3hVmOZnB.VT4nivXfwcPeBJouhUjKhXA
+ o_143V.sPJ5bTX3wzB.kO_iDRQS6f2b58YzFDh8kIs0fPQg1TlPNpKb0sJHBs9jKFtNQmIRL2oc1
+ uIRJOl35zgU1oUC7htn61qdUUXUpDsamfHy0wemAnFVpZYSr7h36OKvN6Iq5qPCKtImeDFUy0ANW
+ Y..PJphQtKewH91SaBAEiZFNL_dc7MyB2uuQlP7u_CpFdJ6imALe6vA.bulcMpuCITKuCvDLvTld
+ ujjXzIdk9M42YaDDajMy_34_OF.9rVV_FgJlrQRmfkEHPc8uSpkpUkPN2Buw0ljcBqf1UkDu2oHa
+ YCEdWs7vz75MdZD7Zmjejj0JmFGjUeESCroKV5M3EpJjsfVHlIdqmDeaefW4-
 X-Sonic-MF: <ms60710444266@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic310.consmr.mail.bf2.yahoo.com with HTTP; Wed, 8 Jun 2022 18:28:10 +0000
-Received: by hermes--canary-production-ne1-799d7bd497-px24v (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 329a1246c8d47d903b73e0b9a4783a52;
-          Wed, 08 Jun 2022 18:26:07 +0000 (UTC)
-Message-ID: <c5042d8f-8c31-f860-f568-55d22aa57e20@yahoo.com>
-Date: Wed, 8 Jun 2022 13:25:55 -0500
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic301.consmr.mail.bf2.yahoo.com with HTTP; Sat, 9 Jul 2022 13:21:49 +0000
+Received: by hermes--production-bf1-58957fb66f-h8ftj (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 28732f671c731dbd6e91238570845d76;
+          Sat, 09 Jul 2022 13:19:48 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------0HBPLg8LHwNTuH3PakOsQN4e"
+Message-ID: <9665a6f0-c464-29be-969f-249a98bec10d@yahoo.com>
+Date: Sat, 9 Jul 2022 08:19:32 -0500
 MIME-Version: 1.0
 User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
- Thunderbird/91.6.1
-Subject: 12-18-2021 ( 1212 - 5858 s )
+ Thunderbird/91.9.1
+Subject: Re: Fwd: VIOLATION OF CIVIL RIGHTS [ VERIFIED ] USC 18 TITLE 18-
+ SECTION 1512 - PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE
 Content-Language: en-US
-References: <4a8e0da1-5bab-ecc9-0320-996d9b9ef22a@yahoo.com>
-To: CBPMEDIARELATIONS@cbp.dhs.gov, LYLE.ADRIANO@KEYMEDIA.COM,
- media.relations@kcc.com, "media@chi.frb.org" <media@chi.frb.org>,
- mediainquiries@brooklynnets.com, mediainquiries@POINT72.COM,
- "mediarelations@ap.org" <mediarelations@ap.org>,
- "privacy@groupninemedia.com" <privacy@groupninemedia.com>,
- WMPrivacy@warnermediagroup.com, news@golfchannel.com,
- LA TIMES NEWSLETTERS <NEWSLETTERS@latimes.com>,
- "newsoffice@mit.edu" <newsoffice@mit.edu>,
- THE NEW YORK TIMES <NYTNEWS@nytimes.com>,
- Dow Jones <pronewsletter@dowjones.com>,
- American Bar Association <abanews@americanbar.org>,
- Newsroom Books <books@nytimes.com>, CORRECTIONS@YAHOONEWS.COM,
- customerservices@penews.com, "desk@dailynewspix.com"
- <desk@dailynewspix.com>, InvestmentNews <editorial@investmentnews.com>,
- emil.herzog@goodnewsjail.org,
- InvestmentNews Daily Pulse <investmentnews@editorial.investmentnews.com>,
- GUEST OF A GUEST <NEWS@guestofaguest.com>, news@penews.com,
- The Real Deal <news@therealdeal.com>,
- Ace Anki Tech Newsletters <newsletters@ace.anki-tech.com>,
- INFO@physiciansmutual.com, KEVIN ROCK <krock5@bloomberg.net>,
- "leaston@ap.org" <leaston@ap.org>, "nmeir@ap.org" <nmeir@ap.org>,
- rss@ap.com, inbox@kellyandryan.com, efile@nycourts.gov,
- BXElectricalIR@buildings.nyc.gov, MNElectricalIR@buildings.nyc.gov,
- RETANSELECTOPNKABC@ABC.COM,
- "retranselectionKABC@abc.com" <retranselectionKABC@abc.com>,
- Kids Privacy <kidsprivacy@viacomcbs.com>,
- "stationservices@cbs2ny.com" <stationservices@cbs2ny.com>,
- "andrew.blankstein@nbcuni.com" <andrew.blankstein@nbcuni.com>,
- "DAVID.LI@NBCUNI.COM" <david.li@nbcuni.com>,
- "suzanne.gamboa@nbcuni.com" <suzanne.gamboa@nbcuni.com>,
- "tom.winter@nbcuni.com" <tom.winter@nbcuni.com>,
- 3827-staff@lists.cs.columbia.edu, COLUMBIA@lists.columbia.edu,
- columbiacommunity@lists.columbia.edu, COLUMBIAUNIVERSITY@lists.columbia.edu,
- COMS-COURSEREG@lists.columbia.edu, cs3136@lists.cs.columbia.edu,
- gsba-owner@lists.columbia.edu, gsba@lists.columbia.edu,
- no-reopencu-attestations@lists.columbia.edu, president@lists.columbia.edu,
- PS-MS-STUDENTS@lists.columbia.edu, UMS@lists.columbia.edu,
- "ashok.patel@standardandpoors.com" <ashok.patel@standardandpoors.com>,
- "engineering@spglobal.com" <engineering@spglobal.com>, ir@tigerglobal.com,
- "plumbingenfir@buildings.nyc.gov" <plumbingenfir@buildings.nyc.gov>,
- opsdirector@bainbridge.com, kmccaffrey@virtu.com,
- "ir-operations-team@tudor.com" <ir-operations-team@tudor.com>,
- interviews@hirevue.com, inquiry@newyork.bbb.org,
- "Inquiries@Point72.com" <Inquiries@Point72.com>, inquiries@deshaw.com,
- Concierge Auctions <inquiries@conciergeauctions.com>, info@virtu.com,
- "help@virtu.com" <help@virtu.com>,
- "CommunityAffairs@occ.treas.gov" <CommunityAffairs@occ.treas.gov>,
- HouseconnectionIR@buildings.nyc.gov,
- "DMastronardi@tigerglobal.com" <DMastronardi@tigerglobal.com>,
- "FrontDesk@LoungeStudiosNYC.com" <sportsplus@nypost.zendesk.com>,
- Yana Siegel <yana.siegel@wilsonelser.com>,
- WILLIAM BEHR <william.behr@wilsonelser.com>,
- Urvashi Sinha <urvashi.sinha@wilsonelser.com>,
- "Thomas R. Manisero" <thomas.manisero@wilsonelser.com>,
- "Suzanne S. Swanson" <suzanne.swanson@wilsonelser.com>,
- "Stephen J. Barrett" <stephen.barrett@wilsonelser.com>,
- "Stacey L. Seltzer" <stacey.seltzer@wilsonelser.com>,
- Sean Wagner <sean.wagner@wilsonelser.com>,
- "Roger R. Gottilla" <roger.gottilla@wilsonelser.com>,
- Ricki Roer <ricki.roer@wilsonelser.com>,
- Ricki Roer <ricki.roer@wilsonanddicker.com>,
- "ricki.raared@wilsonsdickers.com" <ricki.raared@wilsonsdickers.com>,
- patricia.wik@wilsonelser.com, meghan.rigney@wilsonelser.com,
- Lori Semlies <lori.semlies@wilsonelser.com>,
- "Lois K. Ottombrino" <lois.ottombrino@wilsonelser.com>,
- "Lauren M. Zink" <lauren.zink@wilsonelser.com>,
- "Kathleen A. Mullins" <kathleen.mullins@wilsonelser.com>,
- judy.selmeci@wilsonelser.com,
- "Jennifer L. Sciales" <jennifer.sciales@wilsonelser.com>,
- "Jennifer M. Provost" <jennifer.provost@wilsonelser.com>,
- info@wilsonelser.com, Hannah.King@WILSONELSER.COM,
- grace.song@wilsonelser.com, erin.zecca@wilsonelser.com,
- ellyn.wilder@wilsonelser.com, elizabeth.scoditti@wilsonelser.com,
- Debra Tama <debra.tama@wilsonelser.com>,
- "Daniel F. Flores" <daniel.flores@wilsonelser.com>,
- curt.schlom@wilsonelser.com, craig.hunter@wilsonelser.com,
- craig.brinker@wilsonelser.com, Corrine Shea <corrine.shea@wilsonelser.com>,
- carole.nimaroff@wilsonelser.com, aviva.stein@wilsonelser.com,
- "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>,
- Angelique Sabia-Candero <angelique.sabia-candero@wilsonelser.com>,
- angel.vitiello@wilsonelser.com,
- Andrea Shiffman <andrea.shiffman@wilsonelser.com>,
- Amy Hanrahan <amy.hanrahan@wilsonelser.com>, alex.kress@wilsonelser.com,
- Alan Rubin <alan.rubin@wilsonelser.com>,
- KATHY HOCHUL <governor.hochul@exec.ny.gov>
-Cc: christian.desimone@lw.com
 From: B D2022 <ms60710444266@yahoo.com>
+To: "LSSCG@FDIC.gov" <LSSCG@FDIC.gov>,
+ "jackson@nysenate.gov" <jackson@nysenate.gov>
+Cc: "ms60710444266@yahoo.com" <MS60710444266@YAHOO.COM>
+References: <db06f6e5-942f-99bd-edda-666b03eac124@yahoo.com>
+ <f20ac2e7-e50d-9e98-7570-34900dc591d4@yahoo.com>
 Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
-In-Reply-To: <4a8e0da1-5bab-ecc9-0320-996d9b9ef22a@yahoo.com>
-X-Forwarded-Message-Id: <4a8e0da1-5bab-ecc9-0320-996d9b9ef22a@yahoo.com>
-Content-Type: text/plain; charset=UTF-8; format=flowed
-Content-Transfer-Encoding: 8bit
-X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+In-Reply-To: <f20ac2e7-e50d-9e98-7570-34900dc591d4@yahoo.com>
+X-Mailer: WebService/1.1.20381 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
 X-TM-AS-GCONF: 00
 
-12-18-2021
+This is a multi-part message in MIME format.
+--------------0HBPLg8LHwNTuH3PakOsQN4e
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
 
-<﻿https://saaze2311prdsra.blob.core.windows.net/clean/d0383b1f72d5ec11a7b5002248307aa9/12-18-2021-LISTSERV.PDF> 
+my mother is a phase 3 Alzheimer or something.. BTW
+
+check out her daily routine..
+
+love you too HK.
+
+On 7/9/2022 7:20 AM, B D2022 wrote:
+> USC 18 TITLE 18- SECTION 1512 - PREVENTING COMMUNICATION TO A LAW 
+> ENFORCEMENT OFFICER OR JUDGE
+>
+> Subject: VIOLATION OF CIVIL RIGHTS
+> EXHIBIT(S) - b/1 (Motion #1 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1>) 
+> USC TITLE 18.2, USC TITLE 18.3, USC TITLE 18.4 --- VERIFIES WILLFUL 
+> PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS .
+> -------- Forwarded Message -------- Subject: VIOLATION OF CIVIL RIGHTS 
+> Date: Fri, 8 Jul 2022 16:54:59 -0500 From: B D2022 
+> <ms60710444266@yahoo.com> To: +1-347-880-1899 
+> <+13478801899@tmomail.net>, administration@mskyline.com 
+> <ADMINISTRATION@MSKYLINE.COM>, administrator@mskyline.com 
+> <administrator@mskyline.com>, AREYNOSO@mskyline.com 
+> <AREYNOSO@mskyline.com>, askLaurie@mskyline.com 
+> <askLaurie@mskyline.com>, cbloom@mskyline.com, DZUCKER@MSKYLINE.COM 
+> <DZUCKER@MSKYLINE.COM>, EDevine@mskyline.com, jgiamboi@mskyline.com 
+> <jgiamboi@mskyline.com>, joseph.giamboi@brooklaw.edu 
+> <joseph.giamboi@brooklaw.edu>, LBRITTON@MSKYLINE.COM 
+> <LBRITTON@MSKYLINE.COM>, leftbank@mskylinerentals.com 
+> <leftbank@mskylinerentals.com>, Paul Regan <legal@mskyline.com>, 
+> legalasst@mskyline.com <legalasst@mskyline.com>, lzucker@mskyline.com 
+> <lzucker@mskyline.com>, MGMTADMIN@mskyline.com 
+> <MGMTADMIN@mskyline.com>, MVredjian@mskyline.com, pregan@mskyline.com 
+> <PREGAN@MSKYLINE.COM>, slaskowitz@mskyline.com 
+> <slaskowitz@mskyline.com>, SHIKENA MELTON <smelton@mskyline.com>, 
+> SULLIVANMEWS@MSKYLINERENTALS.COM, Super@sullivanmews.com 
+> <Super@sullivanmews.com>, TEschmann@mskyline.com, FILER 400842/2020 
+> isaac@shermantax.com <isaac@shermantax.com>, Stephen O'Connell 
+> <sgo2107@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, Marlyn 
+> Delva <mmt22@columbia.edu>, Alan J. Morrison <ajm157@columbia.edu>, 
+> wmckenzi@nycourts.gov <wmckenzi@nycourts.gov>, JLewis@ap.org 
+> <JLewis@ap.org>, Sara E. Ede <see2119@columbia.edu>, 
+> jac2381@columbia.edu, Dean's Discipline - SCCS 
+> <conduct-admin@columbia.edu>, Gmas Rrpanda Newsletters 
+> <newsletters@gmas.rrpanda.com>, dmf2189@columbia.edu 
+> <dmf2189@columbia.edu>, FundLegalGroup@cohenandsteers.com, 
+> ajbrandon@gmail.com <ajbrandon@gmail.com>, cweiss@ingramllp.com, 
+> Janna.Underwood@STATEFARM.COM <Janna.Underwood@STATEFARM.COM>, Ashley 
+> V. Humphries <ashley.humphries@wilsonelser.com>, Ricki Roer 
+> <ricki.roer@wilsonelser.com>, Amy Hanrahan 
+> <amy.hanrahan@wilsonelser.com>, ANNE BRANDON [CALIFORNIA 
+> <anne@thehighlandpartners.com>, travelerresolutions@expediagroup.com 
+> <travelerresolutions@expediagroup.com>, Points 
+> <hiltonhonors@points-mail.com>, Hilton Hotels & Resorts 
+> <hiltonhonors@hilton.com>, hiltonhonorsde@hilton.com 
+> <hiltonhonorsde@hilton.com>, hiltonhonorsita@hilton.com 
+> <hiltonhonorsita@hilton.com>, PS-MS-STUDENTS@lists.columbia.edu, 
+> Ivylinecapital Info <info@ivylinecapital.com>, 
+> gs-housing@columbia.edu, gsdeanofstudents@columbia.edu 
+> <gsdeanofstudents@columbia.edu>, gssceboard@columbia.edu, 
+> gsorientation@columbia.edu, gs-admit@columbia.edu, 
+> gshealthandwellness@columbia.edu, gsscelections@columbia.edu, 
+> gsstudyabroad@columbia.edu, gsdosreception@columbia.edu, 
+> gsba@lists.columbia.edu, NYSCEF PROCESS HD 
+> <oca_hd_processor@nycourts.gov>, NYSCEF Resource Center 
+> <efile@nycourts.gov>, +15163224896@tmomail.net, KINGS COUNTY TAX 
+> MATTERS <TaxEfiled@law.nyc.gov> EXHIBIT(S) - b/1 (Motion #1 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1>) 
+> This is how my apartment was prior to the destruction of my window and 
+> the Panndemic and Mass Exodus 
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA== 
+> EXHIBIT(S) - b/1 (Motion #1 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1>) 
+> 18.2, 18.3, 18.4 --- VERIFIES WILLFUL PARTICIPATION BY THE ZUCKERS AND 
+> THEIR COUNSELORS. Assuming Plaintiff will also attempt to hold me 
+> liable for this - they instructed that I manually 
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ== 
+> EXHIBIT(S) - b/1 (Motion #1 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1>) 
+> air conditioner was manually removed, at the request of management - 
+> unsure as to where they stored 
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog== 
+> EXHIBIT(S) - B/3 (Motion #1 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1>) 
+> satellite view - red dot is the camera - blue dot 
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ== 
+> EXHIBIT(S) - S8 (Motion #2 
+> <https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/2>) 
+> DINCER RESPONSES [153974/2020]- WMCKENZI@NYCOURTS.GOV WILL SELECTIVELY 
+> ACCEPT ELECTRONIC REQUESTS AND ALSO "UNLAWFULLY RESTRAINS" AND 
+> OBSTRUCTS MY TIME. 
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA==
+>
+>
+> -------- Forwarded Message --------
+> Subject: 	VIOLATION OF CIVIL RIGHTS
+> Date: 	Fri, 8 Jul 2022 16:54:59 -0500
+> From: 	B D2022 <ms60710444266@yahoo.com>
+> To: 	+1-347-880-1899 <+13478801899@tmomail.net>, 
+> administration@mskyline.com <ADMINISTRATION@MSKYLINE.COM>, 
+> administrator@mskyline.com <administrator@mskyline.com>, 
+> AREYNOSO@mskyline.com <AREYNOSO@mskyline.com>, askLaurie@mskyline.com 
+> <askLaurie@mskyline.com>, cbloom@mskyline.com, DZUCKER@MSKYLINE.COM 
+> <DZUCKER@MSKYLINE.COM>, EDevine@mskyline.com, jgiamboi@mskyline.com 
+> <jgiamboi@mskyline.com>, joseph.giamboi@brooklaw.edu 
+> <joseph.giamboi@brooklaw.edu>, LBRITTON@MSKYLINE.COM 
+> <LBRITTON@MSKYLINE.COM>, leftbank@mskylinerentals.com 
+> <leftbank@mskylinerentals.com>, Paul Regan <legal@mskyline.com>, 
+> legalasst@mskyline.com <legalasst@mskyline.com>, lzucker@mskyline.com 
+> <lzucker@mskyline.com>, MGMTADMIN@mskyline.com 
+> <MGMTADMIN@mskyline.com>, MVredjian@mskyline.com, pregan@mskyline.com 
+> <PREGAN@MSKYLINE.COM>, slaskowitz@mskyline.com 
+> <slaskowitz@mskyline.com>, SHIKENA MELTON <smelton@mskyline.com>, 
+> SULLIVANMEWS@MSKYLINERENTALS.COM, Super@sullivanmews.com 
+> <Super@sullivanmews.com>, TEschmann@mskyline.com, FILER 400842/2020 
+> isaac@shermantax.com <isaac@shermantax.com>, Stephen O'Connell 
+> <sgo2107@columbia.edu>, Amber Griffiths <ag2943@columbia.edu>, Marlyn 
+> Delva <mmt22@columbia.edu>, Alan J. Morrison <ajm157@columbia.edu>, 
+> wmckenzi@nycourts.gov <wmckenzi@nycourts.gov>, JLewis@ap.org 
+> <JLewis@ap.org>, Sara E. Ede <see2119@columbia.edu>, 
+> jac2381@columbia.edu, Dean's Discipline - SCCS 
+> <conduct-admin@columbia.edu>, Gmas Rrpanda Newsletters 
+> <newsletters@gmas.rrpanda.com>, dmf2189@columbia.edu 
+> <dmf2189@columbia.edu>, FundLegalGroup@cohenandsteers.com, 
+> ajbrandon@gmail.com <ajbrandon@gmail.com>, cweiss@ingramllp.com, 
+> Janna.Underwood@STATEFARM.COM <Janna.Underwood@STATEFARM.COM>, Ashley 
+> V. Humphries <ashley.humphries@wilsonelser.com>, Ricki Roer 
+> <ricki.roer@wilsonelser.com>, Amy Hanrahan 
+> <amy.hanrahan@wilsonelser.com>, ANNE BRANDON [CALIFORNIA 
+> <anne@thehighlandpartners.com>, travelerresolutions@expediagroup.com 
+> <travelerresolutions@expediagroup.com>, Points 
+> <hiltonhonors@points-mail.com>, Hilton Hotels & Resorts 
+> <hiltonhonors@hilton.com>, hiltonhonorsde@hilton.com 
+> <hiltonhonorsde@hilton.com>, hiltonhonorsita@hilton.com 
+> <hiltonhonorsita@hilton.com>, PS-MS-STUDENTS@lists.columbia.edu, 
+> Ivylinecapital Info <info@ivylinecapital.com>, 
+> gs-housing@columbia.edu, gsdeanofstudents@columbia.edu 
+> <gsdeanofstudents@columbia.edu>, gssceboard@columbia.edu, 
+> gsorientation@columbia.edu, gs-admit@columbia.edu, 
+> gshealthandwellness@columbia.edu, gsscelections@columbia.edu, 
+> gsstudyabroad@columbia.edu, gsdosreception@columbia.edu, 
+> gsba@lists.columbia.edu, NYSCEF PROCESS HD 
+> <oca_hd_processor@nycourts.gov>, NYSCEF Resource Center 
+> <efile@nycourts.gov>, +15163224896@tmomail.net, KINGS COUNTY TAX 
+> MATTERS <TaxEfiled@law.nyc.gov>
+>
+>
+>
+> EXHIBIT(S)  - b/1  (Motion #001) 
+> <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA==> 
+>
+> This is how my apartment was prior to the destruction of my window and 
+> the Panndemic and Mass Exodus
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=_PLUS_kWzvcMNYwh1vSzxEQ0KgA== 
+>
+> EXHIBIT(S)  - b/1  (Motion #001) 
+> <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ==> 
+>
+> Assuming Plaintiff will also attempt to hold me liable for this - they 
+> instructed that I manually pl ... show more
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=kcafC1ZCZe7O0svvLqskNQ== 
+>
+> EXHIBIT(S)  - b/1  (Motion #001) 
+> <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog==> 
+>
+> air conditioner was manually removed, at the request of management - 
+> unsure as to where they stored ... show more
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=qMm9mJ9dbDlcHvBnMLfvog== 
+>
+> EXHIBIT(S)  - B/3  (Motion #001) 
+> <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ==> 
+>
+> satellite view - red dot is the camera - blue dot
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=F/I1t3cRJDka6WAmy5ZAoQ== 
+>
+> EXHIBIT(S)  - S8  (Motion #002) 
+> <https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA==> 
+>
+> DINCER RESPONSES [153974/2020]- WMCKENZI@NYCOURTS.GOV WILL SELECTIVELY 
+> ACCEPT ELECTRONIC REQUESTS AND ALSO "UNLAWFULLY RESTRAINS" AND 
+> OBSTRUCTS MY TIME.
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=mZWLqGBfdMHiv27H9DGhrA== 
+>
+>
+--------------0HBPLg8LHwNTuH3PakOsQN4e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html data-lt-installed=3D"true">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+  </head>
+  <body>
+    <p><font size=3D"2"><font face=3D"Helvetica, Arial, sans-serif">my
+          mother is a phase 3 Alzheimer or something.. BTW</font></font><=
+/p>
+    <p><font size=3D"2"><font face=3D"Helvetica, Arial, sans-serif">check=
+
+          out her daily routine..</font></font></p>
+    <p><font size=3D"2"><font face=3D"Helvetica, Arial, sans-serif">love =
+you
+          too HK.</font></font><br>
+    </p>
+    <div class=3D"moz-cite-prefix">On 7/9/2022 7:20 AM, B D2022 wrote:<br=
+>
+    </div>
+    <blockquote type=3D"cite"
+      cite=3D"mid:f20ac2e7-e50d-9e98-7570-34900dc591d4@yahoo.com">
+      <div class=3D"commit-title markdown-title" style=3D"box-sizing:
+        border-box; font-size: 16px; font-weight: 600; font-family:
+        -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+        Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+        &quot;Segoe UI Emoji&quot;; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        letter-spacing: normal; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; text-decoration-thickness:
+        initial; text-decoration-style: initial; text-decoration-color:
+        initial;"><font color=3D"#ff0000">USC 18 TITLE 18- SECTION 1512 -=
+
+          PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE<=
+/font></div>
+      <div class=3D"commit-title markdown-title" style=3D"box-sizing:
+        border-box; font-size: 16px; font-weight: 600; font-family:
+        -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+        Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+        &quot;Segoe UI Emoji&quot;; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        letter-spacing: normal; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; text-decoration-thickness:
+        initial; text-decoration-style: initial; text-decoration-color:
+        initial;"><font color=3D"#ff0000"><br>
+        </font></div>
+      <div class=3D"commit-title markdown-title" style=3D"box-sizing:
+        border-box; font-size: 16px; font-weight: 600; font-family:
+        -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+        Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+        &quot;Segoe UI Emoji&quot;; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        letter-spacing: normal; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; text-decoration-thickness:
+        initial; text-decoration-style: initial; text-decoration-color:
+        initial;"><font color=3D"#ff0000">Subject: VIOLATION OF CIVIL
+          RIGHTS</font></div>
+      <div class=3D"commit-title markdown-title" style=3D"box-sizing:
+        border-box; font-size: 16px; font-weight: 600; font-family:
+        -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+        Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+        &quot;Segoe UI Emoji&quot;; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        letter-spacing: normal; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; text-decoration-thickness:
+        initial; text-decoration-style: initial; text-decoration-color:
+        initial;">
+        <pre style=3D"box-sizing: border-box; font-family: ui-monospace, =
+SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mo=
+no&quot;, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 0px=
+; max-width: 100%; line-height: 1.45; white-space: pre-wrap; overflow: vi=
+sible; overflow-wrap: break-word;"><font color=3D"#ff0000">EXHIBIT(S)  - =
+b/1  (Motion <a class=3D"issue-link js-issue-link" data-error-text=3D"Fai=
+led to load title" data-id=3D"1284986789" data-permission-text=3D"Title i=
+s private" data-url=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN=
+-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/1" data-hovercard-t=
+ype=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-STATEFARM-SULLIV=
+AN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1/hovercard" href=3D=
+"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-S=
+TATEFARM-SULLIVAN-ZUCKER/pull/1" style=3D"box-sizing: border-box; backgro=
+und-color: transparent; text-decoration: none; transition: color 80ms cub=
+ic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s, box-shadow 0=
+s ease 0s, border-color 0s ease 0s;">#1</a>)
+USC TITLE 18.2, </font><font color=3D"#ff0000"><font color=3D"#ff0000">US=
+C TITLE </font>18.3, </font><font color=3D"#ff0000"><font color=3D"#ff000=
+0">USC TITLE </font>18.4=20
+--- VERIFIES WILLFUL PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS .
 
 
+</font></pre>
+      </div>
+      <div class=3D"commit-desc" style=3D"box-sizing: border-box; display=
+:
+        block; margin: -4px 0px 8px; font-family: -apple-system,
+        BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial,
+        sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI
+        Emoji&quot;; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: 400; letter-spacing: normal; text-align: start;
+        text-indent: 0px; text-transform: none; white-space: normal;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        text-decoration-thickness: initial; text-decoration-style:
+        initial; text-decoration-color: initial;">
+        <pre style=3D"box-sizing: border-box; font-family: ui-monospace, =
+SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mo=
+no&quot;, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 0px=
+; max-width: 100%; line-height: 1.45; white-space: pre-wrap; overflow: vi=
+sible; overflow-wrap: break-word;"><font color=3D"#ff0000">-------- Forwa=
+rded Message --------
+Subject: 	VIOLATION OF CIVIL RIGHTS
+Date: 	Fri, 8 Jul 2022 16:54:59 -0500
+From: 	B D2022 <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:ms607104=
+44266@yahoo.com">&lt;ms60710444266@yahoo.com&gt;</a>
+To: 	+1-347-880-1899 <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:+1=
+3478801899@tmomail.net">&lt;+13478801899@tmomail.net&gt;</a>, <a class=3D=
+"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:administr=
+ation@mskyline.com">administration@mskyline.com</a> <a class=3D"moz-txt-l=
+ink-rfc2396E" href=3D"mailto:ADMINISTRATION@MSKYLINE.COM">&lt;ADMINISTRAT=
+ION@MSKYLINE.COM&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-li=
+nk-freetext" href=3D"mailto:administrator@mskyline.com">administrator@msk=
+yline.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:administr=
+ator@mskyline.com">&lt;administrator@mskyline.com&gt;</a>, <a class=3D"mo=
+z-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:AREYNOSO@msk=
+yline.com">AREYNOSO@mskyline.com</a> <a class=3D"moz-txt-link-rfc2396E" h=
+ref=3D"mailto:AREYNOSO@mskyline.com">&lt;AREYNOSO@mskyline.com&gt;</a>, <=
+a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto=
+:askLaurie@mskyline.com">askLaurie@mskyline.com</a> <a class=3D"moz-txt-l=
+ink-rfc2396E" href=3D"mailto:askLaurie@mskyline.com">&lt;askLaurie@mskyli=
+ne.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetex=
+t" href=3D"mailto:cbloom@mskyline.com">cbloom@mskyline.com</a>, <a class=3D=
+"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:DZUCKER@M=
+SKYLINE.COM">DZUCKER@MSKYLINE.COM</a> <a class=3D"moz-txt-link-rfc2396E" =
+href=3D"mailto:DZUCKER@MSKYLINE.COM">&lt;DZUCKER@MSKYLINE.COM&gt;</a>, <a=
+ class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:=
+EDevine@mskyline.com">EDevine@mskyline.com</a>, <a class=3D"moz-txt-link-=
+abbreviated moz-txt-link-freetext" href=3D"mailto:jgiamboi@mskyline.com">=
+jgiamboi@mskyline.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mail=
+to:jgiamboi@mskyline.com">&lt;jgiamboi@mskyline.com&gt;</a>, <a class=3D"=
+moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:joseph.gia=
+mboi@brooklaw.edu">joseph.giamboi@brooklaw.edu</a> <a class=3D"moz-txt-li=
+nk-rfc2396E" href=3D"mailto:joseph.giamboi@brooklaw.edu">&lt;joseph.giamb=
+oi@brooklaw.edu&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-lin=
+k-freetext" href=3D"mailto:LBRITTON@MSKYLINE.COM">LBRITTON@MSKYLINE.COM</=
+a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:LBRITTON@MSKYLINE.CO=
+M">&lt;LBRITTON@MSKYLINE.COM&gt;</a>, <a class=3D"moz-txt-link-abbreviate=
+d moz-txt-link-freetext" href=3D"mailto:leftbank@mskylinerentals.com">lef=
+tbank@mskylinerentals.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"=
+mailto:leftbank@mskylinerentals.com">&lt;leftbank@mskylinerentals.com&gt;=
+</a>, Paul Regan <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:legal@=
+mskyline.com">&lt;legal@mskyline.com&gt;</a>, <a class=3D"moz-txt-link-ab=
+breviated moz-txt-link-freetext" href=3D"mailto:legalasst@mskyline.com">l=
+egalasst@mskyline.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mail=
+to:legalasst@mskyline.com">&lt;legalasst@mskyline.com&gt;</a>, <a class=3D=
+"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:lzucker@m=
+skyline.com">lzucker@mskyline.com</a> <a class=3D"moz-txt-link-rfc2396E" =
+href=3D"mailto:lzucker@mskyline.com">&lt;lzucker@mskyline.com&gt;</a>, <a=
+ class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:=
+MGMTADMIN@mskyline.com">MGMTADMIN@mskyline.com</a> <a class=3D"moz-txt-li=
+nk-rfc2396E" href=3D"mailto:MGMTADMIN@mskyline.com">&lt;MGMTADMIN@mskylin=
+e.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext=
+" href=3D"mailto:MVredjian@mskyline.com">MVredjian@mskyline.com</a>, <a c=
+lass=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:pr=
+egan@mskyline.com">pregan@mskyline.com</a> <a class=3D"moz-txt-link-rfc23=
+96E" href=3D"mailto:PREGAN@MSKYLINE.COM">&lt;PREGAN@MSKYLINE.COM&gt;</a>,=
+ <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mail=
+to:slaskowitz@mskyline.com">slaskowitz@mskyline.com</a> <a class=3D"moz-t=
+xt-link-rfc2396E" href=3D"mailto:slaskowitz@mskyline.com">&lt;slaskowitz@=
+mskyline.com&gt;</a>, SHIKENA MELTON <a class=3D"moz-txt-link-rfc2396E" h=
+ref=3D"mailto:smelton@mskyline.com">&lt;smelton@mskyline.com&gt;</a>, <a =
+class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:S=
+ULLIVANMEWS@MSKYLINERENTALS.COM">SULLIVANMEWS@MSKYLINERENTALS.COM</a>, <a=
+ class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:=
+Super@sullivanmews.com">Super@sullivanmews.com</a> <a class=3D"moz-txt-li=
+nk-rfc2396E" href=3D"mailto:Super@sullivanmews.com">&lt;Super@sullivanmew=
+s.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext=
+" href=3D"mailto:TEschmann@mskyline.com">TEschmann@mskyline.com</a>, FILE=
+R 400842/2020 <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext"=
+ href=3D"mailto:isaac@shermantax.com">isaac@shermantax.com</a> <a class=3D=
+"moz-txt-link-rfc2396E" href=3D"mailto:isaac@shermantax.com">&lt;isaac@sh=
+ermantax.com&gt;</a>, Stephen O'Connell <a class=3D"moz-txt-link-rfc2396E=
+" href=3D"mailto:sgo2107@columbia.edu">&lt;sgo2107@columbia.edu&gt;</a>, =
+Amber Griffiths <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:ag2943@=
+columbia.edu">&lt;ag2943@columbia.edu&gt;</a>, Marlyn Delva <a class=3D"m=
+oz-txt-link-rfc2396E" href=3D"mailto:mmt22@columbia.edu">&lt;mmt22@columb=
+ia.edu&gt;</a>, Alan J. Morrison <a class=3D"moz-txt-link-rfc2396E" href=3D=
+"mailto:ajm157@columbia.edu">&lt;ajm157@columbia.edu&gt;</a>, <a class=3D=
+"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:wmckenzi@=
+nycourts.gov">wmckenzi@nycourts.gov</a> <a class=3D"moz-txt-link-rfc2396E=
+" href=3D"mailto:wmckenzi@nycourts.gov">&lt;wmckenzi@nycourts.gov&gt;</a>=
+, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mai=
+lto:JLewis@ap.org">JLewis@ap.org</a> <a class=3D"moz-txt-link-rfc2396E" h=
+ref=3D"mailto:JLewis@ap.org">&lt;JLewis@ap.org&gt;</a>, Sara E. Ede <a cl=
+ass=3D"moz-txt-link-rfc2396E" href=3D"mailto:see2119@columbia.edu">&lt;se=
+e2119@columbia.edu&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-=
+link-freetext" href=3D"mailto:jac2381@columbia.edu">jac2381@columbia.edu<=
+/a>, Dean's Discipline - SCCS <a class=3D"moz-txt-link-rfc2396E" href=3D"=
+mailto:conduct-admin@columbia.edu">&lt;conduct-admin@columbia.edu&gt;</a>=
+, Gmas Rrpanda Newsletters <a class=3D"moz-txt-link-rfc2396E" href=3D"mai=
+lto:newsletters@gmas.rrpanda.com">&lt;newsletters@gmas.rrpanda.com&gt;</a=
+>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"ma=
+ilto:dmf2189@columbia.edu">dmf2189@columbia.edu</a> <a class=3D"moz-txt-l=
+ink-rfc2396E" href=3D"mailto:dmf2189@columbia.edu">&lt;dmf2189@columbia.e=
+du&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" h=
+ref=3D"mailto:FundLegalGroup@cohenandsteers.com">FundLegalGroup@cohenands=
+teers.com</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext=
+" href=3D"mailto:ajbrandon@gmail.com">ajbrandon@gmail.com</a> <a class=3D=
+"moz-txt-link-rfc2396E" href=3D"mailto:ajbrandon@gmail.com">&lt;ajbrandon=
+@gmail.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-fre=
+etext" href=3D"mailto:cweiss@ingramllp.com">cweiss@ingramllp.com</a>, <a =
+class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:J=
+anna.Underwood@STATEFARM.COM">Janna.Underwood@STATEFARM.COM</a> <a class=3D=
+"moz-txt-link-rfc2396E" href=3D"mailto:Janna.Underwood@STATEFARM.COM">&lt=
+;Janna.Underwood@STATEFARM.COM&gt;</a>, Ashley V. Humphries <a class=3D"m=
+oz-txt-link-rfc2396E" href=3D"mailto:ashley.humphries@wilsonelser.com">&l=
+t;ashley.humphries@wilsonelser.com&gt;</a>, Ricki Roer <a class=3D"moz-tx=
+t-link-rfc2396E" href=3D"mailto:ricki.roer@wilsonelser.com">&lt;ricki.roe=
+r@wilsonelser.com&gt;</a>, Amy Hanrahan <a class=3D"moz-txt-link-rfc2396E=
+" href=3D"mailto:amy.hanrahan@wilsonelser.com">&lt;amy.hanrahan@wilsonels=
+er.com&gt;</a>, ANNE BRANDON [CALIFORNIA <a class=3D"moz-txt-link-rfc2396=
+E" href=3D"mailto:anne@thehighlandpartners.com">&lt;anne@thehighlandpartn=
+ers.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freete=
+xt" href=3D"mailto:travelerresolutions@expediagroup.com">travelerresoluti=
+ons@expediagroup.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mailt=
+o:travelerresolutions@expediagroup.com">&lt;travelerresolutions@expediagr=
+oup.com&gt;</a>, Points <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto=
+:hiltonhonors@points-mail.com">&lt;hiltonhonors@points-mail.com&gt;</a>, =
+Hilton Hotels &amp; Resorts <a class=3D"moz-txt-link-rfc2396E" href=3D"ma=
+ilto:hiltonhonors@hilton.com">&lt;hiltonhonors@hilton.com&gt;</a>, <a cla=
+ss=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:hilt=
+onhonorsde@hilton.com">hiltonhonorsde@hilton.com</a> <a class=3D"moz-txt-=
+link-rfc2396E" href=3D"mailto:hiltonhonorsde@hilton.com">&lt;hiltonhonors=
+de@hilton.com&gt;</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-=
+freetext" href=3D"mailto:hiltonhonorsita@hilton.com">hiltonhonorsita@hilt=
+on.com</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:hiltonhonors=
+ita@hilton.com">&lt;hiltonhonorsita@hilton.com&gt;</a>, <a class=3D"moz-t=
+xt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:PS-MS-STUDENTS@=
+lists.columbia.edu">PS-MS-STUDENTS@lists.columbia.edu</a>, Ivylinecapital=
+ Info <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:info@ivylinecapit=
+al.com">&lt;info@ivylinecapital.com&gt;</a>, <a class=3D"moz-txt-link-abb=
+reviated moz-txt-link-freetext" href=3D"mailto:gs-housing@columbia.edu">g=
+s-housing@columbia.edu</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-=
+link-freetext" href=3D"mailto:gsdeanofstudents@columbia.edu">gsdeanofstud=
+ents@columbia.edu</a> <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:g=
+sdeanofstudents@columbia.edu">&lt;gsdeanofstudents@columbia.edu&gt;</a>, =
+<a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailt=
+o:gssceboard@columbia.edu">gssceboard@columbia.edu</a>, <a class=3D"moz-t=
+xt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:gsorientation@c=
+olumbia.edu">gsorientation@columbia.edu</a>, <a class=3D"moz-txt-link-abb=
+reviated moz-txt-link-freetext" href=3D"mailto:gs-admit@columbia.edu">gs-=
+admit@columbia.edu</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link=
+-freetext" href=3D"mailto:gshealthandwellness@columbia.edu">gshealthandwe=
+llness@columbia.edu</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-lin=
+k-freetext" href=3D"mailto:gsscelections@columbia.edu">gsscelections@colu=
+mbia.edu</a>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext"=
+ href=3D"mailto:gsstudyabroad@columbia.edu">gsstudyabroad@columbia.edu</a=
+>, <a class=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"ma=
+ilto:gsdosreception@columbia.edu">gsdosreception@columbia.edu</a>, <a cla=
+ss=3D"moz-txt-link-abbreviated moz-txt-link-freetext" href=3D"mailto:gsba=
+@lists.columbia.edu">gsba@lists.columbia.edu</a>, NYSCEF PROCESS HD <a cl=
+ass=3D"moz-txt-link-rfc2396E" href=3D"mailto:oca_hd_processor@nycourts.go=
+v">&lt;oca_hd_processor@nycourts.gov&gt;</a>, NYSCEF Resource Center <a c=
+lass=3D"moz-txt-link-rfc2396E" href=3D"mailto:efile@nycourts.gov">&lt;efi=
+le@nycourts.gov&gt;</a>, +15163224896@tmomail.net, KINGS COUNTY TAX MATTE=
+RS <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:TaxEfiled@law.nyc.go=
+v">&lt;TaxEfiled@law.nyc.gov&gt;</a>
 
-04-12-2022 - EY, MSCO
 
-https://saaze2311prdsra.blob.core.windows.net/clean/edc3c9da71d5ec11a7b5002248307aa9/04.12.2022.151652.EY.PWC.MSCO-.pdf 
+EXHIBIT(S)  - b/1  (Motion <a class=3D"issue-link js-issue-link" data-err=
+or-text=3D"Failed to load title" data-id=3D"1284986789" data-permission-t=
+ext=3D"Title is private" data-url=3D"https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/1" da=
+ta-hovercard-type=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1/hov=
+ercard" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1" style=3D"box-sizing: bord=
+er-box; background-color: transparent; text-decoration: none; transition:=
+ color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0=
+s, box-shadow 0s ease 0s, border-color 0s ease 0s;">#1</a>)
+This is how my apartment was prior to the destruction of my window and th=
+e Panndemic and Mass Exodus
 
+<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+_PLUS_kWzvcMNYwh1vSzxEQ0KgA=3D=3D" rel=3D"nofollow" style=3D"box-sizing: =
+border-box; background-color: transparent; text-decoration: none; transit=
+ion: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ea=
+se 0s, box-shadow 0s ease 0s, border-color 0s ease 0s;" class=3D"moz-txt-=
+link-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIn=
+dex=3D_PLUS_kWzvcMNYwh1vSzxEQ0KgA=3D=3D</a>
 
+EXHIBIT(S)  - b/1  (Motion <a class=3D"issue-link js-issue-link" data-err=
+or-text=3D"Failed to load title" data-id=3D"1284986789" data-permission-t=
+ext=3D"Title is private" data-url=3D"https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/1" da=
+ta-hovercard-type=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1/hov=
+ercard" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1" style=3D"box-sizing: bord=
+er-box; background-color: transparent; text-decoration: none; transition:=
+ color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0=
+s, box-shadow 0s ease 0s, border-color 0s ease 0s;">#1</a>)
+18.2, 18.3, 18.4=20
+--- VERIFIES WILLFUL PARTICIPATION BY THE ZUCKERS AND THEIR COUNSELORS.
 
-﻿ 2020.08.08-bk01
+Assuming Plaintiff will also attempt to hold me liable for this - they in=
+structed that I manually
 
-<https://saaze2311prdsra.blob.core.windows.net/clean/5a569e0072d5ec11a7b5000d3a1afadb/6MM%202020.08.08-bk01-CommunityBoard.PDF> 
+<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+kcafC1ZCZe7O0svvLqskNQ=3D=3D" rel=3D"nofollow" style=3D"box-sizing: borde=
+r-box; background-color: transparent; text-decoration: none; transition: =
+color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s=
+, box-shadow 0s ease 0s, border-color 0s ease 0s;" class=3D"moz-txt-link-=
+freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+kcafC1ZCZe7O0svvLqskNQ=3D=3D</a>
 
+EXHIBIT(S)  - b/1  (Motion <a class=3D"issue-link js-issue-link" data-err=
+or-text=3D"Failed to load title" data-id=3D"1284986789" data-permission-t=
+ext=3D"Title is private" data-url=3D"https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/1" da=
+ta-hovercard-type=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1/hov=
+ercard" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1" style=3D"box-sizing: bord=
+er-box; background-color: transparent; text-decoration: none; transition:=
+ color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0=
+s, box-shadow 0s ease 0s, border-color 0s ease 0s;">#1</a>)
+air conditioner was manually removed, at the request of management - unsu=
+re as to where they stored
 
+<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+qMm9mJ9dbDlcHvBnMLfvog=3D=3D" rel=3D"nofollow" style=3D"box-sizing: borde=
+r-box; background-color: transparent; text-decoration: none; transition: =
+color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s=
+, box-shadow 0s ease 0s, border-color 0s ease 0s;" class=3D"moz-txt-link-=
+freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+qMm9mJ9dbDlcHvBnMLfvog=3D=3D</a>
 
-https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/tree/Assessments
-Its spelled Rickey BTW...
+EXHIBIT(S)  - B/3  (Motion <a class=3D"issue-link js-issue-link" data-err=
+or-text=3D"Failed to load title" data-id=3D"1284986789" data-permission-t=
+ext=3D"Title is private" data-url=3D"https://github.com/WILSON-ELSER-STAT=
+EFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/1" da=
+ta-hovercard-type=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1/hov=
+ercard" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER=
+/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/1" style=3D"box-sizing: bord=
+er-box; background-color: transparent; text-decoration: none; transition:=
+ color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0=
+s, box-shadow 0s ease 0s, border-color 0s ease 0s;">#1</a>)
+satellite view - red dot is the camera - blue dot
+<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+F/I1t3cRJDka6WAmy5ZAoQ=3D=3D" rel=3D"nofollow" style=3D"box-sizing: borde=
+r-box; background-color: transparent; text-decoration: none; transition: =
+color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s=
+, box-shadow 0s ease 0s, border-color 0s ease 0s;" class=3D"moz-txt-link-=
+freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+F/I1t3cRJDka6WAmy5ZAoQ=3D=3D</a>
+EXHIBIT(S)  - S8  (Motion <a class=3D"issue-link js-issue-link" data-erro=
+r-text=3D"Failed to load title" data-id=3D"1297490315" data-permission-te=
+xt=3D"Title is private" data-url=3D"https://github.com/WILSON-ELSER-STATE=
+FARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/issues/2" dat=
+a-hovercard-type=3D"pull_request" data-hovercard-url=3D"/WILSON-ELSER-STA=
+TEFARM-SULLIVAN-ZUCKER/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/2/hove=
+rcard" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/=
+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/pull/2" style=3D"box-sizing: borde=
+r-box; background-color: transparent; text-decoration: none; transition: =
+color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s=
+, box-shadow 0s ease 0s, border-color 0s ease 0s;">#2</a>)
+DINCER RESPONSES [153974/2020]- <a class=3D"moz-txt-link-abbreviated moz-=
+txt-link-freetext" href=3D"mailto:WMCKENZI@NYCOURTS.GOV">WMCKENZI@NYCOURT=
+S.GOV</a> WILL SELECTIVELY ACCEPT ELECTRONIC REQUESTS AND ALSO "UNLAWFULL=
+Y RESTRAINS" AND OBSTRUCTS MY TIME.
+<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+mZWLqGBfdMHiv27H9DGhrA=3D=3D" rel=3D"nofollow" style=3D"box-sizing: borde=
+r-box; background-color: transparent; text-decoration: none; transition: =
+color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s, background-color 0s ease 0s=
+, box-shadow 0s ease 0s, border-color 0s ease 0s;" class=3D"moz-txt-link-=
+freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+mZWLqGBfdMHiv27H9DGhrA=3D=3D</a></font></pre>
+      </div>
+      <div class=3D"moz-forward-container"><font color=3D"#ff0000"><br>
+          <br>
+          -------- Forwarded Message --------</font>
+        <table class=3D"moz-email-headers-table" cellspacing=3D"0"
+          cellpadding=3D"0" border=3D"0">
+          <tbody>
+            <tr>
+              <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT"><=
+font
+                  color=3D"#ff0000">Subject: </font></th>
+              <td><font color=3D"#ff0000">VIOLATION OF CIVIL RIGHTS</font=
+></td>
+            </tr>
+            <tr>
+              <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT"><=
+font
+                  color=3D"#ff0000">Date: </font></th>
+              <td><font color=3D"#ff0000">Fri, 8 Jul 2022 16:54:59 -0500<=
+/font></td>
+            </tr>
+            <tr>
+              <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT"><=
+font
+                  color=3D"#ff0000">From: </font></th>
+              <td><font color=3D"#ff0000">B D2022 <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ms60710444266@yahoo.com">&lt;ms6071044=
+4266@yahoo.com&gt;</a></font></td>
+            </tr>
+            <tr>
+              <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT"><=
+font
+                  color=3D"#ff0000">To: </font></th>
+              <td><font color=3D"#ff0000">+1-347-880-1899 <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:+13478801899@tmomail.net">&lt;+1347880=
+1899@tmomail.net&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:administration@mskyline.com">administr=
+ation@mskyline.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ADMINISTRATION@MSKYLINE.COM">&lt;ADMIN=
+ISTRATION@MSKYLINE.COM&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:administrator@mskyline.com">administra=
+tor@mskyline.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:administrator@mskyline.com">&lt;admini=
+strator@mskyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:AREYNOSO@mskyline.com">AREYNOSO@mskyli=
+ne.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:AREYNOSO@mskyline.com">&lt;AREYNOSO@ms=
+kyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:askLaurie@mskyline.com">askLaurie@msky=
+line.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:askLaurie@mskyline.com">&lt;askLaurie@=
+mskyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:cbloom@mskyline.com">cbloom@mskyline.c=
+om</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:DZUCKER@MSKYLINE.COM">DZUCKER@MSKYLINE=
+=2ECOM</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:DZUCKER@MSKYLINE.COM">&lt;DZUCKER@MSKY=
+LINE.COM&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:EDevine@mskyline.com">EDevine@mskyline=
+=2Ecom</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:jgiamboi@mskyline.com">jgiamboi@mskyli=
+ne.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:jgiamboi@mskyline.com">&lt;jgiamboi@ms=
+kyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:joseph.giamboi@brooklaw.edu">joseph.gi=
+amboi@brooklaw.edu</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:joseph.giamboi@brooklaw.edu">&lt;josep=
+h.giamboi@brooklaw.edu&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:LBRITTON@MSKYLINE.COM">LBRITTON@MSKYLI=
+NE.COM</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:LBRITTON@MSKYLINE.COM">&lt;LBRITTON@MS=
+KYLINE.COM&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:leftbank@mskylinerentals.com">leftbank=
+@mskylinerentals.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:leftbank@mskylinerentals.com">&lt;left=
+bank@mskylinerentals.com&gt;</a>,
+                  Paul Regan <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:legal@mskyline.com">&lt;legal@mskyline=
+=2Ecom&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:legalasst@mskyline.com">legalasst@msky=
+line.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:legalasst@mskyline.com">&lt;legalasst@=
+mskyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:lzucker@mskyline.com">lzucker@mskyline=
+=2Ecom</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:lzucker@mskyline.com">&lt;lzucker@msky=
+line.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:MGMTADMIN@mskyline.com">MGMTADMIN@msky=
+line.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:MGMTADMIN@mskyline.com">&lt;MGMTADMIN@=
+mskyline.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:MVredjian@mskyline.com">MVredjian@msky=
+line.com</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:pregan@mskyline.com">pregan@mskyline.c=
+om</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:PREGAN@MSKYLINE.COM">&lt;PREGAN@MSKYLI=
+NE.COM&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:slaskowitz@mskyline.com">slaskowitz@ms=
+kyline.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:slaskowitz@mskyline.com">&lt;slaskowit=
+z@mskyline.com&gt;</a>,
+                  SHIKENA MELTON <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:smelton@mskyline.com">&lt;smelton@msky=
+line.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:SULLIVANMEWS@MSKYLINERENTALS.COM">SULL=
+IVANMEWS@MSKYLINERENTALS.COM</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:Super@sullivanmews.com">Super@sullivan=
+mews.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:Super@sullivanmews.com">&lt;Super@sull=
+ivanmews.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:TEschmann@mskyline.com">TEschmann@msky=
+line.com</a>,
+                  FILER 400842/2020 <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:isaac@shermantax.com">isaac@shermantax=
+=2Ecom</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:isaac@shermantax.com">&lt;isaac@sherma=
+ntax.com&gt;</a>,
+                  Stephen O'Connell <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:sgo2107@columbia.edu">&lt;sgo2107@colu=
+mbia.edu&gt;</a>,
+                  Amber Griffiths <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ag2943@columbia.edu">&lt;ag2943@columb=
+ia.edu&gt;</a>,
+                  Marlyn Delva <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:mmt22@columbia.edu">&lt;mmt22@columbia=
+=2Eedu&gt;</a>,
+                  Alan J. Morrison <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ajm157@columbia.edu">&lt;ajm157@columb=
+ia.edu&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:wmckenzi@nycourts.gov">wmckenzi@nycour=
+ts.gov</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:wmckenzi@nycourts.gov">&lt;wmckenzi@ny=
+courts.gov&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext" href=3D"mailto:JLewis@ap.org">=
+JLewis@ap.org</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:JLewis@ap.org">&lt;JLewis@ap.org&gt;</=
+a>,
+                  Sara E. Ede <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:see2119@columbia.edu">&lt;see2119@colu=
+mbia.edu&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:jac2381@columbia.edu">jac2381@columbia=
+=2Eedu</a>,
+                  Dean's Discipline - SCCS <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:conduct-admin@columbia.edu">&lt;conduc=
+t-admin@columbia.edu&gt;</a>,
+                  Gmas Rrpanda Newsletters <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:newsletters@gmas.rrpanda.com">&lt;news=
+letters@gmas.rrpanda.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:dmf2189@columbia.edu">dmf2189@columbia=
+=2Eedu</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:dmf2189@columbia.edu">&lt;dmf2189@colu=
+mbia.edu&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:FundLegalGroup@cohenandsteers.com">Fun=
+dLegalGroup@cohenandsteers.com</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:ajbrandon@gmail.com">ajbrandon@gmail.c=
+om</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ajbrandon@gmail.com">&lt;ajbrandon@gma=
+il.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:cweiss@ingramllp.com">cweiss@ingramllp=
+=2Ecom</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:Janna.Underwood@STATEFARM.COM">Janna.U=
+nderwood@STATEFARM.COM</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:Janna.Underwood@STATEFARM.COM">&lt;Jan=
+na.Underwood@STATEFARM.COM&gt;</a>,
+                  Ashley V. Humphries <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ashley.humphries@wilsonelser.com">&lt;=
+ashley.humphries@wilsonelser.com&gt;</a>,
+                  Ricki Roer <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:ricki.roer@wilsonelser.com">&lt;ricki.=
+roer@wilsonelser.com&gt;</a>,
+                  Amy Hanrahan <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:amy.hanrahan@wilsonelser.com">&lt;amy.=
+hanrahan@wilsonelser.com&gt;</a>,
+                  ANNE BRANDON [CALIFORNIA <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:anne@thehighlandpartners.com">&lt;anne=
+@thehighlandpartners.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:travelerresolutions@expediagroup.com">=
+travelerresolutions@expediagroup.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:travelerresolutions@expediagroup.com">=
+&lt;travelerresolutions@expediagroup.com&gt;</a>,
+                  Points <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:hiltonhonors@points-mail.com">&lt;hilt=
+onhonors@points-mail.com&gt;</a>,
+                  Hilton Hotels &amp; Resorts <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:hiltonhonors@hilton.com">&lt;hiltonhon=
+ors@hilton.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:hiltonhonorsde@hilton.com">hiltonhonor=
+sde@hilton.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:hiltonhonorsde@hilton.com">&lt;hiltonh=
+onorsde@hilton.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:hiltonhonorsita@hilton.com">hiltonhono=
+rsita@hilton.com</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:hiltonhonorsita@hilton.com">&lt;hilton=
+honorsita@hilton.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:PS-MS-STUDENTS@lists.columbia.edu">PS-=
+MS-STUDENTS@lists.columbia.edu</a>,
+                  Ivylinecapital Info <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:info@ivylinecapital.com">&lt;info@ivyl=
+inecapital.com&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gs-housing@columbia.edu">gs-housing@co=
+lumbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsdeanofstudents@columbia.edu">gsdeano=
+fstudents@columbia.edu</a>
+                  <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:gsdeanofstudents@columbia.edu">&lt;gsd=
+eanofstudents@columbia.edu&gt;</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gssceboard@columbia.edu">gssceboard@co=
+lumbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsorientation@columbia.edu">gsorientat=
+ion@columbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gs-admit@columbia.edu">gs-admit@columb=
+ia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gshealthandwellness@columbia.edu">gshe=
+althandwellness@columbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsscelections@columbia.edu">gsscelecti=
+ons@columbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsstudyabroad@columbia.edu">gsstudyabr=
+oad@columbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsdosreception@columbia.edu">gsdosrece=
+ption@columbia.edu</a>,
+                  <a class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:gsba@lists.columbia.edu">gsba@lists.co=
+lumbia.edu</a>,
+                  NYSCEF PROCESS HD <a class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:oca_hd_processor@nycourts.gov">&lt;oca=
+_hd_processor@nycourts.gov&gt;</a>,
+                  NYSCEF Resource Center <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:efile@nycourts.gov">&lt;efile@nycourts=
+=2Egov&gt;</a>,
+                  +15163224896@tmomail.net, KINGS COUNTY TAX MATTERS <a
+                    class=3D"moz-txt-link-rfc2396E"
+                    href=3D"mailto:TaxEfiled@law.nyc.gov">&lt;TaxEfiled@l=
+aw.nyc.gov&gt;</a></font></td>
+            </tr>
+          </tbody>
+        </table>
+        <font color=3D"#ff0000"><br>
+          <br>
+        </font>
+        <p> </p>
+        <table width=3D"755" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+          <colgroup><col
+              style=3D"mso-width-source:userset;mso-width-alt:27611;width=
+:566pt"
+              width=3D"755"> </colgroup><tbody>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl66" style=3D"height:12.75pt;width:566pt"
+                width=3D"755" height=3D"17"><font color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_=
+PLUS_kWzvcMNYwh1vSzxEQ0KgA=3D=3D">EXHIBIT(S)=C2=A0=C2=A0-
+                    b/1 =C2=A0(Motion #001)</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl68" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000">This is how my apartment was prior to=
 
-On Wed, Jun 8, 2022 at 10:36 AM.
+                  the destruction of my window and the Panndemic and
+                  Mass Exodus</font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl70" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D_=
+PLUS_kWzvcMNYwh1vSzxEQ0KgA=3D=3D"
+                    class=3D"moz-txt-link-freetext">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3D_PLUS_kWzvcMNYwh1vSzxEQ0KgA=3D=
+=3D</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl66" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dk=
+cafC1ZCZe7O0svvLqskNQ=3D=3D">EXHIBIT(S)=C2=A0=C2=A0-
+                    b/1 =C2=A0(Motion #001)</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl68" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000">Assuming Plaintiff will also attempt
+                  to hold me liable for this - they instructed that I
+                  manually pl=C2=A0... show more</font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl70" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dk=
+cafC1ZCZe7O0svvLqskNQ=3D=3D"
+                    class=3D"moz-txt-link-freetext">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3DkcafC1ZCZe7O0svvLqskNQ=3D=3D</=
+a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl66" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dq=
+Mm9mJ9dbDlcHvBnMLfvog=3D=3D">EXHIBIT(S)=C2=A0=C2=A0-
+                    b/1 =C2=A0(Motion #001)</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl68" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000">air conditioner was manually removed,=
 
-https://github.com/153974-158143-Regan-Laskowitz/1212-5858/issues/1 
-<https://github.com/153974-158143-Regan-Laskowitz/1212-5858/issues/1>
+                  at the request of management - unsure as to where they
+                  stored=C2=A0... show more</font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl70" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dq=
+Mm9mJ9dbDlcHvBnMLfvog=3D=3D"
+                    class=3D"moz-txt-link-freetext">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3DqMm9mJ9dbDlcHvBnMLfvog=3D=3D</=
+a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl66" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DF=
+/I1t3cRJDka6WAmy5ZAoQ=3D=3D">EXHIBIT(S)=C2=A0=C2=A0-
+                    B/3 =C2=A0(Motion #001)</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl68" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000">satellite view - red dot is the camer=
+a
+                  - blue dot</font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl70" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DF=
+/I1t3cRJDka6WAmy5ZAoQ=3D=3D"
+                    class=3D"moz-txt-link-freetext">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3DF/I1t3cRJDka6WAmy5ZAoQ=3D=3D</=
+a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl69" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dm=
+ZWLqGBfdMHiv27H9DGhrA=3D=3D">EXHIBIT(S)=C2=A0=C2=A0-
+                    S8 =C2=A0(Motion #002)</a></font></td>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl71" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000">DINCER RESPONSES [153974/2020]- <a
+                    class=3D"moz-txt-link-abbreviated
+                    moz-txt-link-freetext"
+                    href=3D"mailto:WMCKENZI@NYCOURTS.GOV">WMCKENZI@NYCOUR=
+TS.GOV</a>
+                  WILL SELECTIVELY ACCEPT ELECTRONIC REQUESTS AND ALSO
+                  "UNLAWFULLY RESTRAINS" AND OBSTRUCTS MY TIME.</font></t=
+d>
+            </tr>
+            <tr style=3D"height:12.75pt" height=3D"17">
+              <td class=3D"xl65" style=3D"height:12.75pt" height=3D"17"><=
+font
+                  color=3D"#ff0000"><a
+href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dm=
+ZWLqGBfdMHiv27H9DGhrA=3D=3D"
+                    class=3D"moz-txt-link-freetext">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3DmZWLqGBfdMHiv27H9DGhrA=3D=3D</=
+a></font></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </blockquote>
+  </body>
+</html>
 
-/S/ BO DINCER
+--------------0HBPLg8LHwNTuH3PakOsQN4e--
 
-https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/find/Assessments
-
--------- Forwarded Message --------
-Subject: Fwd: 12-18-2021
-Date: Wed, 8 Jun 2022 13:22:25 -0500
-From: B D2022 <ms60710444266@yahoo.com>
-To: KATHY HOCHUL <governor.hochul@exec.ny.gov>, kevin.kilkenny@chase.com 
-<kevin.kilkenny@chase.com>, malia.d.chatman@chase.com
-
-
-
-small.
-
-https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/tree/Assessments
-Its spelled Rickey BTW...
-
-On Wed, Jun 8, 2022 at 10:36 AM.
-
-https://github.com/153974-158143-Regan-Laskowitz/1212-5858/issues/1 
-<https://github.com/153974-158143-Regan-Laskowitz/1212-5858/issues/1>
-
-/S/ BO DINCER
-
-https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/find/Assessments
-
-
-
---TMMSG_96C04906_6A4E_AE75_187E_820F0525721E--
+--TMMSG_489A4356_7A29_7D89_B928_4FC394E419FC--
 

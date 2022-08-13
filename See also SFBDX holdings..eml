@@ -1,180 +1,179 @@
-From - Tue May 31 14:21:06 2022
+From - Thu Jun  2 00:56:46 2022
 X-Account-Key: account1
-X-UIDL: AP5ugBlHfEuYYpZVyQTGqGkc/Jo
-X-Mozilla-Status: 1011
+X-UIDL: AMAQUIwaomMbYphDBwYK4MlnjCI
+X-Mozilla-Status: 0001
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Received: from 10.197.40.73
- by atlas109.free.mail.bf1.yahoo.com with HTTPS; Tue, 31 May 2022 17:52:08 +0000
+Received: from 10.217.150.140
+ by atlas323.free.mail.ne1.yahoo.com with HTTPS; Thu, 2 Jun 2022 04:56:38 +0000
 Return-Path: <bo.dincer@yahoo.com>
-X-Originating-Ip: [98.137.65.161]
-Received-SPF: pass (domain of yahoo.com designates 98.137.65.161 as permitted sender)
-Authentication-Results: atlas109.free.mail.bf1.yahoo.com;
+X-Originating-Ip: [98.137.66.83]
+Received-SPF: pass (domain of yahoo.com designates 98.137.66.83 as permitted sender)
+Authentication-Results: atlas323.free.mail.ne1.yahoo.com;
  dkim=pass header.i=@yahoo.com header.s=s2048;
  spf=pass smtp.mailfrom=yahoo.com;
  dmarc=pass(p=REJECT) header.from=yahoo.com;
-X-Apparently-To: ms60710444266@yahoo.com; Tue, 31 May 2022 17:52:08 +0000
-X-YMailAVSC: vYC1jO83bBsjQbzAlct_oCHKoUPgDbGXRHzZMkuTQEqKPya
- EZxIpecN0qo2x2WMvfAh0Y8W2wuA_t8QOEF0U1HjVq_ivd3wTLuwYfEPXmvV
- 4nTlr.wsQwETc.slhtpMS97jPnmZkgKRBwpC992kAJbQsIMb1edGROntSEfo
- _nES8peZtURSX2HTdXV4xS6fzZ_yugErkbTnuvfXHoVkun6u8ZYMRVaHkBOh
- 2johdIuIp7zkJibh8oTTurbgr6a_9eRp.qvgL3NptIISM58Qbb1mRIWSa1Kb
- D5qg1b0JPHT0UwTjTN6iadvTSp5CUSyPo0KIPpvSn2WqT.5dNkdK8Se8Ayl0
- 8YtBVOst88BpJzuBcL3gAT32eQnm9QXbQQ9caPF1StqWZ5hZ7mTEB2qCgCJH
- GOFhxQftrw8FJGTdZPpdv1TP1F4Mmuhrs5EgI1X5EK0_kprDpuKCfnGvOZON
- 0yreMrd9ePB4Cieec2Zdo0o4TGWxSJk_m_Czl_PAp.bX_QwG01frRi.WYlCG
- snTbh3rFNeG2dfDms3Q--
-X-YMailISG: rbRcO3oWLDuPb8JqF2pUhq11eAt9IrpGyipZYeUgzouPoqdu
- Gs_ST_zCiFkLsaj8aPWb7Dv_s7rIhfCx6M7rHjIdwGZW7sqTbVrk.W3uG1oE
- O5obmOBU8bJxpSV7bC3iPzpTFiTHH0PKEH24FaOuX7CfwF3GCYHS0POIBZn.
- 8aEgcHq9jOSIQMhkTR.9Va8TL8cejr_v2GcwuNy2xpZoslq8h2QS0KLc4vQO
- O.GoJf9_2bnsTHgl.IJ.Cuq1P7.99TchRv2DJdfSqCeYsfBION9QF7h5uxM2
- tU8jdctx7A9_Mj5IpvXPZLE3et8FeCv8RBA.ZiZ1jCwXOEAzpgmOkHhDMYa2
- q2mZ3y3Agm1oC6Vzj57oOXL4_ZUgqiQ8Xng0OT6_ii1stDhhPKfHPt8CncuL
- Fy1vBShokZ58hm..xZ3OzB8jlHjov7iPQpu0DXcqH0dYwd3r6XIs6D_8wVfa
- 4vm1AhfNBYRnhD._hrtCVKX6E7L9r2conkQwAKGeVuSAgc1Q7OZRwE5qvinz
- SjF6W_NXCBPocXQDAVKoED7CPSoAH6w_ps1j2ZUautYDS4s9EH5iTRBfrLnL
- qHuehdnDoToYW6lZed5lGVcMnHIbVy3Le7SMG0uSjQmGrbGIIQTFonk35uik
- YjakzRvgy505kfNZ.CtgwUI4Sui.0FzTXwkyfBRdVKPzDCoNLizieiYQwYb1
- RJKYV0SEP5d9hWFO5u9GQvroK9iItTEddS3oSCyPGF77gbe6lfOvBmCgG1UE
- 9GoC7nt1i9VachKdpLR7pRfTiJ9OobMtxnajIL6hKQOLulrLK50U9nVC6h9t
- Yre9BjPbDulnNaVoAtmFC3m3wshU8GUw4m5uAqzhu2m5QITrFzRz75YTOj1Y
- _qkyRvjECBMfZ.d9_JuJ8S2IVdJKTuU2vNrmMK3PU5SZRiZaEQAXRUjRV91H
- q0ouNgo12lNTp32HZpTyWh7gnaKEvK_SAsAJFta3PiaVdOJCE9JK71vJpPtC
- FhMtfX9_83obMiWpYYUOVZNWWfTLmQ.5TMmgDkGJrDNKuSsv1kuvbonZZyAf
- HEThK1dSlyNS6mUpBmC6HiNBCih5wkJVOLux.h1F0zLZGn6L4MigHtc7Mb_v
- cY9oTmIjP4ZHBs4qjJGbYHB5hUbRiafVIOGLPbXbr04Ak5t.X7uXS7KUUPzd
- Bm4lfw--
-Received: from 98.137.65.161 (EHLO sonic309-35.consmr.mail.gq1.yahoo.com)
- by 10.197.40.73 with SMTPs
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 2 Jun 2022 04:56:38 +0000
+X-YMailISG: TgrUuF8WLDvtmTEbwD.IpdAW2sCjG6yATmDku.L_b5hZbxkq
+ mPzchVlCZ1.F8cLU6XMsVNBbIzZjhNn9QkttkzApDzAvZp1uUCb.liWCxr4D
+ Zx14DBX9ViLJP0RUfNNP0msGrU5imREYhUmscMQrbWvUKvu7A2mBxUdiWCKw
+ 57GkNCJSh65itTNTGAfLGFODwUV0u1u3e2VtbG90iinI7WS7cK9_AXv_bNYF
+ QJwZjY_ykQV_S.coLUk2aNQJVpK5wnSex2y5ru8eMGl1.QfpX5.aOnQmYrR7
+ Pe5Hty7mjJ6lbzwFembIY_.idaXu.ZVtdU46sHl3pB81fNdhjrrxLx8IrQ4d
+ 7p9Eynj2l6NfvFawxUaObOF.QI_PwNwAjLghnZSrlJ1BBSGgUSjxtuf_qzKh
+ 7PH_NThhZ6iMOPb_JG0i0HrDxTsAXjDidSp4Co3Nv5awax7NCAfLuUa4bMqw
+ RV6jmE5SmEg0hOjjgQCpiuVaaci84NAeYQbOBW9LIRetl0nRwu8KD.AAtkt6
+ g_j8MOn9qtJnXLM4mR6_pm2pwQLQ73N_l.P9_i8QWjOYfKYGGn_N8FAWyK2J
+ ljswzX8J70FQaFs7XPrzJ_s1UJLJ9g5EpDITC1iXl.Up2ikCa4SDujbx5Rra
+ 7gYPML_xcs8N51CCRX9unaaLeX_nglZXKkdJYeToknXAEM3XkZFn0IoZH12J
+ SB9ThQ5FocLpAcIAJZwLpx_LqQC2jcTNtde2DTg83CIqn_JCZrcJjK7T5KpV
+ OLHL3uZxrsado5FuH..ft7wsBI6pR3pXiNy8703asBcBOYOLBuDZDtKq9nuL
+ 2F5syErKUiWoWBGZ9wCMkB2YmUTEUmxAENZrV.jngICPdpIrGMJFW6hIZOlr
+ ng3dD1pDWOwNKUJhuSEtyAszH89a1_CbyljEgJsnNlfYaNrnclIx.4_HeSGH
+ EXPNW8tuywnE_IiVeuAsGJZEW6_ps3bavqHBoCoDMzVuiw9lGUFjycjhvE1A
+ jN5P0XINVoLD9j2oEcEfGI4SCcFk0mmodn0RKvAXajdMeY14zChxBizlvY4Q
+ xef8_exMnfAsk1f9ln_ujLy4ZHzlzsUjsz6wK.EHWDyqj.GjL8637OJ.Y.Cu
+ ah6ScRu3u3sAzxIaDnk2B25uB3Y1NB1cHqzV1bqogYTuwT6OCM3In09cOvou
+ _i4dZbAy
+Received: from 98.137.66.83 (EHLO sonic321-20.consmr.mail.gq1.yahoo.com)
+ by 10.217.150.140 with SMTPs
  (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
- Tue, 31 May 2022 17:52:08 +0000
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654019527; bh=nbUCtz5izfoQNogfWlXOi2IZB83Yzkd/RX/T0tFKFaU=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=XCOIU4Suzl1MCa8rot17AY/VDdBUYYYVMJG7xpG2a1Pyz4MQhUqOtBx+v36l5RJQnRI0u4KMdlDAM/U667fA3WIqCMQo10jXu9TYIZKODvCsS/b4z65Sbw0DfUQf6VOGBwWUpRXrUtyWmxXnQJWV0FNjn6itDHvuRWo0P6hQcyGlGvJWOtSgCm7O25CsaYqRggF+NtScEH59tDK73aaZrONcSOVidW0xciUAG08jtX/bw5L4QhCFwpFCTeaVTq41XGUxe528lkgKCgLKqR+LRnpJ9I/Ym+Lwv5Ip1e1LuUlSNlKwJy2tWM5BreURlYebdemyJNEWBi3rnEyhR0EF6w==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654019527; bh=xQ7k00vFHVwBG+87rEVJUEJV0EYh/MtgrGsPdOHZiTX=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=TQZCsRJ355oI7HJ5sGxIQUqu9I+7jI9MpxQ2J1kzvI62UTuLpk+FPgFhDPLQgWkU8n3hO84SdIxzvjf3/bwJVGhbHhOoAu6jBRPW4Lp6M4zVGpg6eRMKNp9+truZUdzXg1o62uX0gjvGH6aBreWK3jl9e14kNPhP5//gVvIFGCieNkNCB7FgQ3FzdqzVrUVdYaxFvqFDHyR1pJqSIYMypDpd4lxuTx7i8dagwRCp2jVIN7rKT/upK32J1IlsYnuBu847lkZFIcyRZH4AbhR3pBmuiEqKd8u+TLFMbo71T9Hj0V7Re/3l3aisLsOuktFEYfoktnvjQ25ColfmziJdGA==
-X-YMail-OSG: 0OhrrnYVM1lNdP8ftl3lqBwJIyKHBJuOeq7EWcs5bCRBJrYz8NBEjD1yIYWCO.m
- wmMtBNSGgcj11l6qSpwW_dqyVAp80Mifen9cSElaeaWJ8UIbPZtYvr.m2RtfPnZvV8UyQqOsifGd
- CytdNlYrvtupsVGwf9HaDTf15m6iu1CKTjJeBhA4Ang.6mC9eLJxaHZRYUz9q6tDL4kmFyW11roB
- LYF0bn1Njhbq5YPpVxo4CS5hBtvRPoMaebL227RXzHwzxFEPTbP1nncA2TjNGi7wfDg3aMlA_JOi
- ofEXORD6fFvT4vH7QUg5q7tpRRTmUsFrvn_uITDTRJBYM3gIW.lILhyLyhltd3SYuTKC4s3w_Lev
- ALUrZuzD5o2ytLug.4WS44Xv4Ttygqz61A7U9m6BI05zVuCwFBONSlYJlJKVA_T7wuXBomdNPVND
- arZEZIIdkilNQfb7lKJJjNyTK0pfyRaFmunLOnImm6218Xu4FFaDI_1RBKxVfp9TDUqLyQenVHbO
- Ty_pe26PH9NWh0IskoM0oEqUIZVDGNIjd1EcWoPZfWopU2ABk002SjX9toS4m8hiWqtx.A0JC1g_
- qoo1.2omCZ6HvylKHEygSGRy5FQmEge1TR3YtIYKooBk5uwqwLCahPpMTi7ERo504WGzuT9nArB5
- 02SJMaIdmLVzcMSa43JRGNBKeRYTRa34p6PPJGpDS7KJ.qwDu91ZUIXYWO.w8omhJyF1pNodMpws
- gB9nJ9zfEwgKLlwV7re_Hp2jjU8hIP2yyigBC6Q1r.A4FoIZKrvTuUffkFayeZfDD9rYWZFHTPCN
- YbGhNhSq8ig8_AwNG4FsSVALA5O1J9TgcuvyGphG14gmC74tG1f_6Skorv1OYYK.4F2R.Qm0_nBZ
- LzAvm47nEJU8wldrSeBMpZemJ9wGPNlGve8cuhHJW8OvQPULZL2_hWivOnSWZP3jwyZIZ.Dywga4
- p1utoj.BrsnfSNg9HtHNPN_3tqaUTzx.NMZR1L46FXuCbHwdZ8KNrBKJzWPqdB8q8KuOKKe67QE2
- lCGdrcuKIBiqIuuwYOXEszJ2qRrU5SXXliq1jmDWlmVCBBvpA4CHdGV_MV_7a3LrUrSvg3cGPqzV
- DR6.bnqqmkotCDXUaumuPIxi.JNlV1jtk_KO0PHsZ2zT7AEebYf75935d6KQ5Ul_4OENr6VSF6.L
- 8alvaYmEFZsTT0aCLkqGD.UCcTWqxbyr.a.xMHFNNx0c21EcbyjvzBgGdTbGZjBSvz92WYqoUa2q
- YIpjG56M2Xk.7roYnIJFR.X06JCgbOKhDIh8F_87vmrfnJMdNopdPnKXwfkLKhV.jUGHDCTu2XKG
- Wc93ZjvNjfDUIzo_OX1qktiYb3eCFH0HV.02E4M.Z_IXLpEm_gySQcxzqH.Q6Oeaf_IhkLzBqmn8
- nvi85E2XO6ZGS4Ouvg1IFWB0Up4bEgz6qFPyzPs1LArZadKOWJdWVajV28npCtMfvsPtkLhetQKP
- 9CfDR9mPXtW2jEtw8jms9sI8EzVZ1XXbR.EBJdKql0nXCBugtr5gmyNF.RqD8VHcw1yGYIOghGMd
- caOmn97dg9iwh9SmtVcmIYICLPzJogfrcTXjLLa8tbuOwI0LWqv52DDHWPZju_aPEY0NGAhbGdwf
- uT4jrNkdqMBFrXFjsMQ5sLpm_YpmdfR6ird19LNQbaJFFJ3zrJvSvCcrlCQzYePxtQP_aLC607k8
- 09WEY_SwJ4iAPyfymipYN_nWDgJtl77R9RVAY2.9BrG3vIwwcH7Ejiy1d5pyDpFevswJS1hixMwQ
- .Wart3BUcca4zn5M6fXdkFcO7sQsMoCk2XsWz5pSK1.sZv2IabvwbjlQWYQNRkIB.fFqLG2H_aMP
- tqaG01p1EJbR2kzX6Vtbf3RgUKOsyp4mDn2PxOBnEXb6IlR.UNuoH8K19LC8Yro50_v1ixV2JLI5
- RhDqaR7h3O_plzABD063ESexbv42njvNDbB7HSP0eFnvhRZ02EH6gc26IzUyxlEXlbrqRul001Xz
- cF38BUwrYC3ZJ4dxtd6zsfjalxlsSv6YUkwgEXpdENwZSdwMXiGHHsAEUojNjWd4F5gw_TuxYvRs
- 0aKhtQ3kp6v3cxXqP0.DOvTxlpbiV_YirRbXILzeKe0lfk3XZ5aNgeYbTje8Q6pNby3wOvpgGwAs
- sEhEK.mwCA0mg4nKBZDKEu7J9iSydlx.MbHpOAlDi.zpyKFdUIejMNvhH21Om_DqQCPS2WSxkep3
- iMJrTo4hkH7kf2xMe3bsVy7nwL7alaZhBua1uf.v2HvqzlozYJF2IdEieO8wZ.J7HMR4rONSeBBK
- TfPzIuDR8aNImLE5wCK7paIKAjRG3MoFboy8dLg.kDdmlE.gzt2Iwkpd1q2vKKvOeNGwFzlIADTc
- Un9EZEq9Nt5DoCglfFg--
+ Thu, 02 Jun 2022 04:56:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654145797; bh=PuxAB3oPy88JFGgUtHmKfZVsFd9cDXyxzhlPIxehv/Y=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=JX0hpnzLjxK+97Pr7lKbkIxpoiQxh22mdX16HLkaBMaoaFqWe7o+HLIx4TjiufGtCRaUq2GliPlZi/631ddaBEpv9ZmRqMBqzR0t2nlIRKbZv8nVG47PRFhV6kWTIS7bfTIrT+j+hfU+s5Tkc5NdTkr1QwKBmruKy2m9C+PB69Jq4/6iflDohooQscR9IWkY3nBSmvGjUrKyPg2WwlLqnsGVkuZU4O2bPE+6CL4KgDKZcbf7HNc7XzNBufNh3qRx765Um7JYMmw3vW7PpFrJ16dK6a5HTCbZcoVF2IWZh2PWBXG/H89IxY8f7SQS92wHrB3iPslnY5QtkUsHuimgSA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654145797; bh=NJOmcepT/GXPyIJqdW5MYQEyXYKAazblvDtA5ojZwZK=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=sMawkcA7729jzdSqRgWjOtMgeAP09VZPLjrnRcoEvlYhpnGOL7ysPpT18wew+WUdKWJObKVWSQZsaZ5l2RExiE6mtmTUKWBm3j7mxefSCcvlDpNJDHw1Tvk0cBNZoC86n1juYhOZ4vdybaXkCkdLkFaC3FkAYG0N4EfS0Y8+mx58adlny+CUVF+qIUoXUh4g+SYl7N0yBf5PbwevtD+NnMXStNyiZOhDXXoObxrnd0RZeG5T0QuxU00tNVTrf3vj0m/dnCnFaSS5Zy4+HrAWkViGvQZNiprJ/cXVyrberp7HnjkXXeyzwXpBYs1LvoNaeD/thVcJM3ayJAZP+tILiA==
+X-YMail-OSG: jkT4HWwVM1lWrQzXpFBcsnV1k5VVHh2e0RCdWiZf7uripW3bvd_cL4_S4SuexIU
+ yDjxwWbRhyoISTOvs37bxhvoyTHhdSt5G5XSMwxTtxMH2PWq9f0zJFV5e6H5LNeHcmqAX7ApIxjv
+ jsR7Gdn03A1JzdLRhV.5Gm4Sm0AfV_74QfBVwa0ZOBOInuL2Dc4rissoFZITv9Vhr7O6rELi3qhS
+ baC85P1D0IkX6L0wGkxBiCZYzmxy0oHNpcdgR_2e8GtmtdYwFz7fwlf5LAxZ7uvTSLxx9BI3n5YC
+ uEb05iFOkuoERFw9P7q6zvaDHyHc9GxcMX9wiFAROyAUnKXBkOhxeOGVTOrUyBtXb2HaHfAkW8L1
+ ylX2WGfmjIIS6biNZw4zG8CalS.TNQiz9enN74_Cl4_s8qzizQF0ebXpBfKSte3o9fLkGLrmABhF
+ Yr9r8VS4gOMJpE.dq2vIhGkE2WXWedgcvL62v4WMFCDYo4nK3OLAVkz.9bqgaEnUZDjPuC77tHxs
+ 56RyTxiOqARIct6iSO9AJrkn7LygFGtEtxyalT0wupXTMlmRoUebn91UZJPpJFYYIAtQP77Z52YW
+ D3OQnN1C_k8I4Q2GdklnKZZbMU2MGcq2uJpbkFTnF9vBP8AbXm0H5L8UQhNlqelUYZIay7f7Eg7O
+ jzTIRgxKL738R8vHAfo5oWoerN4TTWT_9ZyJ0YwIy_w70arsIjoCS.Pn3jKeqJNV8syosCfWzvhh
+ Sv.RSYv_sJPCnDW3t4FjwpAFOSSysZ8pD.SmD6ALV4fusFKbYNUWzDySPW0fQ.ddQ3FOU6FZX.b.
+ RyQs69ew8_HEMJGqZu4NW1cYab6.F.ttAN2zSV6zNQh9xh0ZnwZaipmWaJPlw1EawoCx6gAjFqnw
+ 87QouhZv9vZXCdIs531nSX0Y14_zSjWHHPL.SfVet38jA6q0u6g.WTBs_KLT8B_E_v_Bl7QEU.hr
+ yzk3pvK9R2yGQ8xuMP92_Z.5kHYnscn5vBHcIHOBe_EtqmGaVdfXAsK8A4qxF_LCkh4IYWhA8fS2
+ hpAAp1fUqfSn50UnXwxvWM2T5ROxGNJ4gWr7G.6DjZUl5JugzqzU8fc6XtqeFxsruOIc24YRFUl7
+ NlwSwToisgRGuRmPVa4wPnwpA_cyczfV6benSBQ6DWrLYLXUpoMpfcQT7Sx1lXIaKrLgGgafK2jO
+ B4FnO7QLkdQRvZI_elrElmvI9CjjB_A0Pr5l59c2v4HOYJI74qSDMW5vUtJy1zEdG2MCeEp3PSi3
+ nMgRYUEVk90MKS2VzyG4Q5QbqHM7nO4riGLY6BS88fOaSf5lhk3jYEcUNHz9hL.IPHcgq7t5M2as
+ xYnLm3prKivSRs3WcKa25360B.UmAv7fZDdtwTgtlxsHxP5q.R2tfXREKFGhrG6DjjNWctluO_.I
+ jfFo069BZz.AciUl7Up_MBYjJ4BwwLJ3JBthabn8IaG_rr7xayjBcFfnY5lkLFALQ0_oXGovd9kt
+ cOAK0ixTDvv8lTAN1mGxiAIUBJt2fX4UYYqHihcENAutH7cR4yR2Q1DbEcY1PjC2PomxRnnCwQ0K
+ 7BwK6e_.fcwmDRpFBXc8cBQjr65rUj5mzS3iaNix6EvT_xUDMvDHPIX31y8XHKQcrtuGs1fwD22y
+ weeNpcghP6ZOlRnjlp0J8ASXFJX9FZWtLtK.YZR7o8vZNV6H1nB5sRKHP1cEx4vBlEY7fAkbv4C3
+ dfVClDZOicJV2Z2m34dyVhasw1Df1I4xTtY_8jmRm_.7UHmjhYZ_iTPJhLN9.II6PXQ4fcuAGjta
+ HeP6zyPeNjhZqRNCgNsyiqQLwP0Dm8WKB27OO_sBJWWdcF6TfYi6U5mAuRJhwlciyjNKOxuPecpU
+ AYQQRqHGEOEvq0oLF386a.dQ5aNuzC_L0xixscT9cwAthe4IAPBcRxpgXEEkn2g4kg8PRmUwSyVE
+ aFQ1EpXoHNf8tQH4oFpz7Gc395PVtI0W51j8mHCI8FzfoATyeVGg2K9.AkI8tzSPHMjIVBJox9CW
+ Ur1zs6cKn2aqWPFq2mOe5PkYspxoJd.EAzT4bhx.qEegBiaofjp2hdhWJ5YvV0hdGkNfDPTOqNjY
+ dKNl3Uo.hkFbBttaLNqf7_eOW.9C_UT3f3EBu3clOxmdYlJN35bzIPWluIk2f2Ga6L9IPUS7ZMMp
+ NOHZ.VfsknTqkUknSh_wDo92e1QnNWMNZQcEbHWGvuJkcVxiJIsXy6cYgtq8gqR6_7H8Dt8UN0X_
+ TOFBBD2N8SD4lNrXOVPd3F3tPt0Lu5P5P_AzNqAqAzsGKHpaizmV4mQHW.juhw_9ewKglE4nRnWb
+ C6nnYFuErxYWdTuAhwRo6ZT5w9OP6DDWJJpro15PnRn60BCtw9ENc_TtggmliBfa0otmp45PTKc9
+ 2FX6QwA_r2glRNhGXfolYcRm_KQO7CGrGDzmv21YK4m0f3uA37ivCB8xuWyt4aNLFjv2cHpBAv1K
+ iAzQWwTH3VQ7JB7uVsP1.NrbEVSX7UKYtePr8kbs_acHsF6PhurCA._Q__KG.2IVRD9LF54CxI6F
+ vR7ACilNQ1XZ52BTyjgAnLuAaF0qIwnXl
 X-Sonic-MF: <bo.dincer@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic309.consmr.mail.gq1.yahoo.com with HTTP; Tue, 31 May 2022 17:52:07 +0000
-Date: Tue, 31 May 2022 17:52:00 +0000 (UTC)
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic321.consmr.mail.gq1.yahoo.com with HTTP; Thu, 2 Jun 2022 04:56:37 +0000
+Date: Thu, 2 Jun 2022 04:56:30 +0000 (UTC)
 From: Bo Dincer <bo.dincer@yahoo.com>
 Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
-To: "ms60710444266@yahoo.com" <ms60710444266@yahoo.com>, 
-	"info@manhattanbp.nyc.gov" <info@manhattanbp.nyc.gov>, 
-	"speakerjohnson@counsil.nyc.gov" <speakerjohnson@counsil.nyc.gov>, 
-	"levine@council.nyc.gov" <levine@council.nyc.gov>, 
-	"kford@helpusa.org" <kford@helpusa.org>, 
-	"odonned@assembly.state.ny.us" <odonned@assembly.state.ny.us>, 
-	"jackson@nysenate.gov" <jackson@nysenate.gov>, 
-	"jcarter@dss.nyc.gov" <jcarter@dss.nyc.gov>, 
-	"irvinlei@dss.nyc.gov" <irvinlei@dss.nyc.gov>, 
-	"stringer@comptroller.nyc.gov" <stringer@comptroller.nyc.gov>, 
-	"ECUCKER@AOL.COM" <ECUCKER@AOL.COM>, 
-	"slaskowitz@inngramllp.com" <slaskowitz@ingramllp.com>, 
-	"bk02@cb.nyc.gov" <bk02@cb.nyc.gov>, 
-	"inna.guzenfeld@brooklynbp.nyc.gov" <inna.guzenfeld@brooklynbp.nyc.gov>, 
-	"Claudette.Ramos@parks.nyc.gov" <Claudette.Ramos@parks.nyc.gov>, 
-	"kwaters@ebcincny.com" <kwaters@ebcincny.com>, 
-	"cmiller@ebcincny.com" <cmiller@ebcincny.com>, 
-	"csosik@ebcincny.com" <csosik@ebcincny.com>, 
-	"WiWong@dep.nyc.gov" <WiWong@dep.nyc.gov>, 
-	"LALERTE@STNICKSALLIANCE.ORG" <LALERTE@STNICKSALLIANCE.ORG>, 
-	"MSHARMA@SCHOOLS.NYC.GOV" <MSHARMA@SCHOOLS.NYC.GOV>, 
-	"JLOLI@DCAS.NYC.GOV" <JLOLI@DCAS.NYC.GOV>, 
-	"JAHAYES@LANGAN.COM" <JAHAYES@LANGAN.COM>, 
-	"mordy@levelhotel.com" <mordy@levelhotel.com>, 
-	"MARTY.ROWLAND@PARKS.NYC.GOV" <MARTY.ROWLAND@PARKS.NYC.GOV>, 
-	"rhammond@sunocoinc.com" <rhammond@sunocoinc.com>, 
-	"TOMC@VLKMGT.COM" <TOMC@VLKMGT.COM>, 
-	"pinkbookswap@yahoo.com" <pinkbookswap@yahoo.com>, 
-	"bondstrt007@gmail.com" <bondstrt007@gmail.com>, 
-	NORTHERN TRUST <sjs5@ntrs.com>, 
-	David Moore <david.moore.ct95@statefarm.com>, 
-	State Farm <mutualfunds@statefarm.com>, 
-	"bofamarkets@baml.com" <bofamarkets@baml.com>, 
-	"JPMCinvestorrelations@jpmchase.com" <JPMCinvestorrelations@jpmchase.com>, 
-	"dailydigest@stanford.edu" <dailydigest@stanford.edu>, 
-	The Stanford Daily <digest@stanforddaily.com>, 
-	"tessier3@stanford.edu" <tessier3@stanford.edu>, 
-	"kevin.kilkenny@chase.com" <kevin.kilkenny@chase.com>, 
-	"melissa.pumphrey@evercoreisi.com" <melissa.pumphrey@evercoreisi.com>, 
-	"ir@expedia.com" <ir@expedia.com>, 
-	"publicaffairs@doc.gov" <publicaffairs@doc.gov>, 
-	"publicinfo@sec.gov" <publicinfo@sec.gov>, 
-	"abanews@americanbar.org" <abanews@americanbar.org>, 
-	"mediarelations@ap.org" <mediarelations@ap.org>, 
-	"dallas-reserve-mgmt@dal.frb.org" <dallas-reserve-mgmt@dal.frb.org>
-Cc: "governor.hochul@exec.ny.gov" <governor.hochul@exec.ny.gov>, 
-	Rabbi Shlomo Kugel <rsk@chabadwestside.org>, 
-	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, 
-	Dow Jones <pronewsletter@dowjones.com>, 
-	Dow Jones <wsjprosupport@dowjones.com>, 
-	"abuse@gs.com" <abuse@gs.com>, 
-	"jpmcinvestorrelations@jpmchase.com" <jpmcinvestorrelations@jpmchase.com>, 
-	"kerri.saperstein@morganstanley.com" <kerri.saperstein@morganstanley.com>, 
-	KEVIN ROCK <krock5@bloomberg.net>, 
+To: "JAMES GORMAN [MORGAN STANLEY]" <james.gorman@morganstanley.com>, 
+	"praghuram2@bloomberg.net" <praghuram2@bloomberg.net>, 
 	"PRIYA.RAGHURAM@MORGANSTANLEY.COM" <PRIYA.RAGHURAM@MORGANSTANLEY.COM>, 
 	"colin.brooks@morganstanley.com" <colin.brooks@morganstanley.com>, 
-	"Kathleen A. Mullins" <kathleen.mullins@wilsonelser.com>, 
-	Josephine Vella <josephine.vella@finra.org>, 
 	Jpetit <jpetit@mccarter.com>, 
-	"tedhermanson@northmarq.com" <tedhermanson@northmarq.com>, 
-	"teschmann@mskyline.com" <teschmann@mskyline.com>, 
-	"tenant.portal@dukerealty.com" <tenant.portal@dukerealty.com>, 
-	Ir-operations-team <ir-operations-team@tudor.com>, 
-	"espnfrontrow@espn.com" <espnfrontrow@espn.com>
-Message-ID: <1659498588.4082506.1654019520545@mail.yahoo.com>
-In-Reply-To: <249886509.4043815.1654016634023@mail.yahoo.com>
-References: <BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/push/refs/heads/REQUEST-TO-BAR/8db8d4-2d2b62@github.com> <774e5ee3-3f2c-810c-bb12-4a0ffbc5cf4c@yahoo.com> <1151202087.3387960.1653824051349@mail.yahoo.com> <249886509.4043815.1654016634023@mail.yahoo.com>
-Subject: Re: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC.
+	Josephine Vella <josephine.vella@finra.org>, 
+	Dow Jones <pronewsletter@dowjones.com>, 
+	Dow Jones <wsjprosupport@dowjones.com>, 
+	Governor Hochul <governor.hochul@exec.ny.gov>, 
+	Shari Laskowitz <slaskowitz@ingramllp.com>, 
+	KEVIN ROCK <krock5@bloomberg.net>, 
+	Brent Reeder <bdr11@bloomberg.net>, 
+	"kerri.saperstein@morganstanley.com" <kerri.saperstein@morganstanley.com>, 
+	"ksaperstein2@bloomberg.net" <ksaperstein2@bloomberg.net>, 
+	"mshy2@bloomberg.net" <mshy2@bloomberg.net>, 
+	"MSHY1 [ DEC 18 - 2021]" <mshy1@bloomberg.net>, 
+	"Carl Hoecker [SEC]" <oig@sec.gov>, Goldman Sachs <briefings@gs.com>, 
+	State Farm <mutualfunds@statefarm.com>, 
+	"abuse@gs.com" <abuse@gs.com>, 
+	American Bar Association <abanews@americanbar.org>, 
+	"merna.abouelmaaty@skadden.com" <merna.abouelmaaty@skadden.com>, 
+	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, 
+	Sean Kelleher <skelleher@wsaccess.com>, 
+	"Jennifer M. Provost" <jennifer.provost@wilsonelser.com>, 
+	"james.koeneman@navconsulting.net" <james.koeneman@navconsulting.net>, 
+	"Bloomberg L.P." <bbrief@bloomberg.net>, 
+	"blaw.content@bloomberg.net" <blaw.content@bloomberg.net>, 
+	Federal Reserve Bank of New York <general.info@ny.frb.org>, 
+	"Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, 
+	David Moore <david.moore.ct95@statefarm.com>, 
+	"tmc-corps@bloomberg.net" <tmc-corps@bloomberg.net>, 
+	"crcomplaints@treasury.gov" <crcomplaints@treasury.gov>
+Cc: "tradingandmarkets@sec.gov" <tradingandmarkets@sec.gov>, 
+	TRACE Data Services <tracedataservices@finra.org>, 
+	Newyork <newyork@sec.gov>, 
+	Los Angeles Times <subscriptions@email.latimes.com>, 
+	"losangeles@sec.gov" <losangeles@sec.gov>, 
+	LA TIMES NEWSLETTERS <newsletters@latimes.com>, 
+	William McKenzie <wmckenzi@nycourts.gov>, 
+	"wmckenzie@nycourts.gov" <wmckenzie@nycourts.gov>, 
+	"wmprivacy@warnermediagroup.com" <wmprivacy@warnermediagroup.com>, 
+	InvestmentNews Daily Pulse <investmentnews@editorial.investmentnews.com>, 
+	"iceglobalnetwork-info@ice.com" <iceglobalnetwork-info@ice.com>, 
+	IMshareholderproposals <imshareholderproposals@sec.gov>, 
+	"imcsterling@bloomberg.net" <imcsterling@bloomberg.net>, 
+	Bressler Info <info@bressler.com>, 
+	"info@wilsonelser.com" <info@wilsonelser.com>, 
+	Extellmanagement Info <info@extellmanagement.com>, 
+	Alan Morrison <ajm157@columbia.edu>, 
+	VOGUE PRESS MAGZ <help@voguemagazine.com>, 
+	"vs-dataprotection@victoria.com" <vs-dataprotection@victoria.com>, 
+	BRIAN HODGSON <brian.hodgson.nyz6@statefarm.com>, 
+	FINRA Corporate Notification <finracorporatenotification@finra.org>, 
+	Miami <miami@sec.gov>, 
+	"fmarmorale@bloomberg.net" <fmarmorale@bloomberg.net>, 
+	"fromano33@bloomberg.net" <fromano33@bloomberg.net>, 
+	"pressinquiries@point72.com" <pressinquiries@point72.com>, 
+	"premerger@ftc.gov" <premerger@ftc.gov>
+Message-ID: <1481363145.4714286.1654145790520@mail.yahoo.com>
+In-Reply-To: <20220602044914.287A2D2063@mail4.chamber.state.ny.us>
+References: <20220602044914.287A2D2063@mail4.chamber.state.ny.us>
+Subject: See also SFBDX holdings.
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_4082505_1734083141.1654019520539"
+	boundary="----=_Part_4714285_2084083106.1654145790514"
 X-Mailer: WebService/1.1.20225 YahooMailAndroidMobile
-Content-Length: 871581
+Content-Length: 873851
 
-------=_Part_4082505_1734083141.1654019520539
+------=_Part_4714285_2084083106.1654145790514
 Content-Type: multipart/alternative; 
-	boundary="----=_Part_4082502_1717848543.1654019520319"
+	boundary="----=_Part_4714282_528494719.1654145790285"
 
-------=_Part_4082502_1717848543.1654019520319
+------=_Part_4714282_528494719.1654145790285
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
 
-Othebthan documentation the distribution of videos and photographs in a New=
- York Court of Law - without my knowledge or consent, have not been returne=
-d to me --- including those filmed INSIDE of my apartment.=C2=A0
+See also SFBDX holdings=C2=A0
+and also PWC remarks in the annual report of filer 1516523.=C2=A0
+/S/ BO DINCER Thank you Kathy for your assistance.
+=20
+   ----- Forwarded Message ----- From: "Governor.Hochul@exec.ny.gov" <Gover=
+nor.Hochul@exec.ny.gov> To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com> Cc:=
+  Sent: Thu, Jun 2, 2022 at 12:49 AM Subject: Mailbox Not Monitored  This m=
+ailbox is not monitored. You may contact Governor Hochul using this link:=
+=20
 
+http://www.governor.ny.gov/contact-iframe=20
+
+Remember to visit Governor Hochul on Facebook, where you can receive regula=
+r updates on the actions of the Governor.June 3rd, 2022- can you make that =
+connection Miss Hochul?
+I warned them in 2020 this would happen, ask them if they were involved tho=
+ugh, and see also docket 286 below. For convenience.
 /S/ BO DINCER=20
 =20
   On Tue, May 31, 2022 at 1:03 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:  =
@@ -2456,49 +2455,71 @@ S ANDREWS BUTT NAKED.
    =20
  =20
  =20
+ =20
 
-------=_Part_4082502_1717848543.1654019520319
+------=_Part_4714282_528494719.1654145790285
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
 
-Othebthan documentation the distribution of videos and photographs in a New=
- York Court of Law - without my knowledge or consent, have not been returne=
-d to me --- including those filmed INSIDE of my apartment.&nbsp;<div id=3D"=
-yMail_cursorElementTracker_1654019465899"><br></div><div id=3D"yMail_cursor=
-ElementTracker_1654019466133"><div id=3D"yMail_cursorElementTracker_1654019=
-406008"><br><div id=3D"ymail_android_signature">/S/ BO DINCER</div> <br> <b=
-lockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"font-family:Roboto, =
-sans-serif; color:#6D00F6;"> <div>On Tue, May 31, 2022 at 1:03 PM, Bo Dince=
-r</div><div>&lt;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div style=3D"p=
-adding: 10px 0 0 20px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;"=
-> <div id=3D"yiv6755882637"><div><div class=3D"yiv6755882637yahoo-compose-a=
-ssist-image-card yiv6755882637ymail-android-inline-img-container yiv6755882=
-637ymail-card" contenteditable=3D"false"><img id=3D"yiv6755882637ymail_atta=
-chmentId809072" src=3D"cid:ldWszi6V2PZPpUitcxrL" yahoo_partid=3D"2" style=
-=3D"width:100%;max-width:800px;" class=3D"yiv6755882637inline-image-global =
-yiv6755882637inlined-image-cid-8555bc4c-3d73-4139-98f2-7e53c6a23e94"><br cl=
-ear=3D"none"></div><br clear=3D"none">No involvement by the elser either.<d=
-iv id=3D"yiv6755882637yMail_cursorElementTracker_1654016586871"><br clear=
-=3D"none"><br clear=3D"none"><div id=3D"yiv6755882637ymail_android_signatur=
-e">/S/ BO DINCER</div> <br clear=3D"none"> <div id=3D"yiv6755882637yqt80070=
-" class=3D"yiv6755882637yqt5995624914 yQTDBase"><blockquote style=3D"margin=
-:0 0 20px 0;"> <div style=3D"font-family:Roboto, sans-serif;color:#6D00F6;"=
-> <div>On Sun, May 29, 2022 at 7:34 AM, Bo Dincer</div><div>&lt;bo.dincer@y=
-ahoo.com&gt; wrote:</div> </div> <div style=3D"padding:10px 0 0 20px;margin=
-:10px 0 0 0;border-left:1px solid #6D00F6;"> <div id=3D"yiv6755882637"><blo=
-ckquote id=3D"yiv6755882637yMail_cursorElementTracker_1653823861084" style=
-=3D"margin:0 0 20px 0;"><div style=3D"padding:10px 0 0 20px;margin:10px 0 0=
- 0;border-left:1px solid #6D00F6;"><div id=3D"yiv6755882637"><div><div clas=
-s=3D"yiv6755882637moz-forward-container"><h1 id=3D"yiv6755882637yMail_curso=
-rElementTracker_1653823862540">I. &nbsp;&nbsp;&nbsp; THEY MONITORED MY LAPT=
-OP FROM OUTSIDE OF MY APARTMENT.</h1>
+See also SFBDX holdings&nbsp;<div id=3D"yMail_cursorElementTracker_16541456=
+06779"><br></div><div id=3D"yMail_cursorElementTracker_1654145607032">and a=
+lso PWC remarks in the annual report of filer 1516523.&nbsp;<div id=3D"yMai=
+l_cursorElementTracker_1654145496435"><br><div id=3D"ymail_android_signatur=
+e">/S/ BO DINCER</div> Thank you Kathy for your assistance.<br> <blockquote=
+ style=3D"margin: 0 0 20px 0;"> <div style=3D"padding: 10px 0 0 20px; margi=
+n: 10px 0 0 0; border-left: 1px solid #6D00F6;"> <div style=3D"font-family:=
+Roboto, sans-serif; color:#6D00F6;"> <div>----- Forwarded Message -----</di=
+v> <div><b>From:</b> "Governor.Hochul@exec.ny.gov" &lt;Governor.Hochul@exec=
+.ny.gov&gt;</div> <div><b>To:</b> "bo.dincer@yahoo.com" &lt;bo.dincer@yahoo=
+.com&gt;</div> <div style=3D"display:none"><b>Cc:</b> </div> <div><b>Sent:<=
+/b> Thu, Jun 2, 2022 at 12:49 AM</div> <div><b>Subject:</b> Mailbox Not Mon=
+itored</div> </div>  <div dir=3D"ltr">This mailbox is not monitored. You ma=
+y contact Governor Hochul using this link: <br></div><div dir=3D"ltr"><br><=
+/div><div dir=3D"ltr"><a href=3D"http://www.governor.ny.gov/contact-iframe =
+" target=3D"_blank">http://www.governor.ny.gov/contact-iframe </a><br></div=
+><div dir=3D"ltr"><br></div><div dir=3D"ltr">Remember to visit Governor Hoc=
+hul on Facebook, where you can receive regular updates on the actions of th=
+e Governor.</div><div id=3D"ymsg22447" class=3D"ymsg3830429071" src=3D"mid:=
+//AL-kRmtzCOAsYphBTAIDoB9Fx_I/2"><div id=3D"yiv1456104296">June 3rd, 2022<d=
+iv id=3D"yiv1456104296yMail_cursorElementTracker_1654145200652">- can you m=
+ake that connection Miss Hochul?</div><div id=3D"yiv1456104296yMail_cursorE=
+lementTracker_1654145212139"><br></div><div id=3D"yiv1456104296yMail_cursor=
+ElementTracker_1654145213007">I warned them in 2020 this would happen, ask =
+them if they were involved though, and see also docket 286 below. For conve=
+nience.</div><div id=3D"yiv1456104296yMail_cursorElementTracker_16541452006=
+93"><br><div id=3D"yiv1456104296ymail_android_signature">/S/ BO DINCER</div=
+> <br> <blockquote style=3D"margin:0 0 20px 0;"> <div style=3D"font-family:=
+Roboto, sans-serif;color:#6D00F6;"> <div>On Tue, May 31, 2022 at 1:03 PM, B=
+o Dincer</div><div>&lt;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div sty=
+le=3D"padding:10px 0 0 20px;margin:10px 0 0 0;border-left:1px solid #6D00F6=
+;"> <div id=3D"yiv1456104296"><div><div class=3D"yiv1456104296yahoo-compose=
+-assist-image-card yiv1456104296ymail-android-inline-img-container yiv14561=
+04296ymail-card" contenteditable=3D"false"><img id=3D"yiv1456104296ymail_at=
+tachmentId809072" src=3D"cid:4TDpcEQyNhObdJsQPPaD" yahoo_partid=3D"2.2" sty=
+le=3D"width:100%;max-width:800px;" class=3D"yiv1456104296inline-image-globa=
+l yiv1456104296inlined-image-cid-8555bc4c-3d73-4139-98f2-7e53c6a23e94"><br =
+clear=3D"none"></div><br clear=3D"none">No involvement by the elser either.=
+<div id=3D"yiv1456104296yMail_cursorElementTracker_1654016586871"><br clear=
+=3D"none"><br clear=3D"none"><div id=3D"yiv1456104296ymail_android_signatur=
+e">/S/ BO DINCER</div> <br clear=3D"none"> <div id=3D"yiv1456104296yqt80070=
+" class=3D"yiv1456104296yqt5995624914 yiv1456104296yQTDBase"><blockquote st=
+yle=3D"margin:0 0 20px 0;"> <div style=3D"font-family:Roboto, sans-serif;co=
+lor:#6D00F6;"> <div>On Sun, May 29, 2022 at 7:34 AM, Bo Dincer</div><div>&l=
+t;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div style=3D"padding:10px 0 =
+0 20px;margin:10px 0 0 0;border-left:1px solid #6D00F6;"> <div id=3D"yiv145=
+6104296"><blockquote id=3D"yiv1456104296yMail_cursorElementTracker_16538238=
+61084" style=3D"margin:0 0 20px 0;"><div style=3D"padding:10px 0 0 20px;mar=
+gin:10px 0 0 0;border-left:1px solid #6D00F6;"><div id=3D"yiv1456104296"><d=
+iv><div class=3D"yiv1456104296moz-forward-container"><h1 id=3D"yiv145610429=
+6yMail_cursorElementTracker_1653823862540">I. &nbsp;&nbsp;&nbsp; THEY MONIT=
+ORED MY LAPTOP FROM OUTSIDE OF MY APARTMENT.</h1>
       <br clear=3D"none">
       - ON A 24 HOUR BASIS, RECORDED MY EVERY STEP AND MOTION.<br clear=3D"=
 none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -2509,19 +2530,19 @@ F WILSON , ELSER &amp;
       <h1> " ... PLEASE CHECK THE SECURITY TAPES ... "</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DHb=
 nFLHB3tyjhEWAYb6mOPw=3D=3D</a></li><li><a rel=3D"nofollow noopener noreferr=
 er" shape=3D"rect" target=3D"_blank" href=3D"https://iapps.courts.state.ny.=
 us/nyscef/ViewDocument?docIndex=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/ny=
+=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/ny=
 scef/ViewDocument?docIndex=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D</a></li></ul=
 >
       <h1>II. &nbsp;&nbsp;&nbsp; VIDEOTAPED ME "INSIDE OF MY APARTMENT".</h=
 1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUZ=
 sCx4RNLy/6V9gf1BkpTQ=3D=3D</a></li></ul>
       <h1>III. &nbsp;&nbsp;&nbsp; DISTRIBUTED VIDEOS OF MYSELF IN MY APARTM=
@@ -2530,12 +2551,12 @@ ENT -- THE
       </h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYG=
 RsoOyDJuc93MrOnwh5Jw=3D=3D</a></li></ul>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D84=
 wdx4RhX5LEi0sISXetBw=3D=3D</a></li></ul>
       <h1>IV. &nbsp;&nbsp;&nbsp; ATTACHED VIDEO OF MYSELF DRILLING INSIDE O=
@@ -2544,7 +2565,7 @@ F MY
       <ul><li>
           <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"=
 _blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docInd=
-ex=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv6755882637moz-txt-link-freet=
+ex=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv1456104296moz-txt-link-freet=
 ext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D5uMb/O=
 RklCen4NaSEt6oFg=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -2553,7 +2574,7 @@ F MY
         APARTMENT.</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv6755882637moz-=
+cIndex=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv1456104296moz-=
 txt-link-freetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC4X_PLUS_6_=
 PLUS_kgBxoElZyFgKxGEQ=3D=3D</a></li></ul>
@@ -2566,7 +2587,7 @@ MSELVES MORE
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUa=
 vl5NRQV4YHKqWUf8fyVQ=3D=3D</a></li></ul>
       <h1>
@@ -2580,16 +2601,16 @@ ROUGH MY
 F SULLIVAN
       PROPERTIES, LP.<br clear=3D"none">
     </div>
-    <div class=3D"yiv6755882637moz-forward-container"><br clear=3D"none">
+    <div class=3D"yiv1456104296moz-forward-container"><br clear=3D"none">
     </div>
-    <div class=3D"yiv6755882637moz-forward-container"><br clear=3D"none">
+    <div class=3D"yiv1456104296moz-forward-container"><br clear=3D"none">
     </div>
-    <div class=3D"yiv6755882637moz-forward-container">
+    <div class=3D"yiv1456104296moz-forward-container">
       <h1>VIII. &nbsp;&nbsp;&nbsp; HAVE ALSO ANNEXED AND SWORE UNDER OATH T=
 HEY SAW ME</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPW=
 FQc/WFihoyIKwEunaalQ=3D=3D</a></li></ul>
       <h1><font color=3D"#ff0000">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &n=
@@ -2597,7 +2618,7 @@ bsp;&nbsp; "... BANGING ON A RADIATOR
           ... "</font></h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Doz=
 2nfEu9a94Y3U5/kpIt5g=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -2610,18 +2631,18 @@ sp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; -- USING ONE OF
           THEIR OWN TENANTS AS THE VIDEOGRAPHER.</font></h3>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPW=
 FQc/WFihoyIKwEunaalQ=3D=3D</a></li></ul>
       <font color=3D"#ff0000"><br clear=3D"none">
       </font></div>
-    <div class=3D"yiv6755882637moz-forward-container"><font color=3D"#ff000=
+    <div class=3D"yiv1456104296moz-forward-container"><font color=3D"#ff000=
 0"><br clear=3D"none">
       </font></div>
-    <div class=3D"yiv6755882637moz-forward-container"><font color=3D"#ff000=
+    <div class=3D"yiv1456104296moz-forward-container"><font color=3D"#ff000=
 0"><br clear=3D"none">
       </font></div>
-    <div class=3D"yiv6755882637moz-forward-container">
+    <div class=3D"yiv1456104296moz-forward-container">
       <h1><font color=3D"#ff0000">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nb=
 sp;&nbsp;&nbsp; TRANSFERRED THE LEASES AND
           RENTS TO STATE FARM.</font></h1>
@@ -2641,40 +2662,40 @@ sp;&nbsp;&nbsp; TRANSFERRED THE LEASES AND
             TO EXIST "</font></blockquote>
       </blockquote>
     </div>
-    <div class=3D"yiv6755882637moz-forward-container"><font color=3D"#ff000=
+    <div class=3D"yiv1456104296moz-forward-container"><font color=3D"#ff000=
 0"><br clear=3D"none">
       </font></div>
     <p><b>RE: 153974 - VIOLATION OF PRIVACY...</b><b>
       </b></p>
-    <div class=3D"yiv6755882637moz-forward-container">/S/ BO DINCER<br clea=
+    <div class=3D"yiv1456104296moz-forward-container">/S/ BO DINCER<br clea=
 r=3D"none">
       TEL. 646-256-3609<br clear=3D"none">
       TEL. 917-378-3467<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:BDINCER66@ICLOUD.COM" target=3D"_blank" href=3D"mailto:BDINCER66@ICLOUD=
-.COM" class=3D"yiv6755882637moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
+.COM" class=3D"yiv1456104296moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
 /a><br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a></li><li><a rel=3D"nofollow noopene=
 r noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://saaze2311prd=
 sra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROO=
-KS--4776256-6109023[FILED].pdf" class=3D"yiv6755882637moz-txt-link-freetext=
+KS--4776256-6109023[FILED].pdf" class=3D"yiv1456104296moz-txt-link-freetext=
 ">https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b50=
 02248286386/8209-$BROOKS--4776256-6109023[FILED].pdf</a></li></ul>
-      <div class=3D"yiv6755882637moz-forward-container">
+      <div class=3D"yiv1456104296moz-forward-container">
         <h1><font color=3D"#ff0000"><b><br clear=3D"none">
             </b></font></h1>
       </div>
-      <div class=3D"yiv6755882637moz-forward-container">
+      <div class=3D"yiv1456104296moz-forward-container">
         <h1><font color=3D"#ff0000"><b>&nbsp;&nbsp;&nbsp; TAX MATTERS</b><b=
 r clear=3D"none">
           </font></h1>
       </div>
-      <div class=3D"yiv6755882637moz-forward-container"><br clear=3D"none">
+      <div class=3D"yiv1456104296moz-forward-container"><br clear=3D"none">
         <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" targ=
 et=3D"_blank" href=3D"https://www.irs.gov/pub/irs-utl/tax_crimes_handbook.p=
 dfhttps://www.irs.gov/pub/int_practice_units/IGA9560_11_06.pdf">https://www=
@@ -2686,8 +2707,8 @@ dfhttps://www.irs.gov/pub/int_practice_units/IGA9560_11_06.pdf">https://www=
       </div>
       <br clear=3D"none">
       -------- Forwarded Message --------
-      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"yiv6=
-755882637moz-email-headers-table"><tbody><tr><th align=3D"RIGHT" colspan=3D=
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"yiv1=
+456104296moz-email-headers-table"><tbody><tr><th align=3D"RIGHT" colspan=3D=
 "1" nowrap=3D"" rowspan=3D"1" valign=3D"BASELINE">Subject:
             </th><td colspan=3D"1" rowspan=3D"1">[BSCPGROUPHOLDINGSLLC/ELSE=
 R-AND-DICKER] 2d2b62: TCR
@@ -2698,29 +2719,29 @@ ELINE">Date: </th><td colspan=3D"1" rowspan=3D"1">Fri, 27 May 2022 20:26:30=
 =3D"1" valign=3D"BASELINE">From: </th><td colspan=3D"1" rowspan=3D"1">1212-=
 5858 <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mail=
 to:noreply@github.com" target=3D"_blank" href=3D"mailto:noreply@github.com"=
- class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;noreply@github.com&gt;</a=
+ class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;noreply@github.com&gt;</a=
 ></td></tr><tr><th align=3D"RIGHT" colspan=3D"1" nowrap=3D"" rowspan=3D"1" =
 valign=3D"BASELINE">To: </th><td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofo=
 llow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:MS60710444266@YA=
 HOO.COM" target=3D"_blank" href=3D"mailto:MS60710444266@YAHOO.COM" class=3D=
-"yiv6755882637moz-txt-link-abbreviated">MS60710444266@YAHOO.COM</a>, <a rel=
+"yiv1456104296moz-txt-link-abbreviated">MS60710444266@YAHOO.COM</a>, <a rel=
 =3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:sjs5@ntr=
-s.com" target=3D"_blank" href=3D"mailto:sjs5@ntrs.com" class=3D"yiv67558826=
-37moz-txt-link-abbreviated">sjs5@ntrs.com</a></td></tr></tbody></table>
+s.com" target=3D"_blank" href=3D"mailto:sjs5@ntrs.com" class=3D"yiv14561042=
+96moz-txt-link-abbreviated">sjs5@ntrs.com</a></td></tr></tbody></table>
       <br clear=3D"none">
       <br clear=3D"none">
       Branch: refs/heads/REQUEST-TO-BAR<br clear=3D"none">
       <br clear=3D"none">
       Home: <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKE=
-R" class=3D"yiv6755882637moz-txt-link-freetext">https://github.com/BSCPGROU=
+R" class=3D"yiv1456104296moz-txt-link-freetext">https://github.com/BSCPGROU=
 PHOLDINGSLLC/ELSER-AND-DICKER</a><br clear=3D"none">
       <br clear=3D"none">
       Commit: 2d2b621f9b4e59f4d0f470538b748bb148ddd8eb<br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit=
-/2d2b621f9b4e59f4d0f470538b748bb148ddd8eb" class=3D"yiv6755882637moz-txt-li=
+/2d2b621f9b4e59f4d0f470538b748bb148ddd8eb" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/2d2b621f9b4=
 e59f4d0f470538b748bb148ddd8eb</a><br clear=3D"none">
@@ -2729,7 +2750,7 @@ e59f4d0f470538b748bb148ddd8eb</a><br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com" target=3D"_blan=
 k" href=3D"mailto:70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com" c=
-lass=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;70865813+BSCPGROUPHOLDINGSL=
+lass=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;70865813+BSCPGROUPHOLDINGSL=
 LC@users.noreply.github.com&gt;</a><br clear=3D"none">
       <br clear=3D"none">
       Date: 2022-05-27 (Fri, 27 May 2022)<br clear=3D"none">
@@ -2761,7 +2782,7 @@ LC@users.noreply.github.com&gt;</a><br clear=3D"none">
       <br clear=3D"none">
       via EMAIL: <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" yma=
 ilto=3D"mailto:SJS5@NTRS.COM" target=3D"_blank" href=3D"mailto:SJS5@NTRS.CO=
-M" class=3D"yiv6755882637moz-txt-link-abbreviated">SJS5@NTRS.COM</a><br cle=
+M" class=3D"yiv1456104296moz-txt-link-abbreviated">SJS5@NTRS.COM</a><br cle=
 ar=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -2809,7 +2830,7 @@ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/8db8d4cc5b5=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit=
-/12da4ef7a74ba377567c9f9951294eb95cf34c52" class=3D"yiv6755882637moz-txt-li=
+/12da4ef7a74ba377567c9f9951294eb95cf34c52" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commi=
 t/12da4ef7a74ba377567c9f9951294eb95cf34c52</a><br clear=3D"none">
       <br clear=3D"none">
@@ -2823,7 +2844,7 @@ t/12da4ef7a74ba377567c9f9951294eb95cf34c52</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit=
-/12da4ef7a74ba377567c9f9951294eb95cf34c52" class=3D"yiv6755882637moz-txt-li=
+/12da4ef7a74ba377567c9f9951294eb95cf34c52" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commi=
 t/12da4ef7a74ba377567c9f9951294eb95cf34c52</a><br clear=3D"none">
       <br clear=3D"none">
@@ -2858,7 +2879,7 @@ t/12da4ef7a74ba377567c9f9951294eb95cf34c52</a><br clear=3D"none">
       <h1><br clear=3D"none">
         <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_b=
 lank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DfXMaXgey=
 zvA85ViWMmvfAQ=3D=3D</a></h1>
       <br clear=3D"none">
@@ -2976,7 +2997,7 @@ cef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a></li></ul>
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dc3i=
 exOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -2992,7 +3013,7 @@ exOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DHbnFLHB3=
 tyjhEWAYb6mOPw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3000,7 +3021,7 @@ tyjhEWAYb6mOPw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYvk=
 ihzM1cwANtAvbUwWX_PLUS_g=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3010,7 +3031,7 @@ ihzM1cwANtAvbUwWX_PLUS_g=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUZsCx4RN=
 Ly/6V9gf1BkpTQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3021,7 +3042,7 @@ Ly/6V9gf1BkpTQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYGRsoOyD=
 Juc93MrOnwh5Jw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3029,7 +3050,7 @@ Juc93MrOnwh5Jw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D84wdx4Rh=
 X5LEi0sISXetBw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3040,7 +3061,7 @@ X5LEi0sISXetBw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D5uMb/ORklCe=
 n4NaSEt6oFg=3D=3D</a><br clear=3D"none">
@@ -3052,7 +3073,7 @@ n4NaSEt6oFg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv6755882637moz-txt-li=
+=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC4X_PLUS_6_=
 PLUS_kgBxoElZyFgKxGEQ=3D=3D</a><br clear=3D"none">
@@ -3068,7 +3089,7 @@ PLUS_kgBxoElZyFgKxGEQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUavl5NRQ=
 V4YHKqWUf8fyVQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3087,7 +3108,7 @@ V4YHKqWUf8fyVQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPWFQc/WF=
 ihoyIKwEunaalQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3099,7 +3120,7 @@ ihoyIKwEunaalQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Doz2nfEu9=
 a94Y3U5/kpIt5g=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3114,7 +3135,7 @@ a94Y3U5/kpIt5g=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPWFQc/WF=
 ihoyIKwEunaalQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -3137,10 +3158,10 @@ ne">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://www.irs.gov/pub/irs-utl/tax_crimes_handbook.pdf=
-" class=3D"yiv6755882637moz-txt-link-freetext">https://www.irs.gov/pub/irs-=
+" class=3D"yiv1456104296moz-txt-link-freetext">https://www.irs.gov/pub/irs-=
 utl/tax_crimes_handbook.pdf</a></li><li><a rel=3D"nofollow noopener norefer=
 rer" shape=3D"rect" target=3D"_blank" href=3D"https://www.irs.gov/pub/int_p=
-ractice_units/IGA9560_11_06.pdf" class=3D"yiv6755882637moz-txt-link-freetex=
+ractice_units/IGA9560_11_06.pdf" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://www.irs.gov/pub/int_practice_units/IGA9560_11_06.pdf</a></li></u=
 l>
       <br clear=3D"none">
@@ -3158,18 +3179,18 @@ l>
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:BDINCER66@ICLOUD.COM" target=3D"_blank" href=3D"mailto:BDINCER66@ICLOUD=
-.COM" class=3D"yiv6755882637moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
+.COM" class=3D"yiv1456104296moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
 /a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a></li><li><a rel=3D"nofollow noopene=
 r noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://saaze2311prd=
 sra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROO=
-KS--4776256-6109023[FILED].pdf" class=3D"yiv6755882637moz-txt-link-freetext=
+KS--4776256-6109023[FILED].pdf" class=3D"yiv1456104296moz-txt-link-freetext=
 ">https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b50=
 02248286386/8209-$BROOKS--4776256-6109023[FILED].pdf</a></li></ul>
       <br clear=3D"none">
@@ -3183,7 +3204,7 @@ KS--4776256-6109023[FILED].pdf" class=3D"yiv6755882637moz-txt-link-freetext=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/db5=
 e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg" cl=
-ass=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
+ass=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
 e.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D1=
 5-3AF4205617AC.jpeg</a></li></ul>
       <br clear=3D"none">
@@ -3196,7 +3217,7 @@ e.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D1=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/8de=
 5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" cl=
-ass=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
+ass=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
 e.windows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B=
 9-93BD202498A9.jpeg</a></li></ul>
       <br clear=3D"none">
@@ -4177,13 +4198,13 @@ E48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg">https://saaze2311prdsra.blob.core=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNV=
 IHKtnJU/ni/zvg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?=
-doc_id=3D2020052000291003" class=3D"yiv6755882637moz-txt-link-freetext">htt=
+doc_id=3D2020052000291003" class=3D"yiv1456104296moz-txt-link-freetext">htt=
 ps://a836-acris.nyc.gov/DS/DocumentSearch/DocumentImageView?doc_id=3D202005=
 2000291003</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4206,46 +4227,46 @@ pYIQ=3D=3D</a></li></ul>
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://github.com/users/BSCPGROUPH=
+=3D"yiv1456104296moz-txt-link-freetext">https://github.com/users/BSCPGROUPH=
 OLDINGSLLC/projects/1</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy=
 0G0QvnmRLGpYIQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       315 1 pager<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFz=
 m0ynPeXZKSHgLQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       Docket 313<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dau8=
 qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFz=
 m0ynPeXZKSHgLQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       Docket 348<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNV=
 IHKtnJU/ni/zvg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       Docket 53<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DLMU=
 E9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4253,7 +4274,7 @@ E9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D</a><br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd=
 3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%2=
-0.pdf" class=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra=
+0.pdf" class=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra=
 .blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION=
 %20%20attachments%20%252F%20Omissions.%20.pdf</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4262,7 +4283,7 @@ nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/f2d6a0fe5fd=
 3ec11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%20CUSTOD=
-Y%20at%20JP%20MORGAN%20CHASE%20BANK.pdf" class=3D"yiv6755882637moz-txt-link=
+Y%20at%20JP%20MORGAN%20CHASE%20BANK.pdf" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://saaze2311prdsra.blob.core.windows.net/clean/f2d6a0fe5fd3=
 ec11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%20CUSTODY=
 %20at%20JP%20MORGAN%20CHASE%20BANK.pdf</a><br clear=3D"none">
@@ -4302,13 +4323,13 @@ lear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column=
--18309490" class=3D"yiv6755882637moz-txt-link-freetext">https://github.com/=
+-18309490" class=3D"yiv1456104296moz-txt-link-freetext">https://github.com/=
 users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490</a><br clear=3D"none"=
 >
       ^ tax receipts<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf=
-" class=3D"yiv6755882637moz-txt-link-freetext">https://www.sec.gov/comments=
+" class=3D"yiv1456104296moz-txt-link-freetext">https://www.sec.gov/comments=
 /s7-14-18/s71418-4531826-176079.pdf</a><br clear=3D"none">
       ^ VIOLATION OF PRIVACY<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
@@ -4318,7 +4339,7 @@ r=3D"none">
       </a><br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7=
-" class=3D"yiv6755882637moz-txt-link-freetext">https://github.com/BSCPGROUP=
+" class=3D"yiv1456104296moz-txt-link-freetext">https://github.com/BSCPGROUP=
 HOLDINGSLLC/ELSER-AND-DICKER/pull/7</a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -4330,7 +4351,7 @@ HOLDINGSLLC/ELSER-AND-DICKER/pull/7</a><br clear=3D"none">
       </b><br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit=
-/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4" class=3D"yiv6755882637moz-txt-li=
+/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commi=
 t/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4369,7 +4390,7 @@ a979d5ec11a7b5000d3a1af965/2020-06-03%20Notice%20and%20Obstruction.png</a><=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DXjn0/e1NcBADqRc_PLUS_g11P4g=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3DXjn0/e1NcBADqRc_PLUS_g11P4g=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DXjn=
 0/e1NcBADqRc_PLUS_g11P4g=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4381,7 +4402,7 @@ eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DXjn=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit=
-/d7daa60e1e93abf4098d905770c945a2957c46c8" class=3D"yiv6755882637moz-txt-li=
+/d7daa60e1e93abf4098d905770c945a2957c46c8" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commi=
 t/d7daa60e1e93abf4098d905770c945a2957c46c8</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4394,7 +4415,7 @@ ear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/61f910a979d=
 5ec11a7b5000d3a1af965/2020-06-03%20Notice%20and%20Obstruction.png" class=3D=
-"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.wind=
+"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.wind=
 ows.net/clean/61f910a979d5ec11a7b5000d3a1af965/2020-06-03%20Notice%20and%20=
 Obstruction.png</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4407,7 +4428,7 @@ Obstruction.png</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://faxzero.com/status/30666994/5790f17018611119e07814be9e3=
-6110d164afaa6" class=3D"yiv6755882637moz-txt-link-freetext">https://faxzero=
+6110d164afaa6" class=3D"yiv1456104296moz-txt-link-freetext">https://faxzero=
 .com/status/30666994/5790f17018611119e07814be9e36110d164afaa6</a><br clear=
 =3D"none">
       <br clear=3D"none">
@@ -4433,7 +4454,7 @@ ewDocument?docIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D<br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3Dm7XGVkEfrWWMY0QngNAPNQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3Dm7XGVkEfrWWMY0QngNAPNQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dm7XGVkEf=
 rWWMY0QngNAPNQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -4447,7 +4468,7 @@ rWWMY0QngNAPNQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.irs.gov/pub/irs-utl/tax_crimes_handbook.pdf" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://www.irs.gov/pub/irs-utl/tax=
+=3D"yiv1456104296moz-txt-link-freetext">https://www.irs.gov/pub/irs-utl/tax=
 _crimes_handbook.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -4494,13 +4515,13 @@ ub/irs-utl/tax_crimes_handbook.pdf<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DIFnXc8QzXZNA5NVnlS6Iqg=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 IFnXc8QzXZNA5NVnlS6Iqg=3D=3D</a>)
       EXHIBIT(S) - 1 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDS=
-uLFWlbjttGxgjUXGAw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+uLFWlbjttGxgjUXGAw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbjttGx=
 gjUXGAw=3D=3D</a>)
       Laskowitz, S. (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect"=
@@ -4514,7 +4535,7 @@ cketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       6.24.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DA=
-NDSuLFWlbjttGxgjUXGAw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+NDSuLFWlbjttGxgjUXGAw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DANDSuLFWl=
 bjttGxgjUXGAw=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4526,13 +4547,13 @@ bjttGxgjUXGAw=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DfhRaWM5Z/lpX/_PLUS_GtLOH0yg=3D=3D"=
- class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny=
+ class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny=
 .us/nyscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docR=
 ow=3DfhRaWM5Z/lpX/_PLUS_GtLOH0yg=3D=3D</a>)
       EXHIBIT(S) - 2 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph76=
-T77EGjUtofiKDKCOoA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+T77EGjUtofiKDKCOoA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph76T77EGjUtofi=
 KDKCOoA=3D=3D</a>)
       Laskowitz, S. (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect"=
@@ -4546,7 +4567,7 @@ cketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       6.25.2020 email Filed: 08/04/2020 Confirmation Notice (<a rel=3D"nofo=
 llow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://=
 iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dph76T77EGjUtofiK=
-DKCOoA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.co=
+DKCOoA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.co=
 urts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dph76T77EGjUtofiKDKCOoA=
 =3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4558,20 +4579,20 @@ urts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dph76T77EGjUtofiKDKCOoA=
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DT7TIMic7QMg6TGsl7ZZk7w=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 T7TIMic7QMg6TGsl7ZZk7w=3D=3D</a>)
       EXHIBIT(S) - 3 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dx9RF=
-yUAiwcmGbb6y8R306w=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+yUAiwcmGbb6y8R306w=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dx9RFyUAiwcmGbb6=
 y8R306w=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4579,7 +4600,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.27.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dx=
-9RFyUAiwcmGbb6y8R306w=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+9RFyUAiwcmGbb6y8R306w=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dx9RFyUAiw=
 cmGbb6y8R306w=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4591,20 +4612,20 @@ cmGbb6y8R306w=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DeelX/nAE8CbAvX3DqAS2Qg=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 eelX/nAE8CbAvX3DqAS2Qg=3D=3D</a>)
       EXHIBIT(S) - 4 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dhxv_=
-PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D" class=3D"yiv6755882637moz-txt=
+PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D" class=3D"yiv1456104296moz-txt=
 -link-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docInd=
 ex=3Dhxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4612,7 +4633,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.27.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dh=
-xv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D" class=3D"yiv6755882637moz-=
+xv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D" class=3D"yiv1456104296moz-=
 txt-link-freetext">https://iapps.courts.state.ny.us/nyscef/ConfirmationNoti=
 ce?docId=3Dhxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D</a>)<br clear=
 =3D"none">
@@ -4625,20 +4646,20 @@ ce?docId=3Dhxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D</a>)<br clear=
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DVDq7HNe5UkSBQRbTRh0ApQ=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 VDq7HNe5UkSBQRbTRh0ApQ=3D=3D</a>)
       EXHIBIT(S) - 5 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D382T=
-NrNKjw28ce0sCmTN9g=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+NrNKjw28ce0sCmTN9g=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D382TNrNKjw28ce0=
 sCmTN9g=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4646,7 +4667,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.27.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3D3=
-82TNrNKjw28ce0sCmTN9g=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+82TNrNKjw28ce0sCmTN9g=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3D382TNrNKj=
 w28ce0sCmTN9g=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4658,20 +4679,20 @@ w28ce0sCmTN9g=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DRqkhQQorjIJThpUB_PLUS__PLUS_P/0g=
-=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.s=
+=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.s=
 tate.ny.us/nyscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&a=
 mp;docRow=3DRqkhQQorjIJThpUB_PLUS__PLUS_P/0g=3D=3D</a>)
       EXHIBIT(S) - 6 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUQzt=
-9l/yhPj2jXV6Xk9JEA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+9l/yhPj2jXV6Xk9JEA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUQzt9l/yhPj2jXV=
 6Xk9JEA=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4679,7 +4700,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.28.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DU=
-Qzt9l/yhPj2jXV6Xk9JEA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+Qzt9l/yhPj2jXV6Xk9JEA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DUQzt9l/yh=
 Pj2jXV6Xk9JEA=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4691,20 +4712,20 @@ Pj2jXV6Xk9JEA=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DzDCjK7BywKjF_PLUS_dSzzLpaTA=3D=3D"=
- class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny=
+ class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny=
 .us/nyscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docR=
 ow=3DzDCjK7BywKjF_PLUS_dSzzLpaTA=3D=3D</a>)
       EXHIBIT(S) - 7 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DZWQq=
-fKHMbUj/LLDfoydj1g=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+fKHMbUj/LLDfoydj1g=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DZWQqfKHMbUj/LLD=
 foydj1g=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4712,7 +4733,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.29.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DZ=
-WQqfKHMbUj/LLDfoydj1g=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+WQqfKHMbUj/LLDfoydj1g=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DZWQqfKHMb=
 Uj/LLDfoydj1g=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4724,20 +4745,20 @@ Uj/LLDfoydj1g=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DubL4S6xU6VP7k0ErJ/QjlQ=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 ubL4S6xU6VP7k0ErJ/QjlQ=3D=3D</a>)
       EXHIBIT(S) - 8 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DbJO1=
-Rhql6hYHUqwyBXgpGQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+Rhql6hYHUqwyBXgpGQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DbJO1Rhql6hYHUqw=
 yBXgpGQ=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4745,7 +4766,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       6.30.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Db=
-JO1Rhql6hYHUqwyBXgpGQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+JO1Rhql6hYHUqwyBXgpGQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DbJO1Rhql6=
 hYHUqwyBXgpGQ=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4757,20 +4778,20 @@ hYHUqwyBXgpGQ=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DJYRMILt5KQQ1urbt_PLUS_l_PLUS_d6w=
-=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.s=
+=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.s=
 tate.ny.us/nyscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&a=
 mp;docRow=3DJYRMILt5KQQ1urbt_PLUS_l_PLUS_d6w=3D=3D</a>)
       EXHIBIT(S) - 9 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYyVY=
-Utk1/28BobRWwA4/cw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+Utk1/28BobRWwA4/cw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYyVYUtk1/28BobR=
 WwA4/cw=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4778,7 +4799,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       Note from Defendant Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DY=
-yVYUtk1/28BobRWwA4/cw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+yVYUtk1/28BobRWwA4/cw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DYyVYUtk1/=
 28BobRWwA4/cw=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4790,20 +4811,20 @@ ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DYyVYUtk1/=
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DZPMtFlTNP8EjF1ACheaDiw=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 ZPMtFlTNP8EjF1ACheaDiw=3D=3D</a>)
       EXHIBIT(S) - 10 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dc3ie=
-xOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext"=
+xOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext"=
 >https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dc3iexOlBws=
 gc1lnMJ2_PLUS_AqQ=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4811,7 +4832,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.2.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dc=
-3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freete=
+3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freete=
 xt">https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dc3ie=
 xOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4823,20 +4844,20 @@ xOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DzEgIOb80WYguCzL37La1cQ=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 zEgIOb80WYguCzL37La1cQ=3D=3D</a>)
       EXHIBIT(S) - 11 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUavl=
-5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUavl5NRQV4YHKqW=
 Uf8fyVQ=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4844,7 +4865,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.5.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DU=
-avl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+avl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DUavl5NRQV=
 4YHKqWUf8fyVQ=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4856,20 +4877,20 @@ ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DUavl5NRQV=
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DXxJM4ntjDqyux2OysWDWBA=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 XxJM4ntjDqyux2OysWDWBA=3D=3D</a>)
       EXHIBIT(S) - 12 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DF1T3=
-GQPA3JiqxIK2SAiFUA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+GQPA3JiqxIK2SAiFUA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DF1T3GQPA3JiqxIK=
 2SAiFUA=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4877,7 +4898,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.3.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DF=
-1T3GQPA3JiqxIK2SAiFUA=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+1T3GQPA3JiqxIK2SAiFUA=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DF1T3GQPA3=
 JiqxIK2SAiFUA=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4889,20 +4910,20 @@ JiqxIK2SAiFUA=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DjgALIKoNs5hYa00wt2PupQ=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 jgALIKoNs5hYa00wt2PupQ=3D=3D</a>)
       EXHIBIT(S) - 13 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC4X_=
-PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv6755882637moz-txt-link-free=
+PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv1456104296moz-txt-link-free=
 text">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC4X_P=
 LUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4910,7 +4931,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.6.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DC=
-4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=
 =3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4922,20 +4943,20 @@ reetext">https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3DrFm5hqELlHh5JB/4qOWZmw=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 rFm5hqELlHh5JB/4qOWZmw=3D=3D</a>)
       EXHIBIT(S) - 14 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7vHZ=
-oZGbRwlNTahls8hD3Q=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">http=
+oZGbRwlNTahls8hD3Q=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">http=
 s://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7vHZoZGbRwlNTah=
 ls8hD3Q=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4943,7 +4964,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.8.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3D7=
-vHZoZGbRwlNTahls8hD3Q=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">h=
+vHZoZGbRwlNTahls8hD3Q=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">h=
 ttps://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3D7vHZoZGbR=
 wlNTahls8hD3Q=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4955,20 +4976,20 @@ wlNTahls8hD3Q=3D=3D</a>)<br clear=3D"none">
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/DocumentDetails?docketId=3Dr=
 bJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D4FVG6/Kh6Z3HsUEYEeg0uA=3D=3D" clas=
-s=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
+s=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/n=
 yscef/DocumentDetails?docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D&amp;docRow=3D=
 4FVG6/Kh6Z3HsUEYEeg0uA=3D=3D</a>)
       EXHIBIT(S) - 15 (Motion #001)
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DndQB=
-8gALGU_PLUS_ZRe/UpIHq8w=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext"=
+8gALGU_PLUS_ZRe/UpIHq8w=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext"=
 >https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DndQB8gALGU=
 _PLUS_ZRe/UpIHq8w=3D=3D</a>)
       Laskowitz, S.
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_P=
 LUS_3ps6OHxlYrgxCyvPdH9A=3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22Ubka=
-VdrZg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetext">https://iapps.cou=
+VdrZg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetext">https://iapps.cou=
 rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
 =3D=3D&amp;ret=3DD&amp;docketId=3DrbJs1u78EZo22UbkaVdrZg=3D=3D</a>)
       Processed<br clear=3D"none">
@@ -4976,7 +4997,7 @@ rts.state.ny.us/nyscef/FilingUserInfo?filerId=3Dh_PLUS_3ps6OHxlYrgxCyvPdH9A=
       7.9.2020 email Filed: 08/04/2020 Confirmation Notice
 (<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" h=
 ref=3D"https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3Dn=
-dQB8gALGU_PLUS_ZRe/UpIHq8w=3D=3D" class=3D"yiv6755882637moz-txt-link-freete=
+dQB8gALGU_PLUS_ZRe/UpIHq8w=3D=3D" class=3D"yiv1456104296moz-txt-link-freete=
 xt">https://iapps.courts.state.ny.us/nyscef/ConfirmationNotice?docId=3DndQB=
 8gALGU_PLUS_ZRe/UpIHq8w=3D=3D</a>)<br clear=3D"none">
       <br clear=3D"none">
@@ -4997,13 +5018,13 @@ clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DfX=
 MaXgeyzvA85ViWMmvfAQ=3D=3D</a></li></ul>
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf=
-" class=3D"yiv6755882637moz-txt-link-freetext">https://www.sec.gov/comments=
+" class=3D"yiv1456104296moz-txt-link-freetext">https://www.sec.gov/comments=
 /s7-14-18/s71418-4531826-176079.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       - obo OF SULLIVAN PROPERTIES LP HAVE ALSO "PROMISED" TO PAY THEM
@@ -5095,7 +5116,7 @@ none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3Dc3iexOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dc3i=
 exOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -5104,12 +5125,12 @@ exOlBwsgc1lnMJ2_PLUS_AqQ=3D=3D</a><br clear=3D"none">
       <h1> " ... PLEASE CHECK THE SECURITY TAPES ... "</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DHbnFLHB3tyjhEWAYb6mOPw=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DHb=
 nFLHB3tyjhEWAYb6mOPw=3D=3D</a></li><li><a rel=3D"nofollow noopener noreferr=
 er" shape=3D"rect" target=3D"_blank" href=3D"https://iapps.courts.state.ny.=
 us/nyscef/ViewDocument?docIndex=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/ny=
+=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/ny=
 scef/ViewDocument?docIndex=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D</a></li></ul=
 >
       <br clear=3D"none">
@@ -5118,7 +5139,7 @@ scef/ViewDocument?docIndex=3DYvkihzM1cwANtAvbUwWX_PLUS_g=3D=3D</a></li></ul=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DUZsCx4RNLy/6V9gf1BkpTQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUZsCx4RN=
 Ly/6V9gf1BkpTQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -5129,7 +5150,7 @@ Ly/6V9gf1BkpTQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DYGRsoOyDJuc93MrOnwh5Jw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DYGRsoOyD=
 Juc93MrOnwh5Jw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -5137,7 +5158,7 @@ Juc93MrOnwh5Jw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3D84wdx4RhX5LEi0sISXetBw=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D84wdx4Rh=
 X5LEi0sISXetBw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -5148,7 +5169,7 @@ X5LEi0sISXetBw=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3D5uMb/ORklCen4NaSEt6oFg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D5uMb/ORklCe=
 n4NaSEt6oFg=3D=3D</a><br clear=3D"none">
@@ -5160,7 +5181,7 @@ n4NaSEt6oFg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv6755882637moz-txt-li=
+=3DC4X_PLUS_6_PLUS_kgBxoElZyFgKxGEQ=3D=3D" class=3D"yiv1456104296moz-txt-li=
 nk-freetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DC4X_PLUS_6_=
 PLUS_kgBxoElZyFgKxGEQ=3D=3D</a><br clear=3D"none">
@@ -5174,7 +5195,7 @@ PLUS_kgBxoElZyFgKxGEQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DUavl5NRQV4YHKqWUf8fyVQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUa=
 vl5NRQV4YHKqWUf8fyVQ=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -5193,13 +5214,13 @@ none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPW=
 FQc/WFihoyIKwEunaalQ=3D=3D</a></li></ul>
       <h1>"... BANGING ON A RADIATOR ... "</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3Doz2nfEu9a94Y3U5/kpIt5g=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Doz=
 2nfEu9a94Y3U5/kpIt5g=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -5214,7 +5235,7 @@ ne">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPWFQc/WF=
 ihoyIKwEunaalQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -5245,17 +5266,17 @@ rs.gov/pub/int_practice_units/IGA9560_11_06.pdf</a></li></ul>
       TEL. 917-378-3467<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:BDINCER66@ICLOUD.COM" target=3D"_blank" href=3D"mailto:BDINCER66@ICLOUD=
-.COM" class=3D"yiv6755882637moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
+.COM" class=3D"yiv1456104296moz-txt-link-abbreviated">BDINCER66@ICLOUD.COM<=
 /a><br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a></li><li><a rel=3D"nofollow noopene=
 r noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://saaze2311prd=
 sra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b5002248286386/8209-$BROO=
-KS--4776256-6109023[FILED].pdf" class=3D"yiv6755882637moz-txt-link-freetext=
+KS--4776256-6109023[FILED].pdf" class=3D"yiv1456104296moz-txt-link-freetext=
 ">https://saaze2311prdsra.blob.core.windows.net/clean/f6d60b925fd3ec11a7b50=
 02248286386/8209-$BROOKS--4776256-6109023[FILED].pdf</a></li></ul>
       <br clear=3D"none">
@@ -5269,7 +5290,7 @@ KS--4776256-6109023[FILED].pdf" class=3D"yiv6755882637moz-txt-link-freetext=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/db5=
 e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg" cl=
-ass=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
+ass=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
 e.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D1=
 5-3AF4205617AC.jpeg</a></li></ul>
       <br clear=3D"none">
@@ -5278,7 +5299,7 @@ e.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D1=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/8de=
 5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" cl=
-ass=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
+ass=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.cor=
 e.windows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B=
 9-93BD202498A9.jpeg</a></li></ul>
       <br clear=3D"none">
@@ -6294,45 +6315,45 @@ R THE FDIC.</font></h1>
       #GOCARDS<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/=
-1" class=3D"yiv6755882637moz-txt-link-freetext">https://github.com/users/BS=
+1" class=3D"yiv1456104296moz-txt-link-freetext">https://github.com/users/BS=
 CPGROUPHOLDINGSLLC/projects/1</a></li><li><a rel=3D"nofollow noopener noref=
 errer" shape=3D"rect" target=3D"_blank" href=3D"https://iapps.courts.state.=
 ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D" class=3D=
-"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.us/nysce=
+"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.us/nysce=
 f/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D</a></li></ul>
       315 1 pager<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dgc=
 MSDaFzm0ynPeXZKSHgLQ=3D=3D</a></li></ul>
       Docket 313<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a></li><li><a rel=3D"nofollow noopene=
 r noreferrer" shape=3D"rect" target=3D"_blank" href=3D"https://iapps.courts=
 .state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D" c=
-lass=3D"yiv6755882637moz-txt-link-freetext">https://iapps.courts.state.ny.u=
+lass=3D"yiv1456104296moz-txt-link-freetext">https://iapps.courts.state.ny.u=
 s/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a></li></ul>
       Docket 348<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTx=
 Aa7cNVIHKtnJU/ni/zvg=3D=3D</a></li></ul>
       Docket 53<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D</a></li></ul>
       May 11, 2022<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d58=
 5ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omis=
-sions.%20.pdf" class=3D"yiv6755882637moz-txt-link-freetext">https://saaze23=
+sions.%20.pdf" class=3D"yiv1456104296moz-txt-link-freetext">https://saaze23=
 11prdsra.blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%2=
 0EVASION%20%20attachments%20%252F%20Omissions.%20.pdf</a></li></ul>
       JP Morgan Links<br clear=3D"none">
@@ -6340,7 +6361,7 @@ sions.%20.pdf" class=3D"yiv6755882637moz-txt-link-freetext">https://saaze23=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/f2d=
 6a0fe5fd3ec11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%=
-20CUSTODY%20at%20JP%20MORGAN%20CHASE%20BANK.pdf" class=3D"yiv6755882637moz-=
+20CUSTODY%20at%20JP%20MORGAN%20CHASE%20BANK.pdf" class=3D"yiv1456104296moz-=
 txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/f2d6=
 a0fe5fd3ec11a7b5000d3a1326fe/Fwd:%20unlawful%20RENT%20and%20PAYMENTS%20in%2=
 0CUSTODY%20at%20JP%20MORGAN%20CHASE%20BANK.pdf</a></li></ul>
@@ -6656,7 +6677,7 @@ a463845010d3ec11a7b5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg"=
 nofollow noopener noreferrer" shape=3D"rect" target=3D"_blank" href=3D"http=
 s://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b50022482=
 8654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%2015=
-16523]%20MONK[CRD%201357149].pdf" class=3D"yiv6755882637moz-txt-link-freete=
+16523]%20MONK[CRD%201357149].pdf" class=3D"yiv1456104296moz-txt-link-freete=
 xt">https://saaze2311prdsra.blob.core.windows.net/clean/25aff4b997d3ec11a7b=
 500224828654e/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$=
 CIK%201516523]%20MONK[CRD%201357149].pdf</a></li></ul>
@@ -6939,7 +6960,7 @@ none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPWFQc/WF=
 ihoyIKwEunaalQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -6988,31 +7009,31 @@ ________________________________________________________________<br clear=
       <br clear=3D"none">
       From: <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=
 =3D"mailto:pinkbookswap@yahoo.com" target=3D"_blank" href=3D"mailto:pinkboo=
-kswap@yahoo.com" class=3D"yiv6755882637moz-txt-link-abbreviated">pinkbooksw=
+kswap@yahoo.com" class=3D"yiv1456104296moz-txt-link-abbreviated">pinkbooksw=
 ap@yahoo.com</a> <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" yma=
 ilto=3D"mailto:pinkbookswap@yahoo.com" target=3D"_blank" href=3D"mailto:pin=
-kbookswap@yahoo.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;pinkb=
+kbookswap@yahoo.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;pinkb=
 ookswap@yahoo.com&gt;</a><br clear=3D"none">
       <br clear=3D"none">
       To: <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D=
 "mailto:tessier3@stanford.edu" target=3D"_blank" href=3D"mailto:tessier3@st=
-anford.edu" class=3D"yiv6755882637moz-txt-link-abbreviated">tessier3@stanfo=
+anford.edu" class=3D"yiv1456104296moz-txt-link-abbreviated">tessier3@stanfo=
 rd.edu</a> <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=
 =3D"mailto:tessier3@stanford.edu" target=3D"_blank" href=3D"mailto:tessier3=
-@stanford.edu" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;tessier3@st=
+@stanford.edu" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;tessier3@st=
 anford.edu&gt;</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:digest@stanforddaily.com" target=3D"_blank" href=3D"mailto:digest@stanf=
-orddaily.com" class=3D"yiv6755882637moz-txt-link-abbreviated">digest@stanfo=
+orddaily.com" class=3D"yiv1456104296moz-txt-link-abbreviated">digest@stanfo=
 rddaily.com</a><br clear=3D"none">
       <br clear=3D"none">
       CC: B. D2022 <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" y=
 mailto=3D"mailto:ms60710444266@yahoo.com" target=3D"_blank" href=3D"mailto:=
-ms60710444266@yahoo.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;m=
+ms60710444266@yahoo.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;m=
 s60710444266@yahoo.com&gt;</a>, BO iPhone
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:Bdincer66@icloud.com" target=3D"_blank" href=3D"mailto:Bdincer66@icloud=
-.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;Bdincer66@icloud.com=
+.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;Bdincer66@icloud.com=
 &gt;</a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -7034,7 +7055,7 @@ lto:Bdincer66@icloud.com" target=3D"_blank" href=3D"mailto:Bdincer66@icloud=
       On Monday, May 23, 2022, 12:46 AM, B D2022
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:ms60710444266@yahoo.com" target=3D"_blank" href=3D"mailto:ms60710444266=
-@yahoo.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;ms60710444266@=
+@yahoo.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;ms60710444266@=
 yahoo.com&gt;</a> wrote:<br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -7051,129 +7072,129 @@ yahoo.com&gt;</a> wrote:<br clear=3D"none">
       <br clear=3D"none">
       From: BO DINCER <a rel=3D"nofollow noopener noreferrer" shape=3D"rect=
 " ymailto=3D"mailto:bondstrt007@gmail.com" target=3D"_blank" href=3D"mailto=
-:bondstrt007@gmail.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;bo=
+:bondstrt007@gmail.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;bo=
 ndstrt007@gmail.com&gt;</a><br clear=3D"none">
       <br clear=3D"none">
       To: BBO 121 <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ym=
 ailto=3D"mailto:ms60710444266@yahoo.com" target=3D"_blank" href=3D"mailto:m=
-s60710444266@yahoo.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;ms=
+s60710444266@yahoo.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;ms=
 60710444266@yahoo.com&gt;</a>, Bill Cassese (ICE
       BONDS SECURITIES) <a rel=3D"nofollow noopener noreferrer" shape=3D"re=
 ct" ymailto=3D"mailto:bcassese19@bloomberg.net" target=3D"_blank" href=3D"m=
-ailto:bcassese19@bloomberg.net" class=3D"yiv6755882637moz-txt-link-rfc2396E=
+ailto:bcassese19@bloomberg.net" class=3D"yiv1456104296moz-txt-link-rfc2396E=
 ">&lt;bcassese19@bloomberg.net&gt;</a>, Bo Dincer
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:bdincer66@icloud.com" target=3D"_blank" href=3D"mailto:bdincer66@icloud=
-.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;bdincer66@icloud.com=
+.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;bdincer66@icloud.com=
 &gt;</a>, Bo Dincer
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:BO.DINCER@yahoo.com" target=3D"_blank" href=3D"mailto:BO.DINCER@yahoo.c=
-om" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;BO.DINCER@yahoo.com&gt=
+om" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;BO.DINCER@yahoo.com&gt=
 ;</a>, KEVIN ROCK
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:krock5@bloomberg.net" target=3D"_blank" href=3D"mailto:krock5@bloomberg=
-.net" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;krock5@bloomberg.net=
+.net" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;krock5@bloomberg.net=
 &gt;</a>, <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D=
 "mailto:kivalena.starr@pwc.com" target=3D"_blank" href=3D"mailto:kivalena.s=
-tarr@pwc.com" class=3D"yiv6755882637moz-txt-link-abbreviated">kivalena.star=
+tarr@pwc.com" class=3D"yiv1456104296moz-txt-link-abbreviated">kivalena.star=
 r@pwc.com</a>, Laskowitz,
       Shari <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=
 =3D"mailto:slaskowitz@ingramllp.com" target=3D"_blank" href=3D"mailto:slask=
-owitz@ingramllp.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;slask=
+owitz@ingramllp.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;slask=
 owitz@ingramllp.com&gt;</a>, <a rel=3D"nofollow noopener noreferrer" shape=
 =3D"rect" ymailto=3D"mailto:LZUCKER@mskyline.com" target=3D"_blank" href=3D=
-"mailto:LZUCKER@mskyline.com" class=3D"yiv6755882637moz-txt-link-abbreviate=
+"mailto:LZUCKER@mskyline.com" class=3D"yiv1456104296moz-txt-link-abbreviate=
 d">LZUCKER@mskyline.com</a>,
       Stephen O'Connell <a rel=3D"nofollow noopener noreferrer" shape=3D"re=
 ct" ymailto=3D"mailto:sgo2107@adcu.columbia.edu" target=3D"_blank" href=3D"=
-mailto:sgo2107@adcu.columbia.edu" class=3D"yiv6755882637moz-txt-link-rfc239=
+mailto:sgo2107@adcu.columbia.edu" class=3D"yiv1456104296moz-txt-link-rfc239=
 6E">&lt;sgo2107@adcu.columbia.edu&gt;</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:sgo2107@columbia.edu" target=3D"_blank" href=3D"mailto:sgo2107@columbia=
-.edu" class=3D"yiv6755882637moz-txt-link-abbreviated">sgo2107@columbia.edu<=
+.edu" class=3D"yiv1456104296moz-txt-link-abbreviated">sgo2107@columbia.edu<=
 /a>, Dean's Discipline - SCCS
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:conduct-admin@columbia.edu" target=3D"_blank" href=3D"mailto:conduct-ad=
-min@columbia.edu" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;conduct-=
+min@columbia.edu" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;conduct-=
 admin@columbia.edu&gt;</a>, Lee Bollinger
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:bollinger@columbia.edu" target=3D"_blank" href=3D"mailto:bollinger@colu=
-mbia.edu" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;bollinger@columb=
+mbia.edu" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;bollinger@columb=
 ia.edu&gt;</a>, The New York Times
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:help@nytimes.com" target=3D"_blank" href=3D"mailto:help@nytimes.com" cl=
-ass=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;help@nytimes.com&gt;</a>, <a=
+ass=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;help@nytimes.com&gt;</a>, <a=
  rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:gpra=
 docorrea@bloomberg.net" target=3D"_blank" href=3D"mailto:gpradocorrea@bloom=
-berg.net" class=3D"yiv6755882637moz-txt-link-abbreviated">gpradocorrea@bloo=
+berg.net" class=3D"yiv1456104296moz-txt-link-abbreviated">gpradocorrea@bloo=
 mberg.net</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:news@penews.com" target=3D"_blank" href=3D"mailto:news@penews.com" clas=
-s=3D"yiv6755882637moz-txt-link-abbreviated">news@penews.com</a><br clear=3D=
+s=3D"yiv1456104296moz-txt-link-abbreviated">news@penews.com</a><br clear=3D=
 "none">
       <br clear=3D"none">
       CC: <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D=
 "mailto:CHICAGO@SEC.GOV" target=3D"_blank" href=3D"mailto:CHICAGO@SEC.GOV" =
-class=3D"yiv6755882637moz-txt-link-abbreviated">CHICAGO@SEC.GOV</a> <a rel=
+class=3D"yiv1456104296moz-txt-link-abbreviated">CHICAGO@SEC.GOV</a> <a rel=
 =3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:chicago@=
-sec.gov" target=3D"_blank" href=3D"mailto:chicago@sec.gov" class=3D"yiv6755=
-882637moz-txt-link-rfc2396E">&lt;chicago@sec.gov&gt;</a>,
+sec.gov" target=3D"_blank" href=3D"mailto:chicago@sec.gov" class=3D"yiv1456=
+104296moz-txt-link-rfc2396E">&lt;chicago@sec.gov&gt;</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:espnfrontrow@espn.com" target=3D"_blank" href=3D"mailto:espnfrontrow@es=
-pn.com" class=3D"yiv6755882637moz-txt-link-abbreviated">espnfrontrow@espn.c=
+pn.com" class=3D"yiv1456104296moz-txt-link-abbreviated">espnfrontrow@espn.c=
 om</a>, <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"m=
 ailto:ksaperstein2@bloomberg.net" target=3D"_blank" href=3D"mailto:ksaperst=
-ein2@bloomberg.net" class=3D"yiv6755882637moz-txt-link-abbreviated">ksapers=
+ein2@bloomberg.net" class=3D"yiv1456104296moz-txt-link-abbreviated">ksapers=
 tein2@bloomberg.net</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:kerri.saperstein@morgansley.com" target=3D"_blank" href=3D"mailto:kerri=
-.saperstein@morgansley.com" class=3D"yiv6755882637moz-txt-link-abbreviated"=
+.saperstein@morgansley.com" class=3D"yiv1456104296moz-txt-link-abbreviated"=
 >kerri.saperstein@morgansley.com</a>, MIT Sloan Executive Education
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:executive_education@mailsvc.sloan.mit.edu" target=3D"_blank" href=3D"ma=
-ilto:executive_education@mailsvc.sloan.mit.edu" class=3D"yiv6755882637moz-t=
+ilto:executive_education@mailsvc.sloan.mit.edu" class=3D"yiv1456104296moz-t=
 xt-link-rfc2396E">&lt;executive_education@mailsvc.sloan.mit.edu&gt;</a>, <a=
  rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:isda=
-@isda.org" target=3D"_blank" href=3D"mailto:isda@isda.org" class=3D"yiv6755=
-882637moz-txt-link-abbreviated">isda@isda.org</a>,
+@isda.org" target=3D"_blank" href=3D"mailto:isda@isda.org" class=3D"yiv1456=
+104296moz-txt-link-abbreviated">isda@isda.org</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:isdaeu@volker.eu" target=3D"_blank" href=3D"mailto:isdaeu@volker.eu" cl=
-ass=3D"yiv6755882637moz-txt-link-abbreviated">isdaeu@volker.eu</a>, <a rel=
+ass=3D"yiv1456104296moz-txt-link-abbreviated">isdaeu@volker.eu</a>, <a rel=
 =3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:larissa.=
 vonlockner@pwc.com" target=3D"_blank" href=3D"mailto:larissa.vonlockner@pwc=
-.com" class=3D"yiv6755882637moz-txt-link-abbreviated">larissa.vonlockner@pw=
+.com" class=3D"yiv1456104296moz-txt-link-abbreviated">larissa.vonlockner@pw=
 c.com</a>, SOHO HOUSE
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:membership@sohohouse.com" target=3D"_blank" href=3D"mailto:membership@s=
-ohohouse.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;membership@s=
+ohohouse.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;membership@s=
 ohohouse.com&gt;</a>, Ricki Roer
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:ricki.roer@wilsonelser.com" target=3D"_blank" href=3D"mailto:ricki.roer=
-@wilsonelser.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">&lt;ricki.ro=
+@wilsonelser.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">&lt;ricki.ro=
 er@wilsonelser.com&gt;</a>, Humphries, Ashley V.
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:ashley.humphries@wilsonelser.com" target=3D"_blank" href=3D"mailto:ashl=
-ey.humphries@wilsonelser.com" class=3D"yiv6755882637moz-txt-link-rfc2396E">=
+ey.humphries@wilsonelser.com" class=3D"yiv1456104296moz-txt-link-rfc2396E">=
 &lt;ashley.humphries@wilsonelser.com&gt;</a>, <a rel=3D"nofollow noopener n=
 oreferrer" shape=3D"rect" ymailto=3D"mailto:info@statefarm.com" target=3D"_=
-blank" href=3D"mailto:info@statefarm.com" class=3D"yiv6755882637moz-txt-lin=
+blank" href=3D"mailto:info@statefarm.com" class=3D"yiv1456104296moz-txt-lin=
 k-abbreviated">info@statefarm.com</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:info@kpmg.com" target=3D"_blank" href=3D"mailto:info@kpmg.com" class=3D=
-"yiv6755882637moz-txt-link-abbreviated">info@kpmg.com</a>, <a rel=3D"nofoll=
+"yiv1456104296moz-txt-link-abbreviated">info@kpmg.com</a>, <a rel=3D"nofoll=
 ow noopener noreferrer" shape=3D"rect" ymailto=3D"mailto:letters@nypost.com=
-" target=3D"_blank" href=3D"mailto:letters@nypost.com" class=3D"yiv67558826=
-37moz-txt-link-abbreviated">letters@nypost.com</a>, <a rel=3D"nofollow noop=
+" target=3D"_blank" href=3D"mailto:letters@nypost.com" class=3D"yiv14561042=
+96moz-txt-link-abbreviated">letters@nypost.com</a>, <a rel=3D"nofollow noop=
 ener noreferrer" shape=3D"rect" ymailto=3D"mailto:endowmentadmin@columbia.e=
 du" target=3D"_blank" href=3D"mailto:endowmentadmin@columbia.edu" class=3D"=
-yiv6755882637moz-txt-link-abbreviated">endowmentadmin@columbia.edu</a>,
+yiv1456104296moz-txt-link-abbreviated">endowmentadmin@columbia.edu</a>,
       Amy Hanrahan <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" y=
 mailto=3D"mailto:amy.hanrahan@wilsonelser.com" target=3D"_blank" href=3D"ma=
-ilto:amy.hanrahan@wilsonelser.com" class=3D"yiv6755882637moz-txt-link-rfc23=
+ilto:amy.hanrahan@wilsonelser.com" class=3D"yiv1456104296moz-txt-link-rfc23=
 96E">&lt;amy.hanrahan@wilsonelser.com&gt;</a>,
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"mai=
 lto:governor.hochul@exec.ny.gov" target=3D"_blank" href=3D"mailto:governor.=
-hochul@exec.ny.gov" class=3D"yiv6755882637moz-txt-link-abbreviated">governo=
+hochul@exec.ny.gov" class=3D"yiv1456104296moz-txt-link-abbreviated">governo=
 r.hochul@exec.ny.gov</a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -7187,7 +7208,7 @@ ar=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf=
-" class=3D"yiv6755882637moz-txt-link-freetext">https://www.sec.gov/comments=
+" class=3D"yiv1456104296moz-txt-link-freetext">https://www.sec.gov/comments=
 /s7-14-18/s71418-4531826-176079.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       International Monetary Fund, then Managing Director Christine
@@ -7267,21 +7288,21 @@ one">
       AND THE PREMIUMS AND INTEREST INSTEAD<br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/803=
-c4656d3dbec11a7b50022481d5b6c/View%20recent%20photos.png" class=3D"yiv67558=
-82637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
+c4656d3dbec11a7b50022481d5b6c/View%20recent%20photos.png" class=3D"yiv14561=
+04296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
 lean/803c4656d3dbec11a7b50022481d5b6c/View%20recent%20photos.png</a></li></=
 ul>
       <br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.irs.gov/pub/irs-utl/tax_crimes_handbook.pdf" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://www.irs.gov/pub/irs-utl/tax=
+=3D"yiv1456104296moz-txt-link-freetext">https://www.irs.gov/pub/irs-utl/tax=
 _crimes_handbook.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKE=
 R/blob/WILSON-ELSER-DICKER-LLP/-%20-%20153974.2020%20---%2020201005%20-%20e=
-mail%20from%20iPhone%204%20-%20facetime.pdf" class=3D"yiv6755882637moz-txt-=
+mail%20from%20iPhone%204%20-%20facetime.pdf" class=3D"yiv1456104296moz-txt-=
 link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/blo=
 b/WILSON-ELSER-DICKER-LLP/-%20-%20153974.2020%20---%2020201005%20-%20email%=
 20from%20iPhone%204%20-%20facetime.pdf</a></li></ul>
@@ -7292,14 +7313,14 @@ b/WILSON-ELSER-DICKER-LLP/-%20-%20153974.2020%20---%2020201005%20-%20email%=
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKE=
 R/files/8608563/2022.03.02.-.Property.Profile.Overview.-.111.sullivan.stree=
-t.REAR.-.NO.CERTIFICATE.OF.OCCUPANCE.pdf" class=3D"yiv6755882637moz-txt-lin=
+t.REAR.-.NO.CERTIFICATE.OF.OCCUPANCE.pdf" class=3D"yiv1456104296moz-txt-lin=
 k-freetext">
 https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/files/8608563/2022=
 .03.02.-.Property.Profile.Overview.-.111.sullivan.street.REAR.-.NO.CERTIFIC=
 ATE.OF.OCCUPANCE.pdf</a></li><li> <a rel=3D"nofollow noopener noreferrer" s=
 hape=3D"rect" target=3D"_blank" href=3D"https://user-images.githubuserconte=
 nt.com/70865813/166412249-b4f53181-4497-4e23-b1f7-7482261497e2.PNG" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://user-images.githubuserconte=
+=3D"yiv1456104296moz-txt-link-freetext">https://user-images.githubuserconte=
 nt.com/70865813/166412249-b4f53181-4497-4e23-b1f7-7482261497e2.PNG</a></li>=
 </ul>
       <br clear=3D"none">
@@ -7344,13 +7365,13 @@ d3a1af965/2020-06-03%20Notice%20and%20Obstruction.png</a></li></ul>
       <br clear=3D"none">
       [<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=3D"ma=
 ilto:JOSEPHINE.VELLA@FINRA.ORG" target=3D"_blank" href=3D"mailto:JOSEPHINE.=
-VELLA@FINRA.ORG" class=3D"yiv6755882637moz-txt-link-abbreviated">JOSEPHINE.=
+VELLA@FINRA.ORG" class=3D"yiv1456104296moz-txt-link-abbreviated">JOSEPHINE.=
 VELLA@FINRA.ORG</a>]<br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/2f7c8ae375d=
-5ec11a7b5002248307b90/Screenshot_20220516-013630_Chrome.jpg" class=3D"yiv67=
-55882637moz-txt-link-freetext">
+5ec11a7b5002248307b90/Screenshot_20220516-013630_Chrome.jpg" class=3D"yiv14=
+56104296moz-txt-link-freetext">
 https://saaze2311prdsra.blob.core.windows.net/clean/2f7c8ae375d5ec11a7b5002=
 248307b90/Screenshot_20220516-013630_Chrome.jpg</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7359,14 +7380,14 @@ https://saaze2311prdsra.blob.core.windows.net/clean/2f7c8ae375d5ec11a7b5002=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/f39766e089d=
-5ec11a7b5000d3a1afadb/email.20201005-wilsonElser-Quash.pdf" class=3D"yiv675=
-5882637moz-txt-link-freetext">
+5ec11a7b5000d3a1afadb/email.20201005-wilsonElser-Quash.pdf" class=3D"yiv145=
+6104296moz-txt-link-freetext">
 https://saaze2311prdsra.blob.core.windows.net/clean/f39766e089d5ec11a7b5000=
 d3a1afadb/email.20201005-wilsonElser-Quash.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/3=
-5" class=3D"yiv6755882637moz-txt-link-freetext">https://github.com/BSCPGROU=
+5" class=3D"yiv1456104296moz-txt-link-freetext">https://github.com/BSCPGROU=
 PHOLDINGSLLC/ELSER-AND-DICKER/pull/35</a><br clear=3D"none">
       <br clear=3D"none">
       <br clear=3D"none">
@@ -7374,7 +7395,7 @@ PHOLDINGSLLC/ELSER-AND-DICKER/pull/35</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.tdi.texas.gov/commissioner/disciplinary-orders/docu=
-ments/20153854.pdf" class=3D"yiv6755882637moz-txt-link-freetext">
+ments/20153854.pdf" class=3D"yiv1456104296moz-txt-link-freetext">
 https://www.tdi.texas.gov/commissioner/disciplinary-orders/documents/201538=
 54.pdf</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7401,21 +7422,21 @@ g
       2020<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0000093715/000114554921=
-006167/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv6755882637moz-txt-link=
+006167/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://www.sec.gov/Archives/edgar/data/0000093715/0001145549210=
 06167/xslFormN-CEN_X01/primary_doc.xml</a><br clear=3D"none">
       <br clear=3D"none">
       2021<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0000093715/000114554922=
-006149/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv6755882637moz-txt-link=
+006149/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://www.sec.gov/Archives/edgar/data/0000093715/0001145549220=
 06149/xslFormN-CEN_X01/primary_doc.xml</a><br clear=3D"none">
       <br clear=3D"none">
       2021-09-30<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000114554921=
-074536/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv6755882637moz-txt-link=
+074536/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://www.sec.gov/Archives/edgar/data/0001516523/0001145549210=
 74536/xslFormN-CEN_X01/primary_doc.xml</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7423,7 +7444,7 @@ nk" href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000114554921=
 one">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000119312521=
-347485/d221423dncsr.htm" class=3D"yiv6755882637moz-txt-link-freetext">https=
+347485/d221423dncsr.htm" class=3D"yiv1456104296moz-txt-link-freetext">https=
 ://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dnc=
 sr.htm</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7431,7 +7452,7 @@ sr.htm</a><br clear=3D"none">
       2022<br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000114554921=
-074536/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv6755882637moz-txt-link=
+074536/xslFormN-CEN_X01/primary_doc.xml" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://www.sec.gov/Archives/edgar/data/0001516523/0001145549210=
 74536/xslFormN-CEN_X01/primary_doc.xml</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7441,7 +7462,7 @@ clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000119312522=
-025502/d207567d4017g.htm" class=3D"yiv6755882637moz-txt-link-freetext">
+025502/d207567d4017g.htm" class=3D"yiv1456104296moz-txt-link-freetext">
 https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d2075=
 67d4017g.htm</a><br clear=3D"none">
       <br clear=3D"none">
@@ -7472,7 +7493,7 @@ p; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Whitehouse
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/f07de67079d=
-5ec11a7b5000d3a1af965/2020-05-Jpetit-cbrooks7.png" class=3D"yiv6755882637mo=
+5ec11a7b5000d3a1af965/2020-05-Jpetit-cbrooks7.png" class=3D"yiv1456104296mo=
 z-txt-link-freetext">
 https://saaze2311prdsra.blob.core.windows.net/clean/f07de67079d5ec11a7b5000=
 d3a1af965/2020-05-Jpetit-cbrooks7.png</a><br clear=3D"none">
@@ -9277,8 +9298,8 @@ courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/2f7c8ae375d=
-5ec11a7b5002248307b90/Screenshot_20220516-013630_Chrome.jpg" class=3D"yiv67=
-55882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.ne=
+5ec11a7b5002248307b90/Screenshot_20220516-013630_Chrome.jpg" class=3D"yiv14=
+56104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.ne=
 t/clean/2f7c8ae375d5ec11a7b5002248307b90/Screenshot_20220516-013630_Chrome.=
 jpg</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9288,7 +9309,7 @@ jpg</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d7f17fab28d=
-6ec11a7b50022483079c1/AnotherWaiver.pdf" class=3D"yiv6755882637moz-txt-link=
+6ec11a7b50022483079c1/AnotherWaiver.pdf" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://saaze2311prdsra.blob.core.windows.net/clean/d7f17fab28d6=
 ec11a7b50022483079c1/AnotherWaiver.pdf</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9300,7 +9321,7 @@ ec11a7b50022483079c1/AnotherWaiver.pdf</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d=
-6ec11a7b5000d3a1afadb/BB-117taxFiles.pd" class=3D"yiv6755882637moz-txt-link=
+6ec11a7b5000d3a1afadb/BB-117taxFiles.pd" class=3D"yiv1456104296moz-txt-link=
 -freetext">https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6=
 ec11a7b5000d3a1afadb/BB-117taxFiles.pd</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9312,8 +9333,8 @@ ec11a7b5000d3a1afadb/BB-117taxFiles.pd</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/b67c1a2d29d=
-6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf" class=3D"yiv67558=
-82637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
+6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf" class=3D"yiv14561=
+04296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
 lean/b67c1a2d29d6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf</a=
 ><br clear=3D"none">
       <br clear=3D"none">
@@ -9323,7 +9344,7 @@ lean/b67c1a2d29d6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf</a=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/e4fd40a036d=
-6ec11a7b5002248307f33/Door-221606_Gallery.jpg.PDF" class=3D"yiv6755882637mo=
+6ec11a7b5002248307f33/Door-221606_Gallery.jpg.PDF" class=3D"yiv1456104296mo=
 z-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/e4=
 fd40a036d6ec11a7b5002248307f33/Door-221606_Gallery.jpg.PDF</a><br clear=3D"=
 none">
@@ -9335,7 +9356,7 @@ ne">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/6a91074b24d=
-6ec11a7b50022483079c1/Compliance%202021-11-16.pdf" class=3D"yiv6755882637mo=
+6ec11a7b50022483079c1/Compliance%202021-11-16.pdf" class=3D"yiv1456104296mo=
 z-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/6a=
 91074b24d6ec11a7b50022483079c1/Compliance%202021-11-16.pdf</a><br clear=3D"=
 none">
@@ -9346,8 +9367,8 @@ none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/521e9ac936d=
-6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF" class=3D"yiv67558=
-82637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
+6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF" class=3D"yiv14561=
+04296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
 lean/521e9ac936d6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF</a=
 ><br clear=3D"none">
       <br clear=3D"none">
@@ -9357,7 +9378,7 @@ lean/521e9ac936d6ec11a7b5000d3a1af965/Nov.16-StateFarm.SullivanProps.PDF</a=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/3c87e47421d=
-6ec11a7b5002248307f33/2021-11-16-483docNotice.png" class=3D"yiv6755882637mo=
+6ec11a7b5002248307f33/2021-11-16-483docNotice.png" class=3D"yiv1456104296mo=
 z-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/3c=
 87e47421d6ec11a7b5002248307f33/2021-11-16-483docNotice.png</a><br clear=3D"=
 none">
@@ -9368,8 +9389,8 @@ none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/0010c00837d=
-6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF" class=3D"yiv67558=
-82637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
+6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF" class=3D"yiv14561=
+04296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
 lean/0010c00837d6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF</a=
 ><br clear=3D"none">
       <br clear=3D"none">
@@ -9380,7 +9401,7 @@ lean/0010c00837d6ec11a7b5000d3a1afadb/Nov.17.483MATERIALCORPORATEACT.PDF</a=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d=
 3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" class=3D"y=
-iv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.window=
+iv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.window=
 s.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD20=
 2498A9.jpeg</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9391,7 +9412,7 @@ s.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD20=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d=
 3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg" class=3D"y=
-iv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.window=
+iv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.window=
 s.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF420=
 5617AC.jpeg</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9404,7 +9425,7 @@ s.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF420=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d=
-6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf" class=3D"yiv6755882637moz-txt-lin=
+6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf" class=3D"yiv1456104296moz-txt-lin=
 k-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d=
 6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9415,7 +9436,7 @@ k-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/3217723b20d=
 6ec11a7b5002248307f33/2020-03-10%E2%80%94ICE%20Data%20Services.PDF" class=
-=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.w=
+=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.w=
 indows.net/clean/3217723b20d6ec11a7b5002248307f33/2020-03-10%E2%80%94ICE%20=
 Data%20Services.PDF</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9435,7 +9456,7 @@ nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/3217723b20d=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/46c8dc8e20d=
-6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF" class=3D"yiv6755882637=
+6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF" class=3D"yiv1456104296=
 moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/=
 46c8dc8e20d6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF</a><br clear=
 =3D"none">
@@ -9447,7 +9468,7 @@ moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd=
 3ec11a7b5000d3a1326fe/TAX%20EVASION%20%20attachments%20%252F%20Omissions.%2=
-0.pdf" class=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra=
+0.pdf" class=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra=
 .blob.core.windows.net/clean/d585ccd85fd3ec11a7b5000d3a1326fe/TAX%20EVASION=
 %20%20attachments%20%252F%20Omissions.%20.pdf</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9458,7 +9479,7 @@ nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/d585ccd85fd=
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/7391818e24d=
 6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20and%20Continued%20OPS.PDF" cla=
-ss=3D"yiv6755882637moz-txt-link-freetext">https://saaze2311prdsra.blob.core=
+ss=3D"yiv1456104296moz-txt-link-freetext">https://saaze2311prdsra.blob.core=
 .windows.net/clean/7391818e24d6ec11a7b5000d3a1af965/DoiNotice-TaxEvasion%20=
 and%20Continued%20OPS.PDF</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9468,7 +9489,7 @@ and%20Continued%20OPS.PDF</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/46c8dc8e20d=
-6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF" class=3D"yiv6755882637=
+6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF" class=3D"yiv1456104296=
 moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/=
 46c8dc8e20d6ec11a7b50022483079c1/2022-05-09-InsiderTrading.PDF</a><br clear=
 =3D"none">
@@ -9479,8 +9500,8 @@ moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/clean/=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/b67c1a2d29d=
-6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf" class=3D"yiv67558=
-82637moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
+6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf" class=3D"yiv14561=
+04296moz-txt-link-freetext">https://saaze2311prdsra.blob.core.windows.net/c=
 lean/b67c1a2d29d6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf</a=
 ><br clear=3D"none">
       <br clear=3D"none">
@@ -9489,7 +9510,7 @@ lean/b67c1a2d29d6ec11a7b5002248307b90/04.12.2022.151652.EY.PWC.MSCO-.pdf</a=
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv6755882637moz-txt-link-freetex=
+=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D" class=3D"yiv1456104296moz-txt-link-freetex=
 t">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNV=
 IHKtnJU/ni/zvg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9499,7 +9520,7 @@ IHKtnJU/ni/zvg=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
-=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv6755882637moz-txt-link-fr=
+=3DLMUE9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D" class=3D"yiv1456104296moz-txt-link-fr=
 eetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DLMU=
 E9g_PLUS_k6vCmKgfCSJEzuQ=3D=3D</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9583,14 +9604,14 @@ clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://www.washingtonpost.com/news/early-lead/wp/2016/03/07/er=
-in-andrews-awarded-55-million-in-peephole-case/" class=3D"yiv6755882637moz-=
+in-andrews-awarded-55-million-in-peephole-case/" class=3D"yiv1456104296moz-=
 txt-link-freetext">
 https://www.washingtonpost.com/news/early-lead/wp/2016/03/07/erin-andrews-a=
 warded-55-million-in-peephole-case/</a><br clear=3D"none">
       <br clear=3D"none">
       <a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=3D"_bla=
 nk" href=3D"https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc=
-_id=3D2020052000291003" class=3D"yiv6755882637moz-txt-link-freetext">https:=
+_id=3D2020052000291003" class=3D"yiv1456104296moz-txt-link-freetext">https:=
 //a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=3D202005200029=
 1003</a><br clear=3D"none">
       <br clear=3D"none">
@@ -9604,7 +9625,7 @@ clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DqDo2Eg8i9_PLUS_9IDPjn/iAVkw=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3DqDo2Eg8i9_PLUS_9IDPjn/iAVkw=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
 =3DqDo2Eg8i9_PLUS_9IDPjn/iAVkw=3D=3D</a></li></ul>
       <br clear=3D"none">
@@ -9614,7 +9635,7 @@ ink-freetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDe=
-tail?doc_id=3D2020052000291003" class=3D"yiv6755882637moz-txt-link-freetext=
+tail?doc_id=3D2020052000291003" class=3D"yiv1456104296moz-txt-link-freetext=
 ">
 https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=3D202005=
 2000291003</a></li></ul>
@@ -9623,7 +9644,7 @@ https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=3D202005=
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DZOCFS3HH2UeHQe8j2tXJoQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DZOCFS3HH2UeHQe8j2tXJoQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DZOCFS3HH2Ue=
 HQe8j2tXJoQ=3D=3D</a></li></ul>
@@ -9636,7 +9657,7 @@ HQe8j2tXJoQ=3D=3D</a></li></ul>
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3D1l_PLUS_zTDYIQb3OfAW6vF2mpA=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3D1l_PLUS_zTDYIQb3OfAW6vF2mpA=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D1l_PLUS_zTD=
 YIQb3OfAW6vF2mpA=3D=3D</a></li></ul>
@@ -9664,14 +9685,14 @@ one">
       <h1>***MONITORED MY EVERY MOTION ON A DAILY BASIS.</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DWy0kIojSiAUMQ92XFgpf5Q=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DWy0kIojSiAUMQ92XFgpf5Q=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DWy=
 0kIojSiAUMQ92XFgpf5Q=3D=3D</a></li></ul>
       *** THE AFFIDAVIT OF MIWAKO G. MESSER.<br clear=3D"none">
       <br clear=3D"none">
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3D7s5HRvTUSP40v_PLUS_Vs1Ju4sg=3D=3D" class=3D"yiv6755882637moz-txt-l=
+cIndex=3D7s5HRvTUSP40v_PLUS_Vs1Ju4sg=3D=3D" class=3D"yiv1456104296moz-txt-l=
 ink-freetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7s5HRvTUSP4=
 0v_PLUS_Vs1Ju4sg=3D=3D</a></li></ul>
@@ -9682,7 +9703,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D7s5HRvTUSP4=
       <h1>ROASALIA CHANN - " ON-DEMAND VIDEO "</h1>
       <ul><li><a rel=3D"nofollow noopener noreferrer" shape=3D"rect" target=
 =3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
-cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv6755882637moz-txt-link-f=
+cIndex=3DPWFQc/WFihoyIKwEunaalQ=3D=3D" class=3D"yiv1456104296moz-txt-link-f=
 reetext">
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DPWFQc/WFiho=
 yIKwEunaalQ=3D=3D</a></li></ul>
@@ -9713,14 +9734,14 @@ tatementSearch?bbl=3D1005030011&amp;stmtDate=3D20161118&amp;stmtType=3DSOA<=
   </div>
 
 </div> </div> </blockquote></div> </div> </blockquote></div></div></div></d=
-iv> </div> </blockquote></div></div>
-------=_Part_4082502_1717848543.1654019520319--
+iv> </div> </blockquote></div></div></div> </div> </blockquote></div></div>
+------=_Part_4714282_528494719.1654145790285--
 
-------=_Part_4082505_1734083141.1654019520539
+------=_Part_4714285_2084083106.1654145790514
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: inline; filename="sc.jpeg"
-Content-ID: <ldWszi6V2PZPpUitcxrL>
+Content-ID: <4TDpcEQyNhObdJsQPPaD>
 
 /9j/4QEZRXhpZgAATU0AKgAAAAgABQEAAAMAAAABBDgAAAEBAAMAAAABCOgAAAExAAIAAAAmAAAA
 SodpAAQAAAABAAAAcAESAAMAAAABAAAAAAAAAABBbmRyb2lkIFNQMUEuMjEwODEyLjAxNi5HOTcw
@@ -13775,4 +13796,4 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z
 
-------=_Part_4082505_1734083141.1654019520539--
+------=_Part_4714285_2084083106.1654145790514--

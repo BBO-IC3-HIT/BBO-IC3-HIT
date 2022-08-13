@@ -1,0 +1,1008 @@
+From - Sun May  8 05:37:02 2022
+X-Account-Key: account8
+X-UIDL: 1645857828.763
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <ms60710444266@yahoo.com>
+Received: from compute4.internal (compute4.nyi.internal [10.202.2.44])
+	 by sloti52n19 (Cyrus 3.7.0-alpha0-591-gfe6c3a2700-fm-20220427.001-gfe6c3a27) with LMTPA;
+	 Sun, 08 May 2022 06:33:57 -0400
+X-Cyrus-Session-Id: sloti52n19-1652006037-2129698-2-2841972472972628364
+X-Sieve: CMU Sieve 3.0
+X-Spam-known-sender: yes ("Address ms60710444266@yahoo.com in From header is in addressbook");
+ in-addressbook; bba2db8d-33a3-40c2-87e0-df67be267777 ("Autosaved")
+X-Spam-charsets: plain='UTF-8', html='UTF-8'
+X-Resolved-to: cockarens@vouchersrus.org
+X-Delivered-to: COCKARENS@VOUCHERSRUS.ORG
+X-Mail-from: ms60710444266@yahoo.com
+Received: from mx4 ([10.202.2.203])
+  by compute4.internal (LMTPProxy); Sun, 08 May 2022 06:33:57 -0400
+Received: from mx4.messagingengine.com (localhost [127.0.0.1])
+	by mailmx.nyi.internal (Postfix) with ESMTP id 45D9C1F2007B
+	for <COCKARENS@VOUCHERSRUS.ORG>; Sun,  8 May 2022 06:33:57 -0400 (EDT)
+Received: from mx4.messagingengine.com (localhost [127.0.0.1])
+    by mx4.messagingengine.com (Authentication Milter) with ESMTP
+    id A1E32A8B7ED;
+    Sun, 8 May 2022 06:33:57 -0400
+ARC-Seal: i=1; a=rsa-sha256; cv=none; d=messagingengine.com; s=fm1; t=
+    1652006037; b=nxLVG+HYU9UXeb/Pjr16aXlfQ23ojpomfqROU+VW/SaLFqBCBJ
+    HZQfr7xpCUMb7+403p7/ZLruXf4tlaviVGNk28IE9AKOra1qZwP10BFSar6SMKsm
+    pGA2jPxuORH+I37N+EzGCRcFkpESuV+9xUhQ6hBodlxItkROHXBYj84h6blwhCOb
+    55WbJpVq/glzRcU6W9v6oosK80vsSnec6pRhCkcg4A6gsu0CmujoNPfMKvJa8d36
+    ovQWX/xZ7MHf2U5xm1fQC/j9a8ujgRG36Jk6WpLF/1coByFVxJR7tyXrIUfDYx1x
+    zeoY/KV6qVdc4PYYkRrCKjGJY3jYjvdmMv5Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=
+    messagingengine.com; h=content-type:message-id:date:mime-version
+    :to:cc:from:subject:references; s=fm1; t=1652006037; bh=i6Q77/vN
+    zkxep3o1gAs+hMA1g1GhDYit0CeHoEZ1yT0=; b=KA+CssokD69RR2Ox0hMWjcoy
+    fQnRwp8dNXyqfw2BsBjPInU1uE4xEW7Dj901lY4EHYrRs1eI+4XhUb28a6yhnKYS
+    KVw2y01jZbAW9bpyG+vM4p34SasguNQjcypjxrsnCoFdbiSx7ul8z5vgpjyCMRyr
+    OWrc/7Lf7qCIkWxRRoJjeqymxAT6d4YooTG6wOLT0yGHLTscRuivRZoZhXtF6sQI
+    0w71pWx8IeiuuzO5GE56+FRMJyJBegpNhw3oRf81ntTymK9bkxOAaAsf9KMJEX23
+    V1SM8UxYro9i3M8Fh/rL4heGPzLUoVPGSY/1BTsnYbYGm6FkuG68jyTZvIwJJw==
+ARC-Authentication-Results: i=1; mx4.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic303-2.consmr.mail.bf2.yahoo.com
+    policy.ptr=sonic303-2.consmr.mail.bf2.yahoo.com;
+    bimi=none (No BIMI records found);
+    arc=none (no signatures found);
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+    header.i=@yahoo.com header.b=PlxlCL4o header.a=rsa-sha256
+    header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+    policy.applied-disposition=none policy.evaluated-disposition=none
+    (p=reject,d=none,d.eval=none) policy.policy-from=p
+    header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=74.6.131.41
+    (sonic303-2.consmr.mail.bf2.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+    smtp.helo=sonic303-2.consmr.mail.bf2.yahoo.com
+X-ME-Authentication-Results: mx4.messagingengine.com;
+    x-aligned-from=pass (Address match);
+    x-return-mx=pass header.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta5.am0.yahoodns.net,mta7.am0.yahoodns.net,mta6.am0.yahoodns.net);
+    x-return-mx=pass smtp.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta7.am0.yahoodns.net,mta6.am0.yahoodns.net,mta5.am0.yahoodns.net);
+    x-tls=pass smtp.version=TLSv1.3 smtp.cipher=TLS_AES_256_GCM_SHA384
+      smtp.bits=256/256;
+    x-vs=clean score=-56 state=0
+Authentication-Results: mx4.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic303-2.consmr.mail.bf2.yahoo.com
+      policy.ptr=sonic303-2.consmr.mail.bf2.yahoo.com
+Authentication-Results: mx4.messagingengine.com;
+    bimi=none (No BIMI records found)
+Authentication-Results: mx4.messagingengine.com;
+    arc=none (no signatures found)
+Authentication-Results: mx4.messagingengine.com;
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+      header.i=@yahoo.com header.b=PlxlCL4o header.a=rsa-sha256
+      header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+      policy.applied-disposition=none policy.evaluated-disposition=none
+      (p=reject,d=none,d.eval=none) policy.policy-from=p
+      header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=74.6.131.41
+      (sonic303-2.consmr.mail.bf2.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+      smtp.helo=sonic303-2.consmr.mail.bf2.yahoo.com
+X-ME-VSCause: gggruggvucftvghtrhhoucdtuddrgedvfedrfeejgdeftdcutefuodetggdotefrodftvf
+    curfhrohhfihhlvgemucfhrghsthforghilhdpggftfghnshhusghstghrihgsvgdpuffr
+    tefokffrpgfnqfghnecuuegrihhlohhuthemuceftddtnecusecvtfgvtghiphhivghnth
+    hsucdlqddutddtmdenogfuuhhsphgvtghtkfhmghffohhmrghinhculdeftddmnegfrhhl
+    ucfvnfffucdlqdeimdenoggjrghhohhoqddqteefieduqddtudculddvtddmnecujfgurh
+    eptgfkffggfgfvvefhufhfofesrgdtreerreefjeenucfhrhhomhepuecuffdvtddvvdcu
+    oehmsheitdejuddtgeeggedvieeiseihrghhohhordgtohhmqeenucggtffrrghtthgvrh
+    hnpeelkeegleduueetheekffdvhfejudejueevhedthfffheffveejgeekgeduhefftden
+    ucffohhmrghinhepshgvtgdrghhovhdpnhihtgdrghhovhdpshhtrghtvgdrnhihrdhush
+    dpghhithhhuhgsrdgtohhmpdhgihhthhhusghushgvrhgtohhnthgvnhhtrdgtohhmnecu
+    kfhppeejgedriedrudefuddrgedunecuvehluhhsthgvrhfuihiivgeptdenucfrrghrrg
+    hmpehinhgvthepjeegrdeirddufedurdeguddphhgvlhhopehsohhnihgtfedtfedqvddr
+    tghonhhsmhhrrdhmrghilhdrsghfvddrhigrhhhoohdrtghomhdpmhgrihhlfhhrohhmpe
+    eomhhsiedtjedutdeggeegvdeiieeshigrhhhoohdrtghomheq
+X-ME-VSScore: -56
+X-ME-VSCategory: clean
+X-ME-CSA: none
+Received-SPF: pass
+    (yahoo.com ... _spf.mail.yahoo.com: 74.6.131.41 is authorized to use 'ms60710444266@yahoo.com' in 'mfrom' identity (mechanism 'ptr:yahoo.com' matched))
+    receiver=mx4.messagingengine.com;
+    identity=mailfrom;
+    envelope-from="ms60710444266@yahoo.com";
+    helo=sonic303-2.consmr.mail.bf2.yahoo.com;
+    client-ip=74.6.131.41
+Received: from sonic303-2.consmr.mail.bf2.yahoo.com (sonic303-2.consmr.mail.bf2.yahoo.com [74.6.131.41])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mx4.messagingengine.com (Postfix) with ESMTPS
+	for <COCKARENS@VOUCHERSRUS.ORG>; Sun,  8 May 2022 06:33:57 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652006035; bh=i6Q77/vNzkxep3o1gAs+hMA1g1GhDYit0CeHoEZ1yT0=; h=Date:To:Cc:From:Subject:References:From:Subject:Reply-To; b=PlxlCL4oZFbATPN+xdT9KmkbdA9oA5D7O+iqhUWL7zrzGkZTmhS1rAS8q/ifdVnnKn8DsmRtn4bwSMlmzdfixkTfaJjBVbObArbTT6AR0N8H5xpZTDk1ODF2cOF2OR2nUiGAXrZSa7ew+EXithuB/2hJZRRhEEUAcnB88yrk7p1NL7EriFa9cZ8zzRTDUzngoPszlUhAwK8I/ZDxl/j/7Dt/8gQno5RTxSdz7uHlQ6UhpXg1Na4fSvhPLEeCtBawjZf32ITfVwp4jHMpCwSy6n2RM4OAug5+Dss36FdmsZqWAB8TfshSsFa6Qwvd6kpVgenRB7SXINC98dHYaCEZwg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1652006035; bh=7PA/1fislSuYoTdPqnbrSDyBcj+EtUUeETtz52MUo8J=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=Ow7tnywKSc0I77QtlpFhrz8INqGCbAZQwi7FPKvDuNJaWhSIUc8A+3u5/v5XsaqHTv1kVEBqfnnhQslYJsffRgOET7l7AXco/tlJIchlH5VGv8L29c9ppSgbFw8iX9Fc/h8WE2o2A1s+BUgzRlVeAfOV7PJ78YLrup3ttHJ8S6aGTrt2FgVB4tx8SgCbsl5tgHcSYaWe4hpRjeM37mz1g85IyUA//zGTOfi4mNNH7REOjO8vwz2Fbdl0hDPNmaT/I/1vCh6Pz6MtXrIu+9nInqUDITtajYB76KT6MrQR/7UJHmIm00//6CrmJgST4nti82uNgKE8SjNw3jVbOGCtGg==
+X-YMail-OSG: W4yP_YsVM1m33jtch70Aur0RPNu6bxP0mN60RnY8L0D6HLQ4.SxfLNcv8_8K5zn
+ IxNWxHtTjS_h2bpkswdVJamjSAUtzuhoUJPSwLbQbSq1Y2DjsnLE7miNMlQ4LLirEQ6M5Virb25h
+ s9J.x4CYXpliaJR4vUwj1ERIHkZhlLkPln_MJsJMd0qmEDoczLHfAeUeBNoTNvBRqkkZsyAFQI34
+ HU5cnBKs07hdSIMCFXK72d6xHXbsQOaKt3sU1DPu0qhD8002131EYM.eHD9BY7DVeBYrvondo6_6
+ skOqfZ1Ch3dtGlxJcEyx_LAJOoVM2VbPm5DkpZvlOs7l.zqpDqpOF4_RI6k.78qOp_MjvIkh8VjC
+ BDH.wajG3wsXoBWMqfa4sk0Bh06s_GvSaKzmgBEPWMuA3kBfxyPte1pALX6PPAeFKeDUxfntTVIX
+ eJWzZ.jCXW_9uz1E176srn1o8SzLSkX1rmScbeYRWtJnHjmgrNjNswkxnapty6DKZcn_aflWKZ3r
+ yQOzp_PA53BuXWcQVe4jkgRUSEHpYpAeEtz_PImreMDbXzVDPHtAu1Xu1viLVgHOte6r2myn9FsK
+ b_cK2NhrXpICll1SDSHXZ5QGjSsuB9zUgE8_opyVae9zktZfuehEf7E0bucP1KxJQeJcRirCt9.t
+ ThZzeTUOhqgBZUFNyWokID5R4AhJppjNJSs8Wd06YIrrPl9WRWUN_oTXX9ncr3YyYkH8CLvn00xk
+ iRR9FhuIzvXWfNCNrjQdqPKKgR80gKO.CvUMK8cdjQDKyfINh_Hkdjcq2Izs7MlHF7mevt6EiPbb
+ jTyANUGvXStiXjhmzs0BCQlqOt2YKqR4MmSdCgM1wUQ87WaDAImyu6r4BfkuOydG2aD.yldE8gPX
+ FUTPTRy1d7h3sglHZQWvjH1ptsFO2HvtP5NJJg_1aUnb3eCsdX5qppWsj_ANC0Nt5ljGebwodCig
+ GEmXDEXng7JoYoiRQzkU6UpsgB1cPU7MvJELwo7LTNWQp0sFF6imLDcIG2OhIOK3x9Uu0X4AlMQ5
+ i8yAX1XoDuJQ1a67Y5Xel937d3z7gZk6_49eClJjRjyuvcHGTXUUFvd5mDpWDAIE0dFmT0eD75oN
+ fCHjAzEFQ3vRFbXhScDfSCv3QnN3zuYRAlcvqZAD27w287wtQCKstWVZV2S18KELlRijhgEXSwHn
+ Tlqwh6zS3BEesDqfiiSInsK1W1.YM5sqxTiQbj_eQGRV.fHSAvqms11aFKrirmaZdCsl5K4vRhXR
+ yqv4ehuoRSv6lpK8zHgaJx_IwItlXydf7r4tZAAr4CMCn7D4.RzjYKQ6igSVm4UFBB2D9870ugqr
+ DvyALJBaUiHQJgKo3XRW8JQyvL065okAqhyyR_jyoWJiDE34VJMFQRySEA1w3x_kyGwHh3uncSW_
+ GeVqMJeTelntbR7ZcCg_db6Jnnh77gTIOdC_P8B6MG8jtJkLESQ9K0WECv_jWIq2IWHBlCs.YVzx
+ D3E3jKi9PT0hrzbu02ZC5WPj7PnXxchSZ9PJ.OGHkRv4U3gwV1z6MhIbU07JSkRUfI6diELIwH4G
+ F1eSUwVDzHfCm3VEEAd5OhIF5l0a50TrVgWtU7Bt5gC8GZ51UtS3H0O8cqzfVAXkkeXgxMoqYA2F
+ .gECE0qtm7JHyuqsgXq9emFQpTLy4.TPQN5Cjb8MP0v8KiVN4qgyNk.gpk5C3xd94_R9Vi22Ilhj
+ vb9SuHcS83MA61XvC9hQ_WmM0hvSUlg_QN1BtuGLZdJPiksJQ84ibV11P2H26D7pO5w.iCArBWFB
+ P4EyRTkWPU6gCUsfaMRUHsc0k5ftXvG87DncsJiOM0Zo4oF3g8WxahA1ksuiGQO3V7ggNpj5ERzx
+ ZOq.HUglKVL.KDetThE8omJ6fVkj7LHuJGAbaT1pPIBqUb3PuATymiGoi3j84fqumP6oee._2Sa7
+ 5Pxi4RJ.bwNGEyBxEpHSgPTH6E3mComNDpsru7ET5Img7MkbDswF5q4r8Oi4LhqnWfdurqIKoA_Q
+ R47gOi6klA3W1pxEGdSdk2K3n29LL0pb2z8zrNtZ9KWHJthNZtoQDyvmjXqFBd1hcJ0YRx34Udif
+ MBkcFFr63n41fyTNdcRLLAhsKB2acF_hb4cqbGDUx5ouKOfw.wCh_WSdRDFhYN2Zqiqw0PChmhcB
+ D2bkr0DByGrJ71oDubUismAEqdIce5nK0oH7dNHqhxRpRH_M6miZ7ZLsV2VnxCa0LCBSzrjnTk3c
+ _JkaHAES5qZQkv4B7w.yyK1W1j6kPdsjwEA8IYEnfHYx5kmFUcutJ5To6kgBmvHowWzauhOwlhIW
+ Wk2B2dS.GG32.fUKlJ83TCxJUkurbi5rL0DVHmW1kKZmvvdZ9
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.bf2.yahoo.com with HTTP; Sun, 8 May 2022 10:33:55 +0000
+Received: by hermes--canary-production-bf1-5f4c6455f8-b7pn2 (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID bf4022ef862619c47cd5a9350e4ed18f;
+          Sun, 08 May 2022 10:33:51 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------uxrRNlCK9cMaXVMRc6xfVFJG"
+Message-ID: <fd283ae6-4f31-67ae-b03c-e63f290a09a8@yahoo.com>
+Date: Sun, 8 May 2022 05:33:48 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.6.1
+To: "gsamonlinerequest@gs.com" <gsamonlinerequest@gs.com>,
+ "ir@tigerglobal.com ir-operations-team"@tudor.com
+Content-Language: en-US
+Cc: "alex.zuluaga@ey.com" <alex.zuluaga@ey.com>,
+ "david.brown1@ey.com" <david.brown1@ey.com>,
+ Deborah M Jones <Deborah.Jones@ey.com>, "info@ey.com" <info@ey.com>,
+ "jacqueline.kelley@ey.com" <jacqueline.kelley@ey.com>,
+ "karim.anani@ey.com" <karim.anani@ey.com>,
+ "kevin.klimara@ey.com" <kevin.klimara@ey.com>,
+ "lee.henderson@ey.com" <lee.henderson@ey.com>,
+ "mark.schwartz1@ey.com" <mark.schwartz1@ey.com>,
+ "rachel.gerring@ey.com" <rachel.gerring@ey.com>, info@tudor.com,
+ news@penews.com, customerservices@penews.com
+From: B D2022 <ms60710444266@yahoo.com>
+Subject: Thank you for taking a look at this for me - when you have a spare
+ moment of course...
+References: <fd283ae6-4f31-67ae-b03c-e63f290a09a8.ref@yahoo.com>
+X-Mailer: WebService/1.1.20188 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+
+This is a multi-part message in MIME format.
+--------------uxrRNlCK9cMaXVMRc6xfVFJG
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+DO NOT need an opinions from yourselves directly,  it's just sad they 
+would do something like this.... ( the ongoing promoters of State Farm )
+
+     to be honest. I thought they would clear it up... done dealing with 
+these Morgan-folk, especially after I saw how they invited in all these 
+other firms -- -without any notice.
+
+
+# STATE FARM ASSURANCES FUNDS TRUST
+test this here. [^1]
+
+
+ >
+ >        2020-06-08        40-17G
+ >                        Fidelity Bond [Rule 17G-1(g)]
+ > 
+https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt
+ >
+ >        2020-07-28        N-CSRS
+ >                        SEMI-ANNUAL REPORT
+ > 
+https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm
+ >
+ >        2020-11-30      N-CEN
+ >                        ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
+ > 
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml
+ >
+ >        2021-07-23        N-CSRS
+ >                        SEMI-ANNUAL REPORT
+ > 
+https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm
+ >
+ >        2021-11-30      N-CEN
+ >                        ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
+ > 
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+ >#### Applications for Deregistration under Section 8(f) of the 
+Investment Company Act of 1940
+###### 2021-10-29<br>
+ >>###### Notice of Deregistration under the Investment Company Act of 
+1940<br>
+ >>      Form N-8F
+ >> 
+https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf
+ >>
+ >>      Form N-8F
+ >> 
+https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm
+######    2021-11-24
+ >>###### Investment Company Act Release No. 34411<br>
+ >>      ORDER No. 34425
+ >> 
+https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
+
+#### Fund Surviving the Merger
+                 CIK ID:    1516523
+                 Advisers Investment Trust
+                 Investment Company Act file number [811-22538]
+                 LEI: 549300BG52TB5QPLYE22
+
+                 2021-09-30     ANNUAL REPORT FOR REGISTERED INVESTMENT 
+COMPANIES
+https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml
+
+                 2022-01-31    MONTHLY SCHEDULE OF PORTFOLIO HOLDINGS
+                 [N-MFP2]
+https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml
+
+                 40-17G  January 1, 2022 to 12:01 a.m. on January 1, 2023
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm
+
+
+LETTER OF CREDIT BETWEEN STATE FARM AND SULLIVAN PROPERTIES LP. . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . .[0001]
+
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003 
+
+
+     NYSCEF DOC. NO. 309                                             
+08-09-2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+
+     NYSCEF DOC. NO. 379                                             
+08-10-2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==
+
+
+     LEASES AND RENTS TRANSFERRED TO "STATE FARM"                     
+         EXECUTED:         05-11-2020
+                             FILED:             05-15-2020
+     PARTY 1:   SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, 
+NY, 10019
+     PARTY 2:   STATE FARM REALTY MORTGAGE LLC, ONE STATE FARM PLAZA, 
+BLOOMINGTON, IL, 61710
+
+
+STATE FARM ASSURANCES FUNDS TRUST (STATE FARM VP MANAGEMENT CORP) . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . .[0003]
+     ANNUAL REPORT:      11-30-2020                                     
+             CIK  93715
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml
+
+     ACCESSION NUMBER:   0001145549-21-006167                          
+  REPORT DATE:          11-30-2020
+                          FILED DATE:          02-11-2021
+     PRINCIPAL UNDERWRITER                        [STATE FARM VP 
+MANAGEMENT CORP.]
+                                                 [SEC ID: 008-50128] 
+[CRD: 43036]
+     INDEPENDENT PUBLIC ACCOUNTANT                  [PRICE WATERHOUSE 
+COOPERS]
+     Q[B.13]        Q[B.14]
+
+117 SULLIVAN STREET [ DEED ]. . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . .[0004]
+
+         SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK NY, 10019
+         FT_1350000324035, BLOCK 803, LOT 11                             
+  DOC. DATE:             11-16-1989
+https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1
+
+
+
+  STATE FARM ASSURANCES FUNDS TRUST
+
+test this here. [^1]
+
+    |2020-06-08 40-17G Fidelity Bond [Rule 17G-1(g)]
+    https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt
+    2020-07-28 N-CSRS SEMI-ANNUAL REPORT
+    https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm
+    2020-11-30 N-CEN ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
+    https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml
+    2021-07-23 N-CSRS SEMI-ANNUAL REPORT
+    https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm
+    2021-11-30 N-CEN ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
+    https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+    |
+
+
+            <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#applications-for-deregistration-under-section-8f-of-the-investment-company-act-of-1940>Applications
+            for Deregistration under Section 8(f) of the Investment
+            Company Act of 1940
+
+
+            <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#2021-10-29>2021-10-29
+
+
+                    <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#notice-of-deregistration-under-the-investment-company-act-of-1940>Notice
+                    of Deregistration under the Investment Company Act
+                    of 1940
+
+        Form
+        N-8Fhttps://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf
+
+        Form
+        N-8Fhttps://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm
+
+
+            <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#2021-11-24>2021-11-24
+
+
+                    <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#investment-company-act-release-no-34411>Investment
+                    Company Act Release No. 34411
+
+        ORDER No.
+        34425https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf
+
+
+        <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#fund-surviving-the-merger>Fund
+        Surviving the Merger
+
+|CIK ID: 1516523 Advisers Investment Trust Investment Company Act file 
+number [811-22538] LEI: 549300BG52TB5QPLYE22 2021-09-30 ANNUAL REPORT 
+FOR REGISTERED INVESTMENT COMPANIES 
+https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml 
+2022-01-31 MONTHLY SCHEDULE OF PORTFOLIO HOLDINGS [N-MFP2] 
+https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml 
+40-17G January 1, 2022 to 12:01 a.m. on January 1, 2023 
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm![167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678](https://user-images.githubusercontent.com/70865813/167291658-0c930e39-96bc-42ff-b3b4-37dbef94d2f9.png) 
+|
+
+167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678 
+<https://user-images.githubusercontent.com/70865813/167291661-e153c08f-0b71-40e8-ac23-731479500e4b.png>
+
+STFGX Date Close/Last Adjusted Close
+
+|11/10/2021 121.17 121.17 11/11/2021 120.77 120.77 11/12/2021 121.48 
+121.48 __________________________ 11/15/2021 121.34 121.34 11/16/2021 
+121.6 121.6 11/17/2021 121.52 121.52 11/18/2021 121.87 121.87 11/19/2021 
+121.69 121.69 11/22/2021 121.64 121.64 11/23/2021 121.79 121.79 
+11/24/2021 121.85 121.85 11/26/2021 119.44 119.44 11/29/2021 120.48 
+120.48 11/30/2021 118.5 118.5 12/1/2021 117.78 117.78 12/2/2021 118.95 
+118.95 12/3/2021 118.46 118.46 12/6/2021 119.95 119.95 12/7/2021 121.89 
+121.89 12/8/2021 122.51 122.51 12/9/2021 121.99 121.99 12/10/2021 123.25 
+123.25 12/13/2021 122.76 122.76 12/14/2021 122.16 122.16 12/15/2021 
+124.36 124.36 12/16/2021 123.55 123.55 12/17/2021 121.93 121.93 
+-------------------------------------------------------------------------------------- 
+__________________________ 12/20/2021 120.72 120.72 12/21/2021 106.35 
+106.35 12/22/2021 107.39 107.39 12/23/2021 108.08 108.08 12/27/2021 
+109.52 109.52 12/28/2021 109.57 109.57 12/29/2021 109.82 109.82 
+12/30/2021 109.55 109.55 12/31/2021 just get worse.. 05/06/2022 $100.14 
+------ |
+
+167291170-f30a3492-9be0-4b43-b958-aa909c839c60 
+<https://user-images.githubusercontent.com/70865813/167291688-2a2363f1-8dea-4e9f-93c2-3258fd7a3669.png>
+
+kept moving East, my best guess.
+
+--------------uxrRNlCK9cMaXVMRc6xfVFJG
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body spellcheck="false" data-gramm="false">
+    <p><font face="Times New Roman">DO NOT need an opinions from
+        yourselves directly,  it's just sad they would do something like
+        this.... ( the ongoing promoters of State Farm ) <br>
+      </font></p>
+    <p><font face="Times New Roman">    to be honest. I thought they
+        would clear it up... done dealing with these Morgan-folk,
+        especially after I saw how they invited in all these other firms
+        -- -without any notice.</font></p>
+    <p><font face="Times New Roman"><br>
+      </font></p>
+    <p><font face="Times New Roman"># STATE FARM ASSURANCES FUNDS TRUST<br>
+        test this here. [^1]<br>
+        <br>
+        <br>
+        &gt;                    <br>
+        &gt;        2020-06-08        40-17G<br>
+        &gt;                        Fidelity Bond [Rule 17G-1(g)]<br>
+        &gt;       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt">https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt</a><br>
+        &gt;                    <br>
+        &gt;        2020-07-28        N-CSRS                <br>
+        &gt;                        SEMI-ANNUAL REPORT<br>
+        &gt;       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm">https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm</a><br>
+        &gt;                     <br>
+        &gt;        2020-11-30      N-CEN<br>
+        &gt;                        ANNUAL REPORT FOR REGISTERED
+        INVESTMENT COMPANIES<br>
+        &gt;       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml</a><br>
+        &gt;                    <br>
+        &gt;        2021-07-23        N-CSRS<br>
+        &gt;                        SEMI-ANNUAL REPORT<br>
+        &gt;       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm">https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm</a><br>
+        &gt;                    <br>
+        &gt;        2021-11-30      N-CEN<br>
+        &gt;                        ANNUAL REPORT FOR REGISTERED
+        INVESTMENT COMPANIES    <br>
+        &gt;           
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml</a><br>
+        &gt;#### Applications for Deregistration under Section 8(f) of
+        the Investment Company Act of 1940    <br>
+        ###### 2021-10-29&lt;br&gt;<br>
+        &gt;&gt;###### Notice of Deregistration under the Investment
+        Company Act of 1940&lt;br&gt;<br>
+        &gt;&gt;      Form N-8F    <br>
+        &gt;&gt;     
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf">https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf</a><br>
+        &gt;&gt;<br>
+        &gt;&gt;      Form N-8F<br>
+        &gt;&gt;     
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm">https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm</a><br>
+        ######    2021-11-24<br>
+        &gt;&gt;###### Investment Company Act Release No.
+        34411&lt;br&gt;<br>
+        &gt;&gt;      ORDER No. 34425<br>
+        &gt;&gt;     
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf">https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf</a><br>
+        <br>
+        #### Fund Surviving the Merger        <br>
+                        CIK ID:    1516523 <br>
+                        Advisers Investment Trust <br>
+                        Investment Company Act file number [811-22538]<br>
+                        LEI: 549300BG52TB5QPLYE22<br>
+                        <br>
+                        2021-09-30     ANNUAL REPORT FOR REGISTERED
+        INVESTMENT COMPANIES    <br>
+                       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml</a><br>
+        <br>
+                        2022-01-31    MONTHLY SCHEDULE OF PORTFOLIO
+        HOLDINGS<br>
+                        [N-MFP2]<br>
+                       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml</a><br>
+        <br>
+                        40-17G  January 1, 2022 to 12:01 a.m. on   
+        January 1, 2023<br>
+                       
+<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm">https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm</a><br>
+        <br>
+                        <br>
+      </font></p>
+    <p><font face="Times New Roman">LETTER OF CREDIT BETWEEN STATE FARM
+        AND SULLIVAN PROPERTIES LP. . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . .[0001]<br>
+        <br>
+          
+ <a class="moz-txt-link-freetext" href="https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003">https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003</a>   
+                    <br>
+            <br>
+            NYSCEF DOC. NO. 309                                        
+                                                    08-09-2020<br>
+          
+ <a class="moz-txt-link-freetext" href="https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==</a><br>
+            <br>
+            NYSCEF DOC. NO. 379                                        
+                                                    08-10-2020<br>
+          
+ <a class="moz-txt-link-freetext" href="https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==</a><br>
+            <br>
+                                                                       
+                                                               <br>
+            LEASES AND RENTS TRANSFERRED TO "STATE FARM"               
+                                    EXECUTED:         05-11-2020<br>
+                                                                       
+                                    FILED:             05-15-2020<br>
+            PARTY 1:   SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW
+        YORK, NY, 10019<br>
+            PARTY 2:   STATE FARM REALTY MORTGAGE LLC, ONE STATE FARM
+        PLAZA, BLOOMINGTON, IL, 61710<br>
+        <br>
+                                                                       
+                                                                       <br>
+        STATE FARM ASSURANCES FUNDS TRUST (STATE FARM VP MANAGEMENT
+        CORP) . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        .[0003]<br>
+            ANNUAL REPORT:      11-30-2020                            
+                                                        CIK  93715<br>
+          
+ <a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml</a><br>
+                                                                       
+                                                                   <br>
+            ACCESSION NUMBER:   0001145549-21-006167                   
+                                  REPORT DATE:          11-30-2020    <br>
+                                                                       
+                                 FILED DATE:          02-11-2021    <br>
+            PRINCIPAL UNDERWRITER                        [STATE FARM VP
+        MANAGEMENT CORP.]<br>
+                                                        [SEC ID:
+        008-50128] [CRD: 43036]<br>
+            INDEPENDENT PUBLIC ACCOUNTANT                  [PRICE
+        WATERHOUSE COOPERS]<br>
+            Q[B.13]        Q[B.14]<br>
+                                                                       
+                                                                       <br>
+        117 SULLIVAN STREET [ DEED ]. . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[0004]<br>
+        <br>
+                SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK
+        NY, 10019                                                       
+                                                               <br>
+                FT_1350000324035, BLOCK 803, LOT 11                   
+                                     DOC. DATE:             11-16-1989<br>
+                <a class="moz-txt-link-freetext" href="https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1">https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1</a><br>
+                <br>
+                                                                       
+                                                                       <br>
+      </font></p>
+    <p><br>
+    </p>
+    <h1 dir="auto" style="box-sizing: border-box; font-size: 2em;
+      margin-top: 0px !important; margin-right: 0px; margin-bottom:
+      16px; margin-left: 0px; font-weight: 600; line-height: 1.25;
+      padding-bottom: 0.3em; border-bottom: 1px solid
+      var(--color-border-muted); color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      letter-spacing: normal; orphans: 2; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">STATE FARM ASSURANCES FUNDS TRUST</h1>
+    <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+      margin-bottom: 16px; color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">test this here. [^1]</p>
+    <blockquote style="box-sizing: border-box; margin: 0px 0px 16px;
+      padding: 0px 1em; color: var(--color-fg-muted); border-left:
+      0.25em solid var(--color-border-default); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">
+      <div class="snippet-clipboard-content position-relative
+        overflow-auto" style="box-sizing: border-box; position: relative
+        !important; overflow: auto !important; margin-top: 0px;">
+        <pre class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px;"><code class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; white-space: pre; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;">  2020-06-08		40-17G
+  				Fidelity Bond [Rule 17G-1(g)]
+  <a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt">https://www.sec.gov/Archives/edgar/data/0000093715/000009371520000003/aft2020.txt</a>
+  			
+  2020-07-28		N-CSRS				
+  				SEMI-ANNUAL REPORT
+  <a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm">https://www.sec.gov/Archives/edgar/data/0000093715/000119312520200810/d913497dncsrs.htm</a>
+  			
+  2020-11-30  	N-CEN
+  				ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES
+  <a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/000114554921006167/xslFormN-CEN_X01/primary_doc.xml</a>
+  			
+  2021-07-23		N-CSRS
+  				SEMI-ANNUAL REPORT
+  <a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm">https://www.sec.gov/Archives/edgar/data/0000093715/000119312521222842/d763005dncsrs.htm</a>
+  			
+  2021-11-30  	N-CEN
+  				ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES	
+  	<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml</a>
+</code></pre>
+      </div>
+      <h4 dir="auto" style="box-sizing: border-box; margin-top: 24px;
+        margin-bottom: 0px; font-size: 1em; font-weight: 600;
+        line-height: 1.25;"><a
+id="user-content-applications-for-deregistration-under-section-8f-of-the-investment-company-act-of-1940"
+          class="anchor" aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#applications-for-deregistration-under-section-8f-of-the-investment-company-act-of-1940"
+          style="box-sizing: border-box; background-color: transparent;
+          color: var(--color-accent-fg); text-decoration: none;
+          transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+          background-color, box-shadow, border-color; float: left;
+          padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+            class="octicon octicon-link" viewBox="0 0 16 16" width="16"
+            height="16" aria-hidden="true"><path fill-rule="evenodd"
+              d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0
+              112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06
+              3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25
+              1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0
+              .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5
+              0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2
+              2 0 01-2.83 0z"></path></svg></a>Applications for
+        Deregistration under Section 8(f) of the Investment Company Act
+        of 1940</h4>
+    </blockquote>
+    <h6 dir="auto" style="box-sizing: border-box; margin-top: 24px;
+      margin-bottom: 16px; font-size: 0.85em; font-weight: 600;
+      line-height: 1.25; color: var(--color-fg-muted); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      letter-spacing: normal; orphans: 2; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;"><a id="user-content-2021-10-29" class="anchor"
+        aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#2021-10-29"
+        style="box-sizing: border-box; background-color: transparent;
+        color: var(--color-accent-fg); text-decoration: none;
+        transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+        background-color, box-shadow, border-color; float: left;
+        padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+          class="octicon octicon-link" viewBox="0 0 16 16" width="16"
+          height="16" aria-hidden="true"><path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83
+            2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5
+            0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69
+            9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0
+            001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95
+            4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0
+            01-2.83 0z"></path></svg></a>2021-10-29<br
+        style="box-sizing: border-box;">
+    </h6>
+    <blockquote style="box-sizing: border-box; margin: 0px 0px 16px;
+      padding: 0px 1em; color: var(--color-fg-muted); border-left:
+      0.25em solid var(--color-border-default); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">
+      <blockquote style="box-sizing: border-box; margin: 0px; padding:
+        0px 1em; color: var(--color-fg-muted); border-left: 0.25em solid
+        var(--color-border-default);">
+        <h6 dir="auto" style="box-sizing: border-box; margin-top: 0px;
+          margin-bottom: 16px; font-size: 0.85em; font-weight: 600;
+          line-height: 1.25; color: var(--color-fg-muted);"><a
+id="user-content-notice-of-deregistration-under-the-investment-company-act-of-1940"
+            class="anchor" aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#notice-of-deregistration-under-the-investment-company-act-of-1940"
+            style="box-sizing: border-box; background-color:
+            transparent; color: var(--color-accent-fg); text-decoration:
+            none; transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1)
+            0s, background-color, box-shadow, border-color; float: left;
+            padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+              class="octicon octicon-link" viewBox="0 0 16 16"
+              width="16" height="16" aria-hidden="true"><path
+                fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06
+                1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83
+                0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5
+                3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0
+                010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5
+                3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95
+                4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0
+                01-2.83 0z"></path></svg></a>Notice of Deregistration
+          under the Investment Company Act of 1940<br style="box-sizing:
+            border-box;">
+        </h6>
+        <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+          margin-bottom: 16px;">Form N-8F<span> </span><a
+href="https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf"
+            rel="nofollow" style="box-sizing: border-box;
+            background-color: transparent; color:
+            var(--color-accent-fg); text-decoration: none; transition:
+            color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+            background-color, box-shadow, border-color;"
+            class="moz-txt-link-freetext">https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005616/filename1.pdf</a></p>
+        <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+          margin-bottom: 0px;">Form N-8F<span> </span><a
+href="https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm"
+            rel="nofollow" style="box-sizing: border-box;
+            background-color: transparent; color:
+            var(--color-accent-fg); text-decoration: none; transition:
+            color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+            background-color, box-shadow, border-color;"
+            class="moz-txt-link-freetext">https://www.sec.gov/Archives/edgar/data/0000093715/000119312521278180/d222043dn8f.htm</a></p>
+      </blockquote>
+    </blockquote>
+    <h6 dir="auto" style="box-sizing: border-box; margin-top: 24px;
+      margin-bottom: 16px; font-size: 0.85em; font-weight: 600;
+      line-height: 1.25; color: var(--color-fg-muted); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      letter-spacing: normal; orphans: 2; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;"><a id="user-content-2021-11-24" class="anchor"
+        aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#2021-11-24"
+        style="box-sizing: border-box; background-color: transparent;
+        color: var(--color-accent-fg); text-decoration: none;
+        transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+        background-color, box-shadow, border-color; float: left;
+        padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+          class="octicon octicon-link" viewBox="0 0 16 16" width="16"
+          height="16" aria-hidden="true"><path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83
+            2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5
+            0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69
+            9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0
+            001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95
+            4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0
+            01-2.83 0z"></path></svg></a>2021-11-24</h6>
+    <blockquote style="box-sizing: border-box; margin: 0px 0px 16px;
+      padding: 0px 1em; color: var(--color-fg-muted); border-left:
+      0.25em solid var(--color-border-default); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">
+      <blockquote style="box-sizing: border-box; margin: 0px; padding:
+        0px 1em; color: var(--color-fg-muted); border-left: 0.25em solid
+        var(--color-border-default);">
+        <h6 dir="auto" style="box-sizing: border-box; margin-top: 0px;
+          margin-bottom: 16px; font-size: 0.85em; font-weight: 600;
+          line-height: 1.25; color: var(--color-fg-muted);"><a
+            id="user-content-investment-company-act-release-no-34411"
+            class="anchor" aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#investment-company-act-release-no-34411"
+            style="box-sizing: border-box; background-color:
+            transparent; color: var(--color-accent-fg); text-decoration:
+            none; transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1)
+            0s, background-color, box-shadow, border-color; float: left;
+            padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+              class="octicon octicon-link" viewBox="0 0 16 16"
+              width="16" height="16" aria-hidden="true"><path
+                fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06
+                1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83
+                0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5
+                3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0
+                010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5
+                3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95
+                4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0
+                01-2.83 0z"></path></svg></a>Investment Company Act
+          Release No. 34411<br style="box-sizing: border-box;">
+        </h6>
+        <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+          margin-bottom: 0px;">ORDER No. 34425<span> </span><a
+href="https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf"
+            rel="nofollow" style="box-sizing: border-box;
+            background-color: transparent; color:
+            var(--color-accent-fg); text-decoration: none; transition:
+            color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+            background-color, box-shadow, border-color;"
+            class="moz-txt-link-freetext">https://www.sec.gov/Archives/edgar/data/0000093715/999999999721005790/filename1.pdf</a></p>
+      </blockquote>
+    </blockquote>
+    <h4 dir="auto" style="box-sizing: border-box; margin-top: 24px;
+      margin-bottom: 16px; font-size: 16px; font-weight: 600;
+      line-height: 1.25; color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      letter-spacing: normal; orphans: 2; text-align: start;
+      text-indent: 0px; text-transform: none; white-space: normal;
+      widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;"><a id="user-content-fund-surviving-the-merger"
+        class="anchor" aria-hidden="true"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER#fund-surviving-the-merger"
+        style="box-sizing: border-box; background-color: transparent;
+        color: var(--color-accent-fg); text-decoration: none;
+        transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+        background-color, box-shadow, border-color; float: left;
+        padding-right: 4px; margin-left: -20px; line-height: 1;"><svg
+          class="octicon octicon-link" viewBox="0 0 16 16" width="16"
+          height="16" aria-hidden="true"><path fill-rule="evenodd"
+            d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83
+            2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5
+            0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69
+            9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0
+            001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95
+            4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0
+            01-2.83 0z"></path></svg></a>Fund Surviving the Merger</h4>
+    <div class="snippet-clipboard-content position-relative
+      overflow-auto" style="box-sizing: border-box; position: relative
+      !important; overflow: auto !important; color: rgb(201, 209, 217);
+      font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe
+      UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color
+      Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px;
+      font-style: normal; font-variant-ligatures: normal;
+      font-variant-caps: normal; font-weight: 400; letter-spacing:
+      normal; orphans: 2; text-align: start; text-indent: 0px;
+      text-transform: none; white-space: normal; widows: 2;
+      word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">
+      <pre class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px;"><code class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; white-space: pre; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;">			CIK ID:	1516523 
+			Advisers Investment Trust 
+			Investment Company Act file number [811-22538]
+			LEI: 549300BG52TB5QPLYE22
+			
+			2021-09-30 	ANNUAL REPORT FOR REGISTERED INVESTMENT COMPANIES	
+			<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0001516523/000114554921074536/xslFormN-CEN_X01/primary_doc.xml</a>
+
+			2022-01-31	MONTHLY SCHEDULE OF PORTFOLIO HOLDINGS
+			[N-MFP2]
+			<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0001516523/000114554922005596/xslN-MFP2_X01/primary_doc.xml</a>
+
+			40-17G  January 1, 2022 to 12:01 a.m. on    January 1, 2023
+			<a class="moz-txt-link-freetext" href="https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm">https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm</a>![167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678](<a class="moz-txt-link-freetext" href="https://user-images.githubusercontent.com/70865813/167291658-0c930e39-96bc-42ff-b3b4-37dbef94d2f9.png">https://user-images.githubusercontent.com/70865813/167291658-0c930e39-96bc-42ff-b3b4-37dbef94d2f9.png</a>)
+</code></pre>
+    </div>
+    <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+      margin-bottom: 16px; color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;"><a target="_blank" rel="noopener noreferrer"
+href="https://user-images.githubusercontent.com/70865813/167291661-e153c08f-0b71-40e8-ac23-731479500e4b.png"
+        style="box-sizing: border-box; background-color: transparent;
+        color: var(--color-accent-fg); text-decoration: none;
+        transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+        background-color, box-shadow, border-color;"><img
+src="https://user-images.githubusercontent.com/70865813/167291661-e153c08f-0b71-40e8-ac23-731479500e4b.png"
+          alt="167291117-656e2a28-7591-4ecf-b5e0-bf5e4d58b678"
+          style="box-sizing: content-box; border-style: none; max-width:
+          100%; background-color: var(--color-canvas-default);"></a></p>
+    <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+      margin-bottom: 16px; color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">STFGX Date Close/Last Adjusted Close</p>
+    <div class="snippet-clipboard-content position-relative
+      overflow-auto" style="box-sizing: border-box; position: relative
+      !important; overflow: auto !important; color: rgb(201, 209, 217);
+      font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe
+      UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color
+      Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px;
+      font-style: normal; font-variant-ligatures: normal;
+      font-variant-caps: normal; font-weight: 400; letter-spacing:
+      normal; orphans: 2; text-align: start; text-indent: 0px;
+      text-transform: none; white-space: normal; widows: 2;
+      word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">
+      <pre class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; margin-top: 0px; margin-bottom: 16px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px;"><code class="notranslate" style="box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; font-size: 13.6px; padding: 0px; margin: 0px; background: transparent; border-radius: 6px; word-break: normal; white-space: pre; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;">                    11/10/2021    121.17    121.17
+                    11/11/2021    120.77    120.77
+                    11/12/2021    121.48    121.48
+                                                __________________________
+                                                11/15/2021    121.34    121.34
+                                                11/16/2021    121.6    121.6
+                                                11/17/2021    121.52    121.52
+                                                11/18/2021    121.87    121.87
+                                                11/19/2021    121.69    121.69
+                                                11/22/2021    121.64    121.64
+                                                11/23/2021    121.79    121.79
+                                                11/24/2021    121.85    121.85
+                                                11/26/2021    119.44    119.44
+                                                11/29/2021    120.48    120.48
+                                                11/30/2021    118.5    118.5
+                                                12/1/2021    117.78    117.78
+                                                12/2/2021    118.95    118.95
+                                                12/3/2021    118.46    118.46
+                                                12/6/2021    119.95    119.95
+                                                12/7/2021    121.89    121.89
+                                                12/8/2021    122.51    122.51
+                                                12/9/2021    121.99    121.99
+                                                12/10/2021    123.25    123.25
+                                                12/13/2021    122.76    122.76
+                                                12/14/2021    122.16    122.16
+                                                12/15/2021    124.36    124.36
+                                                12/16/2021    123.55    123.55
+                                                12/17/2021    121.93    121.93
+                                                
+                                                    --------------------------------------------------------------------------------------
+                                                                            __________________________
+                                                                            12/20/2021    120.72    120.72
+                                                                            12/21/2021    106.35    106.35
+                                                                            12/22/2021    107.39    107.39
+                                                                            12/23/2021    108.08    108.08
+                                                                            12/27/2021    109.52    109.52
+                                                                            12/28/2021    109.57    109.57
+                                                                            12/29/2021    109.82    109.82
+                                                                            12/30/2021    109.55    109.55
+                                                                            12/31/2021  
+                                                
+					    				just get worse.. 
+					     				05/06/2022   $100.14    ------
+</code></pre>
+    </div>
+    <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+      margin-bottom: 16px; color: rgb(201, 209, 217); font-family:
+      -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;,
+      Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+      &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal;
+      font-variant-ligatures: normal; font-variant-caps: normal;
+      font-weight: 400; letter-spacing: normal; orphans: 2; text-align:
+      start; text-indent: 0px; text-transform: none; white-space:
+      normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+      0px; background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;"><a target="_blank" rel="noopener noreferrer"
+href="https://user-images.githubusercontent.com/70865813/167291688-2a2363f1-8dea-4e9f-93c2-3258fd7a3669.png"
+        style="box-sizing: border-box; background-color: transparent;
+        color: var(--color-accent-fg); text-decoration: none;
+        transition: color 80ms cubic-bezier(0.33, 1, 0.68, 1) 0s,
+        background-color, box-shadow, border-color;"><img
+src="https://user-images.githubusercontent.com/70865813/167291688-2a2363f1-8dea-4e9f-93c2-3258fd7a3669.png"
+          alt="167291170-f30a3492-9be0-4b43-b958-aa909c839c60"
+          style="box-sizing: content-box; border-style: none; max-width:
+          100%; background-color: var(--color-canvas-default);"></a></p>
+    <p dir="auto" style="box-sizing: border-box; margin-top: 0px;
+      margin-bottom: 0px !important; color: rgb(201, 209, 217);
+      font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe
+      UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color
+      Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px;
+      font-style: normal; font-variant-ligatures: normal;
+      font-variant-caps: normal; font-weight: 400; letter-spacing:
+      normal; orphans: 2; text-align: start; text-indent: 0px;
+      text-transform: none; white-space: normal; widows: 2;
+      word-spacing: 0px; -webkit-text-stroke-width: 0px;
+      background-color: rgb(13, 17, 23); text-decoration-thickness:
+      initial; text-decoration-style: initial; text-decoration-color:
+      initial;">kept moving East, my best guess.</p>
+  </body>
+</html>
+
+--------------uxrRNlCK9cMaXVMRc6xfVFJG--

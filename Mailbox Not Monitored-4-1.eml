@@ -1,78 +1,89 @@
-From - Tue May 31 15:10:35 2022
+From - Wed Aug 10 16:51:33 2022
 X-Account-Key: account1
-X-UIDL: ANshMzRak0/SYpZz6AO1OG1zt2A
-X-Mozilla-Status: 0001
+X-UIDL: AHCJOItweR+NYvQj1waD+Nvslj8
+X-Mozilla-Status: 0000
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Received: from 10.253.31.94
- by atlas225.free.mail.gq1.yahoo.com with HTTPS; Tue, 31 May 2022 20:00:39 +0000
+Received: from 10.217.150.76
+ by atlas304.free.mail.ne1.yahoo.com with HTTPS; Wed, 10 Aug 2022 21:32:06 +0000
 Return-Path: <Governor.Hochul@exec.ny.gov>
 X-Originating-Ip: [161.11.121.124]
 Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
-Authentication-Results: atlas225.free.mail.gq1.yahoo.com;
- dkim=unknown;
+Authentication-Results: atlas304.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@exec.ny.gov header.s=NYSECTrendMicro;
  spf=pass smtp.mailfrom=exec.ny.gov;
- dmarc=pass(p=NONE) header.from=exec.ny.gov;
-X-Apparently-To: ms60710444266@yahoo.com; Tue, 31 May 2022 20:00:40 +0000
-X-YMailAVSC: DyyOXbQ3bBtVGVUVTYpWv7qqrPh4qMbQcIiYemHb3WohJed
- CQqMRzhzjfYe4tcceAFXP7HlrIDgUDE9VC2.Vc0TPnW0IPbTGYg2Uzo0ZFFo
- Bmx8H64fwijS06D6awkbABKlAtWkLPJGMTfcaW5ueuzovi34Mi.aO5uvLwWR
- XCV3RPJsGZsEFZYIVBL3mZQnn5N20LZYDUnXjQU7LHfXag7CkB1wTs17M093
- iTTQsHm5QGmRzaEdabu78XnIbSwh3VC.Ce6x3W3k9OV7SqPb..TuFyboW8rc
- JwtEDTLwvzasP8RbI5SWl13kSY3blf4FZoY.W0x1b8CbmMASW45IBezE-
-X-YMailISG: OU5mjIIWLDv..BK..kS46YzgOfwY7CcnMllqpLEQ5y3jLCQT
- T0Dw_IuWb79BCu0mJf6VzDgK_TDkX6Rdlhdw0R3bM0o6tHHkvf6NEUfB061B
- UjUVpY21UeKDuNBDw4raxK4mq3UjSQhTpyQp6m9KuZAcCLgwXXFbIiZWGgGT
- UzrC5BLj.LSH1NnI2SlUFt6Deewslloluw8.6pGooGnbwXMeUpDuM6PEu8RE
- TXyMv3pJqwG9tq5IMQPG8U4TRzb32tKWUL8g_zjTOofcQISc3IvBanTr4Gro
- Bs.413F1s4.pHdLJPCkzpKSdogMoQISbqx5H9shsWv7shkRZ1_h.wiuzvWR0
- jILGJbMHslrlL54LlJ3h_naR0thcVxUic85ftvuAicQHQRSYfc6QzmLX_ldM
- 3Dlr6zcAGE.QHxvBWcGROE_aX_3YG8JE1Byw20zgvHPWyJtLPSTALgvNPjzc
- jnND1eOOialVklBpXZK6vWoEuguAgqFt0ktRQevPKlfdQaFmTpxTyxj8b9vR
- k0jf4wr0yQtxquLgMhqeLvFhhbsKzVGW4ZkOu56myRRDlH06HCM57IXM4x9I
- r2e6OexPWvjCyBl7_CxmfJB5bg1dga7_mAWKtm5pol5Oo2SwZk2Zp3QiW0nE
- PQOVt0DveRukZrbAFc7yijz6rndmvNtuVcv1vAcrCkLdVW5L2tdzK2s5y_fR
- pTS_dQSuNhWabsL8sSH5VgRl9r28IfRyAlqYgktQgXNDLzzFjzt3lfrp29DU
- m5pDQulxFBEguHo1xByVmZPARfGdzB5k09qKvnoStk1kO1pOgY0dsrFgeB3q
- s4Feqz9YtKqZuAbgYZ.kncPP66CovRz14MS3DpJAPwM4VafdX_1f_PdC0SkG
- P5.2BCcqOgArickVNlIoct4NYZvSzi2SBigfV3fgpsBvHfE_g_ztvwRVHarl
- ZwLD85.LRLpfQWlu265nOk5hgqMtcjXD1lOPSkhdXJeQSqP7cmmsfPLKkBA_
- N7EDCETAE3H6GgEt
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 10 Aug 2022 21:32:07 +0000
+X-YMailISG: GVVHSyAWLDuK1Nub5Jld3XtIw52CIN5VRzD.d_zAP3dgDu2D
+ NXAu98R7T5p_toDcQjg5MScHx0W0Y4EWN8xH7BBkei8b6QMx.SquA3cS9P_J
+ cpkHec6QQT8ghwRiFN90xbtHkAUQWMKPOOqwxs4iS3o5TSAuNACBY9PU3CFI
+ qkaGAa76ne9TlFdZFeGNq0BR6yG4FtyJtfIBsgbHBVSfOlCpvQUwatBy27GY
+ y9C8aA1ZW.u8yYMetiHaV55QdzkXrY5aCNu9k0j3BLePmtV3vVBLUizRmUJQ
+ DQXpyr9KUS.NvGrGGBwrkLxpMCBI6.uRtf.sobqzTRbYi_2hKaGE_4.BU_Di
+ GDSzixqXwW2b7bTTMoKEkn5mYXrAfySoROprHBhpUd2T0xxGTq8J.OZHjaSX
+ HDPPQyWaEHT8Yo0uXuDZQYs9Ky5ain4vJDOlSxBrkMRJLu4o5UceAkKqF8BM
+ AimwF4u5TE52Mwua7HdE9TDviX91i8tX690Rc077OSwMYAWSxGzwVjsw.rOt
+ UhhJ9Go78HCSebRXeRL3SLEVQwJKEZ1vNxYCVXk2f8DhWbLQvsXZj9IgQn3X
+ caQyObQ2Y2.AVdxzWY55GQwPI0pNZ0uzAd26aC_uId1U1wWHr0H7gljZa9Y5
+ WihY.6GQvYTDWhMcESwhs7g09_4PKgCU9Bq9XDcIXgGlkgwh1TACVZDKJOD6
+ ajQ.uY2QGZFelplNgMMcO299oCD5ACs_U2X3SokgvNTZD4TPhMKEYErlKrMe
+ F1N.iC6B7xscdLJyDQnLWvh09oKN3mdUGpOYycac7pic.20Qg5zWdBQF__bP
+ yeILUzIFw.yuDMkJvihZ98Z6eKpNZoGhL3yeMDTB4rtGAduNXtPYHL2fNav1
+ yzd_MPHVx4sVjCeYb8iYT9wKww.EQYYXXD287kzg5FI4Gby.xhNASIS37lto
+ JL_wEwR6tC5FPc6z9Y8ub9JLnlRwqPGhQO9pUcBctxrZTf1YRORPSbUhRK7x
+ BzbR_kTZ03dgEydNrFLS3VW3.H1tuemlb0Wt.9cfBjHkJwgwFaAJbdshdI5f
+ EjSe8JmYUK7MVwjjOv2yF.pKzFXolAigcb..dSEbjmMTyuPJEYAkScjsKXw-
 Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
- by 10.253.31.94 with SMTPs
+ by 10.217.150.76 with SMTPs
  (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
- Tue, 31 May 2022 20:00:39 +0000
+ Wed, 10 Aug 2022 21:32:06 +0000
 Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with SMTP id 6BA4FD206E
-	for <ms60710444266@yahoo.com>; Tue, 31 May 2022 16:00:38 -0400 (EDT)
+	by IMSVA (Postfix) with SMTP id A669DD2063
+	for <ms60710444266@yahoo.com>; Wed, 10 Aug 2022 17:32:00 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=exec.ny.gov;
+	s=NYSECTrendMicro; t=1660167126;
+	bh=1or3LXl267bbCgDhJ5KCvoozxiqc27wFD3gM0RFy7Rw=; h=From:Date:To;
+	b=p0MahD8zvyLwbfoDEGl8dsYSY98XWciZ0m3qTEYDvRecM+K6hFwc9nBijRNWUr56m
+	 FESq5FVSDCKJrFbydmnUnk8dcCjS3LPAxR4d0t+sEMUsSl/leIGWSvdR9xlyDC4X+N
+	 cyUJXem4JmLXXrRzoUwLRXtBb1J1jkasTb8bD4J3glL0S0dyRG+E+6pXeilrhhGVGF
+	 MQpKJb3r5X04AnEqFolTitVe49v590N+fhNMCgP8Fpbog5aj5XMpUVZQt7GNQUyTkx
+	 6vYe6fyk0fMjAFsm05HR+xEQMi69YIT071ooQ0FbFNkilkig1amsv84P5d5JxUr3it
+	 gaJuqeCYW3LZw==
 From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
 Content-Type: multipart/mixed;
 	charset="utf-8";
-	boundary="TMMSG_90D57EE1_D15A_9330_3557_4622CB967F23"
+	boundary="TMMSG_1B06107A_1BA0_D405_44E9_4BD43F1A1CE5"
 Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
-Date: Tue, 31 May 2022 16:00:32 -0400
+Date: Wed, 10 Aug 2022 17:31:57 -0400
 MIME-Version: 1.0
 To: <ms60710444266@yahoo.com>
 X-TM-AS-GCONF: 00
-X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26928.001
-X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26928.001
-X-TMASE-Result: 10--9.435500-10.000000
-X-TMASE-MatchedRID: TEhziARzsPYqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
-	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEqxi///JpaHQPBOVz0Jwcxl3+5WO814jG/9Tv
-	adhXG9g3gPqVbzYllURvzEjY4PdntDlWhxTgIXOoCOoDG5aR1MUc8WUCsHFxUR6RHdVK85hV2XX
-	WXwtX0rb8hxCtjovyYujOPKTRawmADxsck8rAz/eQYBHVKqgDUVeAZ5VSHdZ3bTHj+nmNjzaPFj
-	JEFr+ol4E9s12Gvf52KoonP3ywz3dLvsKjhs0ldcCu5meOGim7yAa5Iyj04qmqf6yTvsVhTbiaf
-	JeNITRfQsEliGRvqKc9ToL3iiAqO8sEiIyD/DSgGW+F58eTn2KaViQ19k7LbwWS44mINsndIzxh
-	oLWTMhWAA0c/6WhxbVLItTZ2tSDF+3BndfXUhXQ==
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-27070.002
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-27070.002
+X-TMASE-Result: 10--27.093700-10.000000
+X-TMASE-MatchedRID: sb28+xV1DGoqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jER63VPG+eA2DrmLeMrcoM6i3dp6DuD+6wIPL5uMSfifzGNt
+	H9cKwddZDd9yjJz2qcBmQ64USgvO0bwiLg6tAv8WdVNZaI2n6/9q1p6neH75UlO9i7ki6LAOftK
+	7jEdI9kcKgui7o4ONoKnULK2T6QNDxd7bwbaHhtDBgCmbnj9JmZ8+GUgo54CyZ/uG36IP1tLY1P
+	UIaVAfG9hsZth3fjWwHiBVKKaTKWZz3nEP4SjjAOGTV4fFD6yDzZKDA1/pIrkCY60f4aO0cswfE
+	zaVo9tpIwfwBVRLsGGKRqtUYa27gdPuagWTctxtrAX6aBzGqZd7bZy1Qv3Mz2kt5mqTrPRIDta2
+	/qQ4uyKUtPS8wtHNqLF6YH3OLqtzdmXSnvAT20kSOXDsvFRej0UE3JTRDcUROSdjPsgTdCZsC9C
+	/as6CVgE8CcqSVda03htlbdE4fbZmooKJYqm5MztmD5l3UQc/Q2dRRUyVMprEOBl2MVn3QHURmD
+	GJW7uRpUnnneXyzyH402rgrnxzfEuVSzTCOmZifgML7lG8+KRA5wxKjT3bqB1qmZ2kKOczkk7M/
+	u2D62qU/7ad5UmbXCrE9luvCNQgTaxb8IQrwpUEOfoWOrvuOkhTlVHCHHF+t9LPIvFn9s/784iq
+	X5cil+7QmOJudfuNSUB925Um+6fYGA2dEPMR6OYqUl58EXDP2lq7tlQP7FHjwkzrYHfhD9Dki5/
+	WlvvHm7+5I9vQ4k99dLgmJfsBYh44pFEtxshKeAiCmPx4NwGmRqNBHmBvepTwPRvSoXL2y5/tFZ
+	u9S3Pu9poc8/gtL/CRh+EEE2wkaMUyeC0staJwDp1OIv3zj54TF2Ho27PIzy9KqxJVJggb142fN
+	2P20IQvt+3LqvDcwPvERclccVw==
 X-IMSS-DKIM-White-List: No
 X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
-Message-Id: <20220531200038.6BA4FD206E@mail4.chamber.state.ny.us>
-Content-Length: 12088
+Message-Id: <20220810213200.A669DD2063@mail4.chamber.state.ny.us>
+Content-Length: 79931
 
 This is a multi-part message in MIME format.
 
 
---TMMSG_90D57EE1_D15A_9330_3557_4622CB967F23
+--TMMSG_1B06107A_1BA0_D405_44E9_4BD43F1A1CE5
 Content-Type: text/plain;
 	charset="utf-8"
 Content-Transfer-Encoding: base64
@@ -83,193 +94,1284 @@ dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
 Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
 cyBvZiB0aGUgR292ZXJub3Iu
 
---TMMSG_90D57EE1_D15A_9330_3557_4622CB967F23
+--TMMSG_1B06107A_1BA0_D405_44E9_4BD43F1A1CE5
 Content-Type: message/rfc822
 
 Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with ESMTP id 61351D2063
-	for <governor.hochul@exec.ny.gov>; Tue, 31 May 2022 16:00:32 -0400 (EDT)
-Received: from sonic317-53.consmr.mail.bf2.yahoo.com (sonic317-53.consmr.mail.bf2.yahoo.com [74.6.129.108])
+	by IMSVA (Postfix) with ESMTP id 89B5FD2063
+	for <governor.hochul@exec.ny.gov>; Wed, 10 Aug 2022 17:31:57 -0400 (EDT)
+Received: from sonic311-43.consmr.mail.bf2.yahoo.com (sonic311-43.consmr.mail.bf2.yahoo.com [74.6.131.217])
 	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
-	for <governor.hochul@exec.ny.gov>; Tue, 31 May 2022 16:00:32 -0400 (EDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654027231; bh=epe+ZeReznFLlBUXxRbVJJh3dFkx8JP1Zc3f4I7p+T8=; h=Date:To:Cc:From:Subject:References:From:Subject:Reply-To; b=oNkjxN2Zbiq0Td3U7N/Iz78HMdV8KLRUDXgs5wtigjfJAbP35wFefsGxw0ThmDtS+p+lzeTrkzSsq4prRrCyWC1D7ZCI9B/RX05hDbwLNbz58yiK64sy5coJFvDhFb5vP5yMI18RwPakDMgFVTmKwK0NZe9DW288qzBV5QOnWydP6ssxcXEG1iYPoM95HgiZwXCfmN9E4Saqxy+l9oLQLxNWSQKYchaSflzZmuQv+zViVWi+ikn8lPJ1LDqQDk4bCdauSFb18fxSQmNuxJfNjJYKwM9zlHmw4qqnJGcAfezTpl8mucPav6WKiijShdo1tcdV2enM98JQgUdyMrIz1Q==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654027231; bh=XOmEsFwmpyurJSS3oDfrZG52jkTyFqtX6za6r+5rLke=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=R30IwEo055MX/QcGLgMRJhkbzPHaqQJE+o0CwqxJKiHVCoBZpVA4DmNXiyPNdroYEI9EhSs+nP/nO7j0rlD/srzwOGNw+BuE00vahyk9Om/MvJukiirSBcAarje/bWqw2qcBNlU8i9RvpwTBSzExtVa8zl43tfZIU0NsYQWut5dqd18l8RINy4Cvv8rh0ObAxpD9Maa7wVdVIRr4d3tQja+3XE14FtZUI4VwSbfHhgcCnTG27WCmGHZ1bQ/URWpPtNLGHkU1BxhemCC9mELtV90N1eA90UVQapoELcMvr4ysn8RDs8CxVBPs4G/ql+0MFk1kVrYyRO9VPC9nDu+d5w==
-X-YMail-OSG: Z4kIuzMVM1kxKwDbPfNbKvkQpo0dHxWOeMZjiZUvBiQFBW_tSf19TGxYpkaddDI
- HOvJp8oRYzF9gusp1BveCt.nbrPndouzlIBend8DzxJEulODXGDtFU06FKV.ca7.5g0DlTt8U.xL
- laIqZu7AdhYtae5wlGZQvueuXj73FGhe3aqeqTNcgvgM4BXSwxzgUAC5BvgQTA858g8qZK.I.0sw
- akQ4aQ1adPnNvbRi9v1qBPS0r8Mk0mHwLaZTFeYlHu1uKMKx1mX6lSw3SRJ9NnFg_fYWes2Cch9r
- g6MQxlNA88sh57SKU2cVF86BWFmPNxWK1eSEv6d5Mm996clYt9YdzDjvI.eSlqWzjVr7AaoEtm2w
- taB0vb7aYSkhBSSWRZ4JtKP1bOcjK14HcTiIuwZ6IagcdxO8GUnVQk18P2MADYohguwJIlqt__TY
- 9V7zQe39yUxCVKQHKgWf_uIPZMMdjrjWcE8jzMBe0eAmvuzxVIo5I3mURqOT7fhCP8wkwcJUJtkU
- SSnpwHcoiUv0ZBBsKjxBdpYdPRlLrxCRggSBrf6TaQmQg9ErHlrLmcm2Wr2XK1QOK8xq6LQSkU22
- EXtDsmHXAS8vDTbIKx0JgxSv3XIh57pSEIlhi7zyXNZXWYY33mk9VguguPR_f5wXYqgt4vMnqWI1
- CzYGWeMmWasa43.jDibE1yioZrNZeJA84q1K4mO8d.gOt2tmhWpUsJlpQghnxt0HtDD8YXzP04J0
- 55DsjgLqFxymZlr14PFBgi6rwyx.XngFfYOktZ5mB54xU1icJOoQQDxvuCvpQla8BXGYHlWS10f0
- y2brSPaQ3t92nRgmmOwPJBAd8uyBUbq032z1ZutbXiMS3OrNE4nw8.h3Fn4ZFVVihb1FsG_MqrHB
- r8i6m0YVomTGPFzVYAe30s26kmAzHC4mfPhBwA2R3ny8bx3rydJxEm9cYtg88pg6unNXZlqUrX6m
- Hj8HaqvG30LCDSX9gOLBMWebmpxh5YtBdHyQJlp2_t7NUIy4tsxGyLCZWQiEeYkU4.0QozxtS45s
- MFp.Hu0U9SBS3XsIs1RkEz2s12iNAYKBQMNNXd4xzuwR5kmElH97U_3WtrW3P7q.S7jknJwXRb.w
- cZpXCOZXnReTgxnwyumHh_sEZSJOZK.rzdZABKQkpnnYZ1xfMYcJdJQVRVHQR1TQnMJm0ty39O1a
- XjS24CTv3Jv1il3CVnVw6c8JWUEWbG.0Gfn_PWxveQJYzGs3zsrBEr4w1v7vc2zGUCeEJt5QwtAu
- nuIOBsjQhyUMz9yRPuRVf4hoKunnN7tsqi1jdJPe0RS.Oe3DeH1aHMp_BavfXQKgBMZcUUzJxojo
- CBtiTYw0B5vp.GJiNHdf82ZLsnYtDEtyO.aDKPoW23pLkdVpDRhZZuhG_SLgtL6PlrLBrSv7lUfK
- TWOKKGn1Ev4PWXUvLrOzTipQr2rgrn2Q5J_fqSxHKWivXMX20iq31WR3lEOGxYuuJTjyuiPW5mld
- pCNwqE5UBg_Si9u3hOcrElJRFRS4XZFRdmv5Ws52GsMRq3qpDAEPC2LrtdCSi9d5v4V9PCK39S6E
- ZcqNt2FeP1fedJJ_FPtHYjY23ysk57BYuwVjNzVyUVE2aBM7yvMrB0VFAg2UY2bjWiyJ8LhyBtZK
- 007g_MgZPzg7eMKC_5O8EN_4UzOzjxqzyoL_S3uQzfn7uJcoLRguyt_5.bU7PMDDVZN9FHVYnwoN
- AN0KBFZc0NmxAsoETzI3dDKR7kz1EAtZzm7Yt2ekkg6PddsnMVYxZWbjK5TplZU1tgzTewh50UuF
- BaQRQSuuSw.LLmOYNcjLM12ZpBL9JLa7fcrKbk8I7gA0amYRzOvJ_Lopz8j89pAwxIOlQJCCLZrE
- paATPdDtPdZ4Cf.S.VVNtMCQz4.X3kmZZFWQH4fVb381jz9r4jwVqY9TQo9Xaou9b849qLSltoos
- 1z09azdNJkgQ3YugWDLd9kkOJcda3R9JKSI5K7NJI6m72C2sbIQov9zlj4qgbv.HkNUBTdk8YhF0
- swffjvZchI99CudYi18K8ARgMz4qh2F8yp.TpSiPMUZ_2PPc63UaugzBKz._e0ov.IaFpGgvpPln
- BD.WsKYxSLmv.VacVxLKY2lpOmRFOIdj4W9SdpH3JnpvNAOoh.s3Cid10Nc_HPqyt8tGi6ACvCz9
- nS_LD8yHLuBkkxyurLPIh0XgZUYuLpLXk3bbSUeKUrh45bqyLyZ3wQ85b2RufJ9rOQRz1mopiCn8
- DX29Zv3s3a6Ope3tsmiZlg7Jz0iUX
+	for <governor.hochul@exec.ny.gov>; Wed, 10 Aug 2022 17:31:57 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1660167116; bh=JYhS0B1G2U0RraCuZfCmC7kA71ggDR6KnfTZVCXBIg8=; h=Date:Subject:To:Cc:References:From:In-Reply-To:From:Subject:Reply-To; b=ex9icpszdPeQry0/+Q6t3i9A1r2ZbHLBumyW77pL0nsqFP794w/8Dvxs2rWVT0Aq4pQZiKviTzMlUTKyvxdSWuY7YdB5VtXgtBdvW/BeuHx9oY/yTSs44x+aZtc1ddr0W9k+DDSCMtJOkhgNEyGh2xJRNZzoGyDe+5E3AfUR1yuzeBOPrx7P+99Epx2hhk13sIPYm+gpqD3kRb7Zp4MvaVpVm5/OBcQfrOiNZJZDWeueGCt9ONH/meP5KupU7YFlghYwandRaMDxc3OSDCB+ckmK/Gsg2niN8RcoNbptgyDgQTlL8ktqugB0yLf3++2ZJoM6SNwK63FphicxlSSSOg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1660167116; bh=09+PvQXBMaWb9eeR47JD59BS2zjczEKv8+zI28deUd7=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=ZX4j9B/iUtGPe8UqMVTKy0Oc3QFHJph9Vm4ldHqMS2DmmIW591t19CUPq90cSqKTRw4fZNUAAkehaDuKuhUR0RBgHwEDNPo7DYWeqMr8as5dSppPPdqouqD2aR0GKQq/PP8GHbGfRyx3nPJBBgDQgpMpp89tLSab6RvuZJwbQTit50rk9V7V3IfFsepvKR362qXy/j1dqjCwvztrvQsN+U0oxzUi4mMPCmllqPiNwvhriTpQz8HB3r0Irvxl1v8GVToUadWjz+cPWqZ+sWY0cwz28F3JMZC7+iYGfKusjReme5DGsfZyb4XL4NafHm1q4+Z0ZzS71I48wH+nJOLD8w==
+X-YMail-OSG: d4LipwsVM1m478WhX01Es1EFJi8uEOKaQGhP0q9eouQEPxfLCRT10IHGWrQM.yp
+ RlEXJU2hldXy.hBW1FGAWHSDYH2BFhmU3IF2BTp1CJXQFSaSaZMC4tM4b9_hd5ooMg1mj1k1e8NA
+ PljRF7zU1Tl1oeSdAl0KAfrvULivGDNksjdafDrZ8tVYeYeDTXj3jzNmYPwVrjd82.aqP83HY3SK
+ YdlFsI4flVaGVz9cMjrdczeakVqY_xI.UF8S6_mOJH9P5PVvfdq0CVXxOco2zIpuJys2J2W3uReG
+ UpxSGw6WbKd7frgmtdxbXCMk0sPiAfc0t6Vy89VCTl2Cjyyx1jJaJM54Se_lB44uWQ7Kb7XZtryx
+ gXcFDXl2b1TzLpUnrRQGFgehRgaut82sJUAKwxI4oZL2j4ZwrY7jvLxwf7xgyvynCHU7MbTDbmdY
+ OPfZbTCr8CT6Ccb9xQDGijj4DOkMwjzmzp_9LhL7XVdm0DWJnnJm8Y_HFoKCJuRDmqfnWQo8auNV
+ PSwjI91MOZZWlsOlfZB_ikQfSIg9wIx0ZRfTkYD7_q2DJUkgJY1qabN_Acui19fG0cHmCld7Zy0g
+ _byQYeGTpJwlZxb8UKob6OD6pvmwRV8InFtP8l2egGL3vPcVDVYJy4zQInNWtKde01UfhcghgRd5
+ bxd9tguYrqcLiSW05v7bpBCktAZ7qMW_zqQ9eXqjE4WFkKyrU6ga9Aq48n8iA7iGRtD67EDC5Czp
+ qe4FBToTDm.MqrNY1.766aYXZZmHGRLXQLwwBokfFciwNCUY6GvjshJ2rx9wntc4a9t803kErRyI
+ .DEmFIg8vL8DiUZAP5hGUqxMDB_ZJ_e4PmSSApnoQErG.IAur2M1V.9tu1rVKORFK_Fi5_58bpoE
+ JsRa0FIZDiWWqYJhAKDISmTMp48F9m6TxFvt8_KX5bEay.0eXqm4LSlB.RrrQCUI2CnbPCkvE47I
+ libRmZ9p0UfqdxsWOQyieFdJBI84f213gvjlxl7XOUm70jGGHuqlekFzGoA8Y5DWZoFME5BAvGNs
+ F2_hbjAD_E3FAiAS9vFhAaGYNIVnOZZ_mqWLSagwhWkGspWSw8Y1tshDRs9elDb955uh.YYMT7Mf
+ L5rQqP_YX_O.icwQM3Poo0QgCmP3pdcSGA90MaX1aQeKlf87kB3HQCmJM2ls6C19_ipi8kq1kF_u
+ 0hK75Mr4QKfkFWsW_SO2VcCicI_rBKNJUAPkrY7F0oxJu9E9Ah1Ltm9f27kVfgNv.4wGUP.TvQMS
+ Ijk6er6WOiqQ7ZInGmgJN712ory5VaJgzg3b9LQpo8QNR7NIV95okKtFoWpuKA_T_GebkkcJYuy6
+ .vyfJCUsRMLuumsVuWD0PZoV1WEDfDCNBsfilpxkOfgsmoZot_9TuemKiyKurBDBPUjy2SWLt2J1
+ MbK53S7VGDzEcwu3fQj0R2xpYz3gfEqPtBnnuZCPIa21gvKmXz52K5eSc5LXjWdsTH.fp4ycGPFu
+ 5RQigF.ZxiDxwg0qHDDbuY5J5atnnbJRAkZPxUsaIPaWrlGh2CCpns88FGWTbV2kxqEZNaZsojXa
+ jZBDwA8FeFT3mBsqU6.PPoBmt5wSyP1707ENwSibYK1T39L75waiKWfVf.zGp2blimZhXNJ4hMNN
+ Vb.PVA89Xxc3erO5.1a1tBayuDWl8c2ruCYmSG.U3rNmiydrCBYeIBgRcWuYa9XC9SZ8LM4R3yLg
+ 9gNSvPGEx7PJwHS66SWDjOD9pznS0ETQD4JKzHTxCavX5ZtssOBJHLrRvUqhijTx7aIwi3dxogaO
+ l_VjZ2D86U8GMXL5rKUMinkjoGAGdwEztmcoTau236r_JVlfmaq59NDnInNz5wv3DV8zCp1yYqBS
+ vpJBkrlrSlzIFK4Vw4Xq1DFB3QQyyNc1Gel0p.gLIpHW_Wxuv1TVv.2Q2ZVYACAEfcfyyOGJGOp1
+ 9svIusxcm_L4Io.ECV5e09YXIX8sJQVDhxQ6o58IzviDQ97eK9DFu8v4Te4rg7.58vnVfybX36X6
+ XO3HGKV0tp7CZRHCwdkjGoPcNH.i7l8jnQV4q0OqY3AiWFnwdsJE4kilhxyhp6Fw6_BGh2Hk8MVc
+ RxGrA6uxvFvXczZVKCLgXhwNgy_Al.aZOYTDjuAxmPxzNdD4_sHGNZ82_9_0QQBQcriIk.Poq8K4
+ kqCduNNdBpBzMsGsesKsXczO1aNL27j4JXeiZM6qS5ISZMJ3GaM9MZ2BF3YALaxhGCykkUwwhT.t
+ .hvjpC2peoYHXwG4kU4RE.IhjUNBqpW.S.SjunqKnqOb4x.YOAK8DJOA1Fjn5SXj0NlsFK_Z.Gi2
+ eonzOZUtrAnkJOYuA1YUWJC5FTw--
 X-Sonic-MF: <ms60710444266@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic317.consmr.mail.bf2.yahoo.com with HTTP; Tue, 31 May 2022 20:00:31 +0000
-Received: by hermes--canary-production-gq1-54945cc758-4ln8s (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID d44826e017cd67254899b928b28deb2e;
-          Tue, 31 May 2022 19:58:28 +0000 (UTC)
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic311.consmr.mail.bf2.yahoo.com with HTTP; Wed, 10 Aug 2022 21:31:56 +0000
+Received: by hermes--production-ne1-6649c47445-tz6bb (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID ee7e9bc7ff9d77f32f140eae7aa1dfd9;
+          Wed, 10 Aug 2022 21:29:54 +0000 (UTC)
 Content-Type: multipart/alternative;
- boundary="------------thqM30GZRMIjBwBum2UiJWJh"
-Message-ID: <65564b47-b4a7-5169-6f05-28d24f8a9fc4@yahoo.com>
-Date: Tue, 31 May 2022 14:58:05 -0500
+ boundary="------------tXuE4GlUGDNPAaW0S7QM0ceI"
+Message-ID: <71f339ac-975b-0f57-9a6c-1f4a924909fb@yahoo.com>
+Date: Wed, 10 Aug 2022 16:29:37 -0500
 MIME-Version: 1.0
 User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
- Thunderbird/91.6.1
+ Thunderbird/91.9.1
+Subject: Docket No. CFPB-2022-0040
 Content-Language: en-US
-To: Sec News <webmaster@sec.gov>, texas@sec.gov,
- "shareholderproposals@sec.gov" <shareholderproposals@sec.gov>,
- Secretarys-Office@sec.gov, Rule-Comments <rule-comments@sec.gov>,
- "publicinfo@sec.gov" <publicinfo@sec.gov>, philadelphia@sec.gov,
- "Pamela Gibbs [SEC]" <OMWI@sec.gov>, Ombudsman@sec.gov,
- "Carl Hoecker [SEC]" <OIG@sec.gov>, "oca@sec.gov" <oca@sec.gov>,
- NYROBankruptcy@SEC.GOV, "newyork@sec.gov" <newyork@sec.gov>,
- "losangeles@sec.gov" <losangeles@sec.gov>,
- IMshareholderproposals <IMShareholderProposals@sec.gov>, foiapa@sec.gov,
- "dfw@sec.gov" <dfw@sec.gov>, denver@sec.gov,
- "dcaoletters@sec.gov" <dcaoletters@sec.gov>, cshugg@usinfosec.com,
- "CHICAGO@SEC.GOV" <CHICAGO@SEC.GOV>, LORI SCHOCK <CHAIR@SEC.GOV>,
- "boston@sec.gov" <boston@sec.gov>, atlanta@sec.gov
-Cc: "smbyrne@bloomberg.net" <smbyrne@bloomberg.net>,
- John Malito <jmalito@bloomberg.net>,
- "Steven Santiccioli, Northern Trust" <steve@bloomberg.net>,
- "[ NTRS ] Steven Santiccioli" <sjs5@ntrs.com>,
- Heather Caldwell <hncaldwell@bloomberg.net>,
- Brent Reeder <bdr11@bloomberg.net>,
- Michael Zaroogian <mzaroogian1@bloomberg.net>,
- Terence Lynch <tlynch54@bloomberg.net>, Rebekah Holt
- <rholt22@bloomberg.net>, Katie Hubbard <khubbard1@bloomberg.net>,
- Leigh Ann Rogalski <lrogalski@bloomberg.net>,
- "smarsh16@bloomberg.net" <smarsh16@bloomberg.net>,
- Chris Minter <cminter2@bloomberg.net>, Hollie Marsh <hmarsh6@bloomberg.net>,
- Matthew Lockridge <mlockridge2@bloomberg.net>,
- Ashley Smock <asmock1@bloomberg.net>,
- Cory Swartzlander <cswartzlande@bloomjhoyerberg.net>,
- Scott Lawson <sbloomberglawson15@bloomberg.net>,
- Ayman Bari <abari4@bloomberg.net>, Adam Vales <avales1@bloomberg.net>,
- KEVIN ROCK <krock5@bloomberg.net>,
- Jean-Francois Ducrest <ducrest2@bloomberg.net>,
- Mark Dunford <mdunford3@bloomberg.net>,
- Caroline Dirks <cdirks1@bloomberg.net>,
- Kyle Gilmor <kgilmore10@bloomberg.net>,
- Diane Hsiung <dianehsiung@bloomberg.net>, HUNTER ROSE
- <hrose17@bloomberg.net>, Cameron Kurak <ckurak@bloomberg.net>,
- Mark Broughton <mbroughton11@bloomberg.net>,
- Betsey Euliss <beuliss@bloomberg.net>, Kim Bretz <kbretz2@bloomberg.net>,
- Jon Wilson <jwilson578@bloomberg.net>, Numan Ahmed
- <nahmed127@bloomberg.net>, Walter Ruane <wruane1@bloomberg.net>,
- Shawna Barlow <sbarlow28@bloomberg.net>,
- Philip Kroger <pkroger5@bloomberg.net>,
- Gabrielle Poole <gpoole2011@bloomberg.net>,
- Ricardo Correa <rcorrea29@bloomberg.net>,
- Matt Krebsbach <mkrebsbach3@bloomberg.net>,
- Sophie Kim <skim1465@bloomberg.net>, Ketrick Karsten
- <kkarsten@bloomberg.net>, Larnita Gates <lgates16@bloomberg.net>,
- Vicki Trimpe <vtrimpe@bloomberg.net>,
- Christin Higham <cmhigham@bloomberg.net>,
- Christina Constantine <cconstanti37@bloomberg.net>,
- "MSHY1 [ DEC 18 - 2021]" <mshy1@bloomberg.net>,
- Peter Melley <pmelley@bloomberg.net>,
- "jhoyer@bloomberg.net" <jhoyer@bloomberg.net>,
- "gshull@bloomberg.net" <gshull@bloomberg.net>,
- Jeffrey Attwood <jtattwood@bloomberg.net>,
- Robert Stephan <bstephan@bloomberg.net>, LISA ROGERS
- <lrogers@bloomberg.net>, Elena Khoziaeva <ekhoziaeva@bloomberg.net>,
- "btrauner@bloomberg.net" <btrauner@bloomberg.net>,
- "tbaker5@bloomberg.net" <tbaker5@bloomberg.net>,
- "tgipson@bloomberg.net" <tgipson@bloomberg.net>,
- Michael Whipple <mwhipple@bloomberg.net>, Chad Moser
- <cmoser7@bloomberg.net>, "tzelgert@bloomberg.net" <tzelgert@bloomberg.net>,
- Ray Renken <rrenken@bloomberg.net>,
- Kara Olson Sheffield <ksheffield1@bloomberg.net>,
- Jennifer Hsui <jhsui2@bloomberg.net>, John Socha <jsocha@bloomberg.net>,
- Joe Young <jyoung121@bloomberg.net>,
- Wade Reinthaler <wreinthaler@bloomberg.net>,
- "sreid42@bloomberg.net" <sreid42@bloomberg.net>,
- Adam Hallman <ahallman1@bloomberg.net>, Tyler Smith
- <tsmith241@bloomberg.net>, Wei Hao <whao15@bloomberg.net>,
- Rich Rebholz <rrebholz@bloomberg.net>,
- Michael Mayberger <mmayberger@bloomberg.net>,
- Brian Bengtson <bbengtson3@bloomberg.net>,
- BARIS xmas211 Dincer <bdincer211@bloomberg.net>,
- Donald Rizer <drizer@bloomberg.net>, Paul Aragon <aragonp@bloomberg.net>,
- "B.DINCER@COLUMBIA.EDU" <b.dincer@columbia.edu>,
- Jesse Aguilar <aguilarj@bloomberg.net>,
- FEDERATED INVESTMENT <fed-mmkt-ops@bloomberg.net>,
- Samriddi Abney <sadhikari2@bloomberg.net>, cmobloomberg@bloomberg.net,
+To: Bo Dincer <bdincer66@icloud.com>, edi.civil.rights.division@irs.gov,
+ JAMES.E.BURNS@cbp.dhs.gov, ATR.MEP.Information@usdoj.gov,
+ kevin.kilkenny@chase.com, eca_press@state.gov, citimod1@bloomberg.net,
+ usbep@service.govdelivery.com, 10pctdvo@nypd.org, 10pctyco@nypd.org,
+ 23pctdvo@nypd.com, 18pctdvo@nypd.org, 18pctyco@nypd.org, 1pctdvo@nypd.org,
+ cbrooks7@bloomberg.net, 1pctyco@nypd.org,
+ "Bloomberg L.P." <bbrief@bloomberg.net>, general.info@ny.frb.org,
+ mshy2@bloomberg.net, iceglobalnetwork-info@ice.com, 23pctyco@nypd.org,
+ Chair <chair@sec.gov>, "Malia D. Chatman" <malia.d.chatman@chase.com>,
+ Governor Hochul <governor.hochul@exec.ny.gov>,
+ MSKYLINE <ANNE@thehighlandpartners.com>, Newyork <newyork@sec.gov>,
+ BD <bondstrt@protonmail.com>, Tennesse <sbarchenger@tennessean.com>,
+ Granicus <tigta@service.govdelivery.com>, CHICAGO@sec.gov,
+ dallas-reserve-mgmt@dal.frb.org, dion.gaspard@nypd.org,
+ colin.brooks@morganstanley.com, blaw.content@bloomberg.net,
+ teschmann@mskyline.com, RISC@ic.fbi.gov, OCMgmtGrp@fdic.gov,
+ helpdesk@listserv.leo.gov, cdfifund@service.govdelivery.com,
+ ATR.Appellate@usdoj.gov, ATR.CPA@usdoj.gov, ATR.EXO@usdoj.gov,
+ ATR.International@usdoj.gov, Janna.Underwood@statefarm.com,
+ jessica.rosenbaum@usdoj.gov, judy.selmeci@wilsonelser.com,
+ GSAMOnlineRequest@gs.com, Criminal.Division@usdoj.gov,
+ ocdetf.foia@usdoj.gov, rebecca.coyle@statefarm.com,
+ stringer@comptroller.nyc.gov, ATR.TFS@usdoj.gov, help@vogue.com,
+ Regs@fdic.gov, abuse@gs.com, administration@mskyline.com,
+ blawre@bloomberg.net, DZUCKER@mskyline.com, espnfrontrow@espn.com,
+ helpdesk@leo.gov, inbox@livekelly.com, info@statefarm.com, tips@insider.com,
+ tips@latimes.com, JPMCinvestorrelations@jpmchase.com,
+ FTC ANTITRUST <antitrust@ftc.gov>, DCAO Letters <DCAOLetters@sec.gov>,
+ BO DINCER <bondstrt007@gmail.com>, BO DINCER <bo.dincer@yahoo.com>,
+ JAMES GORMAN <james.gorman@morganstanley.com>,
+ K Ripp <stationservices@cbs2ny.com>,
  Kerri Saperstein <ksaperstein2@bloomberg.net>,
- "Ms Hyld (MORGAN STANLEY )" <mshyld@bloomberg.net>,
- "Morgan Stanley15 (MORGAN STANLEY ADVTG )" <mstanley153@bloomberg.net>,
- Morgan Stanley154 "(MORGAN" STANLEY ADVTG ")" Morgan Stanley154 "(MORGAN"
- STANLEY ADVTG ")" <mstanley1541@bloomberg.net>,
- Morgan32 Stanley "(MORGAN" STANLEY ADVTG ")" Morgan32 Stanley "(MORGAN"
- STANLEY ADVTG ")" <mstanley321@bloomberg.net>,
- Marc Freeman <mfreeman57@bloomberg.net>,
- Viviana Lui-Chan <vlui-chan@bloomberg.net>,
- Jay Loftus <jloftus21@bloomberg.net>, William Downey
- <wdowney4@bloomberg.net>, "tclarke57@bloomberg.net"
- <tclarke57@bloomberg.net>, Brian Carr <bcarr43@bloomberg.net>,
- Michael Karp <karp58@bloomberg.net>,
- Nicole Bowyer <nicole.bowyer@statefarm.com>,
- "gpradocorrea@bloomberg.net" <gpradocorrea@bloomberg.net>
+ LAURIE ZUCKER <lzucker@mskyline.com>, Lee Bollinger
+ <bollinger@columbia.edu>, Lee Bollinger <officeofthepresident@columbia.edu>,
+ B Dincer <bdincer1768@bloomberg.net>, Marlyn Delva
+ <mmt22@cumc.columbia.edu>, Ricki Roer <ricki.roer@wilsonelser.com>,
+ Shari Laskowitz <legal@mskyline.com>,
+ Shari Laskowitz <slaskowitz@ingramllp.com>,
+ =?UTF-8?Q?Steve_O=e2=80=99Connell?= <Sgo2107@columbia.edu>,
+ Amber Griffiths <ag2943@columbia.edu>, Alan Morrison <ajm157@columbia.edu>,
+ ANA LOPEZ <legalasst@mskyline.com>,
+ UNIVERSAL EDITORIAL <investmentnews@editorial.investmentnews.com>,
+ Urvashi Sinha <urvashi.sinha@wilsonelser.com>,
+ FDIC Public Information <publicinfo@fdic.gov>,
+ "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, CFPB_PRA@cfpb.gov,
+ ATR.EAG@usdoj.gov, block803lot11@outlook.com, NYSBA MRC <mrc@nysba.org>,
+ 6462563609@mms.att.net, efile@nycourts.gov
+Cc: RelationshipBankingAndCustomerService@cfpb.gov, CFPB_Litigation@cfpb.gov,
+ whistleblower@cfpb.gov, CFPB_Plain_Writing_Act@cfpb.gov
+References: <A58B1D20-95AD-4F56-9E70-082ABD33B48C@icloud.com>
+ <EB79BBA6-8717-4975-89A2-3E652CC41728@icloud.com>
 From: B D2022 <ms60710444266@yahoo.com>
-Subject: STATE FARM LIFE INSURANCE COMPANY
 Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
-References: <65564b47-b4a7-5169-6f05-28d24f8a9fc4.ref@yahoo.com>
-X-Mailer: WebService/1.1.20225 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+In-Reply-To: <EB79BBA6-8717-4975-89A2-3E652CC41728@icloud.com>
+X-Mailer: WebService/1.1.20531 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
 X-TM-AS-GCONF: 00
 
 This is a multi-part message in MIME format.
---------------thqM30GZRMIjBwBum2UiJWJh
+--------------tXuE4GlUGDNPAaW0S7QM0ceI
 Content-Type: text/plain; charset=UTF-8; format=flowed
-Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 8bit
 
-  * https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe43dceb017f6a?diff=unified#commitcomment-75024192
-    <https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe43dceb017f6a?diff=unified#commitcomment-75024192>
-  * https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
 
---------------thqM30GZRMIjBwBum2UiJWJh
+*Re: CASE 01416925. **
+*
+On 8/9/2022 10:10 AM, Bo Dincer wrote:
+> If you prefer *.html files here is a supplement.
+>
+>
+>
+>
+>
+>
+> Can’t base cap a property that can’t legally collect RENT, avg cost/ unit?
+> /BD
+>
+>
+>> On Aug 9, 2022, at 10:51 AM, Bo Dincer <bdincer66@icloud.com> wrote:
+>>
+>> ﻿
+>>
+>> Under USC 18.225.each person:
+>>
+>> '...imprisoned for a term of not less than 10 years and which may be 
+>> life."
+>>
+>> https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/blob/BSCPGROUPHOLDINGSLLC-EMAIL-DOCKETS/ms-pwc-dicker
+>>
+>> Those papers confer a violation of the Sarbanes-Oxley 2002 Rev. and 
+>> by more than 4 institutions, certain of which are Privately Held.
+>> -- questions?
+>> /S/ BO DINCER.
+>>
+>>
+>>
+>>> On Aug 9, 2022, at 9:26 AM, Bo Dincer <bdincer66@icloud.com> wrote:
+>>>
+>>> ﻿
+>>> Docket No. CFPB-2022-0040
+>>>
+>>> In light of the Paperwork Reduction Act of 1995, I have prepared 
+>>> this in support of CIK filer 93715, in the former, was in custody of 
+>>> assets which were greater than $10 billion and qualify hereunder for 
+>>> comment. A failed Advisor who merger into CIK 1516523 without any 
+>>> material notice and lost nearly $1 billion dollars in a single 
+>>> trading session on December 21, 2021 without any requirement to file 
+>>> a corporate action, or any action at the guidance of my “seniors” 
+>>> was in fact a violation of civil rights and procedure as referenced 
+>>> hereunder in the matter of NYSCEF 153974/2020.
+>>>
+>>> https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf
+>>>
+>>> I appreciate the extension, please made sure the link above make it 
+>>> your PRA desk and also to Director Chopra.
+>>>
+>>> Most Respectfully,
+>>>
+>>> BD
+>>>
+>>> https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service
+>>> /BD . ).
+>>>> On Aug 9, 2022, at 8:56 AM, Bo Dincer <bdincer66@icloud.com> wrote:
+>>>>
+>>>> ﻿
+>>>> Mr. Chopra,
+>>>>
+>>>> CIK FILER 93715 into CIK FILER 1516523
+>>>>
+>>>> https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf
+>>>>
+>>>> /BD. ).
+>>>>> On Aug 9, 2022, at 8:08 AM, Bo Dincer <bdincer66@icloud.com> wrote:
+>>>>>
+>>>>> ﻿
+>>>>>
+>>>>> /BD
+>>>>>
+>>>>>
+>>>>> Begin forwarded message:
+>>>>>
+>>>>>> *From:* Bo Dincer <bo.dincer@yahoo.com>
+>>>>>> *Date:* August 9, 2022 at 7:33:39 AM EDT
+>>>>>> *To:* bo.dincer@yahoo.com, consumer.complaint@occ.treas.gov, 
+>>>>>> RISC@ic.fbi.gov, helpdesk@leo.gov, helpdesk@listserv.leo.gov, 
+>>>>>> kelly.fant-kelly@wellsfargo.com, 
+>>>>>> JPMCinvestorrelations@jpmchase.com, HSBC 
+>>>>>> <hsbc@messaging.us.hsbc.com>, Baris Dincer 
+>>>>>> <bdincer66@icloud.com>, ms60710444266@yahoo.com, "Goldman Sachs 
+>>>>>> Campus Recruiting \\u2013 Engineering" 
+>>>>>> <gscampusengineering@ny.email.gs.com>, GSAMOnlineRequest@gs.com, 
+>>>>>> "Derek C. Bowe, Jr. (via Maxient)" <notifications@maxient.com>, 
+>>>>>> "Colbert, Nicole (DOC)" <nicole.colbert@dc.gov>, "Sabain, Syncia 
+>>>>>> (DOC)" <syncia.sabain@dc.gov>, susan.olsen@us.pwc.com, "Link, 
+>>>>>> Tameka (DOC)" <tameka.link@dc.gov>, "Thalley, Sandra (DOC)" 
+>>>>>> <sandra.thalley@dc.gov>, "Akinboyewa, Charles (DOC)" 
+>>>>>> <charles.akinboyewa@dc.gov>
+>>>>>> *Cc:* FDIC Public Information <publicinfo@fdic.gov>, "Judith J. 
+>>>>>> Craig" <judcraig@fdic.gov>, leb@fbi.gov, 
+>>>>>> outsourcing.question@fbi.gov, "National.FOIAPortal (OIP)" 
+>>>>>> <National.FOIAPortal@usdoj.gov>, FTC ANTITRUST 
+>>>>>> <antitrust@ftc.gov>, OCMgmtGrp@fdic.gov, 
+>>>>>> TradingandMarkets@sec.gov, IMshareholderproposals 
+>>>>>> <IMShareholderProposals@sec.gov>, chair@sec.gov, Miami 
+>>>>>> <miami@sec.gov>, County Government Law Enforcement Division 
+>>>>>> <antitrust.atr@usdoj.gov>, 100maidenlane Info 
+>>>>>> <info@100maidenlane.com>, ACSInspectorGeneral@doi.nyc.gov, 
+>>>>>> endowmentadmin@columbia.edu
+>>>>>> *Subject:* *Re: CASE 01416925. Unlawful deposits and Interest 
+>>>>>> accruals*
+>>>>>> *Reply-To:* "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+>>>>>>
+>>>>>> ﻿Very much. @151
+>>>>>>
+>>>>>> /S/ BO DINCER
+>>>>>>
+>>>>>>     On Tue, Aug 9, 2022 at 3:25 AM, Bo Dincer
+>>>>>>     <bo.dincer@yahoo.com> wrote:
+>>>>>>
+>
+>>>>>>
+>>>>>>
+>>>>>>     https://github.com/BSCPGROUPHOLDINGSLLC/2021-DUCKER-ZUCKER/pull/1
+>>>>>>     <https://github.com/BSCPGROUPHOLDINGSLLC/2021-DUCKER-ZUCKER/pull/1>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>     The most expensive and negligent change of address I have seen.
+>>>>>>     CIK FILER 93715 into CIK FILER 1516523
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>     https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf
+>>>>>>     ^ 1 REFERENCE, is summarizes those economic interests and
+>>>>>>     freedoms, white collar crimes and USC Title 18.225,
+>>>>>>     violations under Continuing Financial Crimes, and on my watch.
+>>>>>>
+>>>>>>     /S/ BO DINCER.
+>>>>>>     https://www2.occ.gov/publications-and-resources/publications/banker-education/files/2022-cybersecurity-report.html
+>>>>>>     <https://www2.occ.gov/publications-and-resources/publications/banker-education/files/2022-cybersecurity-report.html>
+>>>>>>
+>>>>>>
+>>>>>>         On Tue, Aug 9, 2022 at 3:09 AM, Bo Dincer
+>>>>>>         <bo.dincer@yahoo.com> wrote:
+>>>>>>
+>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>         /S/ BO DINCER
+>>>>>>
+>>>>>>             On Tue, Aug 9, 2022 at 2:59 AM, Bo Dincer
+>>>>>>             <bo.dincer@yahoo.com> wrote:
+>>>>>>             To whom this may concern,
+>>>>>>
+>>>>>>             ANNEXED in NYSCEF MATTER 153974-2020 are the original
+>>>>>>             custodians (HSBC) who carried the unlawful rents and
+>>>>>>             interest, upon reasonable belief holds the same for
+>>>>>>             all of those properties without a legal grounds to
+>>>>>>             collect rent.
+>>>>>>
+>>>>>>             Docket 166, ANNEXED in NYSCEF matter 153974/2020
+>>>>>>             represents the transfer of funds (unlawful security
+>>>>>>             deposits) for the Properties and with respect to Loan
+>>>>>>             50074 cannot be defeased without all liens clear.
+>>>>>>
+>>>>>>             Those interests and risks were passed on to STATE
+>>>>>>             FARM LIFE INSURANCE COMPANY during the height of the
+>>>>>>             COVID-19 PANDEMIC as referenced in the NYC Dept Of
+>>>>>>             Finance Register by and between parties and first
+>>>>>>             NOTARIZED by STATE FARM LIFE INSURANCE COMPANY on May
+>>>>>>             11, 2020. The Directors of CRD firm 43036 report this
+>>>>>>             as a materially substansive conflict, as it is
+>>>>>>             disclosed on the CRD of its Directors as such. In
+>>>>>>             layman's terms, the underlying risk and economic
+>>>>>>             interests are deemed "reportsble" as an business, so
+>>>>>>             it's not exactly a part time paper delivery job.
+>>>>>>
+>>>>>>             Absent of the unlawful deposits, no different than a
+>>>>>>             heroin dealership —are unlawful at any US DEPOSITORY
+>>>>>>             INSTITUTION, per the Federal Deposit Insurance
+>>>>>>             Corporation. This may cause aome conflicts with audit
+>>>>>>             and with respect to which properties arw subject to
+>>>>>>             the interbank lending and Tier 1 reserves aa reported
+>>>>>>             by the two banks.
+>>>>>>
+>>>>>>             If you need me to notarize anything, I would
+>>>>>>             recommends you review the dockets in NYSCEF
+>>>>>>             153974/2020 sequentially prior to any further
+>>>>>>             intrusion, or my opinion in the matter, which
+>>>>>>             generally holds no opinion. I only understand what is
+>>>>>>             written in the Sarbanes-Oxley, and namely all of
+>>>>>>             those interim revisions, which over the course of
+>>>>>>             time have become less "relaxed" with respect to
+>>>>>>             "minimum triggers" and "minimum fines", as the
+>>>>>>             triggers moved lower and fines grew higher.***
+>>>>>>
+>>>>>>
+>>>>>>             /S/ BO DINCER.
+>>>>>>             MAC.: 646-256-3609
+>>>>>>             TMO.: 917-378-3467 117
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>             *** If you sold STFGX in the quarter prior, wheb the
+>>>>>>             price was higher, are you the buyer? I only see fewer
+>>>>>>             promotional dollars from CRD firm 8209, while
+>>>>>>             comparing their reported premiums in fiscal period
+>>>>>>             2020, with respect to 2021 (by roughly 25%). More
+>>>>>>             importantly, the combine of 4-Tickers lost the
+>>>>>>             greater of 852,029,489, and not in a day— no intraday
+>>>>>>             dots for those tickers then under CIK filer 93715,
+>>>>>>             with the CLASS 3 holding unreported by the new CIK
+>>>>>>             filer 1516523.
+>>>>>>
+>>>>>>             *** hence, a violation of the Sarbanes-Oxley 2002,
+>>>>>>             and per "Price Waterhouse Coopers", changed their
+>>>>>>             language... but could not get a hold of "any" broker
+>>>>>>             about a Class III holding, and by their own promoter
+>>>>>>             (only 3 of them). Largely due to the "oversight"
+>>>>>>             which LEEPS from one body of negligence to the other,
+>>>>>>             and generally only the CIK Filer Numbers grew.
+>>>>>>
+>>>>>>             *** that's the greater of $852,029,489 lost in two
+>>>>>>             shakes of a lambs tail, under oath —has been
+>>>>>>             obstructed for a timely release by the SEC and for
+>>>>>>             all available excuses in a non-joinder and
+>>>>>>             non-matrimonial BRK-B/STFGX divorce after the greater
+>>>>>>             of ten-years.
+>>>>>>             --
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>             P.S. a working draft and for early release, casually
+>>>>>>             however not as fashionable as the Zucker Enterprises LLC.
+>>>>>>
+>>>>>>             DRAFT, I can call you back on this later as I am
+>>>>>>             certain the Comptroller of Currency at the US
+>>>>>>             Treasury can understand this is white collar "non
+>>>>>>             hostile" observation, and I thank the NYPD for
+>>>>>>             immediate resoonses upon placing a Manhattan corner
+>>>>>>             in the subject line.
+>>>>>>
+>
+>
+
+--------------tXuE4GlUGDNPAaW0S7QM0ceI
 Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 8bit
 
 <html data-lt-installed="true">
   <head>
-
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   </head>
-  <body spellcheck="false" data-gramm="false">
-    <ul>
-      <li><a moz-do-not-send="true"
-href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe43dceb017f6a?diff=unified#commitcomment-75024192"><font
-            size="2"><font face="Helvetica, Arial, sans-serif">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe43dceb017f6a?diff=unified#commitcomment-75024192</font></font></a></li>
-      <li><a moz-do-not-send="true"
-          href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER"
-          class="moz-txt-link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER</a></li>
-    </ul>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <br>
+    <b>Re: CASE 01416925. </b><b><br>
+    </b><br>
+    <div class="moz-cite-prefix">On 8/9/2022 10:10 AM, Bo Dincer wrote:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:EB79BBA6-8717-4975-89A2-3E652CC41728@icloud.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      If you prefer *.html files here is a supplement.<br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <div><br>
+        <br>
+      </div>
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <div><font color="#0a84ff"><span style="caret-color: rgb(10, 132,
+            255);"><br>
+          </span></font></div>
+      <div><font color="#0a84ff"><span style="caret-color: rgb(10, 132,
+            255);">Can’t base cap a property that can’t legally collect
+            RENT, avg cost/ unit?<br>
+          </span></font>
+        <div dir="ltr">/BD
+          <div><br>
+          </div>
+        </div>
+        <div dir="ltr"><br>
+          <blockquote type="cite">On Aug 9, 2022, at 10:51 AM, Bo Dincer
+            <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a> wrote:<br>
+            <br>
+          </blockquote>
+        </div>
+        <blockquote type="cite">
+          <div dir="ltr">﻿
+            <meta http-equiv="content-type" content="text/html;
+              charset=UTF-8">
+            <p dir="auto" style="box-sizing: border-box; margin-bottom:
+              16px; caret-color: rgb(5, 12, 20); color: rgb(5, 12, 20);
+              font-family: -apple-system, BlinkMacSystemFont,
+              &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif,
+              &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;
+              -webkit-text-size-adjust: 100%; margin-top: 0px
+              !important;">Under USC 18.225.each person:</p>
+            <p dir="auto" style="box-sizing: border-box; margin-top:
+              0px; margin-bottom: 16px; caret-color: rgb(5, 12, 20);
+              color: rgb(5, 12, 20); font-family: -apple-system,
+              BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica,
+              Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+              &quot;Segoe UI Emoji&quot;; -webkit-text-size-adjust:
+              100%;">'...imprisoned for a term of not less than 10 years
+              and which may be life."</p>
+            <p dir="auto" style="box-sizing: border-box; margin-top:
+              0px; margin-bottom: 16px; caret-color: rgb(5, 12, 20);
+              color: rgb(5, 12, 20); font-family: -apple-system,
+              BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica,
+              Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+              &quot;Segoe UI Emoji&quot;; -webkit-text-size-adjust:
+              100%;"><a
+href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/blob/BSCPGROUPHOLDINGSLLC-EMAIL-DOCKETS/ms-pwc-dicker"
+                style="box-sizing: border-box; color:
+                var(--color-accent-fg); text-decoration: none;"
+                moz-do-not-send="true" class="moz-txt-link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/blob/BSCPGROUPHOLDINGSLLC-EMAIL-DOCKETS/ms-pwc-dicker</a></p>
+            <p dir="auto" style="box-sizing: border-box; margin-top:
+              0px; margin-bottom: 16px; caret-color: rgb(5, 12, 20);
+              color: rgb(5, 12, 20); font-family: -apple-system,
+              BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica,
+              Arial, sans-serif, &quot;Apple Color Emoji&quot;,
+              &quot;Segoe UI Emoji&quot;; -webkit-text-size-adjust:
+              100%;">Those papers confer a violation of the
+              Sarbanes-Oxley 2002 Rev. and by more than 4 institutions,
+              certain of which are Privately Held. <br
+                style="box-sizing: border-box;">
+              -- questions?<br style="box-sizing: border-box;">
+              /S/ BO DINCER.</p>
+            <div dir="ltr">
+              <div><br>
+              </div>
+            </div>
+            <div dir="ltr"><br>
+              <blockquote type="cite">On Aug 9, 2022, at 9:26 AM, Bo
+                Dincer <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a> wrote:<br>
+                <br>
+              </blockquote>
+            </div>
+            <blockquote type="cite">
+              <div dir="ltr">﻿
+                <meta http-equiv="content-type" content="text/html;
+                  charset=UTF-8">
+                <div>Docket No. CFPB-2022-0040</div>
+                <div><br>
+                </div>
+                <div>In light of the Paperwork Reduction Act of 1995, I
+                  have prepared this in support of CIK filer 93715, in
+                  the former, was in custody of assets which were
+                  greater than $10 billion and qualify hereunder for
+                  comment. A failed Advisor who merger into CIK 1516523
+                  without any material notice and lost nearly $1 billion
+                  dollars in a single trading session on December 21,
+                  2021 without any requirement to file a corporate
+                  action, or any action at the guidance of my “seniors”
+                  was in fact a violation of civil rights and procedure
+                  as referenced hereunder in the matter of NYSCEF
+                  153974/2020.</div>
+                <div><br>
+                </div>
+                <div><a rel="nofollow noopener noreferrer" shape="rect"
+                    id="yiv2259838189linkextractor__1660029639987"
+                    target="_blank"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf"
+                    moz-do-not-send="true" class="moz-txt-link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf</a></div>
+                <div><br>
+                </div>
+                <div>I appreciate the extension, please made sure the
+                  link above make it your PRA desk and also to Director
+                  Chopra.</div>
+                <div><br>
+                </div>
+                <div>
+                  <div style="caret-color: rgb(0, 0, 0); color: rgb(0,
+                    0, 0);">Most Respectfully,</div>
+                  <div style="caret-color: rgb(0, 0, 0); color: rgb(0,
+                    0, 0);"><br>
+                  </div>
+                  <div style="caret-color: rgb(0, 0, 0); color: rgb(0,
+                    0, 0);">BD</div>
+                </div>
+                <div><br>
+                </div>
+                <a
+href="https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service"
+                  moz-do-not-send="true" class="moz-txt-link-freetext">https://www.federalregister.gov/documents/2022/07/20/2022-15243/request-for-information-regarding-relationship-banking-and-customer-service</a><br>
+                <div dir="ltr">/BD . ).</div>
+                <div dir="ltr">
+                  <blockquote type="cite">On Aug 9, 2022, at 8:56 AM, Bo
+                    Dincer <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a> wrote:<br>
+                    <br>
+                  </blockquote>
+                </div>
+                <blockquote type="cite">
+                  <div dir="ltr">﻿
+                    <meta http-equiv="content-type" content="text/html;
+                      charset=UTF-8">
+                    <div>Mr. Chopra,</div>
+                    <div><br>
+                    </div>
+                    CIK FILER 93715 into CIK FILER 1516523
+                    <div><br>
+                    </div>
+                    <div><a rel="nofollow noopener noreferrer"
+                        shape="rect"
+                        id="yiv2259838189linkextractor__1660029639987"
+                        target="_blank"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf"
+                        moz-do-not-send="true"
+                        class="moz-txt-link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf</a></div>
+                    <div><br>
+                    </div>
+                    <div>/BD. ).</div>
+                    <div>
+                      <div dir="ltr">
+                        <blockquote type="cite">On Aug 9, 2022, at 8:08
+                          AM, Bo Dincer <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a>
+                          wrote:<br>
+                          <br>
+                        </blockquote>
+                      </div>
+                      <blockquote type="cite">
+                        <div dir="ltr">﻿
+                          <meta http-equiv="content-type"
+                            content="text/html; charset=UTF-8">
+                          <br>
+                          <br>
+                          <div dir="ltr">/BD
+                            <div><br>
+                            </div>
+                          </div>
+                          <div dir="ltr"><br>
+                            Begin forwarded message:<br>
+                            <br>
+                          </div>
+                          <blockquote type="cite">
+                            <div dir="ltr"><b>From:</b> Bo Dincer
+                              <a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">&lt;bo.dincer@yahoo.com&gt;</a><br>
+                              <b>Date:</b> August 9, 2022 at 7:33:39 AM
+                              EDT<br>
+                              <b>To:</b> <a class="moz-txt-link-abbreviated" href="mailto:bo.dincer@yahoo.com">bo.dincer@yahoo.com</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:consumer.complaint@occ.treas.gov">consumer.complaint@occ.treas.gov</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:RISC@ic.fbi.gov">RISC@ic.fbi.gov</a>, <a class="moz-txt-link-abbreviated" href="mailto:helpdesk@leo.gov">helpdesk@leo.gov</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:helpdesk@listserv.leo.gov">helpdesk@listserv.leo.gov</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:kelly.fant-kelly@wellsfargo.com">kelly.fant-kelly@wellsfargo.com</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:JPMCinvestorrelations@jpmchase.com">JPMCinvestorrelations@jpmchase.com</a>, HSBC
+                              <a class="moz-txt-link-rfc2396E" href="mailto:hsbc@messaging.us.hsbc.com">&lt;hsbc@messaging.us.hsbc.com&gt;</a>, Baris
+                              Dincer <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:ms60710444266@yahoo.com">ms60710444266@yahoo.com</a>, "Goldman Sachs
+                              Campus Recruiting \\u2013 Engineering"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:gscampusengineering@ny.email.gs.com">&lt;gscampusengineering@ny.email.gs.com&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:GSAMOnlineRequest@gs.com">GSAMOnlineRequest@gs.com</a>, "Derek C. Bowe,
+                              Jr. (via Maxient)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:notifications@maxient.com">&lt;notifications@maxient.com&gt;</a>,
+                              "Colbert, Nicole (DOC)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:nicole.colbert@dc.gov">&lt;nicole.colbert@dc.gov&gt;</a>, "Sabain,
+                              Syncia (DOC)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:syncia.sabain@dc.gov">&lt;syncia.sabain@dc.gov&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:susan.olsen@us.pwc.com">susan.olsen@us.pwc.com</a>, "Link, Tameka
+                              (DOC)" <a class="moz-txt-link-rfc2396E" href="mailto:tameka.link@dc.gov">&lt;tameka.link@dc.gov&gt;</a>,
+                              "Thalley, Sandra (DOC)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:sandra.thalley@dc.gov">&lt;sandra.thalley@dc.gov&gt;</a>,
+                              "Akinboyewa, Charles (DOC)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:charles.akinboyewa@dc.gov">&lt;charles.akinboyewa@dc.gov&gt;</a><br>
+                              <b>Cc:</b> FDIC Public Information
+                              <a class="moz-txt-link-rfc2396E" href="mailto:publicinfo@fdic.gov">&lt;publicinfo@fdic.gov&gt;</a>, "Judith J.
+                              Craig" <a class="moz-txt-link-rfc2396E" href="mailto:judcraig@fdic.gov">&lt;judcraig@fdic.gov&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:leb@fbi.gov">leb@fbi.gov</a>, <a class="moz-txt-link-abbreviated" href="mailto:outsourcing.question@fbi.gov">outsourcing.question@fbi.gov</a>,
+                              "National.FOIAPortal (OIP)"
+                              <a class="moz-txt-link-rfc2396E" href="mailto:National.FOIAPortal@usdoj.gov">&lt;National.FOIAPortal@usdoj.gov&gt;</a>, FTC
+                              ANTITRUST <a class="moz-txt-link-rfc2396E" href="mailto:antitrust@ftc.gov">&lt;antitrust@ftc.gov&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:OCMgmtGrp@fdic.gov">OCMgmtGrp@fdic.gov</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:TradingandMarkets@sec.gov">TradingandMarkets@sec.gov</a>,
+                              IMshareholderproposals
+                              <a class="moz-txt-link-rfc2396E" href="mailto:IMShareholderProposals@sec.gov">&lt;IMShareholderProposals@sec.gov&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:chair@sec.gov">chair@sec.gov</a>, Miami
+                              <a class="moz-txt-link-rfc2396E" href="mailto:miami@sec.gov">&lt;miami@sec.gov&gt;</a>, County Government
+                              Law Enforcement Division
+                              <a class="moz-txt-link-rfc2396E" href="mailto:antitrust.atr@usdoj.gov">&lt;antitrust.atr@usdoj.gov&gt;</a>,
+                              100maidenlane Info
+                              <a class="moz-txt-link-rfc2396E" href="mailto:info@100maidenlane.com">&lt;info@100maidenlane.com&gt;</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:ACSInspectorGeneral@doi.nyc.gov">ACSInspectorGeneral@doi.nyc.gov</a>,
+                              <a class="moz-txt-link-abbreviated" href="mailto:endowmentadmin@columbia.edu">endowmentadmin@columbia.edu</a><br>
+                              <b>Subject:</b> <b>Re: CASE 01416925.
+                                Unlawful deposits and Interest accruals</b><br>
+                              <b>Reply-To:</b> <a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">"bo.dincer@yahoo.com"</a>
+                              <a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">&lt;bo.dincer@yahoo.com&gt;</a><br>
+                              <br>
+                            </div>
+                          </blockquote>
+                          <blockquote type="cite">
+                            <div dir="ltr">﻿Very much. @151<br>
+                              <br>
+                              <div id="ymail_android_signature">/S/ BO
+                                DINCER</div>
+                              <br>
+                              <blockquote style="margin: 0 0 20px 0;">
+                                <div style="font-family:Roboto,
+                                  sans-serif; color:#6D00F6;">
+                                  <div>On Tue, Aug 9, 2022 at 3:25 AM,
+                                    Bo Dincer</div>
+                                  <div><a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">&lt;bo.dincer@yahoo.com&gt;</a>
+                                    wrote:</div>
+                                </div>
+                                <div style="padding: 10px 0 0 20px;
+                                  margin: 10px 0 0 0; border-left: 1px
+                                  solid #6D00F6;"> </div>
+                              </blockquote>
+                            </div>
+                          </blockquote>
+                        </div>
+                      </blockquote>
+                    </div>
+                  </div>
+                </blockquote>
+              </div>
+            </blockquote>
+          </div>
+        </blockquote>
+      </div>
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <div>
+        <blockquote type="cite">
+          <div dir="ltr">
+            <blockquote type="cite">
+              <div dir="ltr">
+                <blockquote type="cite">
+                  <div dir="ltr">
+                    <div>
+                      <blockquote type="cite">
+                        <div dir="ltr">
+                          <blockquote type="cite">
+                            <div dir="ltr">
+                              <blockquote style="margin: 0 0 20px 0;">
+                                <div style="padding: 10px 0 0 20px;
+                                  margin: 10px 0 0 0; border-left: 1px
+                                  solid #6D00F6;">
+                                  <div id="yiv2259838189">
+                                    <div><a rel="nofollow noopener
+                                        noreferrer" shape="rect"
+                                        id="yiv2259838189linkextractor__1660029599117"
+                                        target="_blank"
+                                        href="https://github.com/BSCPGROUPHOLDINGSLLC/2021-DUCKER-ZUCKER/pull/1"
+class="yiv2259838189lEnhancr_1660029599227" moz-do-not-send="true">
+                                        <div
+                                          class="yiv2259838189yahoo-compose-assist-image-card
+yiv2259838189ymail-android-inline-img-container yiv2259838189ymail-card"
+                                          contenteditable="false"><br
+                                            clear="none">
+                                        </div>
+                                        <br clear="none">
+https://github.com/BSCPGROUPHOLDINGSLLC/2021-DUCKER-ZUCKER/pull/1</a>
+                                      <div
+                                        id="yiv2259838189yMail_cursorElementTracker_1660029599179"><br
+                                          clear="none">
+                                      </div>
+                                      <div
+                                        id="yiv2259838189yMail_cursorElementTracker_1660029605297"><br
+                                          clear="none">
+                                      </div>
+                                      <div
+                                        id="yiv2259838189yMail_cursorElementTracker_1660029606850">
+                                        The most expensive and negligent
+                                        change of address I have seen. 
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029626207">CIK
+                                          FILER 93715 into CIK FILER
+                                          1516523</div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029627108"><br
+                                            clear="none">
+                                        </div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029632188"><br
+                                            clear="none">
+                                        </div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029637118"><br
+                                            clear="none">
+                                        </div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029639419"><a
+                                            rel="nofollow noopener
+                                            noreferrer" shape="rect"
+                                            id="yiv2259838189linkextractor__1660029639987"
+                                            target="_blank"
+href="https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf"
+                                            moz-do-not-send="true"
+                                            class="moz-txt-link-freetext">https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/raw/main/2020_05_27%20-%20INDEX%20and%20PAPERS.pdf</a></div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029640015">^
+                                          1 REFERENCE, is summarizes
+                                          those economic interests and
+                                          freedoms, white collar crimes
+                                          and USC Title 18.225,
+                                          violations under Continuing
+                                          Financial Crimes, and on my
+                                          watch.</div>
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029720362"><br
+                                            clear="none">
+                                          <div
+                                            id="yiv2259838189ymail_android_signature">/S/
+                                            BO DINCER.</div>
+                                          <div
+                                            id="yiv2259838189yMail_cursorElementTracker_1660029724417"><a
+                                              rel="nofollow noopener
+                                              noreferrer" shape="rect"
+                                              id="yiv2259838189linkextractor__1660029726885"
+                                              target="_blank"
+href="https://www2.occ.gov/publications-and-resources/publications/banker-education/files/2022-cybersecurity-report.html"
+class="yiv2259838189lEnhancr_1660029728474 moz-txt-link-freetext"
+                                              moz-do-not-send="true">https://www2.occ.gov/publications-and-resources/publications/banker-education/files/2022-cybersecurity-report.html</a></div>
+                                          <div
+                                            id="yiv2259838189yMail_cursorElementTracker_1660029726923"><br
+                                              clear="none">
+                                          </div>
+                                          <br clear="none">
+                                          <div
+                                            id="yiv2259838189yqt16956"
+                                            class="yiv2259838189yqt8894032514
+                                            yQTDBase">
+                                            <blockquote style="margin:0
+                                              0 20px 0;">
+                                              <div
+                                                style="font-family:Roboto,
+sans-serif;color:#6D00F6;">
+                                                <div
+                                                  id="yiv2259838189yMail_cursorElementTracker_1660029711022">On
+                                                  Tue, Aug 9, 2022 at
+                                                  3:09 AM, Bo Dincer</div>
+                                                <div
+                                                  id="yiv2259838189yMail_cursorElementTracker_1660029711039"><a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">&lt;bo.dincer@yahoo.com&gt;</a>
+                                                  wrote:</div>
+                                              </div>
+                                              <div style="padding:10px 0
+                                                0 20px;margin:10px 0 0
+                                                0;border-left:1px solid
+                                                #6D00F6;"> </div>
+                                            </blockquote>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </blockquote>
+                            </div>
+                          </blockquote>
+                        </div>
+                      </blockquote>
+                    </div>
+                  </div>
+                </blockquote>
+              </div>
+            </blockquote>
+          </div>
+        </blockquote>
+      </div>
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <div>
+        <blockquote type="cite">
+          <div dir="ltr">
+            <blockquote type="cite">
+              <div dir="ltr">
+                <blockquote type="cite">
+                  <div dir="ltr">
+                    <div>
+                      <blockquote type="cite">
+                        <div dir="ltr">
+                          <blockquote type="cite">
+                            <div dir="ltr">
+                              <blockquote style="margin: 0 0 20px 0;">
+                                <div style="padding: 10px 0 0 20px;
+                                  margin: 10px 0 0 0; border-left: 1px
+                                  solid #6D00F6;">
+                                  <div id="yiv2259838189">
+                                    <div>
+                                      <div
+                                        id="yiv2259838189yMail_cursorElementTracker_1660029606850">
+                                        <div
+                                          id="yiv2259838189yMail_cursorElementTracker_1660029720362">
+                                          <div
+                                            id="yiv2259838189yqt16956"
+                                            class="yiv2259838189yqt8894032514
+                                            yQTDBase">
+                                            <blockquote style="margin:0
+                                              0 20px 0;">
+                                              <div style="padding:10px 0
+                                                0 20px;margin:10px 0 0
+                                                0;border-left:1px solid
+                                                #6D00F6;">
+                                                <div id="yiv2259838189">
+                                                  <div>
+                                                    <div
+                                                      id="yiv2259838189yMail_cursorElementTracker_1660029711060"
+class="yiv2259838189yahoo-compose-assist-image-card
+                                                      yiv2259838189ymail-android-inline-img-container
+yiv2259838189ymail-card" contenteditable="false"><br clear="none">
+                                                    </div>
+                                                    <br clear="none">
+                                                    <br clear="none">
+                                                    <br clear="none">
+                                                    <div
+                                                      id="yiv2259838189ymail_android_signature">/S/
+                                                      BO DINCER</div>
+                                                    <br clear="none">
+                                                    <div
+                                                      id="yiv2259838189yqt20094"
+class="yiv2259838189yqt3760434073 yiv2259838189yQTDBase">
+                                                      <blockquote
+                                                        style="margin:0
+                                                        0 20px 0;">
+                                                        <div
+                                                          style="font-family:Roboto,
+sans-serif;color:#6D00F6;">
+                                                          <div>On Tue,
+                                                          Aug 9, 2022 at
+                                                          2:59 AM, Bo
+                                                          Dincer</div>
+                                                          <div><a class="moz-txt-link-rfc2396E" href="mailto:bo.dincer@yahoo.com">&lt;bo.dincer@yahoo.com&gt;</a>
+                                                          wrote:</div>
+                                                        </div>
+                                                        <div
+                                                          style="padding:10px
+                                                          0 0
+                                                          20px;margin:10px
+                                                          0 0
+                                                          0;border-left:1px
+                                                          solid
+                                                          #6D00F6;">
+                                                          <div
+                                                          id="yiv2259838189">
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028167979">To
+                                                          whom this may
+                                                          concern,<br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028331894"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660026935068">ANNEXED
+                                                          in NYSCEF
+                                                          MATTER
+                                                          153974-2020
+                                                          are the
+                                                          original
+                                                          custodians
+                                                          (HSBC) who
+                                                          carried the
+                                                          unlawful rents
+                                                          and interest,
+                                                          upon
+                                                          reasonable
+                                                          belief holds
+                                                          the same for
+                                                          all of those
+                                                          properties
+                                                          without a
+                                                          legal grounds
+                                                          to collect
+                                                          rent. </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027007905"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027008336">Docket
+                                                          166, ANNEXED
+                                                          in NYSCEF
+                                                          matter
+                                                          153974/2020
+                                                          represents the
+                                                          transfer of
+                                                          funds
+                                                          (unlawful
+                                                          security
+                                                          deposits) for
+                                                          the Properties
+                                                          and with
+                                                          respect to
+                                                          Loan 50074
+                                                          cannot be
+                                                          defeased
+                                                          without all
+                                                          liens clear.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027096288"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027096452">Those
+                                                          interests and
+                                                          risks were
+                                                          passed on to
+                                                          STATE FARM
+                                                          LIFE INSURANCE
+                                                          COMPANY during
+                                                          the height of
+                                                          the COVID-19
+                                                          PANDEMIC as
+                                                          referenced in
+                                                          the NYC Dept
+                                                          Of Finance
+                                                          Register by
+                                                          and between
+                                                          parties and
+                                                          first
+                                                          NOTARIZED by
+                                                          STATE FARM
+                                                          LIFE INSURANCE
+                                                          COMPANY on May
+                                                          11, 2020. The
+                                                          Directors of
+                                                          CRD firm 43036
+                                                          report this as
+                                                          a materially
+                                                          substansive
+                                                          conflict, as
+                                                          it is
+                                                          disclosed on
+                                                          the CRD of its
+                                                          Directors as
+                                                          such. In
+                                                          layman's
+                                                          terms, the
+                                                          underlying
+                                                          risk and
+                                                          economic
+                                                          interests are
+                                                          deemed
+                                                          "reportsble"
+                                                          as an
+                                                          business, so
+                                                          it's not
+                                                          exactly a part
+                                                          time paper
+                                                          delivery job.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027302982"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027303129">Absent
+                                                          of the
+                                                          unlawful
+                                                          deposits, no
+                                                          different than
+                                                          a heroin
+                                                          dealership
+                                                          —are unlawful
+                                                          at any US
+                                                          DEPOSITORY
+                                                          INSTITUTION,
+                                                          per the
+                                                          Federal
+                                                          Deposit
+                                                          Insurance
+                                                          Corporation.
+                                                          This may cause
+                                                          aome conflicts
+                                                          with audit and
+                                                          with respect
+                                                          to which
+                                                          properties arw
+                                                          subject to the
+                                                          interbank
+                                                          lending and
+                                                          Tier 1
+                                                          reserves aa
+                                                          reported by
+                                                          the two banks.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027093125"><br
+                                                          clear="none">
+                                                          If you need me
+                                                          to notarize
+                                                          anything, I
+                                                          would
+                                                          recommends you
+                                                          review the
+                                                          dockets in
+                                                          NYSCEF
+                                                          153974/2020
+                                                          sequentially
+                                                          prior to any
+                                                          further
+                                                          intrusion, or
+                                                          my opinion in
+                                                          the matter,
+                                                          which
+                                                          generally
+                                                          holds no
+                                                          opinion. I
+                                                          only
+                                                          understand
+                                                          what is
+                                                          written in the
+Sarbanes-Oxley, and namely all of those interim revisions, which over
+                                                          the course of
+                                                          time have
+                                                          become less
+                                                          "relaxed" with
+                                                          respect to
+                                                          "minimum
+                                                          triggers" and
+                                                          "minimum
+                                                          fines", as the
+                                                          triggers moved
+                                                          lower and
+                                                          fines grew
+                                                          higher.***<br
+                                                          clear="none">
+                                                          <br
+                                                          clear="none">
+                                                          <br
+                                                          clear="none">
+                                                          <div
+                                                          id="yiv2259838189ymail_android_signature">/S/
+                                                          BO DINCER.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027907481">MAC.:
+                                                          646-256-3609 </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027919441">TMO.:
+                                                          917-378-3467
+                                                          117</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027907581"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027908496"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027908738"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027908895"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027909073"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027618038">***
+                                                          If you sold
+                                                          STFGX in the
+                                                          quarter prior,
+                                                          wheb the price
+                                                          was higher,
+                                                          are you the
+                                                          buyer? I only
+                                                          see fewer
+                                                          promotional
+                                                          dollars from
+                                                          CRD firm 8209,
+                                                          while
+                                                          comparing
+                                                          their reported
+                                                          premiums in
+                                                          fiscal period
+                                                          2020, with
+                                                          respect to
+                                                          2021 (by
+                                                          roughly 25%).
+                                                          More
+                                                          importantly,
+                                                          the combine of
+                                                          4-Tickers lost
+                                                          the greater of
+                                                          852,029,489,
+                                                          and not in a
+                                                          day— no
+                                                          intraday dots
+                                                          for those
+                                                          tickers then
+                                                          under CIK
+                                                          filer 93715,
+                                                          with the CLASS
+                                                          3 holding
+                                                          unreported by
+                                                          the new CIK
+                                                          filer 1516523.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027943936"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660027810559">***
+                                                          hence, a
+                                                          violation of
+                                                          the
+                                                          Sarbanes-Oxley
+                                                          2002, and per
+                                                          "Price
+                                                          Waterhouse
+                                                          Coopers",
+                                                          changed their
+                                                          language...
+                                                          but could not
+                                                          get a hold of
+                                                          "any" broker
+                                                          about a Class
+                                                          III holding,
+                                                          and by their
+                                                          own promoter
+                                                          (only 3 of
+                                                          them). Largely
+                                                          due to the
+                                                          "oversight"
+                                                          which LEEPS
+                                                          from one body
+                                                          of negligence
+                                                          to the other,
+                                                          and generally
+                                                          only the CIK
+                                                          Filer Numbers
+                                                          grew. </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028012795"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028013023">***
+                                                          that's the
+                                                          greater of
+                                                          $852,029,489
+                                                          lost in two
+                                                          shakes of a
+                                                          lambs tail,
+                                                          under oath
+                                                          —has been
+                                                          obstructed for
+                                                          a timely
+                                                          release by the
+                                                          SEC and for
+                                                          all available
+                                                          excuses in a
+                                                          non-joinder
+                                                          and
+                                                          non-matrimonial
+                                                          BRK-B/STFGX
+                                                          divorce after
+                                                          the greater of
+                                                          ten-years.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028058197">--</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028285586"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028285726"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028285935"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028286147">P.S.
+                                                          a working
+                                                          draft and for
+                                                          early release,
+                                                          casually
+                                                          however not as
+                                                          fashionable as
+                                                          the Zucker
+                                                          Enterprises
+                                                          LLC.</div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028323939"><br
+                                                          clear="none">
+                                                          </div>
+                                                          <div
+                                                          id="yiv2259838189yMail_cursorElementTracker_1660028324098">DRAFT,
+                                                          I can call you
+                                                          back on this
+                                                          later as I am
+                                                          certain the
+                                                          Comptroller of
+                                                          Currency at
+                                                          the US
+                                                          Treasury can
+                                                          understand
+                                                          this is white
+                                                          collar "non
+                                                          hostile"
+                                                          observation,
+                                                          and I thank
+                                                          the NYPD for
+                                                          immediate
+                                                          resoonses upon
+                                                          placing a
+                                                          Manhattan
+                                                          corner in the
+                                                          subject line. </div>
+                                                          </div>
+                                                          </div>
+                                                        </div>
+                                                      </blockquote>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </blockquote>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </blockquote>
+                            </div>
+                          </blockquote>
+                        </div>
+                      </blockquote>
+                    </div>
+                  </div>
+                </blockquote>
+              </div>
+            </blockquote>
+          </div>
+        </blockquote>
+      </div>
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <br>
+      <fieldset class="moz-mime-attachment-header"></fieldset>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    </blockquote>
+    <br>
   </body>
+  <lt-container></lt-container>
 </html>
 
---------------thqM30GZRMIjBwBum2UiJWJh--
+--------------tXuE4GlUGDNPAaW0S7QM0ceI--
 
---TMMSG_90D57EE1_D15A_9330_3557_4622CB967F23--
+--TMMSG_1B06107A_1BA0_D405_44E9_4BD43F1A1CE5--
 

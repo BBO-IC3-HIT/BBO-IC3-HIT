@@ -1,74 +1,110 @@
-From - Mon Jun  6 16:17:17 2022
+From - Thu Jul 21 15:04:24 2022
 X-Account-Key: account1
-X-UIDL: AEHxfsIgLnfeYp5tTg8XSFZ6L+Y
+X-UIDL: AK6zm7RTuFnVYtgGrAG5aM8BrhA
 X-Mozilla-Status: 0001
 X-Mozilla-Status2: 00000000
 X-Mozilla-Keys:                                                                                 
-Received: from 10.217.150.13
- by atlas120.free.mail.ne1.yahoo.com with HTTPS; Mon, 6 Jun 2022 21:10:36 +0000
+Received: from 10.197.33.76
+ by atlas313.free.mail.bf1.yahoo.com with HTTPS; Wed, 20 Jul 2022 13:44:11 +0000
 Return-Path: <Governor.Hochul@exec.ny.gov>
 X-Originating-Ip: [161.11.121.124]
 Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
-Authentication-Results: atlas120.free.mail.ne1.yahoo.com;
- dkim=unknown;
+Authentication-Results: atlas313.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@exec.ny.gov header.s=NYSECTrendMicro;
  spf=pass smtp.mailfrom=exec.ny.gov;
  dmarc=pass(p=NONE) header.from=exec.ny.gov;
-X-Apparently-To: ms60710444266@yahoo.com; Mon, 6 Jun 2022 21:10:36 +0000
-X-YMailISG: O7.SOdAWLDvYGombx6pbMkJCGWPdzYBADEDjHUzc8UkbrHE1
- Hzb76HfHSk29ozYcBHKz_TFr.m7Ve.4LCBtDgP4xmkmLrNLg8mF4Ewt0YaPw
- khrY.GOSno8TnU.cwEO62H1PPW8BWrNRiHZLOM6IhX7n8ns5j9thjRYIphUq
- ltffMZQnpV4_yjBBnaqPBDairnHJkmIrxkIQsyU_dEDdFBad3MDjG9GFW0_G
- Hu1fJto9ZdBPCsvbcZUPmobR1aOVdJAns3AZv26KcDB7b4inTYC0FhohPC1o
- 7e2r0XAY9Q2Sv.vJAKPh4mZB2.VXlF8ri2GdRITIIj_.LvRSaxDjekKgQi5B
- 5ozDjlY7D8l0Sje6NVuvAKGkZKWByTE3WWNRRK1gGz0QrnuVVTj3SfzPQMu4
- CZ5j5QhPnG_51EROSJdCsIZLfA.hvlnoqISthKLmcwknTv6QIBqeZfcR94dG
- UIqhue.8bFKAa_00BAxac1bBhvgaP06hbRpandxDao8ro8TYJFyMx__4QnNY
- w07fnetL_zEcEhF64SX_2AhoXiL_idPF6j686WY9ziBhd6QtgeDx1Bd8wquu
- zMs0uXL6XvWJNW9FPC5iK8dQEI8TNiOIq8DBIMpprITDuXm6u388kZ84Gr67
- gfmqenQsR07m1gYeg6nNTlV4rMRrBeSF5Ozm7yBypNRT01SEtRt2TzL3LIFP
- Pvx6VQKRxCW1MzjvIilCaeW4Pb6KULl83OTR8qShWgwrGS3CaeiV68bhnz4Q
- 0QksuEyUOh3_mI.7q4gZGDkRMGUpOgm8JsP.5IwCvNaNZ6JHfkrwK_P6lTsC
- .RTSbugntR1jcEpv61j4QqbMJ.DTSiv8VZTwOijfones2K2B9mcldV5xRmOy
- _WbPhqykEeAWxbUHb8Rs1KEXKCF9LcYOAW13P2gOoGjsGS_Ja5aXQfoBUlQ7
- .TCboOnikF84mB9sqPLu_7UHM9cg4YghNndXo_dIQs5slhcTTPOieNb7l4Sl
- WcPH
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 20 Jul 2022 13:44:12 +0000
+X-YMailAVSC: wt336y03bBtB08hNNHglUCwTWl3DQunEFk0vDqBsCC0VKS4
+ fK3zoLVoYum0CrVKA.98qVjRFpqtEjSmnVlv16X_CelJIK8nrBDuy39ACZrn
+ DKXeD4I541ZSvy8vzxezPtx7Novk9vF4vh99eSJNzJXqnJN9J_FFrc5q5djS
+ XdVvbfXC8DfchbFqVUZEBeotrSyQI0Y9egEa33Fn9A4frZa.vVlo5G3POldx
+ z3Au34p7O7r08fXvYo.LwRREEZ6WiosOOX0GGSG9CygNY0JM985sGxqoA.Ko
+ K8aUeLSe9D8gP70u6uJXKZfZrfkb6GA6H0ZsrI6c1KOpw40RYHQhrP26FI_d
+ ZTwSM1gLdHoF5gaxjvMKmIEJE1ZmKgJMSwjDF6HwisYOgNgpKWt407MDY1WH
+ w.VzIgB__rApYvcpC1y7py5mhigekX610GD1kh17bDJiJj5FMZVXM2UB_WqK
+ dVvc7_HatIU_hTQAD_UZoqqr0GPNVhPzGPS9a.Rtk8aqx5NMfuVCtrR4mAUP
+ 9EbEoxvRkeaBKTuZNSb_Xc1C3cw02P9wSKPw._KxHSgV8uS4y.dv9bDZQhgk
+ A6KyccorPSj1iG_wj8tF6WpNwg8DBXyzRDQWchUP7fYTRvYXSxWVqLQf3thq
+ NUH.lWWhOW_S_gN6Du1oILW1slfzVZuvNcU3cnz91N5EBH5jmYvfVtW3prWn
+ lsy6nJKikrCk3b2MODXD7u5vFqDeb_B6DMImH4UZA97TbndA0CFMMqhAw0AV
+ A8OlK.YopOX7L8OByRoWWmR4RsaczLQ4Lr0RhecPMU8Ny.c3wahQwgRfeNtw
+ Q651xAGqXq6Wz4sMoPKa6Bb594Xlu4W7ZJYe.ot7T.WFrmi93AFbPTVeyvEm
+ weONngUXO91sk4irqYyDwp9Uc9bYbIJxUmdURl97vCRQSKPK48EOsB_NvGTt
+ YolHGsHfxnPynXFVX2_Fu2i42XGSRU5RgELsz4zCeOt5COV4ozm3FSNo9cVp
+ sV3.Th2OVz6rYBrCf2nI5gjdmwETy9b4Uf5K9oVBcaQHcRALkD_MCADK.icx
+ fdjvFOD2sKcuc9qdkB6mKq._KqnAHi_uThviiJW5LGS.OcD.KdMlr1lMH4vv
+ ArQmG0tGZOlH1clZWcZ1tmTyuSIySkA_5mZIwp_UOj0pJr1qoJMLL58E-
+X-YMailISG: S7VHUq8WLDs7D9e7wfG0i2pvWrq6PVbkWvn5q7.9KcfEF0i7
+ mbsL6R4x5dFguuMd_gW_d16hoEKjlFm4lMcZ0faxs0GMQ5R0vA0PqbKolSJo
+ rRGqoFEQM9lQsdlWp1hUuYbpSujBjVi3EqYCO_If5TREG6x19ssNZH3gg5Rg
+ rq6JZ9x3oBmVckgXhEHweDLsQSpb6ab.mMLy2IDd2_ETvFMM69zPdDlA1ZW2
+ QL71.Z6o_IcN71dkm.WKyXGEANH8j6Owri1H26WMvzj9TYScghgP.7aM9NyR
+ 0MbgL3QqWhI5eiho.PV8IpOA0k_wie86GFvanreXM8s2CwLi4wDw5YQ1iCn9
+ HOS6MbKyxHflkOgsz4NLTOoZXgYQWg_3VcWXXlYg86nZ7.sU7UqEXHgByabk
+ VgtR9c3svz_yaPe1V5heg9yr86mOTOZITKvjnJ55QmEUpxdZqXhejt1EPc33
+ XkIuD6gQE1ui_RVCGL6j5ohnMxoaqoTSv4sNxG7lGoQW3YMmio7BFCVJ0_LY
+ FqfzPVQebdjGe4MP7gXneIzO_E9qUMPso0lJ8cRhx5uSkM6Gdvl8SKRXPqmc
+ zyknmMBdatig7Ih4eMAeUiC1nGPRhI9pGzukvKzcvn76Ivg8rDUXAeHx0tIw
+ lP6VgABzj1auXzK.fz7.saopLpZVpReGNpDlnK9Q7zgBAR4XNpGpjlKRMlz9
+ pD3GPyodVczsDKJFCLVFU9ospI28wbGpshst_24VoJYYxGn8hgCFv4awtHQE
+ iua0wP9CA3Y812IyArj2tGnseREXcCswZHo7BGWAaPmfZBExPX_JYbNBj8Ej
+ hOrxWtV7RMERlSEAtWAD3bpHO2Mhvd0tLUADNRKe96.VRJjiwLbNifARRw_4
+ wp04ZD60DRvXlUCoLN12pJe5D3OBFp_sodovZknsereH970dU5RzSWKg1Lid
+ GgoD5On7biUGznv1dAUwc7VnuZWDteixB4702k4DolvvxAA6tu4kBs3MefbG
+ WPZ6fICfkgNB39.Kx8yii3n3VGUk.BIuasgGs.gfnIpVBPwdi2FvhDFOCvmJ
+ VKMeu1WEyLwxOqKI6aJeT2ex33Ry7EuiAfn7v5p4HO8KhXBd.A7.qaLQevhI
+ rrB2
 Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
- by 10.217.150.13 with SMTPs
+ by 10.197.33.76 with SMTPs
  (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
- Mon, 06 Jun 2022 21:10:36 +0000
+ Wed, 20 Jul 2022 13:44:11 +0000
 Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with SMTP id B6395D2063
-	for <ms60710444266@yahoo.com>; Mon,  6 Jun 2022 17:10:32 -0400 (EDT)
+	by IMSVA (Postfix) with SMTP id 0FF03D2070
+	for <ms60710444266@yahoo.com>; Wed, 20 Jul 2022 09:44:11 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=exec.ny.gov;
+	s=NYSECTrendMicro; t=1658324651;
+	bh=xrdCNRu2X3ELUp2jXz2bmBale/bevy3clkIJyLhJvWk=; h=From:Date:To;
+	b=t4PHZSDE0xT+DrOXkM5ax87WCHoz+8HMzgmBF8NkyNtWYA0gXLMJ4YmdsXeyMZhvL
+	 ZfRTO/xbN0gxDcWQZeR3P0MyaHWHiuANgebeiv2JazPLQMxjZMjm5E+CJZKLEwtsWD
+	 JTqkrhQnJ4C4g5BEEMYIOXGw4pxeUx+nfAsV8z1eeR6IUD5SGADYyPiFkv3efF5z7e
+	 NS14zir7IM+hFd0P9RZ7x9rsh24z29VPfVb3REfcFAkn08RFhTwGn2TYtHnFLGWMTX
+	 lSKV81YXs50vKr8C/LXXrsnSqwUuoOraNOO0s45W9RtwmuyaYRAUBYdgWfe9enfWT6
+	 cGQLcNxDtFMew==
 From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
 Content-Type: multipart/mixed;
 	charset="utf-8";
-	boundary="TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4"
+	boundary="TMMSG_D3E96378_0C43_D5A5_C8D1_E3B11C893D38"
 Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
-Date: Mon, 06 Jun 2022 17:10:31 -0400
+Date: Wed, 20 Jul 2022 09:44:03 -0400
 MIME-Version: 1.0
 To: <ms60710444266@yahoo.com>
 X-TM-AS-GCONF: 00
-X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26940.002
-X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26940.002
-X-TMASE-Result: 10--12.396200-10.000000
-X-TMASE-MatchedRID: hgYxtqWXZwMqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
-	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEqxi///JpaHQNr810DopbHLM3DXTzfdaKVKP2
-	C4UN53oQN051xDczCXEd2V2Wxs2hTTQNCTT9pJ/WNyH/G92IcfANTuIWZ3z/FLJ1WJf4R7UmjIz
-	fGpTwLYktnotccsB/athE+/7CP/svjNn0Okk5VXwEaayJtYZNtNQO+lFC5/FVxLGwMotcUD6jdp
-	Y+YFbbzVxWGlNzsF6KgfHz5rL2UAtQGnHQKZS9z5p1ddw6V4RuZEoWHC6Rh/ZXUHTssiKZd0biu
-	qUjSkzL4G0Niaio+loPbw023vELI/j/v76dM05LfSQNpZkETVJ03C0fPk8xKRFdcTcfs2Pal7HM
-	1r2ClZGYqTLE0Mx/iuDzuYP9x54ffX2sZfyOJoW9OepgphdNGj/T1af3UZUDbTHj+nmNjzaPFjJ
-	EFr+ol4E9s12Gvf509l7H+TFQgdc3FPozUD+OzK/oocMmkzi60HpVUS23TpSyu/4ag7tCSmJ+T8
-	d+RjzLlhfFWlc++ScKs+/H7jW56vRCwfcFMHoCXJMIR2zttEl6KrpxYw4JrQOfxOLg1Bcw=
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-27026.007
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-27026.007
+X-TMASE-Result: 10--17.452400-10.000000
+X-TMASE-MatchedRID: 2rB+w6GmFBQqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEVwPocqzNJ6ZAEgqTc4LS4Q2LwvzxRX0gP4DDXoaCqk7kHs
+	1AzjpA+xg7NpS7aMrup5+6SqClcgQmSuhkyegN5+Vd49c0zgWMwvxMaV6x4s8th6QveQfsqMWdJ
+	/Qx3w7Xs3fgLk/3lv5i7kudfmTABNehm1FXg2ZALFpbR9jggy4G1cxYvrc7y+xPXYIh1l6divv8
+	kVfkZvLu6f6/rD7UI0dmFPQWoZc8j9Q4rCkf3uU7lvwa2CRpf1MYVBYK2XpypjmdWmKHGLD85TH
+	IufyBe3AKockca3aIwHOcpEKrUTZG1C2W7K6yqng7iegxazn7fZbiRNt1Wiorj8jhALn/laq4i8
+	gc1hMfZ9fgc3KiNKkCxPNwfoITMaZNDv1j3CNfRZud1WN6zIbLucSKlTy6CDONhUMZJakH5kBWO
+	laWIMNjr/1/y33kJeH9HtC6BMOfo9zF7+fnp6n46+OqGLkFz1YyD1iQkQMTEyqa9s+GJg+VBXEQ
+	ns166lGQOC7CGF+N3HAlasOQd0YNrP38pzXr1v10VztBt7yapQ7eT0DII9NLf++3NcGte57o2cH
+	xDsJA96QEmADgub1p3/qGYvDC4oMvyjKWmGlkCoiRKlBVkYIF430d3dMHkaUxWABH9dPARcT3zL
+	rF0OWWGH5wVAlhqFYTCgGhl32GrgSigd+50baSHCU59h5KrFZYlrUyCRLW/OWokEfDfi28GAvLp
+	EhNBXevW+hVDUUosKzJkHVsoaoDqZdRv+V/QueAiCmPx4NwGmRqNBHmBvepTwPRvSoXL2y5/tFZ
+	u9S3DU2AEkGmjyB8DFFIBzQ4Q1VVYrWTrYMcmM9q/9+rJcj7GVIdM/n+mZ8quVO3/Mdl9TFTh2G
+	9yO7a7pkLabUw1Td7zmUyR9+xkuI9gTJXCrMieo/zCTLZ15H2bN+1b+Za37cGd19dSFd
 X-IMSS-DKIM-White-List: No
 X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
-Message-Id: <20220606211032.B6395D2063@mail4.chamber.state.ny.us>
-Content-Length: 11969
+Message-Id: <20220720134411.0FF03D2070@mail4.chamber.state.ny.us>
+Content-Length: 62872
 
 This is a multi-part message in MIME format.
 
 
---TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4
+--TMMSG_D3E96378_0C43_D5A5_C8D1_E3B11C893D38
 Content-Type: text/plain;
 	charset="utf-8"
 Content-Transfer-Encoding: base64
@@ -79,239 +115,877 @@ dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
 Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
 cyBvZiB0aGUgR292ZXJub3Iu
 
---TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4
+--TMMSG_D3E96378_0C43_D5A5_C8D1_E3B11C893D38
 Content-Type: message/rfc822
 
 Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with ESMTP id 3A4F2D2063
-	for <governor.hochul@exec.ny.gov>; Mon,  6 Jun 2022 17:10:31 -0400 (EDT)
-Received: from sonic307-2.consmr.mail.bf2.yahoo.com (sonic307-2.consmr.mail.bf2.yahoo.com [74.6.134.41])
+	by IMSVA (Postfix) with ESMTP id 3D48FD2071
+	for <Governor.Hochul@exec.ny.gov>; Wed, 20 Jul 2022 09:44:03 -0400 (EDT)
+Received: from sonic303-30.consmr.mail.bf2.yahoo.com (sonic303-30.consmr.mail.bf2.yahoo.com [74.6.131.229])
 	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
-	for <governor.hochul@exec.ny.gov>; Mon,  6 Jun 2022 17:10:31 -0400 (EDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654549830; bh=h6uwbyIYR8utAdefbKQZOK+qRXN396+ZwNxKOlPfNcM=; h=Date:To:From:Subject:References:From:Subject:Reply-To; b=Qpkd+x32Cf5E0Mq7u0K5+iGJ3f/f6bqu9HXJY2Q2T12CEqpVhtWcq97XYAJprGm3szgBYUIEd56JgOrJ2dzeauzhGAGQAd3nrWR2+TI933z5Rg+KNXNn7ArT35vWFPz/JV2zvRp7VmcU4RdlDzyvYhT8vyf7OJu172eZzjjeG7LZ0171t3tq/BwwfmikeIVge6HumaST0Dqw5cyMwcvRO5YKgM3inF+VxwX0wWwEcoOKxVfzfHZPpadYTh9OebPwepVwPpHSv7slhCn0Z5sOaXEJr1ZPSEuROmhn8N8qil4cVq3svwgK/kIJlPxTy7H0BlKWd8prd0yVJWVm9SzWnw==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654549830; bh=rRQHibcldPMP+29Ln8M18dCx7pIXtivFJLvn6KdMO2S=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=qzyfDVThCmi/FIuWeToFFcanzVEDvtdh5uCB57IjZZEhl+8247GucpU8qn2JP0SmYNbdCuv60l7M66Z5Vfcno9SHmJPpp6MN4W2E7yKiYwWFswLjFEli5S954dTseRAQ2doo3yDaNUvPq7s7Fl0jmYFVYrok4XUT6bAGCU9vleC8mKeGfBQDquY/LPvh9b4fzmlzXmBWnR90+1xkNnK9rHiozprM/73vX9H4DCGxD9In/7B02hcrtS7Lh3qHY4gz4NIcMqtxuXxlF60zX4lPQvIJY2Vf8gl5ww/GqA7T8mINGdRfKeD+BMfklb2Y4IMLuhdi1dlS0uy23H4ZivR4/Q==
-X-YMail-OSG: cu44TJ4VM1kfO6hyj64R9dJ5aW3xRUQu.e52UdiDA4K7uSYApPdlDZdhrnX7SBN
- qcg7y7cMaofk2nsneNiuvKcsKMwa5CRWvdLsy03vWqW_mz2njYAAxrbx7O2aBe9mlQOJYczDPf1v
- HFrfXwXbkZfb8MYrwp8qtwKUhNJlUyZvXSLmo5d4PCMX_0WnMBihZyTlY6xssa9a2cqzFobRgyPf
- CSXuJOh06uw3kkeTMRkmM0JF71YAUBlF209Wzs3sxi97u4wo43800nS7OKBAqyTG9tM0A6ioK7pJ
- VwtO2Kc.uoysJDPoPKN.i9BOpBhHKpM3.muBuUP9OJHLZebL3bmoLxfzLF7Zrb4MHvuGbgM8DonH
- 9P1xDXL5sWNLUkguFn0DDMQnznUHe0BetXG42mUgPz9lwN71MMCNFdSDmnfi_ZpPLqwRIn6Bg...
- X5fFKQDNEs51LeMGauj85u37CusLw3DlwRjvUE6sjr.q2D8KtBKI30Z61LWmxWbHtlPFUCiLSqIT
- ragEutl2uQmOv2nZ8uK7vYEwXGuSKWdOqqVX0rMX582qHvSptjL32JVmDV4tC4zgvrU6JLY.6DUX
- zlhSAUMtDXoFHEIIF9gA6i7s08WR4fxh6WSrxA4yIPTwhV8ZUWvc.sLrimS2DjHrO9VBVV_j9Kui
- HoIw6kgnKqcu2EHG42t0S119o4qei00F2_C_b4cklPmN4LR10ntHQd.TbVtLRnzUergY_.Hd9y9Z
- wmlllXYbF4OLiZwQrCoFvDMU.oasBnph_tyXFD7Nulgqj.RcAtZxm_7zScrD353_gQuIZOSEag3I
- 5KBBNnNnKSzFFSgqTQysxVosqNf7s_nkpGxfc2G5n0g7zdKyfDbLoPeXTn5TXzKzZhmDhqDu69mG
- IMYrt3LFmId1jhRIWwbPFBwSx9ImbrDgqPerbRZ.8MGVYBr8ix4WxvCm2fDEHArra23TnR8kt_ix
- ACKBRS0fC0.xjMCCsMd3ctib_8pynZjz3g98y5krSC7mcNki8nscqGA3HbqYO_8h.hcdukKFrcla
- t6ywzp6yU4UO95T8IsuPWmADOtyIHy0y6PymU4qnJ3PoPuSwUEJbZv0dVy7RQNaVRRtu_1ywA7Eg
- EHcD4xaT2w4E.4ZJl06RTaelZ42S.eIafOuWi0DMFYzpFdQVJi2_wl1EJ77QH0MQuXT8pDz6MPOM
- SkNrbf6CZPBtPN7s4gPormxraYyrXsogUq8PY3XHVQDGHJVFW._rTmUGTaywS2vOYFCUWQTZa0o4
- RSsaorJr0qzWfJtbhB7z2PHG0o.vKqeeDVROaVLF8jnJozggm8zcmSyonWoYa7GVVy7DAUnJX2Zj
- zu8nhjuSGqC3UyUNGDIAlX1zhLW3Ntn_oALAm41qicFaC3HA7Q0CxsoRamjsC436Jy2V9fbTsG2E
- K5m1OhHlq3OYZzSjcFCDa8mXL6TTs7S_3FtL_RN7FmAqBOzzNYzqGCXN1D16W.Kgx2YRjfi.d.ue
- OqkhLigH72iYtRis1qY8gajIPtFy5BAz3upOW_3nWvMK_os_ImTs3t3y8TmYfY9nEA54dejE3VVe
- UVnFssuWTz98uFTyWm3ZdweCUN8feVsxYqUCjwjcN8xxINNv7gm13l8rYU4ZRVs6jtaCspKXwqMS
- 3mTMumji83HLJPY2DX9VxdDYOVRK1m3XHesyBHvO_CARbZ1wjq8j7PeTbPuc6x6h_zpALtYAzt19
- EfKtyrlS361MKBS5M5tCkCxCCHUXf8wRjsg8WwVm_xOVjtGC3mOHFe332mexQCF18p6e1ABklI5X
- WuiKo_iE6bMDDzpHNiI9MDJIeoGyLugGRL4QVpwZ9CUZ3VCKnz8qvPd8C0NYf1jjr0g3lp.5ujlW
- BqbaHzjUgvAdNLuAMrKeoh2d7SzcYXu5BCZEZNeo3H2oOFmW1foQzGQoE_.fiBUJpb7LE0fiN1dP
- U.W6lJeULWxb3sO9LaMm0kxKaS_DkNN7IcyaoI1Peo_syF9xpJX1_zQpIwKRLo6bOScyDuTCpNhh
- 2qlw_mC3nXUU4CLkATw--
+	for <Governor.Hochul@exec.ny.gov>; Wed, 20 Jul 2022 09:44:03 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1658324642; bh=iyqgxln5IYE8hXLExqH7gSwb8weuVF2VhYQCUQrbJ3w=; h=Date:From:To:Subject:From:Subject:Reply-To; b=uHC5E+9flDYf/aeU+AV5doLyo0s/V46UdC789RaFk+dOYGZ8tJucjAyOCCBluCAqhTIIJipPXQwRFfUNoJg3zpVTKxHTKDmjpjjvVpR3KHd3/VHTNJLuzXodUavJJRlxGAPM+Lr2d3cMstk3LYhiifKrxtzLBXD7o7Z3rT71xr02+XpXEOc023KTdWZ7Ldx86lcyQFr+Zq4Zn+Yr6WmxH1R9GOz80dI5KrXdsIgBaIHl0gk2VOQNQDA2u7jWdDHHhoJHvTH5PlAN+/9an5G6tIUpz2UYs8FWIcpYlRONNScEPE6kAQilRhBiHgV4KWOcLipy5NcLokfBoMD14d/VUw==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1658324642; bh=2xqabR+vzQ+CzjDr4rXKG2ZdlWuzyXOx7Jl9p1qnhD+=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=k35pUhEPDZ1xg4um8KWysoymJQeCXjvcZ7Chy3XANCAYr+ITxlGB4aulNUN+eCmTlmp74N7h2qbjrDXyHtsMe5DoQ153k9vrMWK422CFiIFmXDXrnFoF0M81YobRWFr/Syekt2iunShmrWp0/0MW5YNe9q1Mkv5VhJhjtDv8U+4fu20OrNvW6rPloqMd9gv/4xZgUvRL+vQ/z5coJo5STwlC5K9+wwCuxRCbOSHnw8lmfMIAIR18/8eWXSnmvxjCPWlRihOWPKt03YfcP5wdOvhEgCSH9JO6w9trXBc6QOrmD7QqCDFVFgB52Yvw/GQDbscaXIjKelM26jzUwyQN3A==
+X-YMail-OSG: _eBm314VM1lEBZVpQpk8E_pevQVxv5CCQkokt8SOIOMXCgRVCT3r7cB_WFEo_oj
+ MyEP6MTG0H8pJymhQ4G_01f2EvG80Ddtne.77LQZ.5A2p_2XcCiARKC_k30l814adLWrpfi2HixB
+ 3BBzUt0SKYvvK6vlwe.u_nVysGJjlGYcgDl6eHtWoQOoZrKpWuXySYwNutQq3Dl5IirbjVM8k4W_
+ siZvfk4DEYokweVfPFpyw6eaRNvfAAHbz3RTXpMb66UDUKzzm797ANOrgh2Il9Ku4EsvrrlpuzwE
+ WRQw1PpbyS2cMF2pb2dEgZ2ZRlwNyG7PSG15G24NHw73A7aVvTSUsEgDJKJ47uA9v_tEutQWVF0K
+ _e_7f_elZvt91b2VpcLTXVRZFBiEGmDetDG4ajnCvqcDiruNxyNR9ZjV987AU3yDHtdKscqA64op
+ oG.0eOr78pIx85CPvR0E.AJH5zu4jQ1ZALV0625DoVHueLTe1uCE.j3fJRl1nqJATARXuw8ez6xV
+ HLu2IaPsJAm0L1sUcmSBKjfCfzFsK0YXKlFn5ZW01eLN1VduVbsZyDW_fNuTkgbfmZ8xgPxSiPpB
+ iYksA4yDAd4cq4EkCdnxJADl3yKfynzWL6eFXrLFKa9QR.4Zok0sCGG8ZOVAoF.GBzTtSRdnzYKP
+ v_kxWq9sSFT.yYjNab5oSfCJUsqsBah9oQ39ui3bFb9T3LGICWkHOPvbQk.NSpMRXmi9ED8fjpcQ
+ b8D0f1MlV34JKbjkYyFq2RPOPjQ0fIYp9ugenWyck75zWtCI1e7a6il0iC3Ob8L2pM.MG.ih8b0v
+ vFJ.Hdg42sL3bkfca5wNyePyVkBP.Yz.Bdtfmz4kTpSv4FuzC5CqMazTnIWH2xkmSHrY0nuHoQWR
+ D6DS2veMEjA3dFok_scwscyQLgfCZzwVY7bQM05cVHoYG3LQnTreChW.pL94PZuz78ele7OWVgDs
+ fQHfgtT9U_mjasxp6PrcH05i4SinB7sQbjJxjKDGRo1_9bLeMUYGRUsFjbYPvZVzPSuqGAgXHf_N
+ S6EhSKU7DmiYIidNkmpfejnEfneTl00GhROpMDDFyufaAMc2MfOFxmb.CithHaRKOpvSykADhOcR
+ P.a7b1nyGPGC1gu83LHaBpPb9yFdxZtSnG1jy413SRNoz7zjgeJLWe2zrV6Y6dqeW4dSBoUGl8Hp
+ h8w4jG54sbeKT5lHP25mYtJd71Aeg.tSyzmIa7GBDEnC.Zk.dQ_Glzk.vcewxupA2goOdWNW4ABf
+ qqnWJEP6oY9SvR2DWogmL3LQa2vIVxjeiPuXHgrNx2DXvPAiaoIHd3Eg67SOtNpPlJai.ZaNRaXc
+ sF_HsjlgpZIhAU1tNU_B74i0JcmXTocnf2xiBxZVe62nHkWbt78TNU4CjoEI_in9qsrVo2yDDKyO
+ 97L99P8zIrfIyoGKKH_3S7ey_KsmQZt.ZSLbERSZO660xqcHHqY0kq2i.137KY59iMrdZ_5lLnJh
+ kBs9TP4Fq0brOzD_6xglqOc00C83JYwxghcak8n6YW.tGsuLIkk._eQ9DDt0YUHdXGtzH5f5vvPK
+ aIH5pEMHxap04oEJwvUQVsmO0wOwY8a2d.3Jbb93R8rExCfL0KGixgkQ4t1o66GjyANafjfcLo3q
+ t2zOM4L8S4eGfrKG.YeJ0aYE2jti.CskGJK38v.S68APCGaPbWPitcv24hbG7eVX8x5nmzcASLsX
+ _kB04zMT7daFME.bAtEMd8NbV9Nxn1cM7Etp.Wl2R9wE.4WzuHBZk5KngMEEbKyxmlO.WlzEmW3H
+ 5dhpIzbpPsOK25OafSJwE0w70PPTTc8uY99m3L8O3UHmyr3v9D3OcBoQlZumryAuSLjh04zflez5
+ NZjEVqwwNhrdnwX1bBB8bdkOqLYs9fF1dHCm_FH.oVpo83VD7iAXwEjGmlv3eimepg.Q.hI.JtVl
+ d77yOY8QgVYoiFe5ReHpEBHZr.aRaq4tcX9ItZGCY2OnOYaDQNSfyr4oyV33VVwqploSKLOzCF_N
+ fQ4hHZadRBxcgq0g8M4gY.cIZGHlcpygUJWPGLrvj5qhEmnoEUG47mga1n9uaeBVNoA6zk7co3u3
+ bWibHZWh6ovlB8_hH5tePqw_YS1R70hcIaA2lO58zEMA9YdW_Yerz46HbDaR9dPRb6yVbfJxVjfd
+ sASgbxWALVupwef95QFyzO1HyeFssGY0ratR.MaBrVZgm3cjjHYSIUNnmoIa_03UxWcBpH7RYWU1
+ vcvtSyKGJOA39vR3YtZqXP7Z2un5sBmtZpGqX_g--
 X-Sonic-MF: <ms60710444266@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic307.consmr.mail.bf2.yahoo.com with HTTP; Mon, 6 Jun 2022 21:10:30 +0000
-Received: by hermes--canary-production-ne1-799d7bd497-px24v (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 84aa24512c09b8f9e117edd19949cf7f;
-          Mon, 06 Jun 2022 21:10:25 +0000 (UTC)
-Content-Type: multipart/alternative;
- boundary="------------ADnFG6sVJBHUwUBTcL1UzTow"
-Message-ID: <9152bc3a-686c-ce96-b42d-29528cd3ba2c@yahoo.com>
-Date: Mon, 6 Jun 2022 16:10:16 -0500
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.bf2.yahoo.com with HTTP; Wed, 20 Jul 2022 13:44:02 +0000
+Date: Wed, 20 Jul 2022 13:42:02 +0000 (UTC)
+From: MILTON MCKENZIE <ms60710444266@yahoo.com>
+To: Governor.Hochul@exec.ny.gov
+Message-ID: <1988004297.18639001.1658324522070@mail.yahoo.com>
+Subject: Auto Response: Mailbox Not Monitored
 MIME-Version: 1.0
-User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
- Thunderbird/91.6.1
-Content-Language: en-US
-To: Doc Webmaster <webmaster@doc.gov>,
- "tmprosecutordocs@uspto.gov" <tmprosecutordocs@uspto.gov>,
- SARAH 00068govtIdx BARNHART <SarahB@doc.ks.gov>,
- MICHAEL 00064govtIdx OSVER <mosver@doc.gov>,
- "Karol.Sabodocha@nypd.org" <Karol.Sabodocha@nypd.org>,
- "HREmployeeServices@doc.nyc.gov" <HREmployeeServices@doc.nyc.gov>,
- doc@dc.gov, doc-del@libraries.cul.columbia.edu,
- "Constituentservices@doc.nyc.gov" <Constituentservices@doc.nyc.gov>,
- CHERYL 00068govtIdx CADUE <CherylCa@doc.ks.gov>, bdocs2019@gmail.com,
- support@nicic.gov,
- "NYM-PREAComplianceMgr-S@bop.gov" <NYM-PREAComplianceMgr-S@bop.gov>,
- Bop Info <info@bop.gov>, "CNK-CCM@bop.gov" <CNK-CCM@bop.gov>,
- "BRO-ExecAssistant-S@bop.gov" <BRO-ExecAssistant-S@bop.gov>,
- "BOP-RSD-PREACOORDINATOR@bop.gov" <BOP-RSD-PREACOORDINATOR@bop.gov>,
- "BOP-IPP-PublicAffairs@bop.gov" <BOP-IPP-PublicAffairs@bop.gov>,
- acjic@alacop.gov, ANNETTE 00000govtIdx FORD <ANNETTE.R.FORD@USDOJ.GOV>,
- CAROL 00000govtIdx BURGER <CAROL.S.BURGER@USDOJ.GOV>, dojfax@bops.gov,
- "Randyc.wilson@usdoj.gov" <Randyc.wilson@usdoj.gov>,
- "tina.jeffery@usdoj.gov" <tina.jeffery@usdoj.gov>,
- "Victimassistance.fraud@usdoj.gov" <Victimassistance.fraud@usdoj.gov>,
- "4audit@bloomberg.net" <4audit@bloomberg.net>,
- CRC FTC REPORTS <CRCMESSAGES@ftc.gov>,
- "crcomplaints@treasury.gov" <crcomplaints@treasury.gov>,
- TheBronxBBJccl@gmail.com, QueensBBJccl@gmail.com, BrooklynBBJccl@gmail.com
-From: B D2022 <ms60710444266@yahoo.com>
-Subject: CROSS-REFERENCE ALSO.
-Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
-References: <9152bc3a-686c-ce96-b42d-29528cd3ba2c.ref@yahoo.com>
-X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_18638995_1381878484.1658324522062"
+Precedence: bulk
+Auto-Submitted: auto-replied
 X-TM-AS-GCONF: 00
 
-This is a multi-part message in MIME format.
---------------ADnFG6sVJBHUwUBTcL1UzTow
-Content-Type: text/plain; charset=UTF-8; format=flowed
-Content-Transfer-Encoding: 8bit
+------=_Part_18638995_1381878484.1658324522062
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
 
-<https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b>
+I SINCERELY APOLOGIZE FOR PUTTING ALL OF THIS INFORMATION TOGETHER FOR THE =
+FEDERAL OVERSIGHT COMMITTEE ON FELONIES COMMITTED IN THE UNITED STATES,NAME=
+LY IN NYSCEF MATTER 153974/2020
+DON'T CALL ME WHEN AT LEAST 7 OF THEM ARE IN PRISON -=C2=A0THANK YOU!
+TCR5 INDEX IN THE MAINLINE SHOULD BE HELPFUL, HAS ALL THE COMMUNICATIONS YO=
+U NEED!
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES/find/ma=
+in
 
-The policy for recorded phone lines and records is in FACT three years
-at those FINRA regulated firms who DID participate in Securities Fraud,
-Unfair Dealings and an OBSTRUCTION OF JUSTICE, as I recall. Thus, time
-is of the essence for those hoping to avoid getting crossed in their
-phone conversations and lines, which we can review later as well.
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-D=
+ISTRIBUTION-ONLY/find/main
 
-  > confirmation attached. .
-
-*"NOT COVERED" FOR OMISSIONS, and that ticker is not a PAR-ID, but is
-now SUB-PAR [STFGX]*
-
-*- losses registered: THE excess of 1.35 billion US dollars - not
-Monopoly money.*
-
-THE LINKS IN THIS ATTACHMENT ARE EASIER TO CLICK AND REVIEW AS WELL.*
-*
-
-*ALL REFERENCES ARE PRIMARILY **FILED IN THE MATTER OF NYSCEF
-153974/2020, AND ALSO WITH THE DEPT. OF BUILDINGS.**
-**- REGARDING THE UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM IN
-MAY OF 2020, WERE ALL ANNEXED IN THE OMISSIONS AS SEEN IN THOSE SEC
-FILINGS, WHERE APPLICABLE.**
-*
-
-*
-**/MY APOLOGIES FOR THE TYPOGRAPHICAL ERRORS AS WELL./*
-
-*/
-/*
-
-*MOST RESPECTFULLY,
-*
-
-/*
-/S/  BARIS DINCER
-      RESPONDENT IN THE MATTER OF NYSCEF 153974/2020*/
-
-*
-*
-
-*SEE ALSO: NOTICE THE CEO OF MORGAN STANLEY AND ON NOVEMBER OF 2021.
-      A GENTLEMAN I AM FAMILIAR WITH SINCE 2010.*
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-D=
+ISTRIBUTION-ONLY/find/AUTOMATIC-REPLY-DATABASE
 
 
-THANK YOU GOVERNOR HOCHUL,
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/TDBANK-WEST57THST=
+REET-ZIPCODE-10019
 
-      p.s. THE SMALLER FILE HAS LINKS THAT ARE EASIER TO HIT THAN PAR TWO
-AT AN EXECUTIVE 9.
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-D=
+ISTRIBUTION-ONLY/find/AUTOMATIC-REPLY-DATABASE
 
-      - I haven't even had a printer for the last two years we can also
-discuss that later as well.
 
-**
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
 
-**
 
-**
-------------------------------------------------------------------------
-**/*<https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt>
-<https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf>
-<https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup
+>> 6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COMTHIS PAGE IS BEING MON=
+ITORED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND SECURITIES FRAU=
+D INVESTIGATION.https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
 
---------------ADnFG6sVJBHUwUBTcL1UzTow
+
+*** FILED 7/18/2022https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKE=
+R/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/main
+
+SUBJ: CLAIM C-47492FORM CNFR: 474922797PENDING.............
+
+
+
+>> AFTER THE LEASES WERE TRANSFERRED TO STATE FARM, AND NO I DIDN'T FOLLOW =
+HER.- people BELONG IN PRISON UNTIL THEY ARE IN PRISON THIS IS ALL I HAVE T=
+O SAY..
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANC=
+E COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED
+PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIFE INSURANC=
+E COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIEDhttps://iapps.courts.state.=
+ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D
+
+EXHIBIT(S) - AC0=C2=A0 (Motion #001)ACRIS Detailed Document Information (20=
+19000021408)2019010800475001https://iapps.courts.state.ny.us/nyscef/ViewDoc=
+ument?docIndex=3Dze6a1KA9akRV9TGfXXJT/g=3D=3D
+
+EXHIBIT(S) - AC1=C2=A0 (Motion #001)ACRIS Detailed Document Information (20=
+20000155422)2020052000291003https://iapps.courts.state.ny.us/nyscef/ViewDoc=
+ument?docIndex=3DbVk8sIt7n3kGwHqebPg0fw=3D=3D
+
+EXHIBIT(S) - AC2=C2=A0 (Motion #001)ACRIS Detailed Document Information (20=
+20000155421)2020052000291002https://iapps.courts.state.ny.us/nyscef/ViewDoc=
+ument?docIndex=3DwTG2YD2PqXuxmoKqFiESrw=3D=3D
+
+EXHIBIT(S) - AC3=C2=A0 (Motion #001)ACRIS Detailed Document Information (20=
+20000155422)2020052000291003https://iapps.courts.state.ny.us/nyscef/ViewDoc=
+ument?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D
+
+=C2=A0(2020000155423)2020052000291004
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D/yhElCiKJ0B=
+Gv2DF/MOn4g=3D=3D
+
+
+ACRIS.NYC.GOV >> ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26THhttps://=
+iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZKSH=
+gLQ=3D=3D
+
+
+
+---6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM=C2=A0 =C2=A0- DISTRIB=
+UTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CI=
+VIL RIGHTS
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbj=
+ttGxgjUXGAw=3D=3D
+
+EXHIBIT(S) - 2=C2=A0 (Motion #001)6.25.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3Dph76T77EGjUtofiKDKCOoA=3D=3D
+
+EXHIBIT(S) - 3=C2=A0 (Motion #001)6.27.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3Dx9RFyUAiwcmGbb6y8R306w=3D=3D
+
+EXHIBIT(S) - 4=C2=A0 (Motion #001)6.27.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3Dhxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=
+=3D
+
+EXHIBIT(S) - 5=C2=A0 (Motion #001)6.27.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3D382TNrNKjw28ce0sCmTN9g=3D=3D
+
+EXHIBIT(S) - 6=C2=A0 (Motion #001)6.28.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3DUQzt9l/yhPj2jXV6Xk9JEA=3D=3D
+
+EXHIBIT(S) - 7=C2=A0 (Motion #001)6.29.2020 email-ASHLEY.HUMPHRIES@WILSONEL=
+SER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -=
+- VIOLATION OF PRIVACY AND CIVIL RIGHTShttps://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3DZWQqfKHMbUj/LLDfoydj1g=3D=3D
+
+EXHIBIT(S) - 8=C2=A0 (Motion #001)6.30.2020 emailhttps://iapps.courts.state=
+.ny.us/nyscef/ViewDocument?docIndex=3DbJO1Rhql6hYHUqwyBXgpGQ=3D=3D
+
+
+SEARCH FOR THESE USING THE MAIN LINE ABOVE'04.2020-Defendants attest and do=
+cument to circulating communications WITHOUT MY CONSENT.TXT''05 JUNE 2020 -=
+ ITEM 53 - ITEM 55.txt''150 EAST 42ND STREET INDIVIDUALS LISTED .txt''18.11=
+5 - INFLUENCING - IMPEDING - OR RETALIATING AGAIN A FEDERAL OFFICIAL BY THR=
+EAT OR INJURY.TXT''18.115- THREATENING INJURY TO IMPEDE - INTIMIFFATE OR IN=
+TERFERE WITH AN OFFICIAL.TXT''18.1512 - tampering with a witness or federal=
+ agent.TXT''18.152 -- CONCEALMENT OF ASSETS UNDER THE SCOPE OF AVOIDANCE TO=
+ A TECHNICAL BANKRUPTCY ( A GREY AREA ).TXT''18.208 - ACTS AFFECTING A PERS=
+ONAL FINANCIAL INTEREST (2).TXT''18.208 - ACTS AFFECTING A PERSONAL FINANCI=
+AL INTEREST.TXT''18.214 -Offer for procurement of Federal Reserve bank loan=
+ and discount of commercial paper.TXT''18.218 - VOIDING TRANSACTIONS.TXT''1=
+8.220 - Illegal remunerations for referrals to recovery homes - CLINICAL TR=
+EATMENT KICKBACKS.TXT''18.246 - Deprivation of relief benefits - DEPRIVE - =
+THREATEN FOR WORK PURPOSES.TXT''2000 - CHARACTERS ASSIGNMENT AND TRASFER OF=
+ 6 MILLION DOLLARS GUARANTEED BY UNLAWFUL RENTS .txt''2000 - CHARACTERS.txt=
+''2020-09-23=C2=A0 - - HSBC MATTERS.txt'=C2=A02020-09-23.txt=C2=A02022-01-3=
+0-WILSONELSER-THE-CONARTISTS.txt'251295 _2021 thru 251334 _2021.pdf''29 JUN=
+E 2020 courtyard - RICKI.ROER-AT-WILSONELSER.TXT''3 Jul 2022 - VIOLATION OF=
+ PRIVACY - BANK FRAUD - SECURITIES FRAUD EVALUATED.txt''400842 - scumbag fi=
+ler.txt''400842-2020-THE ZUCKER ENTERPRISES LLC.txt''6.27.2020 email-ASHLEY=
+.HUMPHRIES@WILSONELSER.COM=C2=A0 =C2=A0- DISTRIBUTE THOSE VIDEO.MOV FILES W=
+ITHOUT MY CONSENT.TXT.TXT''ASHLEY.HUMPHRIES@WILSONELSER.COM ADVISING SLASKO=
+WITZ@INGRAMLLP.COM=C2=A0 - TO AMEND THE PLEADINGS.TXT''ATTACHED VIDEO OF MY=
+SELF DRILLING INSIDE OF MY APARTMENT.txt''ATTACHED VIDEO OF MYSELF HAMMERIN=
+G INSIDE OF MY APARTMENT.txt''ATTORNEYS IN NYSCEF 153974 AND THEY BAR NUMBE=
+RS (2).TXT''ATTORNEYS IN NYSCEF 153974 AND THEY BAR NUMBERS.txt''BANGING ON=
+ A RADIATOR.txt''BASE-CAP-RATES-THAT SATISFY USC 18.21 ---.csv''BASE-CAP-RA=
+TES-THAT SATISFY USC 18.21.xlsx''BOX FAX THIS TOO.txt''Block 2679- Lot 43- =
+840-46 Lorimer Street - KCCO-EFILE.txt''CCF 000031 - FILES AUTOMATICALLY DO=
+WNLOAD WHEN YOU CLICK ON THE LINKS - NO CERT - AND VOICEMAIL.txt''DISTRIBUT=
+ED VIDEOS OF MYSELF IN MY APARTMENT -- THE INTERIOR.txt''DOCUMENT CCF_00003=
+1 EXECUTED ON AUGUST 8TH 2020 IN GOOD FAITH.txt''December 18=C2=A0 2021 COM=
+MUNICATIONS UPON DISCOVERY NOTHING HAS BEEN DISCLOSED - BY ANYONE.txt''EX-9=
+9.906 July 28 2021 - VIOLATED THE SARBANES-OXLEY AND BY PAUL SMITH.TXT''EX-=
+99.CERT VILATED THE INVESTMENT COMPANY ACT OF 1940.TXT''EXHIBIT(S)=C2=A0 - =
+12=C2=A0 (Motion 001).txt''FAX THIS.txt''FUGITIVES - FLIGHT RISK - HK FERRE=
+IRA RUIZ.txt''Filing User Shari Laskowitz - 2129079600 NYSCEF 153974-2020.t=
+xt'=C2=A0FraudInvocation-Receipts.txt'GPS=C2=A0 - scumbag filers.txt''HSBC =
+- PER THE LEASE - then moved their receipts to JP Morgan ANNEXED NYSCEF 153=
+974-2020.txt''HSBC BANK WAS INTENTIONALLY PLACED IN THE DESCRIPTION OF then=
+ moved their receipts to=C2=A0 SC-50-FILED.txt''Hon. Nancy T. SunshineNYSCE=
+F 400842-2020 - THE ZUCKER ENTERPRISES LLC receipt.TXT'=C2=A0Hotels-RECEIPT=
+S-AND-LINKS.txt=C2=A0Hotelscom-RECEIPTS-LINKS.txt'INVESTORS OF STFGX - SFIT=
+X - SFBDX - STFBX receipts.txt''IS IT URBAN.zip''JAN 30-2022 - EMAIL TO WIL=
+SONELSER AS ATTORNEYS ON RECORD NYSCEF 153974-2020.txt''JP MORGAN CHASE BAN=
+K - SECURITY WAS MOVED THERE FROM HSBS EL DORADO.txt''JUNE 28 2022-malia.d.=
+chatman.TXT''January 1 2020 to January 1 2023 - [40-17G] NOT COVERED TWO IN=
+DENTURES.txt''KEEP ME PREOCCUPIED THEN OBTAIN AND PETITION FOR 600 THOUSAND=
+ ON TAX Block 2679 - Lot 43.txt''LOAN 50074 - TAX RISKS PRESENT NO INDEMNIT=
+Y TO STATE FARM LIFE INSURANCE COMPANY.txt''LOCATION 1 and federal link.txt=
+''LOCATION 1.A.TXT''Loan 50074 EST AND USC 18.225 - USC 18.21 FILED IN THE =
+NY FINANCE REGISTER LINKS.TXT''Most respectfully - bo dincer CONTACT INFO.t=
+xt''NOT SO FUNNY=C2=A0 1-855-835-5324 - UBER LICENSE PLATE GPS LOCATOR.pdf'=
+'PLEASE CHECK THE SECURITY TAPES - DEMANDED BY ASHLEY HUMPHRIES.zip''PREVEN=
+TING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt''REF - El Dora=
+do Task Force - receipt.txt''RFC822 - MSG READ RECEIPTS =3D [ BSCPGROUPHOLD=
+INGSLLC-WILSONELSER-ZUCKER] #50074.txt''SHORT LIST OF FEDERAL CHARGES APPLI=
+CABLE AND FILED IN NYSCEF 153974-2020.TXT''SHORT LIST OF MEMBERS AT SULLIVA=
+N PROPERTIES LP.txt''STATE FARM - BLOOMINGTON-Northern Trust Company-ACRIS-=
+6MM.txt''STATE FARM LIFE INSURANCE COMPANY - UNDER THE DIRECTORS OF STATE F=
+ARM VP MANAGEMENT CORP AND FINRA.txt''Securities Exchange Act of 1934 viola=
+ted BY JOSEPH MONK JR OF STATE FARM.txt''THIS PAGE IS BEING MONITORED BY SE=
+VERAL DEPARTMENTS AS PART OF A FEDERAL INVESTIGATION.txt''TaxEfiled@law.nyc=
+.gov=C2=A0 -- TAXEFILED.TXT''UNLAWFUL RENTS PRESENTED to State Farm=C2=A0 T=
+O OBTAIN A LOAN FOR 6 MILLION DOLLARS.txt''USC 18 TITLE 18- SECTION 1512 - =
+PREVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt''USC 18 =
+TITLE 18- SECTION 1512 - PREVENTING COMMUNICATION TO LAW.txt''USC 18.119 - =
+PROTECTION OF INDIVIDUAL PERFORMING CERTAIN DUTIES - TO INTIMIDATE - THREAT=
+EN - A COVERED PERSON.zip''USC 18.1512 - PREVENTING COMMUNICATION TO A LAW =
+ENFORCEMENT OFFICER OR JUDGE.zip''USC 18.1962 - PINCOME DERIVED FROM COLLEC=
+TIONS OF UNLAWFUL DEBT.TXT''USC 18.1962 AND USC 18.1963 VIOLATED WITH NYSCE=
+F LINKS.TXT''USC 18.1962 VIOLATED.TXT''USC 18.1963=C2=A0 - forfeit to the U=
+nited States all property described - INCLUDING REAL PROPERTY.TXT''USC 18.2=
+ -=C2=A0 Principals - THOSE WHO COMMIT AN OFFENSE AGAINST THE UNITED STATES=
+ - NOTWITHSTANDING ACCESSORIES.TXT''USC 18.2 -=C2=A0 Principals - USC 18.11=
+9 - USC 18.208=C2=A0 - USC 18.215 - USC 18.3 - USC 18.21.zip''USC 18.208 AC=
+TS AFFECTING A PERSONAL FINANCIAL INTEREST.zip''USC 18.21 - Stolen or count=
+erfeit nature of property.zip''USC 18.215 - RECEIPTS FOR PROCURING LOANS - =
+FILED IN EDGAR CIK FILER 93715.zip''USC 18.216 - PENALTIES UNDER SECTION 20=
+3 THROUGH 209.zip''USC 18.225 INVITED on May 11 2020 --- BY STATE FARM LIFE=
+ INSURANCE COMPANY TO SULLIVAN PROPERTIES LP.zip''USC 18.241 - conspiracy t=
+o rights - to injure - and to oppress.zip''USC 18.3 - ACCESSORY AFTER THE F=
+ACT UPTO 15 YEARS.zip''USC 18.373 - SOLICITATION TO CORROBORATE AND INDUCE =
+UNDER CIRCUMSTANCES STRONGLY CORROBORATIVE OF THAT INTENT.TXT''USC 18.373 -=
+ SOLICITATION TO CORROBORATE AND INDUCE UNDER CIRCUMSTANCES STRONGLY CORROB=
+ORATIVE OF THAT INTENT.zip''USC 18.373(B)[ VOICEMAIL ] MOTIVATED=C2=A0 COMM=
+ANDING OR TO POSTPONE - OR SUBSTITUTE ANOTHER VICTIM.TXT''USC 18.373[ VOICE=
+MAIL ] MOTIVATED=C2=A0 COMMANDING OR TO POSTPONE - OR SUBSTITUTE ANOTHER VI=
+CTIM.zip''USC 18.4 -=C2=A0 Misprision of felony - HAVING KNOWLEDGE OF THE C=
+OMMISSION OF A COGNIZABLE FELONY.zip''VIDEO.MOV FILES - DISTRIBUTED WITHOUT=
+ CONSENT FILED WITH THE NYSBA AS COURTESY.TXT''VIDEO.MOV FILES - DISTRIBUTE=
+D WITHOUT CONSENT.TXT''VIDEOTAPED ME - INSIDE OF MY APARTMENT -.txt''VIOLAT=
+ION OF PRIVACY AND BREACH OF DUTIES.txt''Voicemail from Mr. PAUL regan [USC=
+ 18.241].TXT''Your fax to Nancy T. Sunshine. could not be delivered-VIOLATI=
+ONOFPRIVACY LINKS IN NYSCEF 153974.TXT''[USC 18.225] docket 403 - FILED 202=
+0 MAY 15 - CRFN 2020000155422=C2=A0 - 6MM LOAN BY STATE FARM.TXT''_FEDERAL =
+TRACKING PURPOSES OF CAMERA AND ROOMS.xlsx''civil.rights.division - FEBRUAR=
+Y 20 - 2022.TXT''document index TCR5 - FILED A COMPOUND OF INFORMATION AND =
+COMMUNICATIONS.txt''ipconfig - 2020-07-07.txt''ipconfig - 2022-07-08 - USC =
+18.1512 (2).TXT''ipconfig - 2022-07-08 - USC 18.1512 VIOLATED AGAIN TODAY.T=
+XT''ipconfig - 2022-07-08 - USC 18.1512.txt''ipconfig - 2022-07-08.txt''jul=
+y 7th ipconfig - NYSCEF 153974-2020 INCIDENT DETAILS cik filer 1516523 afte=
+r 93715 also disappeared.txt''new 13 - DUNNO.txt''new 20 - DUNNO.txt''new 2=
+1 DUNNO.txt''new 23 DUNNO.txt''new 24 DUNNO.txt''new 25 - DUUNNO.txt''new 2=
+6 - DUNNO.txt''new 27.txt'=C2=A0rosalia-chann---VIDEO.ON-DEMAND.DOMAIN.REGI=
+STER.TXT'the directors of=C2=A0 State Farm - AND THE COMMUNICATION BY FIRM =
+8209 ALL IN THE TCR5 LINK.txt''unlawful custody at JP MORGAN CHASE.zip'
+
+
+
+
+
+
+
+
+
+
+------=_Part_18638995_1381878484.1658324522062
 Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: 8bit
+Content-Transfer-Encoding: quoted-printable
 
-<html data-lt-installed="true">
-  <head>
+<div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif">I SINCERELY APOLOGIZE FOR PUTTING ALL OF THIS INFORMATI=
+ON TOGETHER FOR THE FEDERAL OVERSIGHT COMMITTEE ON FELONIES COMMITTED IN TH=
+E UNITED STATES,</font></div><div dir=3D"ltr"><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif">NAMELY IN NYSCEF MATTER 15=
+3974/2020</font></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif"><br></font></div><div dir=3D"ltr"=
+><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-ser=
+if"><b>DON&#39;T CALL ME WHEN AT LEAST 7 OF THEM ARE IN PRISON -&nbsp;</b><=
+/font><b style=3D"font-family:courier, monaco, monospace, sans-serif;font-s=
+ize:x-small;">THANK YOU!</b></div><div dir=3D"ltr"><b style=3D"font-family:=
+courier, monaco, monospace, sans-serif;font-size:x-small;"><br></b></div><d=
+iv dir=3D"ltr"><b style=3D"font-family:courier, monaco, monospace, sans-ser=
+if;font-size:x-small;">TCR5 INDEX IN THE MAINLINE SHOULD BE HELPFUL, HAS AL=
+L THE COMMUNICATIONS YOU NEED!</b></div><div dir=3D"ltr"><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></di=
+v><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier, monaco, m=
+onospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_bl=
+ank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELA=
+TIVES/find/main">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/=
+RELATIVES/find/main</a><br></font></div><div dir=3D"ltr"><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></di=
+v><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier, monaco, m=
+onospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_bl=
+ank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDE=
+RAL-USE-AND-DISTRIBUTION-ONLY/find/main">https://github.com/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/main</a><br>=
+</font></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier=
+, monaco, monospace, sans-serif"><br></font></div><div dir=3D"ltr"><font si=
+ze=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"><a re=
+l=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"https://github=
+.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ON=
+LY/find/AUTOMATIC-REPLY-DATABASE">https://github.com/WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/AUTOMATIC-REPLY-DAT=
+ABASE</a><br></font></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier=
+ new, courier, monaco, monospace, sans-serif"><br></font></div><div dir=3D"=
+ltr"><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans=
+-serif"><br></font></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier =
+new, courier, monaco, monospace, sans-serif"><a rel=3D"nofollow noopener no=
+referrer" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFA=
+RM-SULLIVAN-ZUCKER/TDBANK-WEST57THSTREET-ZIPCODE-10019">https://github.com/=
+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/TDBANK-WEST57THSTREET-ZIPCODE-10019<=
+/a><br></font></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, =
+courier, monaco, monospace, sans-serif"><br></font></div><div dir=3D"ltr"><=
+font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif=
+"><a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"https:/=
+/github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBU=
+TION-ONLY/find/AUTOMATIC-REPLY-DATABASE">https://github.com/WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/AUTOMATIC-RE=
+PLY-DATABASE</a><br></font></div><div dir=3D"ltr"><font size=3D"1" face=3D"=
+courier new, courier, monaco, monospace, sans-serif"><br></font></div><div =
+dir=3D"ltr"><div class=3D"ydp83e38c69pasted-link"><div><font size=3D"1" fac=
+e=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></div>=
+<div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans=
+-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"h=
+ttps://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER">https://github.co=
+m/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER</a><br></font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"><br></=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif"><br></font></div><div><font size=3D"1" face=3D"courier n=
+ew, courier, monaco, monospace, sans-serif">&gt;&gt; 6.24.2020 email - ASHL=
+EY.HUMPHRIES@WILSONELSER.COM</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif">THIS PAGE IS BEING MONITOR=
+ED BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL BANK AND SECURITIES FRAUD IN=
+VESTIGATION.</font></div><div><font size=3D"1" face=3D"courier new, courier=
+, monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" ta=
+rget=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-=
+ZUCKER">https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER</a><br></=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif"><br></font></div><div dir=3D"ltr"><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif"><div><div><br></di=
+v><div>*** FILED 7/18/2022</div><div><a rel=3D"nofollow noopener noreferrer=
+" target=3D"_blank" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLI=
+VAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/main">https://github.com/=
+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/fi=
+nd/main</a><br></div><div><br></div><div>SUBJ: CLAIM C-47492</div><div>FORM=
+ CNFR: 474922797</div><div>PENDING.............</div><div><br></div></div><=
+div><br></div><br></font></div><div><font size=3D"1" face=3D"courier new, c=
+ourier, monaco, monospace, sans-serif"><br></font></div><div><font size=3D"=
+1" face=3D"courier new, courier, monaco, monospace, sans-serif"><b>&gt;&gt;=
+ AFTER THE LEASES WERE TRANSFERRED TO STATE FARM, AND NO I DIDN&#39;T FOLLO=
+W HER.</b></font></div><div><font size=3D"1" face=3D"courier new, courier, =
+monaco, monospace, sans-serif">- people BELONG IN PRISON UNTIL THEY ARE IN =
+PRISON THIS IS ALL I HAVE TO SAY..</font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></div><=
+div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-=
+serif"><b>PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY 15TH TO STATE FARM LIF=
+E INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS IMPLIED</b></font></div>=
+<div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans=
+-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, courier=
+, monaco, monospace, sans-serif">PLAINTIFF ASSIGNED LEASES AND RENTS ON MAY=
+ 15TH TO STATE FARM LIFE INSURANCE COMPANY - INCLUDING THEIR TAX RISKS AS I=
+MPLIED</font></div><div><font size=3D"1" face=3D"courier new, courier, mona=
+co, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" target=
+=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?do=
+cIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D">https://iapps.courts.state.ny.us/nys=
+cef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D</a><br></font></di=
+v><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sa=
+ns-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, couri=
+er, monaco, monospace, sans-serif">EXHIBIT(S) - AC0&nbsp; (Motion #001)</fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif">ACRIS Detailed Document Information (2019000021408)2019010=
+800475001</font></div><div><font size=3D"1" face=3D"courier new, courier, m=
+onaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" targe=
+t=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?d=
+ocIndex=3Dze6a1KA9akRV9TGfXXJT/g=3D=3D">https://iapps.courts.state.ny.us/ny=
+scef/ViewDocument?docIndex=3Dze6a1KA9akRV9TGfXXJT/g=3D=3D</a><br></font></d=
+iv><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, s=
+ans-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, cour=
+ier, monaco, monospace, sans-serif">EXHIBIT(S) - AC1&nbsp; (Motion #001)</f=
+ont></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monos=
+pace, sans-serif">ACRIS Detailed Document Information (2020000155422)202005=
+2000291003</font></div><div><font size=3D"1" face=3D"courier new, courier, =
+monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" targ=
+et=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?=
+docIndex=3DbVk8sIt7n3kGwHqebPg0fw=3D=3D">https://iapps.courts.state.ny.us/n=
+yscef/ViewDocument?docIndex=3DbVk8sIt7n3kGwHqebPg0fw=3D=3D</a><br></font></=
+div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, =
+sans-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, cou=
+rier, monaco, monospace, sans-serif">EXHIBIT(S) - AC2&nbsp; (Motion #001)</=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif">ACRIS Detailed Document Information (2020000155421)20200=
+52000291002</font></div><div><font size=3D"1" face=3D"courier new, courier,=
+ monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" tar=
+get=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument=
+?docIndex=3DwTG2YD2PqXuxmoKqFiESrw=3D=3D">https://iapps.courts.state.ny.us/=
+nyscef/ViewDocument?docIndex=3DwTG2YD2PqXuxmoKqFiESrw=3D=3D</a><br></font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, co=
+urier, monaco, monospace, sans-serif">EXHIBIT(S) - AC3&nbsp; (Motion #001)<=
+/font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif">ACRIS Detailed Document Information (2020000155422)2020=
+052000291003</font></div><div><font size=3D"1" face=3D"courier new, courier=
+, monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" ta=
+rget=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocumen=
+t?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D">https://iapps.courts.state.=
+ny.us/nyscef/ViewDocument?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D</a><=
+br></font></div><div><font size=3D"1" face=3D"courier new, courier, monaco,=
+ monospace, sans-serif"><br></font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif">&nbsp;(2020000155423)20200=
+52000291004<br></font></div><div><font size=3D"1" face=3D"courier new, cour=
+ier, monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noreferrer"=
+ target=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocu=
+ment?docIndex=3D/yhElCiKJ0BGv2DF/MOn4g=3D=3D">https://iapps.courts.state.ny=
+.us/nyscef/ViewDocument?docIndex=3D/yhElCiKJ0BGv2DF/MOn4g=3D=3D</a><br></fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif"><br></font></div><div><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif"><br></font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif">ACRIS.N=
+YC.GOV &gt;&gt; ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH</font></=
+div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, =
+sans-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=
+=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaF=
+zm0ynPeXZKSHgLQ=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument=
+?docIndex=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a><br></font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"><br></=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif"><br></font></div><div><font size=3D"1" face=3D"courier n=
+ew, courier, monaco, monospace, sans-serif"><br></font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif">---</f=
+ont></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monos=
+pace, sans-serif">6.24.2020 email - ASHLEY.HUMPHRIES@WILSONELSER.COM&nbsp; =
+&nbsp;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF=
+ PRIVACY AND CIVIL RIGHTS<br></font></div><div><font size=3D"1" face=3D"cou=
+rier new, courier, monaco, monospace, sans-serif"><a rel=3D"nofollow noopen=
+er noreferrer" target=3D"_blank" href=3D"https://iapps.courts.state.ny.us/n=
+yscef/ViewDocument?docIndex=3DANDSuLFWlbjttGxgjUXGAw=3D=3D">https://iapps.c=
+ourts.state.ny.us/nyscef/ViewDocument?docIndex=3DANDSuLFWlbjttGxgjUXGAw=3D=
+=3D</a><br></font></div><div><font size=3D"1" face=3D"courier new, courier,=
+ monaco, monospace, sans-serif"><br></font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif">EXHIBIT(S) - 2&nbs=
+p; (Motion #001)</font></div><div><font size=3D"1" face=3D"courier new, cou=
+rier, monaco, monospace, sans-serif">6.25.2020 email-ASHLEY.HUMPHRIES@WILSO=
+NELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CONSEN=
+T -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</font></div><div><font size=3D"1=
+" face=3D"courier new, courier, monaco, monospace, sans-serif"><a rel=3D"no=
+follow noopener noreferrer" target=3D"_blank" href=3D"https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3Dph76T77EGjUtofiKDKCOoA=3D=3D">ht=
+tps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dph76T77EGjUto=
+fiKDKCOoA=3D=3D</a><br></font></div><div><font size=3D"1" face=3D"courier n=
+ew, courier, monaco, monospace, sans-serif"><br></font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif">EXHIBI=
+T(S) - 3&nbsp; (Motion #001)</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif">6.27.2020 email-ASHLEY.HUM=
+PHRIES@WILSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHO=
+UT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</font></div><div><fo=
+nt size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif">=
+<a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"https://i=
+apps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dx9RFyUAiwcmGbb6y8R30=
+6w=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dx=
+9RFyUAiwcmGbb6y8R306w=3D=3D</a><br></font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></div><=
+div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-=
+serif">EXHIBIT(S) - 4&nbsp; (Motion #001)</font></div><div><font size=3D"1"=
+ face=3D"courier new, courier, monaco, monospace, sans-serif">6.27.2020 ema=
+il-ASHLEY.HUMPHRIES@WILSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MO=
+V FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=
+=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Dhxv_PLU=
+S_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=3D=3D">https://iapps.courts.state.ny.us=
+/nyscef/ViewDocument?docIndex=3Dhxv_PLUS_e1_PLUS_miua_PLUS_MYiCxhv_PLUS_XQ=
+=3D=3D</a><br></font></div><div><font size=3D"1" face=3D"courier new, couri=
+er, monaco, monospace, sans-serif"><br></font></div><div><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif">EXHIBIT(S) - 5&=
+nbsp; (Motion #001)</font></div><div><font size=3D"1" face=3D"courier new, =
+courier, monaco, monospace, sans-serif">6.27.2020 email-ASHLEY.HUMPHRIES@WI=
+LSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHOUT MY CON=
+SENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"><a rel=
+=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"https://iapps.c=
+ourts.state.ny.us/nyscef/ViewDocument?docIndex=3D382TNrNKjw28ce0sCmTN9g=3D=
+=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D382TNr=
+NKjw28ce0sCmTN9g=3D=3D</a><br></font></div><div><font size=3D"1" face=3D"co=
+urier new, courier, monaco, monospace, sans-serif"><br></font></div><div><f=
+ont size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"=
+>EXHIBIT(S) - 6&nbsp; (Motion #001)</font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif">6.28.2020 email-AS=
+HLEY.HUMPHRIES@WILSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MOV FIL=
+ES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS</font></div>=
+<div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans=
+-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"h=
+ttps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DUQzt9l/yhPj2=
+jXV6Xk9JEA=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docI=
+ndex=3DUQzt9l/yhPj2jXV6Xk9JEA=3D=3D</a><br></font></div><div><font size=3D"=
+1" face=3D"courier new, courier, monaco, monospace, sans-serif"><br></font>=
+</div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace=
+, sans-serif">EXHIBIT(S) - 7&nbsp; (Motion #001)</font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif">6.29.2=
+020 email-ASHLEY.HUMPHRIES@WILSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE V=
+IDEO.MOV FILES WITHOUT MY CONSENT -- VIOLATION OF PRIVACY AND CIVIL RIGHTS<=
+/font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif"><a rel=3D"nofollow noopener noreferrer" target=3D"_blan=
+k" href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D=
+ZWQqfKHMbUj/LLDfoydj1g=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewD=
+ocument?docIndex=3DZWQqfKHMbUj/LLDfoydj1g=3D=3D</a><br></font></div><div><f=
+ont size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"=
+><br></font></div><div><font size=3D"1" face=3D"courier new, courier, monac=
+o, monospace, sans-serif">EXHIBIT(S) - 8&nbsp; (Motion #001)</font></div><d=
+iv><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-s=
+erif">6.30.2020 email</font></div><div><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif"><a rel=3D"nofollow noopener noref=
+errer" target=3D"_blank" href=3D"https://iapps.courts.state.ny.us/nyscef/Vi=
+ewDocument?docIndex=3DbJO1Rhql6hYHUqwyBXgpGQ=3D=3D">https://iapps.courts.st=
+ate.ny.us/nyscef/ViewDocument?docIndex=3DbJO1Rhql6hYHUqwyBXgpGQ=3D=3D</a><b=
+r></font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, =
+monospace, sans-serif"><br></font></div><div dir=3D"ltr"><div><div><font si=
+ze=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"><br><=
+/font></div></div><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, co=
+urier, monaco, monospace, sans-serif" color=3D"#cd232c">SEARCH FOR THESE US=
+ING THE MAIN LINE ABOVE</font></div><div dir=3D"ltr"><div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;04.2020-Defendants attest and document to circulating com=
+munications WITHOUT MY CONSENT.TXT&#39;</font></div><div><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232=
+c">&#39;05 JUNE 2020 - ITEM 53 - ITEM 55.txt&#39;</font></div><div><font si=
+ze=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;150 EAST 42ND STREET INDIVIDUALS LISTED .txt&#39;</font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif" color=3D"#cd232c">&#39;18.115 - INFLUENCING - IMPEDING - OR RE=
+TALIATING AGAIN A FEDERAL OFFICIAL BY THREAT OR INJURY.TXT&#39;</font></div=
+><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, san=
+s-serif" color=3D"#cd232c">&#39;18.115- THREATENING INJURY TO IMPEDE - INTI=
+MIFFATE OR INTERFERE WITH AN OFFICIAL.TXT&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;18.1512 - tampering with a witness or federal agent.TXT&#=
+39;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco,=
+ monospace, sans-serif" color=3D"#cd232c">&#39;18.152 -- CONCEALMENT OF ASS=
+ETS UNDER THE SCOPE OF AVOIDANCE TO A TECHNICAL BANKRUPTCY ( A GREY AREA ).=
+TXT&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, mo=
+naco, monospace, sans-serif" color=3D"#cd232c">&#39;18.208 - ACTS AFFECTING=
+ A PERSONAL FINANCIAL INTEREST (2).TXT&#39;</font></div><div><font size=3D"=
+1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#c=
+d232c">&#39;18.208 - ACTS AFFECTING A PERSONAL FINANCIAL INTEREST.TXT&#39;<=
+/font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif" color=3D"#cd232c">&#39;18.214 -Offer for procurement of=
+ Federal Reserve bank loan and discount of commercial paper.TXT&#39;</font>=
+</div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace=
+, sans-serif" color=3D"#cd232c">&#39;18.218 - VOIDING TRANSACTIONS.TXT&#39;=
+</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mo=
+nospace, sans-serif" color=3D"#cd232c">&#39;18.220 - Illegal remunerations =
+for referrals to recovery homes - CLINICAL TREATMENT KICKBACKS.TXT&#39;</fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif" color=3D"#cd232c">&#39;18.246 - Deprivation of relief bene=
+fits - DEPRIVE - THREATEN FOR WORK PURPOSES.TXT&#39;</font></div><div><font=
+ size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" co=
+lor=3D"#cd232c">&#39;2000 - CHARACTERS ASSIGNMENT AND TRASFER OF 6 MILLION =
+DOLLARS GUARANTEED BY UNLAWFUL RENTS .txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;2000 - CHARACTERS.txt&#39;</font></div><div><font size=3D=
+"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#=
+cd232c">&#39;2020-09-23&nbsp; - - HSBC MATTERS.txt&#39;</font></div><div><f=
+ont size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"=
+ color=3D"#cd232c">&nbsp;2020-09-23.txt</font></div><div><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232=
+c">&nbsp;2022-01-30-WILSONELSER-THE-CONARTISTS.txt</font></div><div><font s=
+ize=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" colo=
+r=3D"#cd232c">&#39;251295 _2021 thru 251334 _2021.pdf&#39;</font></div><div=
+><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-ser=
+if" color=3D"#cd232c">&#39;29 JUNE 2020 courtyard - RICKI.ROER-AT-WILSONELS=
+ER.TXT&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier,=
+ monaco, monospace, sans-serif" color=3D"#cd232c">&#39;3 Jul 2022 - VIOLATI=
+ON OF PRIVACY - BANK FRAUD - SECURITIES FRAUD EVALUATED.txt&#39;</font></di=
+v><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sa=
+ns-serif" color=3D"#cd232c">&#39;400842 - scumbag filer.txt&#39;</font></di=
+v><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sa=
+ns-serif" color=3D"#cd232c">&#39;400842-2020-THE ZUCKER ENTERPRISES LLC.txt=
+&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, monac=
+o, monospace, sans-serif" color=3D"#cd232c">&#39;6.27.2020 email-ASHLEY.HUM=
+PHRIES@WILSONELSER.COM&nbsp; &nbsp;- DISTRIBUTE THOSE VIDEO.MOV FILES WITHO=
+UT MY CONSENT.TXT.TXT&#39;</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;ASHLE=
+Y.HUMPHRIES@WILSONELSER.COM ADVISING SLASKOWITZ@INGRAMLLP.COM&nbsp; - TO AM=
+END THE PLEADINGS.TXT&#39;</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;ATTAC=
+HED VIDEO OF MYSELF DRILLING INSIDE OF MY APARTMENT.txt&#39;</font></div><d=
+iv><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-s=
+erif" color=3D"#cd232c">&#39;ATTACHED VIDEO OF MYSELF HAMMERING INSIDE OF M=
+Y APARTMENT.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new,=
+ courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;ATTORNEYS I=
+N NYSCEF 153974 AND THEY BAR NUMBERS (2).TXT&#39;</font></div><div><font si=
+ze=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;ATTORNEYS IN NYSCEF 153974 AND THEY BAR NUMBERS.txt&#39;<=
+/font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif" color=3D"#cd232c">&#39;BANGING ON A RADIATOR.txt&#39;</=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif" color=3D"#cd232c">&#39;BASE-CAP-RATES-THAT SATISFY USC 1=
+8.21 ---.csv&#39;</font></div><div><font size=3D"1" face=3D"courier new, co=
+urier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;BASE-CAP-RATES=
+-THAT SATISFY USC 18.21.xlsx&#39;</font></div><div><font size=3D"1" face=3D=
+"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#3=
+9;BOX FAX THIS TOO.txt&#39;</font></div><div><font size=3D"1" face=3D"couri=
+er new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;Bloc=
+k 2679- Lot 43- 840-46 Lorimer Street - KCCO-EFILE.txt&#39;</font></div><di=
+v><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-se=
+rif" color=3D"#cd232c">&#39;CCF 000031 - FILES AUTOMATICALLY DOWNLOAD WHEN =
+YOU CLICK ON THE LINKS - NO CERT - AND VOICEMAIL.txt&#39;</font></div><div>=
+<font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-seri=
+f" color=3D"#cd232c">&#39;DISTRIBUTED VIDEOS OF MYSELF IN MY APARTMENT -- T=
+HE INTERIOR.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new,=
+ courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;DOCUMENT CC=
+F_000031 EXECUTED ON AUGUST 8TH 2020 IN GOOD FAITH.txt&#39;</font></div><di=
+v><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-se=
+rif" color=3D"#cd232c">&#39;December 18&nbsp; 2021 COMMUNICATIONS UPON DISC=
+OVERY NOTHING HAS BEEN DISCLOSED - BY ANYONE.txt&#39;</font></div><div><fon=
+t size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" c=
+olor=3D"#cd232c">&#39;EX-99.906 July 28 2021 - VIOLATED THE SARBANES-OXLEY =
+AND BY PAUL SMITH.TXT&#39;</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;EX-99=
+.CERT VILATED THE INVESTMENT COMPANY ACT OF 1940.TXT&#39;</font></div><div>=
+<font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-seri=
+f" color=3D"#cd232c">&#39;EXHIBIT(S)&nbsp; - 12&nbsp; (Motion 001).txt&#39;=
+</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mo=
+nospace, sans-serif" color=3D"#cd232c">&#39;FAX THIS.txt&#39;</font></div><=
+div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-=
+serif" color=3D"#cd232c">&#39;FUGITIVES - FLIGHT RISK - HK FERREIRA RUIZ.tx=
+t&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, mona=
+co, monospace, sans-serif" color=3D"#cd232c">&#39;Filing User Shari Laskowi=
+tz - 2129079600 NYSCEF 153974-2020.txt&#39;</font></div><div><font size=3D"=
+1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#c=
+d232c">&nbsp;FraudInvocation-Receipts.txt</font></div><div><font size=3D"1"=
+ face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd2=
+32c">&#39;GPS&nbsp; - scumbag filers.txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;HSBC - PER THE LEASE - then moved their receipts to JP Mo=
+rgan ANNEXED NYSCEF 153974-2020.txt&#39;</font></div><div><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd23=
+2c">&#39;HSBC BANK WAS INTENTIONALLY PLACED IN THE DESCRIPTION OF then move=
+d their receipts to&nbsp; SC-50-FILED.txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;Hon. Nancy T. SunshineNYSCEF 400842-2020 - THE ZUCKER ENT=
+ERPRISES LLC receipt.TXT&#39;</font></div><div><font size=3D"1" face=3D"cou=
+rier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&nbsp;H=
+otels-RECEIPTS-AND-LINKS.txt</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&nbsp;Ho=
+telscom-RECEIPTS-LINKS.txt</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;INVES=
+TORS OF STFGX - SFITX - SFBDX - STFBX receipts.txt&#39;</font></div><div><f=
+ont size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"=
+ color=3D"#cd232c">&#39;IS IT URBAN.zip&#39;</font></div><div><font size=3D=
+"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#=
+cd232c">&#39;JAN 30-2022 - EMAIL TO WILSONELSER AS ATTORNEYS ON RECORD NYSC=
+EF 153974-2020.txt&#39;</font></div><div><font size=3D"1" face=3D"courier n=
+ew, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;JP MORGA=
+N CHASE BANK - SECURITY WAS MOVED THERE FROM HSBS EL DORADO.txt&#39;</font>=
+</div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace=
+, sans-serif" color=3D"#cd232c">&#39;JUNE 28 2022-malia.d.chatman.TXT&#39;<=
+/font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mon=
+ospace, sans-serif" color=3D"#cd232c">&#39;January 1 2020 to January 1 2023=
+ - [40-17G] NOT COVERED TWO INDENTURES.txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;KEEP ME PREOCCUPIED THEN OBTAIN AND PETITION FOR 600 THOU=
+SAND ON TAX Block 2679 - Lot 43.txt&#39;</font></div><div><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd23=
+2c">&#39;LOAN 50074 - TAX RISKS PRESENT NO INDEMNITY TO STATE FARM LIFE INS=
+URANCE COMPANY.txt&#39;</font></div><div><font size=3D"1" face=3D"courier n=
+ew, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;LOCATION=
+ 1 and federal link.txt&#39;</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;LOC=
+ATION 1.A.TXT&#39;</font></div><div><font size=3D"1" face=3D"courier new, c=
+ourier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;Loan 50074 ES=
+T AND USC 18.225 - USC 18.21 FILED IN THE NY FINANCE REGISTER LINKS.TXT&#39=
+;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, m=
+onospace, sans-serif" color=3D"#cd232c">&#39;Most respectfully - bo dincer =
+CONTACT INFO.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;NOT SO FUN=
+NY&nbsp; 1-855-835-5324 - UBER LICENSE PLATE GPS LOCATOR.pdf&#39;</font></d=
+iv><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, s=
+ans-serif" color=3D"#cd232c">&#39;PLEASE CHECK THE SECURITY TAPES - DEMANDE=
+D BY ASHLEY HUMPHRIES.zip&#39;</font></div><div><font size=3D"1" face=3D"co=
+urier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;P=
+REVENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt&#39;</fon=
+t></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospa=
+ce, sans-serif" color=3D"#cd232c">&#39;REF - El Dorado Task Force - receipt=
+.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, m=
+onaco, monospace, sans-serif" color=3D"#cd232c">&#39;RFC822 - MSG READ RECE=
+IPTS =3D [ BSCPGROUPHOLDINGSLLC-WILSONELSER-ZUCKER] #50074.txt&#39;</font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif" color=3D"#cd232c">&#39;SHORT LIST OF FEDERAL CHARGES APPLICABL=
+E AND FILED IN NYSCEF 153974-2020.TXT&#39;</font></div><div><font size=3D"1=
+" face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd=
+232c">&#39;SHORT LIST OF MEMBERS AT SULLIVAN PROPERTIES LP.txt&#39;</font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif" color=3D"#cd232c">&#39;STATE FARM - BLOOMINGTON-Northern Trust=
+ Company-ACRIS-6MM.txt&#39;</font></div><div><font size=3D"1" face=3D"couri=
+er new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;STAT=
+E FARM LIFE INSURANCE COMPANY - UNDER THE DIRECTORS OF STATE FARM VP MANAGE=
+MENT CORP AND FINRA.txt&#39;</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;Sec=
+urities Exchange Act of 1934 violated BY JOSEPH MONK JR OF STATE FARM.txt&#=
+39;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco,=
+ monospace, sans-serif" color=3D"#cd232c">&#39;THIS PAGE IS BEING MONITORED=
+ BY SEVERAL DEPARTMENTS AS PART OF A FEDERAL INVESTIGATION.txt&#39;</font><=
+/div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace,=
+ sans-serif" color=3D"#cd232c">&#39;TaxEfiled@law.nyc.gov&nbsp; -- TAXEFILE=
+D.TXT&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, =
+monaco, monospace, sans-serif" color=3D"#cd232c">&#39;UNLAWFUL RENTS PRESEN=
+TED to State Farm&nbsp; TO OBTAIN A LOAN FOR 6 MILLION DOLLARS.txt&#39;</fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif" color=3D"#cd232c">&#39;USC 18 TITLE 18- SECTION 1512 - PRE=
+VENTING COMMUNICATION TO A LAW ENFORCEMENT OFFICER OR JUDGE.txt&#39;</font>=
+</div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace=
+, sans-serif" color=3D"#cd232c">&#39;USC 18 TITLE 18- SECTION 1512 - PREVEN=
+TING COMMUNICATION TO LAW.txt&#39;</font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">=
+&#39;USC 18.119 - PROTECTION OF INDIVIDUAL PERFORMING CERTAIN DUTIES - TO I=
+NTIMIDATE - THREATEN - A COVERED PERSON.zip&#39;</font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;USC 18.1512 - PREVENTING COMMUNICATION TO A LAW ENFORCEME=
+NT OFFICER OR JUDGE.zip&#39;</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC=
+ 18.1962 - PINCOME DERIVED FROM COLLECTIONS OF UNLAWFUL DEBT.TXT&#39;</font=
+></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospac=
+e, sans-serif" color=3D"#cd232c">&#39;USC 18.1962 AND USC 18.1963 VIOLATED =
+WITH NYSCEF LINKS.TXT&#39;</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC 1=
+8.1962 VIOLATED.TXT&#39;</font></div><div><font size=3D"1" face=3D"courier =
+new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC 18.=
+1963&nbsp; - forfeit to the United States all property described - INCLUDIN=
+G REAL PROPERTY.TXT&#39;</font></div><div><font size=3D"1" face=3D"courier =
+new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC 18.=
+2 -&nbsp; Principals - THOSE WHO COMMIT AN OFFENSE AGAINST THE UNITED STATE=
+S - NOTWITHSTANDING ACCESSORIES.TXT&#39;</font></div><div><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd23=
+2c">&#39;USC 18.2 -&nbsp; Principals - USC 18.119 - USC 18.208&nbsp; - USC =
+18.215 - USC 18.3 - USC 18.21.zip&#39;</font></div><div><font size=3D"1" fa=
+ce=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c=
+">&#39;USC 18.208 ACTS AFFECTING A PERSONAL FINANCIAL INTEREST.zip&#39;</fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif" color=3D"#cd232c">&#39;USC 18.21 - Stolen or counterfeit n=
+ature of property.zip&#39;</font></div><div><font size=3D"1" face=3D"courie=
+r new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC 1=
+8.215 - RECEIPTS FOR PROCURING LOANS - FILED IN EDGAR CIK FILER 93715.zip&#=
+39;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco,=
+ monospace, sans-serif" color=3D"#cd232c">&#39;USC 18.216 - PENALTIES UNDER=
+ SECTION 203 THROUGH 209.zip&#39;</font></div><div><font size=3D"1" face=3D=
+"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#3=
+9;USC 18.225 INVITED on May 11 2020 --- BY STATE FARM LIFE INSURANCE COMPAN=
+Y TO SULLIVAN PROPERTIES LP.zip&#39;</font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">=
+&#39;USC 18.241 - conspiracy to rights - to injure - and to oppress.zip&#39=
+;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, m=
+onospace, sans-serif" color=3D"#cd232c">&#39;USC 18.3 - ACCESSORY AFTER THE=
+ FACT UPTO 15 YEARS.zip&#39;</font></div><div><font size=3D"1" face=3D"cour=
+ier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;USC=
+ 18.373 - SOLICITATION TO CORROBORATE AND INDUCE UNDER CIRCUMSTANCES STRONG=
+LY CORROBORATIVE OF THAT INTENT.TXT&#39;</font></div><div><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd23=
+2c">&#39;USC 18.373 - SOLICITATION TO CORROBORATE AND INDUCE UNDER CIRCUMST=
+ANCES STRONGLY CORROBORATIVE OF THAT INTENT.zip&#39;</font></div><div><font=
+ size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" co=
+lor=3D"#cd232c">&#39;USC 18.373(B)[ VOICEMAIL ] MOTIVATED&nbsp; COMMANDING =
+OR TO POSTPONE - OR SUBSTITUTE ANOTHER VICTIM.TXT&#39;</font></div><div><fo=
+nt size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" =
+color=3D"#cd232c">&#39;USC 18.373[ VOICEMAIL ] MOTIVATED&nbsp; COMMANDING O=
+R TO POSTPONE - OR SUBSTITUTE ANOTHER VICTIM.zip&#39;</font></div><div><fon=
+t size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" c=
+olor=3D"#cd232c">&#39;USC 18.4 -&nbsp; Misprision of felony - HAVING KNOWLE=
+DGE OF THE COMMISSION OF A COGNIZABLE FELONY.zip&#39;</font></div><div><fon=
+t size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" c=
+olor=3D"#cd232c">&#39;VIDEO.MOV FILES - DISTRIBUTED WITHOUT CONSENT FILED W=
+ITH THE NYSBA AS COURTESY.TXT&#39;</font></div><div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">=
+&#39;VIDEO.MOV FILES - DISTRIBUTED WITHOUT CONSENT.TXT&#39;</font></div><di=
+v><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-se=
+rif" color=3D"#cd232c">&#39;VIDEOTAPED ME - INSIDE OF MY APARTMENT -.txt&#3=
+9;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, =
+monospace, sans-serif" color=3D"#cd232c">&#39;VIOLATION OF PRIVACY AND BREA=
+CH OF DUTIES.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;Voicemail =
+from Mr. PAUL regan [USC 18.241].TXT&#39;</font></div><div><font size=3D"1"=
+ face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd2=
+32c">&#39;Your fax to Nancy T. Sunshine. could not be delivered-VIOLATIONOF=
+PRIVACY LINKS IN NYSCEF 153974.TXT&#39;</font></div><div><font size=3D"1" f=
+ace=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232=
+c">&#39;[USC 18.225] docket 403 - FILED 2020 MAY 15 - CRFN 2020000155422&nb=
+sp; - 6MM LOAN BY STATE FARM.TXT&#39;</font></div><div><font size=3D"1" fac=
+e=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c"=
+>&#39;_FEDERAL TRACKING PURPOSES OF CAMERA AND ROOMS.xlsx&#39;</font></div>=
+<div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans=
+-serif" color=3D"#cd232c">&#39;civil.rights.division - FEBRUARY 20 - 2022.T=
+XT&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, mon=
+aco, monospace, sans-serif" color=3D"#cd232c">&#39;document index TCR5 - FI=
+LED A COMPOUND OF INFORMATION AND COMMUNICATIONS.txt&#39;</font></div><div>=
+<font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-seri=
+f" color=3D"#cd232c">&#39;ipconfig - 2020-07-07.txt&#39;</font></div><div><=
+font size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif=
+" color=3D"#cd232c">&#39;ipconfig - 2022-07-08 - USC 18.1512 (2).TXT&#39;</=
+font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif" color=3D"#cd232c">&#39;ipconfig - 2022-07-08 - USC 18.15=
+12 VIOLATED AGAIN TODAY.TXT&#39;</font></div><div><font size=3D"1" face=3D"=
+courier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39=
+;ipconfig - 2022-07-08 - USC 18.1512.txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;ipconfig - 2022-07-08.txt&#39;</font></div><div><font siz=
+e=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;july 7th ipconfig - NYSCEF 153974-2020 INCIDENT DETAILS c=
+ik filer 1516523 after 93715 also disappeared.txt&#39;</font></div><div><fo=
+nt size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" =
+color=3D"#cd232c">&#39;new 13 - DUNNO.txt&#39;</font></div><div><font size=
+=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif" color=
+=3D"#cd232c">&#39;new 20 - DUNNO.txt&#39;</font></div><div><font size=3D"1"=
+ face=3D"courier new, courier, monaco, monospace, sans-serif" color=3D"#cd2=
+32c">&#39;new 21 DUNNO.txt&#39;</font></div><div><font size=3D"1" face=3D"c=
+ourier new, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;=
+new 23 DUNNO.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new=
+, courier, monaco, monospace, sans-serif" color=3D"#cd232c">&#39;new 24 DUN=
+NO.txt&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier,=
+ monaco, monospace, sans-serif" color=3D"#cd232c">&#39;new 25 - DUUNNO.txt&=
+#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco=
+, monospace, sans-serif" color=3D"#cd232c">&#39;new 26 - DUNNO.txt&#39;</fo=
+nt></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monosp=
+ace, sans-serif" color=3D"#cd232c">&#39;new 27.txt&#39;</font></div><div><f=
+ont size=3D"1" face=3D"courier new, courier, monaco, monospace, sans-serif"=
+ color=3D"#cd232c">&nbsp;rosalia-chann---VIDEO.ON-DEMAND.DOMAIN.REGISTER.TX=
+T</font></div><div><font size=3D"1" face=3D"courier new, courier, monaco, m=
+onospace, sans-serif" color=3D"#cd232c">&#39;the directors of&nbsp; State F=
+arm - AND THE COMMUNICATION BY FIRM 8209 ALL IN THE TCR5 LINK.txt&#39;</fon=
+t></div><div><font size=3D"1" face=3D"courier new, courier, monaco, monospa=
+ce, sans-serif" color=3D"#cd232c">&#39;unlawful custody at JP MORGAN CHASE.=
+zip&#39;</font></div><div><font size=3D"1" face=3D"courier new, courier, mo=
+naco, monospace, sans-serif"><br></font></div></div><font size=3D"1" face=
+=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></div><=
+div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier, monaco, mono=
+space, sans-serif"><br></font></div></div><div dir=3D"ltr"><font size=3D"1"=
+ face=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></=
+div><div dir=3D"ltr"><font size=3D"1" face=3D"courier new, courier, monaco,=
+ monospace, sans-serif"><br></font></div><div dir=3D"ltr"><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></d=
+iv><div><font size=3D"1" face=3D"courier new, courier, monaco, monospace, s=
+ans-serif"><br></font></div><div><font size=3D"1" face=3D"courier new, cour=
+ier, monaco, monospace, sans-serif"><br></font></div><div><font size=3D"1" =
+face=3D"courier new, courier, monaco, monospace, sans-serif"><br></font></d=
+iv></div><br></div>
+------=_Part_18638995_1381878484.1658324522062--
 
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  </head>
-  <body spellcheck="false" data-gramm="false">
-    <p>
-    </p>
-    <div class="moz-text-plain" wrap="true" style="font-family:
-      -moz-fixed; font-size: 14px;" lang="x-unicode">
-      <pre class="moz-quote-pre" wrap=""><a class="moz-txt-link-rfc2396E" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b">&lt;https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b&gt;</a>
-
-The policy for recorded phone lines and records is in FACT three years 
-at those FINRA regulated firms who DID participate in Securities Fraud, 
-Unfair Dealings and an OBSTRUCTION OF JUSTICE, as I recall. Thus, time 
-is of the essence for those hoping to avoid getting crossed in their 
-phone conversations and lines, which we can review later as well.
-
- &gt; confirmation attached. .
-
-*"NOT COVERED" FOR OMISSIONS, and that ticker is not a PAR-ID, but is 
-now SUB-PAR [STFGX]*
-
-*- losses registered: THE excess of 1.35 billion US dollars - not 
-Monopoly money.*
-
-THE LINKS IN THIS ATTACHMENT ARE EASIER TO CLICK AND REVIEW AS WELL.*
-*
-
-*ALL REFERENCES ARE PRIMARILY **FILED IN THE MATTER OF NYSCEF 
-153974/2020, AND ALSO WITH THE DEPT. OF BUILDINGS.**
-**- REGARDING THE UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM IN 
-MAY OF 2020, WERE ALL ANNEXED IN THE OMISSIONS AS SEEN IN THOSE SEC 
-FILINGS, WHERE APPLICABLE.**
-*
-
-*
-**/MY APOLOGIES FOR THE TYPOGRAPHICAL ERRORS AS WELL./*
-
-*/
-/*
-
-*MOST RESPECTFULLY,
-*
-
-/*
-<i class="moz-txt-slash"><span class="moz-txt-tag">/</span>S<span class="moz-txt-tag">/</span></i> BARIS DINCER
-     RESPONDENT IN THE MATTER OF NYSCEF 153974/2020*/
-
-*
-*
-
-*SEE ALSO: NOTICE THE CEO OF MORGAN STANLEY AND ON NOVEMBER OF 2021.
-     A GENTLEMAN I AM FAMILIAR WITH SINCE 2010.*
-
-
-THANK YOU GOVERNOR HOCHUL,
-
-     p.s. THE SMALLER FILE HAS LINKS THAT ARE EASIER TO HIT THAN PAR TWO 
-AT AN EXECUTIVE 9.
-
-     - I haven't even had a printer for the last two years we can also 
-discuss that later as well.
-
-**
-
-**
-
-**
-------------------------------------------------------------------------
-**/*<a class="moz-txt-link-rfc2396E" href="https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt">&lt;https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt&gt;</a>
-<a class="moz-txt-link-rfc2396E" href="https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf">&lt;https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf&gt;</a>
-&lt;<a class="moz-txt-link-freetext" href="https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup">https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup</a></pre>
-    </div>
-  </body>
-</html>
-
---------------ADnFG6sVJBHUwUBTcL1UzTow--
-
---TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4--
+--TMMSG_D3E96378_0C43_D5A5_C8D1_E3B11C893D38--
 
