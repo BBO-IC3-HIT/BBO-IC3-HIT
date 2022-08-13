@@ -12,9 +12,20 @@ via.: 6462563609@mms.att.net<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==<br>
 
 
-### ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH 2020 
-##### FROM: STATE FARM LIFE INSURANCE, TO: SULLIVAN PROPERTIES LP
+## ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH 2020 
+##### FROM: STATE FARM LIFE INSURANCE, TO: SULLIVAN PROPERTIES LP<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==<br>
+> ACRIS Detailed Document Information (2019000021408)2019010800475001<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==<br>
+> ACRIS Detailed Document Information
+> https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==<br>
+> ACRIS Detailed Document Information (2020000155421)2020052000291002<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==<br>
+> ACRIS Detailed Document Information (2020000155422)2020052000291003<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==<br>
+> ACRIS Detailed Document Information (2020000155423)2020052000291004<br>
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==<br>
+
 
 ## ..//BBO-IC3-HIT/find/main
 https://github.com/BBO-IC3-HIT/BBO-IC3-HIT/find/main<br>
