@@ -1,0 +1,308 @@
+From - Sat May 28 17:48:10 2022
+X-Account-Key: account1
+X-UIDL: AHVokp4eGqRuYpKmUwxEoGFhP/k
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.202
+ by atlas222.free.mail.ne1.yahoo.com with HTTPS; Sat, 28 May 2022 22:46:44 +0000
+Return-Path: <>
+X-Originating-Ip: [167.176.36.61]
+Received-SPF: none (domain of zixvpm01.fdic.gov does not designate permitted sender hosts)
+Authentication-Results: atlas222.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@fdicoig.gov header.s=ZIXVPM_13c2a3898e7;
+ spf=none smtp.mailfrom=zixvpm01.fdic.gov;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=fdicoig.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 22:46:44 +0000
+X-YMailAVSC: c_kYr1o3bBuNsJ3x0j0CFZnwrmXl3od5yDXOdXeEikVIgHl
+ obzi3vqEXBghZLbpmSlxbTLEithaW7MuWym9K_NoTeOBP8FRl79WSLrvyDvk
+ qTIVd6HHK4qFhsYTgJ0C3oeJl9iaAHePJIkDVTDJxG1tJZHDLvL9LKbmFZZ8
+ 4unvL.gQl4rUmH6HvsbP5hObD.5dFfwux7JSmGanvEZpZ9SsvnkLVv_Un7r1
+ 08kl_8w2j1mu4nBcK0GW8aw_1fmJvCP31KyVvv0ditXoFErr_fY2_44LSedc
+ JV1zQqeZ8YBh7nW.xh9WQCZEjhuZypWISNRWbhHObOO8oR1rXW0E1d48t9ye
+ ix.QJjkNk4Q22miqd9tQ4_ktkDtoAax8MidU-
+X-YMailISG: br0TGIsWLDtlmumTrnkI8w1yxNq0WLxGson3caqCF1jjzlFA
+ STNNNQaa2SfGmvnFUKhKJ8pjeiLZszov2wUgjzMd_zZ8HFuj4R3uX7yEOJrf
+ vb0oCmNdwd9N8YKQfYakgDCmKtMuCNOH.37EfiJ1q4sIjxx1rz9jGfhbGONL
+ 5gJN0G9w_buprSLlglhS.x_ySXoBjXoBICj_gUizUwhoaBL9Yp0zE.90OlAl
+ xP8zF4CsGIvxAS8UAzQzc9EzXNJizkqxhxphuIWuVZlCAxKYsxCLpcTL3PRN
+ RUgMtJgGRUN0jDw74.OdV95JQFua4QH6OKv9Z9y5uT86RWvCnjzPCAWS2B7N
+ WKh_k6CNJ4FAKy9CTbK1haDWbtV1GutbBJdJRC135NNzMnUB378wzLV7ejpR
+ mhxK.uKmIqoN9WW1WqFiyIQL9OozwNpFLNoSiSNXFJxORqq7UelrrIfh4W4H
+ 7hO638m2rerLvc6yx7_nWjg9JHU7je3EiVym.WrDbkmLvFe8n0zOmKyJ5mMe
+ WkvOODHXF0oqu3q4_JR046nPWJPMJDwQtCr5dYsf2w2158mic51XHOWFNCOP
+ ulYU0kTXE75GzsvF1mPmpZmp3qqVZNDZjQbj5I29Uf.Nu88RKVTTK7E_Bj3x
+ 89iSwBWF1M9gAoyRLAmrtcIKytXQpzU9XClNhVkf1Sz9eZ_j0KOG0CV.6IHl
+ 2SZ8D7gR_y.XRZ6aXGB2y9aHx7R39ugUSoaJQPCjXiex.7iN8hh6DfbTfi.o
+ uprk7q.U4fsYGL0N8XOyKQX9ykdqzo64K7yISfopiT_JvcXlYoQO8lwY2aEL
+ 3KPPFzNKG7FodrJXUu5khXUOgOV0SErB_pdKRFgFH_WFlSNHTJgRCkgxOk4z
+ ImPhakdLrux712R_6K1yMJmWKDYAzTg_ncebG56w.3Jnq8Fh3rvIEChJuRgj
+ YKVwNzcr8rwH_..bDqINpntmYC5Fc2kcu6lte3jqQH5A.uc4Uq3uCfqC4Fet
+ FJjM1_o.XzpCh8rRl2PIMPgSqLH3NAA0JWAJ.L8ZhTsChBCYr6sN4JRx4TsG
+ N_31OyjAUbd5zxOmsNn.Wh.ktD2mw4A.dkKSUYwB7793dHov5L.n4ljfv_wC
+ kn0BH3hzDE4p1hAn1ac.3N.B_6gxmDLT2c.ZGiSmeFAE9BBoUEdDqLVr.FpM
+ cB6OYofMsywzgoeDJNZq.AakMGhmh1DBWRHC35xu
+Received: from 167.176.36.61 (EHLO zixvpm01.fdic.gov)
+ by 10.217.150.202 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 22:46:44 +0000
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.fdic.gov (Proprietary) with SMTP id BF3BF2CC2F81
+	for <ms60710444266@yahoo.com>; Sat, 28 May 2022 17:47:32 -0500 (CDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	s=ZIXVPM_13c2a3898e7; d=fdicoig.gov;
+	h=From:To:Subject:Date;
+	b=gr8iO8ABfMmsnVJTtBCmSb1aMRKu82Vv1to8nl1gZh6wSVnq4O4VvZ30mLHd6OGe
+	lEg6qoB17DHig6Vruw0YetL6gofT+dYzRACnQtG6Q89AmcPXVcV2UfaaJw6Tjl
+	cu447nUkt4LksawjWQgbl6ZBTEfbo9SS8z4i2IkA/Mnb4=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fdicoig.gov;
+	s=ZIXVPM_13c2a3898e7; t=1653778052;
+	bh=DTSybNkxIa3kfJ6P7DP61ZMAQSBS3Td8VvKUKOPQi0Y=;
+	h=From:To:Subject:Date;
+	b=pkv8+4z0aMD57rbA7VdgAwgjonAM2zHu5fJM1CILNdwNudN8AJrfGSoMW1w39eYq1
+	 FnI45afkLKsP5K/FonTEmQuMQSXcVtt+TAAbGRCbExkCArD1Zc7MTkUNhidF6DU0dL
+	 AOc1QEmJv2nna9vGpp7qa6LSs7qPrcX/MktIwM7M=
+Received: from dfwfwmx01-ext.fdic.gov (dfwfwmx01-ext.fdic.gov [10.50.7.43])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by zixvpm01.fdic.gov (Proprietary) with ESMTPS id AA3F12CC2978
+	for <ms60710444266@yahoo.com>; Sat, 28 May 2022 17:47:32 -0500 (CDT)
+Received: from dfwdlp01.fdic.gov (HELO dfwfwmx01-ext.fdic.gov) ([10.50.7.20])
+  by dfwfwmx01-dlp.fdic.gov with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 28 May 2022 22:46:42 +0000
+X-Outbound: true
+X-IronPort-AV: E=Sophos;i="5.91,259,1647302400"; 
+   d="scan'208,217";a="46610401"
+Received: from smtpexc2016.fdic.gov (HELO VASWEXC002P.PROD.FDIC.GOV) ([10.112.6.26])
+  by dfwfwmx01-ext.fdic.gov with ESMTP/TLS/AES256-GCM-SHA384; 28 May 2022 22:46:42 +0000
+Received: from VASWEXC002P.PROD.FDIC.GOV (10.112.6.26) by
+ VASWEXC002P.PROD.FDIC.GOV (10.112.6.26) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2176.14; Sat, 28 May 2022 18:46:42 -0400
+Received: from GCC02-DM3-obe.outbound.protection.outlook.com (10.30.130.15) by
+ VASWEXC002P.PROD.FDIC.GOV (10.112.6.26) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2176.14 via Frontend Transport; Sat, 28 May 2022 18:46:41 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Ih+ZscXtoy0AhE2b9DggbGjRhT4+ScPZ7AEtioUpa9fYSUTxQefz+XJPYRW/+HHFqgAnpEFNcMIW5rB2HXYfVwgIbClc9h0+Lw8+TT+EBcjWQsz111OmMoJ6+vNDJbAQ8mDloCUhXfX+T0Yg0eqSHsIAjDU40vGnGlXCdUgDo8SJ1NLenuVpakK2g0a62gmMqsa0kY6pb5Mic8WuTcb4EIwttP2BxLxtHyuraJMu84uquwKanSpSwT1nmgLRFOaFVsxF6Tos5MKrmkUb7jcP67fUTxCcWCuy04JnV5XfjfZnTP4rMcKgKlNFf+/XXKrZquEiHZnLUksyzUN4JFTmYQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=DTSybNkxIa3kfJ6P7DP61ZMAQSBS3Td8VvKUKOPQi0Y=;
+ b=RBroa8wu10+KkH/Y+DMc686tZKISqlaqFZ9Uyeiv4uY3O72MOTxi3nE21V59j1aqyWE8mOUV2Wbj//Xc2rav8dPWIG8tjwaxSlNSynzCeCT8IhfGcXbrkYYp5C0k6YQOQPNlDnMgIWA7vvcgiTxyP7jV9AnDhItP7lPhNxNuY/LEmu+fTV2KY//fHDPTUiW7XReBUYJCPNnV4oERbAbwoJwE9mB+b6wIupnf5yCCp7gRD0aEvzTat3m50YRSmTQtg+c4B/QX2rOA9664JcleKX54Ji2tjPvuX0oStk8l1weUHgzxzYcjDnZoZWjk6xVGvGV/P54KvLWrH6N6EqVr/Q==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=pass
+ action=none header.from=fdicoig.gov; dkim=pass header.d=fdicoig.gov; arc=none
+Received: from MN2PR09MB4651.namprd09.prod.outlook.com (2603:10b6:208:216::15)
+ by BLAPR09MB7251.namprd09.prod.outlook.com (2603:10b6:208:2ad::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5293.13; Sat, 28 May
+ 2022 22:46:34 +0000
+Received: from MN2PR09MB4651.namprd09.prod.outlook.com ([::1]) by
+ MN2PR09MB4651.namprd09.prod.outlook.com ([fe80::952b:1bf6:954c:7c8b%6]) with
+ Microsoft SMTP Server id 15.20.5293.018; Sat, 28 May 2022 22:46:34 +0000
+From: OIG Hotline <OIGHotline@fdicoig.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Automatic reply: [EXTERNAL MESSAGE] **** RE: TAX RISKS and LETTER OF
+ CREDIT 50074 --- rents and leases transferred to State Farm?
+Thread-Topic: [EXTERNAL MESSAGE] **** RE: TAX RISKS and LETTER OF CREDIT 50074
+ --- rents and leases transferred to State Farm?
+Thread-Index: AQHYcuTHeOTJK+KaGEq9zZNXqVcfc60048bw
+Date: Sat, 28 May 2022 22:46:34 +0000
+Message-ID: <f479b4a72d5840bbb7e3f193985d63d9@MN2PR09MB4651.namprd09.prod.outlook.com>
+References: <5b919a5e-28ac-f241-93a6-30ff00671136@yahoo.com>
+ <6fedabd4-6d4c-de0f-0127-5096919117be@yahoo.com>
+In-Reply-To: <6fedabd4-6d4c-de0f-0127-5096919117be@yahoo.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: OIGHotline@fdicoig.gov
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id: <6fedabd4-6d4c-de0f-0127-5096919117be@yahoo.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 95f2baa9-b8be-4387-da19-08da40fbeab3
+x-ms-traffictypediagnostic: BLAPR09MB7251:EE_
+x-microsoft-antispam-prvs: <BLAPR09MB7251C7C81CD3218EB586BC78B8DB9@BLAPR09MB7251.namprd09.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: FNBUzhww2zv4XABjys0YAPc8+B1aY3ZCiD/L4RiPHU95va2Al8LQQoS3TrMTTOe+44ArhA3cYicEM+I9Alg60qnyyLgkY1v1wMRNoqDmWLgr49NkqN5HdpPwWNtNou1kr/gMjfs87XbAgoiqygKc0AdtzBcEPBu7wbbn+DlmQShviC7ONVq94O7/GMVcwuesMQE4S1Rk0hjqxAJPts6FWUwpSIIXqHttbXM8BrgOvRApyN9Cv6vdAaVhgpMO9i+PBs6VS6Mtt2FYaJzmJbUjkZTxf9p79tRvKAh8zhML0YTIPr2M5W6dcYxwtnc8qCaPP575ZAwqHXK3lFjZB3NxYeB6uqh/FNkfVkcOyri5oBiCszZeEKPF9cQlFSpebLG23EUEPEGZ1uFY3uHh4qasg13Rl8YgJ+FHLJUodRtMUGCKfaiLQ/lQxSIqXrlxn83ml/TOZTo10JLT9bmjcJFG6tiZVlPBDHg1Te4ZSYGY+kv/wqu8B+nEdPqV+8bULpNglY1L0LHPWXq1zgfb8AgsIy1+8+yKKWxt9t0XxEKQ2iZnDFAJGK/r6EI9KNVeKuR4B37qL5ASddggm+zTYDGgtAS3TBW1OMRjPZK6TB0jDUjwvgL4pfVlIyrDy3p5+mxqA/ljBAuzQQwvOFCBT3VkVobmv2+IGuhtLWTLeIiQe1inzL+BC5mbVa25c8g3s7DKusECdJO2BKdXPesyR0bz9Q==
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR09MB4651.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230001)(50650200002)(346002)(376002)(136003)(366004)(396003)(39830400003)(508600001)(66946007)(966005)(64756008)(108616005)(55016003)(24736004)(7696005)(6506007)(88996005)(66476007)(66446008)(9686003)(5660300002)(42882007)(83380400001)(8936002)(166002)(4744005)(41300700001)(15650500001)(2906002)(8676002)(71200400001)(6916009)(122000001)(78352004)(316002)(66556008)(111220200005)(80100003);DIR:OUT;SFP:1501;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: aUoDDOsO2stUd2DQ9rDzqYkYhc/zhT5NWf0uF9icyFFvl+FzUrSP/xXRF7Qo/OH8VOQKosh9PddAyAmxfAj+73epLx5St9z0okhCo39kSQ36eNDL24qzGUgoVFHc7hBmeUgRK/R3htgn+PvqSmwO9u4KItPk6IlYpodxG2wXgwpl9hDSxSs/FXRRcDTijbxaufZ4l85GnN6cUKpFiblo2BaSLDu50KPnn3eWXDN56vDNmg9JhgnjHQth8tWZudz8wqjh16bP13/nTRCb8Fg7C4TB6/QSAgWOZGq7T4XQ2/brmfPsFfDVh3L0aEz4ENih
+Content-Type: multipart/alternative;
+	boundary="_000_f479b4a72d5840bbb7e3f193985d63d9MN2PR09MB4651namprd09pr_"
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN2PR09MB4651.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 95f2baa9-b8be-4387-da19-08da40fbeab3
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 May 2022 22:46:34.4657
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 46cb051c-0cd2-4ef7-8e87-17d8d887885e
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLAPR09MB7251
+X-CFilter-Loop: Reflected
+X-VPM-MSG-ID: f2984598-b20e-4e1a-a278-f36a904cfab2
+X-VPM-HOST: zixvpm01.fdic.gov
+Cc: 
+X-VPM-GROUP-ID: 2040eb80-6cca-493f-aa9b-d8df88d0f0af
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-IS-HYBRID: 0
+Content-Length: 5090
+
+--_000_f479b4a72d5840bbb7e3f193985d63d9MN2PR09MB4651namprd09pr_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+You are responding to an unmanned no reply mailbox.
+
+If you wish to file a complaint regarding suspected fraud, waste, abuse and=
+/or mismanagement within FDIC programs, activities, contractor operations, =
+or FDIC-regulated, and FDIC-insured financial institutions, please use the =
+OIG Hotline form at https://www.fdicoig.gov/oig-hotline.
+
+If you seek information or wish to file a complaint or concern regarding a =
+specific bank matter, please visit the FDIC Information and Support Center =
+at https://ask.fdic.gov/fdicinformationandsupportcenter/s/?language=3Den_US
+
+Sincerely,
+
+Office of Inspector General
+Federal Deposit Insurance Corporation
+
+
+
+
+--_000_f479b4a72d5840bbb7e3f193985d63d9MN2PR09MB4651namprd09pr_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--=0A=
+=0A=
+/* Font Definitions */=0A=
+=0A=
+@font-face=0A=
+=0A=
+	{font-family:"Cambria Math";=0A=
+=0A=
+	panose-1:2 4 5 3 5 4 6 3 2 4;}=0A=
+=0A=
+@font-face=0A=
+=0A=
+	{font-family:Calibri;=0A=
+=0A=
+	panose-1:2 15 5 2 2 2 4 3 2 4;}=0A=
+=0A=
+@font-face=0A=
+=0A=
+	{font-family:"Segoe UI";=0A=
+=0A=
+	panose-1:2 11 5 2 4 2 4 2 2 3;}=0A=
+=0A=
+/* Style Definitions */=0A=
+=0A=
+p.MsoNormal, li.MsoNormal, div.MsoNormal=0A=
+=0A=
+	{margin:0in;=0A=
+=0A=
+	margin-bottom:.0001pt;=0A=
+=0A=
+	font-size:11.0pt;=0A=
+=0A=
+	font-family:"Calibri",sans-serif;}=0A=
+=0A=
+a:link, span.MsoHyperlink=0A=
+=0A=
+	{mso-style-priority:99;=0A=
+=0A=
+	color:#0563C1;=0A=
+=0A=
+	text-decoration:underline;}=0A=
+=0A=
+a:visited, span.MsoHyperlinkFollowed=0A=
+=0A=
+	{mso-style-priority:99;=0A=
+=0A=
+	color:#954F72;=0A=
+=0A=
+	text-decoration:underline;}=0A=
+=0A=
+span.EmailStyle17=0A=
+=0A=
+	{mso-style-type:personal-compose;=0A=
+=0A=
+	font-family:"Calibri",sans-serif;=0A=
+=0A=
+	color:#1F497D;}=0A=
+=0A=
+.MsoChpDefault=0A=
+=0A=
+	{mso-style-type:export-only;=0A=
+=0A=
+	font-family:"Calibri",sans-serif;}=0A=
+=0A=
+@page WordSection1=0A=
+=0A=
+	{size:8.5in 11.0in;=0A=
+=0A=
+	margin:1.0in 1.0in 1.0in 1.0in;}=0A=
+=0A=
+div.WordSection1=0A=
+=0A=
+	{page:WordSection1;}=0A=
+=0A=
+--></style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D">You are responding to an unmanned no reply mailbox.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D">If you wish to file a complaint regarding suspected fraud, waste, a=
+buse and/or mismanagement within FDIC programs, activities, contractor oper=
+ations, or FDIC-regulated, and FDIC-insured
+ financial institutions, please use the OIG Hotline form at </span><a href=
+=3D"https://www.fdicoig.gov/oig-hotline"><span style=3D"color:windowtext;te=
+xt-decoration:none">https://www.fdicoig.gov/oig-hotline</span></a><span sty=
+le=3D"color:#1F497D">.&nbsp;&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D">If you seek information or wish to file a complaint or concern rega=
+rding a specific bank matter, please visit the FDIC Information and Support=
+ Center at
+</span><a href=3D"https://ask.fdic.gov/fdicinformationandsupportcenter/s/?l=
+anguage=3Den_US"><span style=3D"color:windowtext;text-decoration:none">http=
+s://ask.fdic.gov/fdicinformationandsupportcenter/s/?language=3Den_US</span>=
+</a><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none">Sincerely,<o:p></o:p><=
+/p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none">Office of Inspector Ge=
+neral<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none">Federal Deposit Insura=
+nce Corporation<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:8.0pt;font-family:&quot;Segoe UI&quot;,sans-serif"><o:p>&nbsp;</o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:8.0pt;font-family:&quot;Segoe UI&quot;,sans-serif"><o:p>&nbsp;</o:p></sp=
+an></p>
+</div>
+</body>
+</html>
+
+--_000_f479b4a72d5840bbb7e3f193985d63d9MN2PR09MB4651namprd09pr_--
+

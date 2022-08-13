@@ -1,0 +1,377 @@
+From - Fri Aug 12 02:46:58 2022
+X-Account-Key: account1
+X-UIDL: APgX4zN/VCHdYvYDmQnbcP6FKD0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.34.75
+ by atlas309.free.mail.bf1.yahoo.com with HTTPS; Fri, 12 Aug 2022 07:39:05 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.201]
+Received-SPF: pass (domain of github.com designates 192.30.252.201 as permitted sender)
+Authentication-Results: atlas309.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 12 Aug 2022 07:39:05 +0000
+X-YMailAVSC: L8sOrr43bBvyQdZZccgZrPsA_C.nHmGOlwFwSjxraSDYl4j
+ GqXTu2mDz2LNPV5vDuZYt_kpE0j.x84rUXkjuGa3BPEYZgo.WN_HHSuNAXxN
+ cHfupDBtIl23ZlT_1NS2dbALRhP0Qn8UtVqyoeiV2rH1PlcxiDZWPtlCd9WS
+ 26Ea3c3UoYx5mj3fqBdzTSSwBjPRqYwlqxIn9czmVkJvb_bhZPx8Zjpx5s0M
+ sSj6F.XgaEgY4kLEXH_fhBZUAtxaxY4xnWRT0BU0j1MzBNXzMzXkpJj.X4oa
+ LHNRnZOdkdjYTolQGXQYlTq2GZRgsLPPq.MyEaPlH1ScKJ1EKdR.2tc1t1D9
+ b4wrV2N7ECL45Ts6sQS_ww9pm4IcZV8dB.ZM9mX8yZPSx3Cj0G5EYPTiZDoR
+ 9XQmBKytG3nxcjGqpiXc.r2SaaaiJPvpLAPW5qQYtXzLnuW2bsFRNiFT28Ly
+ 4.Ew5NBxN_kPhMs8EzPiM2L9RNeuZuwk9gPjvkAumaBqydLTGzAB0OhiTQcj
+ xSzN0CxsWvor_3RTjmEsTxUQ98tQ_gW.I_opef6JRMiUUxvkB2SPYuDcp1GO
+ Gx0cv.VODGUxP1O1CLNUeS7z8Uu34eQJiJsdaW5mgQzbt.I1X7rg8Z.1B6nE
+ FvD9ru9zCV6jR0J2mwWW2qStsTkTF8HlufQtj_2ZbQk_u3MbkONwVofkp7Mk
+ QsUQDZ0X.LcJg1U1tNUDGOXZIZuhPu5wNXrOHPVhFOtaxVPqX3eiSMc7w2Dc
+ nmQVHs4gnhYG64jMKN7wqmOz7NtqR7nbampvEH4aG_ROnWW5YtzgzXaDKNbe
+ hQPFvW7Wtv5hF9evt7kH2veGkxnmyHOcpfA_xIXuDkb9jzA1JKIuQMoDRG28
+ C5uRVi73LrYx8PN14eOamJ0gG1szkl8ShS2gxGE.EBUFhpW0tCVXiLhqwtp1
+ quCqdL2Lo4p75349mt9RxfXklR0z_vUxDtFLsSe4gesYTpnMsBx3mcUMfyTe
+ gZ7CmiBSETnaXJ7bsSULfVCWuYEjHER7VGSSV9ecXXuoESbA_tweGLctfHAg
+ 3PLI-
+X-YMailISG: .i6DOFMWLDtUqtfCLDJEQm1IeiC3Wt9P3W3ecbMN5qVRmsUc
+ NGqJU_ZLCPOGFeEdP33KRMZPhOMH.ua1I7PxyjYQZzKfbPlPmN6rxvzUFj5v
+ sMYF5a.5xcmrNzqJehZY7MyNtooCubqNp72fSd6GhmNOr161pheE1yJq26Gw
+ TepTez80YhKSbKZO16JDr2yxuOV2iaN2WBg8jhnV4FKe0vXQzawhjd99R2Nf
+ a6Kuu0cEU5yJcjGuJHAs7btijX_CUjEZTQwqfdTnLSBb_R3E20TL1Zoiyxs1
+ xK1zcF3lUzC7fgBK6TiDtoSbnAMq33tBexwBOyiJ8BJNTCKuxWfJpTOJakv3
+ vm4e27DeinswzkwIoCqWr.zLB8B7boBH7O7KInzYFwbIhTJ7wjoWFXgxgKbk
+ uGlrS2nvy8Kn3ADfNxgFfxG.j.ZmJ7_LGkwzwuaDhGg4q5g4AaV1LBUFSoqd
+ IVjcIpF8I0sldsL.L_rr5JsF8.xxEcBSL_pf2BsWleMFL4aIz04pzCORdDv4
+ kb9D01fIeQswdCMq9lwpCpvPhMqKNz8ziH5ow_PYUte.vurLf1rqNa0l2Gwe
+ VCmb1iNo6TAAD9zJM5e1EwlVt398MCrJBofk5L94Svck0UrmgNLe0m3aSjSe
+ wxkXvg69I34rDunu6i0sLJTkmF3CA_UfidPGmczfLv3Ddwz7UTmylu8ZD63g
+ fS3hlTkxeAH.Bs4tcHsjqb8FRBJlDtV1kTDZjWkqx8w.0AZsUpqSNYlDF5xY
+ x.U7Tsml2l03maLpyJN29i6hl2fpUTGVStcxNsSKRP80X2xwOxjL6WytFuyy
+ jm9.2S77XAR.s.O3xqRUb1iQ2F.pXyFFYr_.uUGwUaeYp6pT3MGqFLwSF7BU
+ dnz3.wZpEwXar5L3_SeRYRGnieUL12eeSNg4lvmDwCCQHnVqy7khTMAExh.X
+ 5hq8hAIEnbkfs7mSUn5K.g9X9fP0r6UQAeS.ojQ_mjdsW2BNhdfOMYD_9NFg
+ 2zUr_SNNIrSbodnW_L3VN82oWL4V6IGX5COxUjNvpQsw.RCEsfG7drkZWbVU
+ WIXdkCf1f1UwMjR12YBfFMrVqnI.tZ_BHS17af_XIYAIQHLTbKO0Qjl3Y7.r
+ aQo6bG8I6Hwhpyq8DXTq89c57g.RnUiBXR2eeORrXxE1B0GtKOSgtl0lZDsl
+ Xal5D5VBXPfWN94mt_2Ge2r81ImKLg--
+Received: from 192.30.252.201 (EHLO smtp.github.com)
+ by 10.197.34.75 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 12 Aug 2022 07:39:05 +0000
+Received: from github.com (hubbernetes-node-29fc7d1.va3-iad.github.net [10.48.200.79])
+	by smtp.github.com (Postfix) with ESMTPA id 341A934058E;
+	Fri, 12 Aug 2022 00:39:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1660289945;
+	bh=ZHjtiTk0E2dUyeNVWFzGSY78AdVEuDV2dBSb1cwmXSg=;
+	h=Date:From:To:Subject:From;
+	b=f2jZHfCb8VtqyHdi9JbKQMqBgWimbgtUmiz691JS2tLFrzK4JBcwGKBhpr9ldNGJz
+	 b0nRIoqfqddjcLsdzUD69QuUK0qulj4Ib8GDbEVqRL2xC9oFzUgaSTDCVLv8xnZvsM
+	 cPsSoWFB3bIqxE0wvZr7n3/EmYL3QD3j7gdyJ348=
+Date: Fri, 12 Aug 2022 00:39:05 -0700
+From: 1212-5858 <noreply@github.com>
+To: helpdesk@listserv.leo.gov, 
+ ms60710444266@yahoo.com
+Message-ID: <BSCPGROUPHOLDINGSLLC/RELATIVES/push/refs/heads/6-24-2020--after-STATE-FARM-EXECUTED/8dd466-572392@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/RELATIVES] 572392: Read [ MULE NUMBER 1
+ SLASKOWITZ@INGRAMLLP.COM].eml...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: AIDED AND ABETTED BY LEWISOHN LOAN 50074 #90849565
+X-GitHub-Recipient-Address: helpdesk@listserv.leo.gov,ms60710444266@yahoo.com
+X-Auto-Response-Suppress: All
+Content-Length: 15330
+
+  Branch: refs/heads/6-24-2020--after-STATE-FARM-EXECUTED=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES=0D
+  Commit: 5723922a48608da83dfa6c408afde0e46f466fa7=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES/commit/5723922a48=
+608da83dfa6c408afde0e46f466fa7=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-08-12 (Fri, 12 Aug 2022)=0D
+=0D
+  Changed paths:=0D
+    A (EDELIVERY@MORGANSTANLEY.COM, RULE-COMMENTS@SEC.GOV).eml=0D
+    M Fwd # 50074 90849565 --- WHAT IS IT EXACTLY YOU ALL ARE PROTECTING-=
+-- SOMETHING MUCH DEEPER .eml=0D
+    A Fwd 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC..eml=0D=
+
+    A Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=0D
+    A Fwd C16-93715 1516523 OBSTRUCTION OMISSION.eml=0D
+    A Fwd DFS calculator. BIG OOPS.eml=0D
+    A Fwd DFS calculator..eml=0D
+    A Fwd Fwd Fwd so that's why they call it a 1212-5858 --- DID NOT KNOW=
+ THAT. WHATTTTTTT .eml=0D
+    A Fwd Fwd Proof of service receipt.eml=0D
+    A Fwd Fwd TY FOR TAKING A LOOK AT THIS..eml=0D
+    A Fwd Fwd VIOLATION OF PRIVACY - MATTER OF 153974 2020 NYSCEF.eml=0D
+    A Fwd Fwd t113434.eml=0D
+    A Fwd LOAN 50074 SEC FILER 93715 CIK 1516523 AND NYSCEF DOCKETS IN 15=
+3974_2020.eml=0D
+    A Fwd RISK =3D $0.00 FOR FILER 93715 ... CONTINUES TO CARRY THE RISK =
+IN 1516523.eml=0D
+    A Fwd TAX ASSESSMENT - for 144 properties, by their representatives.-=
+1.eml=0D
+    A Fwd TAX ASSESSMENT - for 144 properties, by their representatives..=
+eml=0D
+    A Fwd USC 18 =C2=A7225. Continuing financial crimes enterprise-.eml=0D=
+
+    A Fwd USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974_2020 [ LOAN 50074 ]=
+ VIA DHL(S).eml=0D
+    A Fwd VIOLATION OF PRIVACY AND THE CONSTITION ( NOTWITHSTANDING NY SU=
+PREME COURT CORRUPTION ).eml=0D
+    A Fwd [BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER] 80bec9 C16-93715 151652=
+3 [ SFITX STFGX STFBX SFBDX ] #1.eml=0D
+    A NO MANDATORY ATTENDANCE REQUIRED. DOCKETS CLEAR ---.eml=0D
+    A Proof of service receipt.eml=0D
+    A RE TAX RISKS and LETTER OF CREDIT 50074 --- rents and leases transf=
+erred to State Farm .eml=0D
+    A Re # USC Title 18. VIOLATIONS --- ANNEXED IN NYSCEF 153974_2020 [ L=
+OAN 50074 EST ++ ].eml=0D
+    A Re ) so how small it is You zoom in also .eml=0D
+    A Re Fw Away from email - Re Automatic reply FEDERAL BANK INV.eml=0D
+    A Re Fwd + LOAN 50074 annexed IN-1.eml=0D
+    A Re Fwd + LOAN 50074 annexed IN.eml=0D
+    A Re Fwd GFY --- I DON'T KNOW WHAT AGENCY IT IS... I KNOW ONE GUY..em=
+l=0D
+    A Re Fwd GFY.eml=0D
+    A Re Fwd USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974_2020 [ LOAN.eml=0D=
+
+    A Re Fwd _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171.eml=0D=
+
+    A Re MSCO 0_. SHARED_ .eml=0D
+    A Re THAT'S MISSES 1212-5858, TO YOU AS WELL..eml=0D
+    A Read - FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO ' CEASE TO =
+EXIST '(br) lol.....eml=0D
+    A Read --- FAXED THEIR TAX EVASION PAPERS AND INCLUDED THESE VIOLATIO=
+N OF PRIVACY DOCUMENTS..eml=0D
+    A Read 400842_2020 Block 2679, LOT 43 -1.eml=0D
+    A Read 400842_2020 Block 2679, LOT 43 -2.eml=0D
+    A Read 400842_2020 Block 2679, LOT 43 -3.eml=0D
+    A Read 400842_2020 Block 2679, LOT 43 .eml=0D
+    M Read A [ricki.roer@wilsonelser.com][ashley.humphries@wilsonelser.co=
+m].eml=0D
+    M Read CONFLICT [ 153974_2020 ] per the FDIC. supplements attached fo=
+r convenience..eml=0D
+    A Read Fwd 12-18-2021.eml=0D
+    M Read OBTAINED A LOAN FOR $6 MILLION DOLLARS 153074_2020. - and $600=
+,000.00 in 400842_2020.eml=0D
+    A Read Re Reminder $65,000,000.00 out of court offer & TCR FILED FOR =
+OMISSIONS.eml=0D
+    A Read USC 18.21, 18.225, 18.215, 18.4, 18.3, 18.229B [ Tax records &=
+ unlawful income ] .eml=0D
+    A Read [ MULE NUMBER 1 SLASKOWITZ@INGRAMLLP.COM].eml=0D
+    A Read [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM=
+-SULLIVAN-ZUCKER] 517e97 # USC 18. =C2=A7208. Acts affect....eml=0D
+    M Read [ricki.roer@wilsonelser.com][ashley.humphries@wilsonelser.com]=
+.eml=0D
+    A Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual=
+ Fund [ SFBDX ] [ SFITX ]-1.eml=0D
+    A Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual=
+ Fund [ SFBDX ] [ SFITX ]-2.eml=0D
+    M Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual=
+ Fund [ SFBDX ] [ SFITX ].eml=0D
+    A Read deposits were unlawful and moved from HSBC to JP MORGAN as ref=
+erened in NYSCEF 153974_2020(br)[DOCKET 166[(https _....eml=0D
+    M Read obtained an unlawful Loan for $6,000,000.00 in NYSCEF 153974_2=
+020 as filed to confirm violations under USC 18.2....eml=0D
+    A Reminder $65,000,000.00 out of court offer & TCR FILED FOR OMISSION=
+S.eml=0D
+    A STFBX STFBX SFITX SFBDX - FILER 1516523 153974-1.eml=0D
+    A STFBX STFBX SFITX SFBDX - FILER 1516523 153974.eml=0D
+    A USC 18 =C2=A7225. Continuing financial crimes enterprise-.eml=0D
+    A Undeliverable VIOLATION OF PRIVACY AND THE CONSTITUtion ( NOTWITHST=
+ANDING NY SUPREME COURT CORRUPTION ).eml=0D
+    A Undeliverable _10_Sullivan-Elser-Laskowitz-Statefarm.eml=0D
+    A VIOLATION OF CIVIL RIGHTS, PRIVACY & CONFIRMED USC TITLE 18.225, 18=
+.21, 18.4, 18.3, 18.2.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-1.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-10.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-11.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-12.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-13.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-14.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-15.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-16.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-2.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-3.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-4.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-5.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-6.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-7.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-8.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021)-9.eml=0D
+    A Your email to TaxEfiled (Updated-February 11, 2021).eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 05c2c3 THE LEWISOHN COUNSELORS NO DIFFE....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 08aa92 Truly a delusional group, never m....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 0a5062 USC 18, =C2=A7216. Penalties and injun....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 2225ff TY - WILL CLEAN THIS UP FOR YOU A....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 24e0c4 -State Farm Interim Fund(br) (3) ....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 258aaa 19178433456-paul-regan.eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 26300c THANK YOU - USE ONE OF A HANDFUL ....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 2c44b9 slaskowitz@ingramllp.com (slaskow....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 2dfe44 -- GTG BACK TO MY STUDIES, AGAIN ....eml=0D
+    A __ Your GitHub launch code.eml=0D
+    A combined CERTIFICATES of OCCUPANCY for all buildings as of FY 2022.=
+.eml=0D
+    A if you understand what a piece of shit is ) you will understand why=
+ ZUCKERS and Counselors belong in PRISON.eml=0D
+    A mainLINE THESE KNOWN INDIVIDUALS - AIDED AND ABETTED AS ACCESSORIES=
+ TO THE ZUCKER ENTERPRISES.eml=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  Read [ MULE NUMBER 1 SLASKOWITZ@INGRAMLLP.COM].eml  > DFS calculator. >=
+  C16-93715 1516523 OBSTRUCTION OMISSION=0D
+=0D
+Read --- FAXED THEIR TAX EVASION PAPERS AND INCLUDED THESE VIOLATION OF P=
+RIVACY DOCUMENTS..eml=0D
+Reminder $65,000,000.00 out of court offer & TCR FILED FOR OMISSIONS.eml=0D=
+
+STFBX STFBX SFITX SFBDX - FILER 1516523 153974.eml=0D
+USC 18 =C2=A7225. Continuing financial crimes enterprise-.eml=0D
+Read [ MULE NUMBER 1 SLASKOWITZ@INGRAMLLP.COM].eml=0D
+Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual Fund =
+[ SFBDX ] [ SFITX ].eml=0D
+njtsy1@bloomberg.net, KEVINROCK(krock5@bloomberg.net), PHILSUPPLE(phil.su=
+pple.hid9@statefarm.com), NicoleBowyer(nicole.bo....eml=0D
+Fwd Fwd Fwd so that's why they call it a 1212-5858 --- DID NOT KNOW THAT.=
+ WHATTTTTTT .eml=0D
+Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual Fund =
+[ SFBDX ] [ SFITX ]-1.eml=0D
+Read Re Reminder $65,000,000.00 out of court offer & TCR FILED FOR OMISSI=
+ONS.eml=0D
+Fwd [BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER] 80bec9 C16-93715 1516523 [ SF=
+ITX STFGX STFBX SFBDX ] #1.eml=0D
+Read _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 61710 Mutual Fund =
+[ SFBDX ] [ SFITX ]-2.eml=0D
+Fwd 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC..eml=0D
+Read 400842_2020 Block 2679, LOT 43 .eml=0D
+Read 400842_2020 Block 2679, LOT 43 -1.eml=0D
+Read CONFLICT [ 153974_2020 ] per the FDIC. supplements attached for conv=
+enience..eml=0D
+Read [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLI=
+VAN-ZUCKER] 517e97 # USC 18. =C2=A7208. Acts affect....eml=0D
+mainLINE THESE KNOWN INDIVIDUALS - AIDED AND ABETTED AS ACCESSORIES TO TH=
+E ZUCKER ENTERPRISES.eml=0D
+Read Fwd 12-18-2021.eml=0D
+Read 400842_2020 Block 2679, LOT 43 -2.eml=0D
+Fwd Txt Banks 101.eml=0D
+Read [ricki.roer@wilsonelser.com][ashley.humphries@wilsonelser.com].eml=0D=
+
+Read 400842_2020 Block 2679, LOT 43 -3.eml=0D
+Read A [ricki.roer@wilsonelser.com][ashley.humphries@wilsonelser.com].eml=
+=0D
+Read USC 18.21, 18.225, 18.215, 18.4, 18.3, 18.229B [ Tax records & unlaw=
+ful income ] .eml=0D
+Read - FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO ' CEASE TO EXIST =
+'(br) lol.....eml=0D
+STFBX STFBX SFITX SFBDX - FILER 1516523 153974-1.eml=0D
+Fwd TAX ASSESSMENT - for 144 properties, by their representatives..eml=0D=
+
+Read OBTAINED A LOAN FOR $6 MILLION DOLLARS 153074_2020. - and $600,000.0=
+0 in 400842_2020.eml=0D
+__ Your GitHub launch code.eml=0D
+Read obtained an unlawful Loan for $6,000,000.00 in NYSCEF 153974_2020 as=
+ filed to confirm violations under USC 18.2....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 2225ff TY - WILL CLEAN THIS UP FOR YOU A....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 2dfe44 -- GTG BACK TO MY STUDIES, AGAIN ....eml=0D
+Fwd Fwd TY FOR TAKING A LOOK AT THIS..eml=0D
+Read deposits were unlawful and moved from HSBC to JP MORGAN as referened=
+ in NYSCEF 153974_2020(br)[DOCKET 166[(https _....eml=0D
+Re # USC Title 18. VIOLATIONS --- ANNEXED IN NYSCEF 153974_2020 [ LOAN 50=
+074 EST ++ ].eml=0D
+Re Fwd GFY.eml=0D
+Re Fwd GFY --- I DON'T KNOW WHAT AGENCY IT IS... I KNOW ONE GUY..eml=0D
+Re MSCO 0_. SHARED_ .eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 26300c THANK YOU - USE ONE OF A HANDFUL ....eml=0D
+Fwd VIOLATION OF PRIVACY AND THE CONSTITION ( NOTWITHSTANDING NY SUPREME =
+COURT CORRUPTION ).eml=0D
+if you understand what a piece of shit is ) you will understand why ZUCKE=
+RS and Counselors belong in PRISON.eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 0a5062 USC 18, =C2=A7216. Penalties and injun....eml=0D
+Fwd Fwd VIOLATION OF PRIVACY - MATTER OF 153974 2020 NYSCEF.eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 08aa92 Truly a delusional group, never m....eml=0D
+Fwd TAX ASSESSMENT - for 144 properties, by their representatives.-1.eml=0D=
+
+Re Fwd _ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171.eml=0D
+Fwd # 50074 90849565 --- WHAT IS IT EXACTLY YOU ALL ARE PROTECTING--- SOM=
+ETHING MUCH DEEPER .eml=0D
+Fwd ABA -- 40-17G NOT COVERED --- 5_9_2022 6 05 AM.eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 24e0c4 -State Farm Interim Fund(br) (3) ....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 05c2c3 THE LEWISOHN COUNSELORS NO DIFFE....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 2c44b9 slaskowitz@ingramllp.com (slaskow....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 258aaa 19178433456-paul-regan.eml=0D
+Fwd Fwd t113434.eml=0D
+Undeliverable _10_Sullivan-Elser-Laskowitz-Statefarm.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021).eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-1.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-2.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-3.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-4.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-5.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-6.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-7.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-8.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-9.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-10.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-11.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-12.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-13.eml=0D
+Fwd DFS calculator..eml=0D
+Fwd DFS calculator. BIG OOPS.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-14.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-15.eml=0D
+Your email to TaxEfiled (Updated-February 11, 2021)-16.eml=0D
+Re THAT'S MISSES 1212-5858, TO YOU AS WELL..eml=0D
+Re Fwd USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974_2020 [ LOAN.eml=0D
+combined CERTIFICATES of OCCUPANCY for all buildings as of FY 2022..eml=0D=
+
+(EDELIVERY@MORGANSTANLEY.COM, RULE-COMMENTS@SEC.GOV).eml=0D
+Proof of service receipt.eml=0D
+Re Fw Away from email - Re Automatic reply FEDERAL BANK INV.eml=0D
+VIOLATION OF CIVIL RIGHTS, PRIVACY & CONFIRMED USC TITLE 18.225, 18.21, 1=
+8.4, 18.3, 18.2.eml=0D
+Fwd USC 18 =C2=A7225. Continuing financial crimes enterprise-.eml=0D
+Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=0D
+RE TAX RISKS and LETTER OF CREDIT 50074 --- rents and leases transferred =
+to State Farm .eml=0D
+Fwd Fwd Proof of service receipt.eml=0D
+Fwd LOAN 50074 SEC FILER 93715 CIK 1516523 AND NYSCEF DOCKETS IN 153974_2=
+020.eml=0D
+Fwd USC 18. VIOLATIONS ANNEXED IN NYSCEF 153974_2020 [ LOAN 50074 ] VIA D=
+HL(S).eml=0D
+Fwd RISK =3D $0.00 FOR FILER 93715 ... CONTINUES TO CARRY THE RISK IN 151=
+6523.eml=0D
+Re ) so how small it is You zoom in also .eml=0D
+Re Fwd + LOAN 50074 annexed IN.eml=0D
+Re Fwd + LOAN 50074 annexed IN-1.eml=0D
+NO MANDATORY ATTENDANCE REQUIRED. DOCKETS CLEAR ---.eml=0D
+Fwd Fwd Re 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC..eml=0D=
+
+Undeliverable VIOLATION OF PRIVACY AND THE CONSTITUtion ( NOTWITHSTANDING=
+ NY SUPREME COURT CORRUPTION ).eml=0D
+Fwd C16-93715 1516523 OBSTRUCTION OMISSION.eml=0D
+=0D
+=0D

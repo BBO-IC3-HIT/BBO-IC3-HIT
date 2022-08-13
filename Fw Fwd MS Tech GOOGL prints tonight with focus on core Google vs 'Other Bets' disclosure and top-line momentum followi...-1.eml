@@ -1,0 +1,946 @@
+From - Sun Apr 17 11:51:14 2022
+X-Account-Key: account1
+X-UIDL: AKdNq/tW9cs9YlJ+IQzosOz/2Ps
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.234
+ by atlas215.free.mail.bf1.yahoo.com with HTTPS; Sun, 10 Apr 2022 06:50:09 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.69.32]
+Received-SPF: pass (domain of yahoo.com designates 98.137.69.32 as permitted sender)
+Authentication-Results: atlas215.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 10 Apr 2022 06:50:09 +0000
+X-YMailISG: K.hRwEwWLDsBoBrObU8ukxCJdOUQHu_2YWd8FWJirw87goFF
+ l3lhMJg2sx1zEx3_V_w376e.3UNdel609FCn5VDDM0LQwPRUbvjDhmJqDDVU
+ lkhWl_pHHxpRn05c26Qr3xDVRCazN2QyeKdE7B6dka2cIinF5L6EAfF9iHev
+ DUPJyt9Sg.BhasQDeVuhIUsIUhyFELZSwORvG1F_r_3s5fKCFD0jxc4IZvXv
+ WlOZa8_ZM_dq2Nt_lY3nnca0zgYFr31y4uYugBOeOglpphyKrMgyouDHJK2B
+ VS42VzTOS3JTForQEUGWddpkIE.5b6qBTSxtrIu0VuF9zc67fFaeFMZxG3LF
+ TLWWv5edT0Cfyak13Xglh45Rpf.58DpdeRdVdGd5MpkgOG6XmW_6i1fFw7kH
+ U8kow6GRDPDnDkvKUVZiE80SkUqPbNOGcaXfcoVjWrctBtCXt2USWw7Evp6_
+ I5VOkOQJwAIOWXGStWpxQ87g6ovGAYzVprUAGFEiepWAZ3J16_9HPSuLxKAL
+ _ppwIo2C0U9Ejl7U8oYUHEgWAM9WRUuZZ1aDBlQtzE0Azh1sqACeulJ6IxSj
+ eExlz1N14clsLLdC9juEEEQdp2KtmBIQ7csL4iqc_sGojA_6wGync7vIup7g
+ tUq5_HotfZlwtg59ewta91FmoO5W4QIIPVJMpgekIiL2ylsae43oLWJgEqTh
+ 1hR6N2PVvQ5rA7Ryi0UMtT0TIEKHLVduaxoEVYLO_BIyX2sljR5NU9Abt4g4
+ q3j_TqiM5.QEi0Jq5egEVeACsa5WxgCwxzCaAuW6G.lzgQImmI4OAXdUxw7o
+ .ju2Fv75Dg203yxtbP2oh1BL0dwQ58932HBUj7krX_jLSdsrgyJnPCIK2PGw
+ G7PLQSczw6faQWP_FrcWU3HqhsQcNC_upAQCySpeh4bNz5g7Ykhua3LA8EOn
+ F313gDKYugzkKFJ5HQIytYqPS3S1mx7qqCkZg6KJkG0NIVW5DxEdBinIdAau
+ bx3ejNfSPdVsgTV6c1h89rec57iJtDDaTQNorZJfxVJoajum1B1gSpaHg.zl
+ jYI138QjsL9mVHtGVOSqb5zWWWA4jKpXsU.Lv2unFrGQ10dqeAhRmzIXn9y7
+ 05CCpkU55cbro0jrVJ9kZqIw1AofSXeFwW74bxfzlAH3yaU63qHKrtoHFz3c
+ BWKPEe8nViHrRt0-
+Received: from 98.137.69.32 (EHLO sonic316-8.consmr.mail.gq1.yahoo.com)
+ by 10.197.39.234 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sun, 10 Apr 2022 06:50:09 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1649573408; bh=ChJjLgKz+WPqCb46rlGbLdCkBtiYQBdk9kI5znvxx8c=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=a2a8Y0e46zfcjhUj4KBtDW/2TxN3vlxSWPyxEumnLrKCwKWnFPZW1pmgpO6RPJW/HH46oEwO/563868yQE05/gFXxln8JXVC1R9WLWQvOvWc+D3ZDYLa94cobaUEn+lIGW1o51o/rExlStEIsjdiAkqMIRZFrqXeRThsTUos0uDPcB1OVhAja+agPHCrGIEo1weAyfiQKW3Ns4UVdQChfIjDOPv/Ucen8HohADniRvkrsraBoouuXVVeKuvCShDEAODfOaCASPkt0F+i2xu8XAdNYBKL709PStIrsEpNbdWU1Qyv60O8zWDTIKt5mjpa2Bh+AVK7ueO+bu7hKdvsKQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1649573408; bh=893JetDgjfJLoptIjg/r0zt9F1SkHBY4M15UM6cnJsL=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=MfKoOtW/O8m7dIvGivRqYI4EXq0zdsBSn1EqI4s9lGGpUkAFilLna7AU4DHdwiGk9swZrLx4PH1lmQZNQOf0ZCMG1fALE/SGmXWMiezSi3aBgXRgXHDY9i9RF3njraQbT0dicRJ9Q82GC2WgGjcSNRxW19hp6vaqM95Z1LOhXmPCu4VC6RjGszZYTQsbs60PptjbO2u4smbncywkewWedO0ElZuunIgEJDdy48iH6QEuh8i1dfSbIpgqjrWcEkqE8isJP3yVHKmx66fM3lTCSvipEauVnqA8tZ6RgyFg/cNnr7Mgp/dTZnFOelyHWeP0MPugLQ2oPcs/wFQHIJZCkg==
+X-YMail-OSG: gHrMGjAVM1niB3fwH.9h9TM1pxAt3aWTEl5T9CLTuscWQIUY7_xMbhpeMpAS.Yt
+ CiC8iypei2kaeQo_QGATxf5WErycdy4XIpRxtnv2YL3KLoaaxup1N4LZiqUxMv2cuI9Xt8gzF97T
+ aBHlmaeGKrfSpBIqYHR_yop.0I7Wp.kWiPE4WDPtXRrEwj5lpLihJiCACqfiP3koGch.UyQoQv5U
+ ImcxhLu38oh3GOVGq7xkptI7JTgz2.JP32eahWZfJqHL_uezXz2sxeeQV5g4xY5U4FGvcdZh3B3W
+ uYmkybBk2ryyFM1KNvVdT1gpYM.kr8n3N1er78IBTJvTWLpS4BKRZVjzIWTTJMTo_0gd5NyxDcPP
+ tgndhIwVzkhelwYd204TrEci5oSHs6MqPQzRjd_9CRXRZSxRofPmo.CWQv50Me7QEEtHSzaJ.bZu
+ ubOewH9gFOiNyH_fIJbjTo9BvyrxIXtzoDaMd.K8DAYZ8fVx43fl5BYFpFHkPP424FVMcX5bli48
+ pmtESkvg8NGiDJUlnQFC3zGNO3qdj4YoKq4vAjIliePPh26abpK8b2nTU0rBTo8SfQfQY8Els7hc
+ 7PbWjwva7TZ38uQBgCpaIVBHTdVd11r2fpmPESxWuHDGuSiOAzYKNJfTXkl4kVyXsRcEcc81k5X2
+ Sj21xBiSTTAviynza1r.YDpbBRI3c72dyVzPRuQNnjVf71ehHKEtsnm8MbeQNCct1RNlyAyojxCB
+ w4ol68X0_zWzVmlMRenphe8782EfhT_1ObVpufZfn1NZFFYehU8oWgAKyMv3WsjrWpFC0Fcd9I65
+ exeHtc6SRejPTYo4tHX3TBw5Rdm3_78Q9H2rjwb_jtfkqFtjcQD9hG1HFX4oBigNJ.b0jQrXtUST
+ 1Q44bjpxDv563Ei0PHX6pEmG7vThCRntPTjb6p2Jr1BjtqvCAzWMjEJ2pJgUPpkJwZqIWK_U7P8Q
+ 9JxJBqn1aoljKqPlTiJYmYRVGWshWvGSyFba.sDdgW6lBQFKYwryu4FtQpOXjtu.GqgbuxaQ8xu4
+ npqknWrpruJxDdGnRQoePYWFK4KBurUaOfXdT0IkAos0x4RwP8Uzw_ukcA8prBrPzve_N62Du.PM
+ uOSJdEvMEXA6Vep4yE19wgFU44Gj0QasF1Eu9vZ_nrzubEUTiNZwo1IDCDXUdK.5AIh4mozopmP7
+ wNEhc3aAX_qA8Xwb11nQs.V2_gPansK4HpJaPx7q4tZ9Ikk_Ut.xJWyGJrjSa0Ww2eNStOpcBHzB
+ FLPpRH3wJLnByci7WUYTu8wWIyroVd0XxiRLOJCjYgkIaMv7cKe0C_bgWTBFDKQ6d5xPXm.ZrFH4
+ sCoKqAE6Tb5TMV_C4OHxBETipR6wCJo122E7dirL9MtxOGEXB2_j.5OXOT1lfy6BHzUFkgC6BUck
+ ivLO7KzbHCTBZK3zKNo6_LPRhNgONQND0yMNVmjzDbzZ12ZRKn1pd19hdJuuR6m3mbsnSJQOQ_FV
+ QHBgr0BAlTHEBP1zwjwibly.8.n2zZF.f91P9PQNVCwTZrYaFssaR4bWOKY9cCHFzhGeP6fJDn_3
+ AZISgZPE.zbl7mBZJS.9gxFIg7Eq1F7du8KCaUbHKEWiJ_5YJqLBXOdUa2wXGA_hDqyLnJlG8x67
+ wD8EpuSnioCG7033DGOuGBUJDXxdpD17mgFz1RIkHAYYRrPVY26iFtqiIyMRm_0p8zLP10zg.Zmz
+ ui6q5rmZ3IV4dGTqYIbmFA_nTStmIu7GcNhVTBcBz49KEijJ3Q3M2gJoPnfqPXAJ8zsaBXNhbXrH
+ yr6Deuca9W6Hs8JXhBAHTyJPHzXk5M1l.ABj5hHgHUd7bMaCgBlplcfN5Jk.QyDzmD8LSGvrTUxF
+ OOxvYxqT0x9Y4CDaRL5fWcB2JBgEPhUF6rufvjF6bcLpQwK2Mq40OE8ACXlcDCszjpzr2aJNunQ1
+ vrxK5cGTIBgGPVfZescgZI4v3ezbYZ5GMNcZmXuVO4jWpLQpwnf4yhLbZCAj2nU3HbxcqUvGMfDw
+ XdBKm7eIE7FpAimhVjhirLkHRpHWWN2RyZE8K10vMRlPD8Omje9.ZXdSshAx8qDTiNNTUV7LeZzQ
+ B3XRd82m8oH6E5C.FMVGjDqHVr24fhirPTXWw5gpIcOu5GqOB5jjD40hP4f4cj8cwh_9cp6C6Ytu
+ 63KwtajWRVmg79FpQKq3ZefY_1qzLfuQHq5rfYe.NZGvE4va2LznP0rGTx2L_S4axw5q_ETt37un
+ VP5YoHjQSOyw6NJwCP.T5LHzkExYQki0_60pphoqLPhhc_69RejehhA9NDg77GrWvWDLJzMv.2IN
+ 5yiVt6m8.QmDkX0Jm4ds3UFuQ2TiThCTIPcl5KMgFPtf611VyOohwpk9l2j9RWwDnLBFgcxBVhZ6
+ Z.N0eqQIgtOtXvg5dtPXpwKjvpq3xb6D0VXV.MXcXfJTGHreRt.lZ5r.bVC1eZsCZe3P6HPb_skx
+ HJDcnapNBFLnuSvUmoJZiFk_oUNVe6l6i_GzhjCZ98k91YoKyV5VibqD5N32hqwGKSDFcy7rFKg8
+ jPo0IST0Dd.CnebQEEEfycPAIk818f.Odwg4_z3oyCzQIaYZBRqJTmg1e2LTSfoknR23nNcyQ9t8
+ XbXQ6P8Ho8EA1h72GLAYZsMzADT_CXUEFagL_yFSSMYPi8vEbfjvE6xt.kPPG5egP
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic316.consmr.mail.gq1.yahoo.com with HTTP; Sun, 10 Apr 2022 06:50:08 +0000
+Date: Sun, 10 Apr 2022 06:50:01 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: MILTON MCKENZIE <ms60710444266@yahoo.com>
+Message-ID: <1089066774.249215.1649573402624@mail.yahoo.com>
+In-Reply-To: <56AF7A1401D504CA00879E1B_0_815176@p135>
+References: <56AF7A1401D504CA00879E1B_0_815176@p135>
+Subject: Fw: Fwd: MS Tech: GOOGL prints tonight with focus on core Google vs
+ 'Other Bets' disclosure and top-line momentum following 2Q/3Q
+ reacceleration + FB blowout; GOOGL poised to eclipse AAPL as world's most
+ valuable company
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_249214_2020185201.1649573402624"
+X-Mailer: WebService/1.1.20048 YahooMailAndroidMobile
+Content-Length: 50431
+
+------=_Part_249214_2020185201.1649573402624
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_249211_1236788072.1649573401836"
+
+------=_Part_249211_1236788072.1649573401836
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from Yahoo Mail on Android=20
+=20
+   ----- Forwarded Message ----- From: "Bo Dincer (SCHOTTENFELD GROUP L)" <=
+bdincer10@bloomberg.net> To:  Cc:  Sent: Mon, Feb 1, 2016 at 10:30 AM Subje=
+ct: Fwd: MS Tech: GOOGL prints tonight with focus on core Google vs 'Other =
+Bets' disclosure and top-line momentum following 2Q/3Q reacceleration + FB =
+blowout; GOOGL poised to eclipse AAPL as world's most valuable company  =20
+
+Sent from my iPhone
+Begin forwarded message:
+
+
+From: "Grady, Patrick M" <Patrick.Grady@morganstanley.com>
+Date: February 1, 2016 at 10:29:39 AM EST
+To: Undisclosed recipients:;
+Subject: MS Tech: GOOGL prints tonight with focus on core Google vs 'Other =
+Bets' disclosure and top-line momentum following 2Q/3Q reacceleration + FB =
+blowout; GOOGL poised to eclipse AAPL as world's most valuable company
+
+
+
+ <!--#yiv8539579733 _filtered {} _filtered {}#yiv8539579733 #yiv8539579733 =
+p.yiv8539579733MsoNormal, #yiv8539579733 li.yiv8539579733MsoNormal, #yiv853=
+9579733 div.yiv8539579733MsoNormal {margin:0in;margin-bottom:.0001pt;font-s=
+ize:12.0pt;font-family:"Times New Roman", "serif";}#yiv8539579733 a:link, #=
+yiv8539579733 span.yiv8539579733MsoHyperlink {color:blue;text-decoration:un=
+derline;}#yiv8539579733 a:visited, #yiv8539579733 span.yiv8539579733MsoHype=
+rlinkFollowed {color:purple;text-decoration:underline;}#yiv8539579733 span.=
+yiv8539579733EmailStyle17 {font-family:"Times New Roman", "serif";}#yiv8539=
+579733 span.yiv8539579733EmailStyle18 {font-family:"Calibri", "sans-serif";=
+color:#1F497D;}#yiv8539579733 .yiv8539579733MsoChpDefault {font-size:10.0pt=
+;} _filtered {}#yiv8539579733 div.yiv8539579733WordSection1 {}-->
+
+
+For Institutional Clients Only
+=20
+ =C2=A0
+=20
+MS Tech: GOOGL prints tonight with focus on core Google vs 'Other Bets' dis=
+closure and top-line momentum following 2Q/3Q reacceleration + FB blowout; =
+GOOGL poised to eclipse AAPL as world's most valuable company
+=20
+ =C2=A0
+=20
+SALES COMMENTARY (Not a product of MS Research and should not be regarded a=
+s a research report)
+=20
+ =C2=A0
+=20
+GOOGL is only ~$10B in market cap away from dethroning AAPL as the world's =
+most valuable company, which feels a little bit 'manifest destiny' into res=
+ults tonight.
+=20
+ =C2=A0
+=20
+Investors are focused on new financial disclosure for the core Google busin=
+ess vs 'Other Bets', with most expecting losses from 'Other Bets' amounting=
+ to something in the ~$3B range. Conventional wisdom is that the heavier th=
+e 'Other Bets' losses are then the better it is for the stock because of th=
+e positive implications for core Google margins, and $3B+ implies an improv=
+ing core margin trajectory.
+=20
+ =C2=A0
+=20
+That said, there have been a handful of recent, more cautious sell-side pre=
+views preparing investors for smaller 'Other Bets' losses in the ~$500M-2B =
+range. Bulls argue that this would actually be fine for the stock because o=
+f (1) new CFO focus on 'cost discipline' + '2016 budgeting' suggests opport=
+unity for margin expansion in 2016 and beyond despite lower historical perf=
+ormance, and (2) GOOGL's IRblog post last week said that the company will d=
+isclose a 'Reconciling items' line containing corporate overhead costs in a=
+ddition to core Google and 'Other Bets', which means core Google margins ca=
+n look good even on smaller 'Other Bets' losses.
+=20
+ =C2=A0
+=20
+Beyond the disclosure, investors seem equally (if not more so) focused on t=
+he quarterly results to verify that renewed top-line momentum in 2Q/3Q cont=
+inues in 4Q on the back of better mobile monetization and YouTube ad spend,=
+ which seems likely given SEM checks that suggest an acceleration on the ba=
+ck of a third paid search link added to mobile search results in July.
+=20
+ =C2=A0
+=20
+Remember, the GOOGL narrative has changed dramatically from last year's sec=
+ular bear case around mobile/apps + FB share loss with investors now assumi=
+ng a mobile ad duopoly among the two.=C2=A0 FB's stellar results raise the =
+bar, so any top-line shortfall at GOOGL could resurrect the bear case.
+=20
+ =C2=A0
+=20
+ =C2=A0
+=20
+GOOGL announced theAlphabet restructuring back in August and at the time co=
+mmitted to breaking out financials forcore Google (Search, Ads, YouTube, An=
+droid, Maps, Play, Nexus, Cloud) vs'Other Bets' / 'Moonshots' (Fiber broadb=
+and, Nest home automation,Calico biotech, Verily life sciences, Google Vent=
+ures/Capital,X incubator) on the 4Q earnings call.=20
+=20
+ =C2=A0
+=20
+Well, we are here and most expect tonight to be a positive catalyst given g=
+reater overall transparency + the likelihood of higher core Google margins.=
+ Still, comparisons toAMZN would seem *overly* optimistic as none of the 'O=
+ther Bets' will generate the same sum-of-the-parts juice asAWS.
+=20
+ =C2=A0
+=20
+For the quarterly print, expectations are for continued top-line momentum o=
+n the back of better mobile monetization + a bullishFB read-through, with E=
+PS in-line / ahead of the Street, and a detailed discussion of 2016 'cost d=
+iscipline' under new CFO Ruth Porat.
+=20
+ =C2=A0
+=20
+The bogey for gross ad revenue is forGOOGL to at least maintain last quarte=
+r's +22% y/y constant currency growth, withGoogle Websites growth decelerat=
+ing slightly from last quarter's +25.5% in constant currency terms against =
+a > 300bps tougher comp.=C2=A0 At the same time,margin expectations appear =
+'in check' since CFO Porat cautioned that spending will be 2H-weighted arou=
+nd marketing + devices, and she has repeatedly said she is more focus on th=
+e '2016 budgeting process'.
+=20
+ =C2=A0
+=20
+Other items: EBIT margins should maintain last quarter's trajectory of ~300=
+bps y/y expansion, which equates to ~34%, while opex estimates look suffici=
+ently conservative as Brian Nowak models a similar sequential increase as l=
+ast year (~$740M), despite a $200M+ one-time impact in 4Q14. Finally, EPS s=
+hould at least hit Street numbers of around $8 since the FX headwind is off=
+set by some combination of top-line, margins, or the stock buyback (a token=
+ $5B announced last quarter).
+=20
+ =C2=A0
+=20
+ =C2=A0
+=20
+=C2=A0=C2=A0=C2=A0
+=20
+
+
+
+
+
+
+Important Notice to Recipients:
+=C2=A0
+The sender of this e-mail is an employee of Morgan Stanley Smith Barney LLC=
+ ("Morgan Stanley").=C2=A0 If you have received this communication in error=
+, please destroy all electronic and paper copies and notify the sender imme=
+diately. Erroneous transmission is not intended to waive confidentiality or=
+ privilege.=C2=A0 Morgan Stanley reserves the right, to the extent permitte=
+d under applicable law, to monitor electronic communications. This message =
+is subject to terms available at the following link:http://www.morganstanle=
+y.com/disclaimers/mssbemail.html.=C2=A0 If you cannot access this link, ple=
+ase notify us by reply message and we will send the contents to you.=C2=A0 =
+By messaging with Morgan Stanley you consent to the foregoing.
+
+
+
+
+
+
+
+
+
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received this e-mail by mistake and delete this e-ma=
+il from your system. E-mail transmission cannot be guaranteed to be secure =
+or error-free as information could be intercepted, corrupted, lost, destroy=
+ed, arrive late or incomplete, or contain viruses. The sender therefore doe=
+s not accept liability for any errors or omissions in the contents of this =
+message, which arise as a result of e-mail transmission. If verification is=
+ required please request a hard-copy version.
+
+
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received this e-mail by mistake and delete this e-ma=
+il from your system. E-mail transmission cannot be guaranteed to be secure =
+or error-free as information could be intercepted, corrupted, lost, destroy=
+ed, arrive late or incomplete, or contain viruses. The sender therefore doe=
+s not accept liability for any errors or omissions in the contents of this =
+message, which arise as a result of e-mail transmission. If verification is=
+ required please request a hard-copy version.
+ =20
+
+------=_Part_249211_1236788072.1649573401836
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div id=3D"ymail_android_signature"><a id=3D"ymail_android_signatur=
+e_link" href=3D"https://go.onelink.me/107872968?pid=3DInProduct&amp;c=3DGlo=
+bal_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_su=
+b1=3DInternal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailSignature">Se=
+nt from Yahoo Mail on Android</a></div> <br> <blockquote style=3D"margin: 0=
+ 0 20px 0;"> <div style=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0; bord=
+er-left: 1px solid #6D00F6;"> <div style=3D"font-family:Roboto, sans-serif;=
+ color:#6D00F6;"> <div>----- Forwarded Message -----</div> <div><b>From:</b=
+> "Bo Dincer (SCHOTTENFELD GROUP L)" &lt;bdincer10@bloomberg.net&gt;</div> =
+<div><b>To:</b> </div> <div style=3D"display:none"><b>Cc:</b> </div> <div><=
+b>Sent:</b> Mon, Feb 1, 2016 at 10:30 AM</div> <div><b>Subject:</b> Fwd: MS=
+ Tech: GOOGL prints tonight with focus on core Google vs 'Other Bets' discl=
+osure and top-line momentum following 2Q/3Q reacceleration + FB blowout; GO=
+OGL poised to eclipse AAPL as world's most valuable company</div> </div>  <=
+div id=3D"yiv8539579733">
+
+=20
+
+<div>
+<div><br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> "Grady, Patrick M" &lt;<a rel=3D"nofollow noopener norefe=
+rrer" ymailto=3D"mailto:Patrick.Grady@morganstanley.com" target=3D"_blank" =
+href=3D"mailto:Patrick.Grady@morganstanley.com">Patrick.Grady@morganstanley=
+.com</a>&gt;<br>
+<b>Date:</b> February 1, 2016 at 10:29:39 AM EST<br>
+<b>To:</b> Undisclosed recipients:;<br>
+<b>Subject:</b> <b>MS Tech: GOOGL prints tonight with focus on core Google =
+vs 'Other Bets' disclosure and top-line momentum following 2Q/3Q reaccelera=
+tion + FB blowout; GOOGL poised to eclipse AAPL as world's most valuable co=
+mpany</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>
+=20
+<style><!--
+#yiv8539579733 =20
+ _filtered {}
+ _filtered {}
+#yiv8539579733 =20
+#yiv8539579733 p.yiv8539579733MsoNormal, #yiv8539579733 li.yiv8539579733Mso=
+Normal, #yiv8539579733 div.yiv8539579733MsoNormal
+=09{margin:0in;margin-bottom:.0001pt;font-size:12.0pt;font-family:"Times Ne=
+w Roman", "serif";}
+#yiv8539579733 a:link, #yiv8539579733 span.yiv8539579733MsoHyperlink
+=09{color:blue;text-decoration:underline;}
+#yiv8539579733 a:visited, #yiv8539579733 span.yiv8539579733MsoHyperlinkFoll=
+owed
+=09{color:purple;text-decoration:underline;}
+#yiv8539579733 span.yiv8539579733EmailStyle17
+=09{font-family:"Times New Roman", "serif";}
+#yiv8539579733 span.yiv8539579733EmailStyle18
+=09{font-family:"Calibri", "sans-serif";color:#1F497D;}
+#yiv8539579733 .yiv8539579733MsoChpDefault
+=09{font-size:10.0pt;}
+ _filtered {}
+#yiv8539579733 div.yiv8539579733WordSection1
+=09{}
+--></style>
+<p class=3D"yiv85395797339812c082-d29c-4042-8eca-fa8c3a5a4f30"></p>
+<div class=3D"yiv8539579733WordSection1">
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:11.0pt;color:r=
+ed;">For Institutional Clients Only</span><span style=3D"font-size:11.0pt;c=
+olor:#1F497D;"></span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"> &nbsp;</span></p>=20
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in;">
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"">MS Tech: GOOGL prints =
+tonight with focus on core Google vs 'Other Bets' disclosure and top-line m=
+omentum following 2Q/3Q reacceleration + FB blowout; GOOGL poised to eclips=
+e AAPL as world's
+ most valuable company</span></p>=20
+</div>
+</div>
+<p class=3D"yiv8539579733MsoNormal"> &nbsp;</p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:8.0pt;">SALES =
+COMMENTARY (Not a product of MS Research and should not be regarded as a re=
+search report)</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:11.0pt;">GO=
+OGL is only ~$10B in market cap away from dethroning AAPL as the world's mo=
+st valuable company, which feels a little bit 'manifest destiny' into resul=
+ts tonight.</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:11.0pt;">In=
+vestors are focused on new financial disclosure for the core Google busines=
+s vs 'Other Bets', with most expecting losses from 'Other Bets' amounting t=
+o something in the
+ ~$3B range. Conventional wisdom is that the heavier the 'Other Bets' losse=
+s are then the better it is for the stock because of the positive implicati=
+ons for core Google margins, and $3B+ implies an improving core margin traj=
+ectory.</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:11.0pt;"> &=
+nbsp;</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:11.0pt;">Th=
+at said, there have been a handful of recent, more cautious sell-side previ=
+ews preparing investors for smaller 'Other Bets' losses in the ~$500M-2B ra=
+nge. Bulls argue
+ that this would actually be fine for the stock because of (1) new CFO focu=
+s on 'cost discipline' + '2016 budgeting' suggests opportunity for margin e=
+xpansion in 2016 and beyond despite lower historical performance, and (2) G=
+OOGL's IR
+<a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"https://a=
+bc.xyz/investor/news/releases/2016/0128.html">blog post</a> last week said =
+that the company will disclose a 'Reconciling items' line containing corpor=
+ate overhead costs in addition to core Google and 'Other Bets', which means=
+ core Google margins
+ can look good even on smaller 'Other Bets' losses.</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:11.0pt;"> &=
+nbsp;</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span lang=3D"EN" style=3D"font-size=
+:11.0pt;">Beyond the disclosure, investors seem equally (if not more so) fo=
+cused on the quarterly results to verify that renewed top-line momentum in =
+2Q/3Q continues in
+ 4Q on the back of better mobile monetization and YouTube ad spend, which s=
+eems likely given SEM checks that suggest an acceleration on the back of a =
+third paid search link added to mobile search results in July.
+</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span lang=3D"EN" style=3D"font-size=
+:11.0pt;"> &nbsp;</span></b></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span lang=3D"EN" style=3D"font-size=
+:11.0pt;">Remember, the GOOGL narrative has changed dramatically from last =
+year's secular bear case around mobile/apps + FB share loss with investors =
+now assuming a mobile
+ ad duopoly among the two.&nbsp; FB's stellar results raise the bar, so any=
+ top-line shortfall at GOOGL could resurrect the bear case.</span></b></p>=
+=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:10.0pt;">GO=
+OGL</span></b><span style=3D"font-size:10.0pt;"> announced the
+<b>Alphabet</b> restructuring back in August and at the time committed to b=
+reaking out financials for
+<b>core</b> <b>Google</b> (<b>Search, Ads, YouTube, Android, Maps, Play, Ne=
+xus, Cloud</b>) vs
+<b>'Other Bets' / 'Moonshots'</b> (<b>Fiber</b> broadband, <b>Nest</b> home=
+ automation,
+<b>Calico</b> biotech, <b>Verily</b> life sciences, <b>Google</b> <b>Ventur=
+es</b>/<b>Capital</b>,
+<b>X</b> incubator) on the 4Q earnings call. </span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;">Well,=
+ we are here and most expect tonight to be a positive catalyst given greate=
+r overall transparency + the likelihood of higher core Google margins. Stil=
+l, comparisons to
+<b>AMZN would</b> seem *overly* optimistic as none of the <b>'Other Bets'</=
+b> will generate the same sum-of-the-parts juice as
+<b>AWS</b>.</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;">For t=
+he quarterly print, expectations are for continued top-line momentum on the=
+ back of better mobile monetization + a bullish
+<b>FB</b> read-through, with EPS in-line / ahead of the Street, and a detai=
+led discussion of 2016 'cost discipline' under new CFO Ruth Porat.</span></=
+p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:10.0pt;">Th=
+e bogey for gross ad revenue</span></b><span style=3D"font-size:10.0pt;"> i=
+s for
+<b>GOOGL</b> to at least maintain last quarter's +22% y/y constant currency=
+ growth, with
+<b>Google Websites growth decelerating slightly</b> from last quarter's +25=
+.5% in constant currency terms against a &gt; 300bps tougher comp.&nbsp; At=
+ the same time,
+<b>margin expectations appear 'in check'</b> since CFO Porat cautioned that=
+ spending will be 2H-weighted around marketing + devices, and she has repea=
+tedly said she is more focus on the '2016 budgeting process'.</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><b><span style=3D"font-size:10.0pt;">Ot=
+her items:</span></b><span style=3D"font-size:10.0pt;"> EBIT margins should=
+ maintain last quarter's trajectory of ~300bps y/y expansion,
+ which equates to ~34%, while opex estimates look sufficiently conservative=
+ as <b>
+Brian Nowak</b> models a similar sequential increase as last year (~$740M),=
+ despite a $200M+ one-time impact in 4Q14. Finally, EPS should at least hit=
+ Street numbers of around $8 since the FX headwind is offset by some combin=
+ation of top-line, margins, or the
+ stock buyback (a token $5B announced last quarter).</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv8539579733MsoNormal"> &nbsp;</p>=20
+<p class=3D"yiv8539579733MsoNormal"><span style=3D"font-size:10.0pt;color:#=
+1F497D;"></span><span style=3D"font-size:7.5pt;color:black;">&nbsp;&nbsp;&n=
+bsp;</span></p>=20
+</div>
+<font size=3D"1">
+<hr>
+<p></p>
+</font>
+<p><font size=3D"1"></font></p>
+<p></p>
+<p style=3D"MARGIN:0in 0in 0pt;"><font color=3D"#808080"><font face=3D"Luci=
+da Sans Unicode"><font size=3D"1">Important Notice to Recipients:<br>
+&nbsp;<br>
+The sender of this e-mail is an employee of Morgan Stanley Smith Barney LLC=
+ ("Morgan Stanley").&nbsp; If you have received this communication in error=
+, please destroy all electronic and paper copies and notify the sender imme=
+diately. Erroneous transmission is not
+ intended to waive confidentiality or privilege.&nbsp; Morgan Stanley reser=
+ves the right, to the extent permitted under applicable law, to monitor ele=
+ctronic communications. This message is subject to terms available at the f=
+ollowing link:
+<a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"http://ww=
+w.morganstanley.com/disclaimers/mssbemail.html">http://www.morganstanley.co=
+m/disclaimers/mssbemail.html</a>.&nbsp; If you cannot access this link, ple=
+ase notify us by reply message and we will send the contents to you.&nbsp; =
+By messaging with Morgan
+ Stanley you consent to the foregoing.</font></font></font></p>
+<p></p>
+<p></p>
+<p></p>
+</div>
+</blockquote>
+<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1"><br>
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received
+ this e-mail by mistake and delete this e-mail from your system. E-mail tra=
+nsmission cannot be guaranteed to be secure or error-free as information co=
+uld be intercepted, corrupted, lost, destroyed, arrive late or incomplete, =
+or contain viruses. The sender therefore
+ does not accept liability for any errors or omissions in the contents of t=
+his message, which arise as a result of e-mail transmission. If verificatio=
+n is required please request a hard-copy version.<br>
+</font><br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1"><br>
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received
+ this e-mail by mistake and delete this e-mail from your system. E-mail tra=
+nsmission cannot be guaranteed to be secure or error-free as information co=
+uld be intercepted, corrupted, lost, destroyed, arrive late or incomplete, =
+or contain viruses. The sender therefore
+ does not accept liability for any errors or omissions in the contents of t=
+his message, which arise as a result of e-mail transmission. If verificatio=
+n is required please request a hard-copy version.<br>
+</font>
+</div>
+
+</div> </div> </blockquote>
+------=_Part_249211_1236788072.1649573401836--
+
+------=_Part_249214_2020185201.1649573402624
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Untitled"
+Content-ID: <9708eb04-edbf-46b1-903a-959af364ac8c>
+
+DQotLS0tLSBPcmlnaW5hbCBNZXNzYWdlIC0tLS0tDQpGcm9tOiBtbWFzaXVrQGtveW90ZWNhcGl0
+YWwuY29tDQpUbzogQk8gRElOQ0VSIChTQ0hPVFRFTkZFTEQgR1JPVVAgTCkNCkF0OiAgMi8wMSAx
+MDozMDoyOA0KDQoNCg0KU2VudCBmcm9tIG15IGlQaG9uZQ0KDQpCZWdpbiBmb3J3YXJkZWQgbWVz
+c2FnZToNCg0KRnJvbTogIkdyYWR5LCBQYXRyaWNrIE0iIDxQYXRyaWNrLkdyYWR5QG1vcmdhbnN0
+YW5sZXkuY29tPG1haWx0bzpQYXRyaWNrLkdyYWR5QG1vcmdhbnN0YW5sZXkuY29tPj4NCkRhdGU6
+IEZlYnJ1YXJ5IDEsIDIwMTYgYXQgMTA6Mjk6MzkgQU0gRVNUDQpUbzogVW5kaXNjbG9zZWQgcmVj
+aXBpZW50czo7DQpTdWJqZWN0OiBNUyBUZWNoOiBHT09HTCBwcmludHMgdG9uaWdodCB3aXRoIGZv
+Y3VzIG9uIGNvcmUgR29vZ2xlIHZzICdPdGhlciBCZXRzJyBkaXNjbG9zdXJlIGFuZCB0b3AtbGlu
+ZSBtb21lbnR1bSBmb2xsb3dpbmcgMlEvM1EgcmVhY2NlbGVyYXRpb24gKyBGQiBibG93b3V0OyBH
+T09HTCBwb2lzZWQgdG8gZWNsaXBzZSBBQVBMIGFzIHdvcmxkJ3MgbW9zdCB2YWx1YWJsZSBjb21w
+YW55DQoNCkZvciBJbnN0aXR1dGlvbmFsIENsaWVudHMgT25seQ0KDQpNUyBUZWNoOiBHT09HTCBw
+cmludHMgdG9uaWdodCB3aXRoIGZvY3VzIG9uIGNvcmUgR29vZ2xlIHZzICdPdGhlciBCZXRzJyBk
+aXNjbG9zdXJlIGFuZCB0b3AtbGluZSBtb21lbnR1bSBmb2xsb3dpbmcgMlEvM1EgcmVhY2NlbGVy
+YXRpb24gKyBGQiBibG93b3V0OyBHT09HTCBwb2lzZWQgdG8gZWNsaXBzZSBBQVBMIGFzIHdvcmxk
+J3MgbW9zdCB2YWx1YWJsZSBjb21wYW55DQoNClNBTEVTIENPTU1FTlRBUlkgKE5vdCBhIHByb2R1
+Y3Qgb2YgTVMgUmVzZWFyY2ggYW5kIHNob3VsZCBub3QgYmUgcmVnYXJkZWQgYXMgYSByZXNlYXJj
+aCByZXBvcnQpDQoNCkdPT0dMIGlzIG9ubHkgfiQxMEIgaW4gbWFya2V0IGNhcCBhd2F5IGZyb20g
+ZGV0aHJvbmluZyBBQVBMIGFzIHRoZSB3b3JsZCdzIG1vc3QgdmFsdWFibGUgY29tcGFueSwgd2hp
+Y2ggZmVlbHMgYSBsaXR0bGUgYml0ICdtYW5pZmVzdCBkZXN0aW55JyBpbnRvIHJlc3VsdHMgdG9u
+aWdodC4NCg0KSW52ZXN0b3JzIGFyZSBmb2N1c2VkIG9uIG5ldyBmaW5hbmNpYWwgZGlzY2xvc3Vy
+ZSBmb3IgdGhlIGNvcmUgR29vZ2xlIGJ1c2luZXNzIHZzICdPdGhlciBCZXRzJywgd2l0aCBtb3N0
+IGV4cGVjdGluZyBsb3NzZXMgZnJvbSAnT3RoZXIgQmV0cycgYW1vdW50aW5nIHRvIHNvbWV0aGlu
+ZyBpbiB0aGUgfiQzQiByYW5nZS4gQ29udmVudGlvbmFsIHdpc2RvbSBpcyB0aGF0IHRoZSBoZWF2
+aWVyIHRoZSAnT3RoZXIgQmV0cycgbG9zc2VzIGFyZSB0aGVuIHRoZSBiZXR0ZXIgaXQgaXMgZm9y
+IHRoZSBzdG9jayBiZWNhdXNlIG9mIHRoZSBwb3NpdGl2ZSBpbXBsaWNhdGlvbnMgZm9yIGNvcmUg
+R29vZ2xlIG1hcmdpbnMsIGFuZCAkM0IrIGltcGxpZXMgYW4gaW1wcm92aW5nIGNvcmUgbWFyZ2lu
+IHRyYWplY3RvcnkuDQoNClRoYXQgc2FpZCwgdGhlcmUgaGF2ZSBiZWVuIGEgaGFuZGZ1bCBvZiBy
+ZWNlbnQsIG1vcmUgY2F1dGlvdXMgc2VsbC1zaWRlIHByZXZpZXdzIHByZXBhcmluZyBpbnZlc3Rv
+cnMgZm9yIHNtYWxsZXIgJ090aGVyIEJldHMnIGxvc3NlcyBpbiB0aGUgfiQ1MDBNLTJCIHJhbmdl
+LiBCdWxscyBhcmd1ZSB0aGF0IHRoaXMgd291bGQgYWN0dWFsbHkgYmUgZmluZSBmb3IgdGhlIHN0
+b2NrIGJlY2F1c2Ugb2YgKDEpIG5ldyBDRk8gZm9jdXMgb24gJ2Nvc3QgZGlzY2lwbGluZScgKyAn
+MjAxNiBidWRnZXRpbmcnIHN1Z2dlc3RzIG9wcG9ydHVuaXR5IGZvciBtYXJnaW4gZXhwYW5zaW9u
+IGluIDIwMTYgYW5kIGJleW9uZCBkZXNwaXRlIGxvd2VyIGhpc3RvcmljYWwgcGVyZm9ybWFuY2Us
+IGFuZCAoMikgR09PR0wncyBJUiBibG9nIHBvc3Q8aHR0cHM6Ly9hYmMueHl6L2ludmVzdG9yL25l
+d3MvcmVsZWFzZXMvMjAxNi8wMTI4Lmh0bWw+IGxhc3Qgd2VlayBzYWlkIHRoYXQgdGhlIGNvbXBh
+bnkgd2lsbCBkaXNjbG9zZSBhICdSZWNvbmNpbGluZyBpdGVtcycgbGluZSBjb250YWluaW5nIGNv
+cnBvcmF0ZSBvdmVyaGVhZCBjb3N0cyBpbiBhZGRpdGlvbiB0byBjb3JlIEdvb2dsZSBhbmQgJ090
+aGVyIEJldHMnLCB3aGljaCBtZWFucyBjb3JlIEdvb2dsZSBtYXJnaW5zIGNhbiBsb29rIGdvb2Qg
+ZXZlbiBvbiBzbWFsbGVyICdPdGhlciBCZXRzJyBsb3NzZXMuDQoNCkJleW9uZCB0aGUgZGlzY2xv
+c3VyZSwgaW52ZXN0b3JzIHNlZW0gZXF1YWxseSAoaWYgbm90IG1vcmUgc28pIGZvY3VzZWQgb24g
+dGhlIHF1YXJ0ZXJseSByZXN1bHRzIHRvIHZlcmlmeSB0aGF0IHJlbmV3ZWQgdG9wLWxpbmUgbW9t
+ZW50dW0gaW4gMlEvM1EgY29udGludWVzIGluIDRRIG9uIHRoZSBiYWNrIG9mIGJldHRlciBtb2Jp
+bGUgbW9uZXRpemF0aW9uIGFuZCBZb3VUdWJlIGFkIHNwZW5kLCB3aGljaCBzZWVtcyBsaWtlbHkg
+Z2l2ZW4gU0VNIGNoZWNrcyB0aGF0IHN1Z2dlc3QgYW4gYWNjZWxlcmF0aW9uIG9uIHRoZSBiYWNr
+IG9mIGEgdGhpcmQgcGFpZCBzZWFyY2ggbGluayBhZGRlZCB0byBtb2JpbGUgc2VhcmNoIHJlc3Vs
+dHMgaW4gSnVseS4NCg0KUmVtZW1iZXIsIHRoZSBHT09HTCBuYXJyYXRpdmUgaGFzIGNoYW5nZWQg
+ZHJhbWF0aWNhbGx5IGZyb20gbGFzdCB5ZWFyJ3Mgc2VjdWxhciBiZWFyIGNhc2UgYXJvdW5kIG1v
+YmlsZS9hcHBzICsgRkIgc2hhcmUgbG9zcyB3aXRoIGludmVzdG9ycyBub3cgYXNzdW1pbmcgYSBt
+b2JpbGUgYWQgZHVvcG9seSBhbW9uZyB0aGUgdHdvLiAgRkIncyBzdGVsbGFyIHJlc3VsdHMgcmFp
+c2UgdGhlIGJhciwgc28gYW55IHRvcC1saW5lIHNob3J0ZmFsbCBhdCBHT09HTCBjb3VsZCByZXN1
+cnJlY3QgdGhlIGJlYXIgY2FzZS4NCg0KDQpHT09HTCBhbm5vdW5jZWQgdGhlIEFscGhhYmV0IHJl
+c3RydWN0dXJpbmcgYmFjayBpbiBBdWd1c3QgYW5kIGF0IHRoZSB0aW1lIGNvbW1pdHRlZCB0byBi
+cmVha2luZyBvdXQgZmluYW5jaWFscyBmb3IgY29yZSBHb29nbGUgKFNlYXJjaCwgQWRzLCBZb3VU
+dWJlLCBBbmRyb2lkLCBNYXBzLCBQbGF5LCBOZXh1cywgQ2xvdWQpIHZzICdPdGhlciBCZXRzJyAv
+ICdNb29uc2hvdHMnIChGaWJlciBicm9hZGJhbmQsIE5lc3QgaG9tZSBhdXRvbWF0aW9uLCBDYWxp
+Y28gYmlvdGVjaCwgVmVyaWx5IGxpZmUgc2NpZW5jZXMsIEdvb2dsZSBWZW50dXJlcy9DYXBpdGFs
+LCBYIGluY3ViYXRvcikgb24gdGhlIDRRIGVhcm5pbmdzIGNhbGwuDQoNCldlbGwsIHdlIGFyZSBo
+ZXJlIGFuZCBtb3N0IGV4cGVjdCB0b25pZ2h0IHRvIGJlIGEgcG9zaXRpdmUgY2F0YWx5c3QgZ2l2
+ZW4gZ3JlYXRlciBvdmVyYWxsIHRyYW5zcGFyZW5jeSArIHRoZSBsaWtlbGlob29kIG9mIGhpZ2hl
+ciBjb3JlIEdvb2dsZSBtYXJnaW5zLiBTdGlsbCwgY29tcGFyaXNvbnMgdG8gQU1aTiB3b3VsZCBz
+ZWVtICpvdmVybHkqIG9wdGltaXN0aWMgYXMgbm9uZSBvZiB0aGUgJ090aGVyIEJldHMnIHdpbGwg
+Z2VuZXJhdGUgdGhlIHNhbWUgc3VtLW9mLXRoZS1wYXJ0cyBqdWljZSBhcyBBV1MuDQoNCkZvciB0
+aGUgcXVhcnRlcmx5IHByaW50LCBleHBlY3RhdGlvbnMgYXJlIGZvciBjb250aW51ZWQgdG9wLWxp
+bmUgbW9tZW50dW0gb24gdGhlIGJhY2sgb2YgYmV0dGVyIG1vYmlsZSBtb25ldGl6YXRpb24gKyBh
+IGJ1bGxpc2ggRkIgcmVhZC10aHJvdWdoLCB3aXRoIEVQUyBpbi1saW5lIC8gYWhlYWQgb2YgdGhl
+IFN0cmVldCwgYW5kIGEgZGV0YWlsZWQgZGlzY3Vzc2lvbiBvZiAyMDE2ICdjb3N0IGRpc2NpcGxp
+bmUnIHVuZGVyIG5ldyBDRk8gUnV0aCBQb3JhdC4NCg0KVGhlIGJvZ2V5IGZvciBncm9zcyBhZCBy
+ZXZlbnVlIGlzIGZvciBHT09HTCB0byBhdCBsZWFzdCBtYWludGFpbiBsYXN0IHF1YXJ0ZXIncyAr
+MjIlIHkveSBjb25zdGFudCBjdXJyZW5jeSBncm93dGgsIHdpdGggR29vZ2xlIFdlYnNpdGVzIGdy
+b3d0aCBkZWNlbGVyYXRpbmcgc2xpZ2h0bHkgZnJvbSBsYXN0IHF1YXJ0ZXIncyArMjUuNSUgaW4g
+Y29uc3RhbnQgY3VycmVuY3kgdGVybXMgYWdhaW5zdCBhID4gMzAwYnBzIHRvdWdoZXIgY29tcC4g
+IEF0IHRoZSBzYW1lIHRpbWUsIG1hcmdpbiBleHBlY3RhdGlvbnMgYXBwZWFyICdpbiBjaGVjaycg
+c2luY2UgQ0ZPIFBvcmF0IGNhdXRpb25lZCB0aGF0IHNwZW5kaW5nIHdpbGwgYmUgMkgtd2VpZ2h0
+ZWQgYXJvdW5kIG1hcmtldGluZyArIGRldmljZXMsIGFuZCBzaGUgaGFzIHJlcGVhdGVkbHkgc2Fp
+ZCBzaGUgaXMgbW9yZSBmb2N1cyBvbiB0aGUgJzIwMTYgYnVkZ2V0aW5nIHByb2Nlc3MnLg0KDQpP
+dGhlciBpdGVtczogRUJJVCBtYXJnaW5zIHNob3VsZCBtYWludGFpbiBsYXN0IHF1YXJ0ZXIncyB0
+cmFqZWN0b3J5IG9mIH4zMDBicHMgeS95IGV4cGFuc2lvbiwgd2hpY2ggZXF1YXRlcyB0byB+MzQl
+LCB3aGlsZSBvcGV4IGVzdGltYXRlcyBsb29rIHN1ZmZpY2llbnRseSBjb25zZXJ2YXRpdmUgYXMg
+QnJpYW4gTm93YWsgbW9kZWxzIGEgc2ltaWxhciBzZXF1ZW50aWFsIGluY3JlYXNlIGFzIGxhc3Qg
+eWVhciAofiQ3NDBNKSwgZGVzcGl0ZSBhICQyMDBNKyBvbmUtdGltZSBpbXBhY3QgaW4gNFExNC4g
+RmluYWxseSwgRVBTIHNob3VsZCBhdCBsZWFzdCBoaXQgU3RyZWV0IG51bWJlcnMgb2YgYXJvdW5k
+ICQ4IHNpbmNlIHRoZSBGWCBoZWFkd2luZCBpcyBvZmZzZXQgYnkgc29tZSBjb21iaW5hdGlvbiBv
+ZiB0b3AtbGluZSwgbWFyZ2lucywgb3IgdGhlIHN0b2NrIGJ1eWJhY2sgKGEgdG9rZW4gJDVCIGFu
+bm91bmNlZCBsYXN0IHF1YXJ0ZXIpLg0KDQoNCg0KX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX18NCg0KSW1wb3J0YW50IE5vdGljZSB0byBSZWNpcGllbnRzOg0KDQpUaGUgc2VuZGVyIG9m
+IHRoaXMgZS1tYWlsIGlzIGFuIGVtcGxveWVlIG9mIE1vcmdhbiBTdGFubGV5IFNtaXRoIEJhcm5l
+eSBMTEMgKCJNb3JnYW4gU3RhbmxleSIpLiAgSWYgeW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBjb21t
+dW5pY2F0aW9uIGluIGVycm9yLCBwbGVhc2UgZGVzdHJveSBhbGwgZWxlY3Ryb25pYyBhbmQgcGFw
+ZXIgY29waWVzIGFuZCBub3RpZnkgdGhlIHNlbmRlciBpbW1lZGlhdGVseS4gRXJyb25lb3VzIHRy
+YW5zbWlzc2lvbiBpcyBub3QgaW50ZW5kZWQgdG8gd2FpdmUgY29uZmlkZW50aWFsaXR5IG9yIHBy
+aXZpbGVnZS4gIE1vcmdhbiBTdGFubGV5IHJlc2VydmVzIHRoZSByaWdodCwgdG8gdGhlIGV4dGVu
+dCBwZXJtaXR0ZWQgdW5kZXIgYXBwbGljYWJsZSBsYXcsIHRvIG1vbml0b3IgZWxlY3Ryb25pYyBj
+b21tdW5pY2F0aW9ucy4gVGhpcyBtZXNzYWdlIGlzIHN1YmplY3QgdG8gdGVybXMgYXZhaWxhYmxl
+IGF0IHRoZSBmb2xsb3dpbmcgbGluazogaHR0cDovL3d3dy5tb3JnYW5zdGFubGV5LmNvbS9kaXNj
+bGFpbWVycy9tc3NiZW1haWwuaHRtbC4gIElmIHlvdSBjYW5ub3QgYWNjZXNzIHRoaXMgbGluaywg
+cGxlYXNlIG5vdGlmeSB1cyBieSByZXBseSBtZXNzYWdlIGFuZCB3ZSB3aWxsIHNlbmQgdGhlIGNv
+bnRlbnRzIHRvIHlvdS4gIEJ5IG1lc3NhZ2luZyB3aXRoIE1vcmdhbiBTdGFubGV5IHlvdSBjb25z
+ZW50IHRvIHRoZSBmb3JlZ29pbmcuDQoNCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+DQoNClRoaXMgbWVzc2FnZSBjb250YWlucyBjb25maWRlbnRpYWwgaW5mb3JtYXRpb24gYW5kIGlz
+IGludGVuZGVkIG9ubHkgZm9yIHRoZSBpbmRpdmlkdWFsIG5hbWVkLiBJZiB5b3UgYXJlIG5vdCB0
+aGUgbmFtZWQgYWRkcmVzc2VlIHlvdSBzaG91bGQgbm90IGRpc3NlbWluYXRlLCBkaXN0cmlidXRl
+IG9yIGNvcHkgdGhpcyBlLW1haWwuIFBsZWFzZSBub3RpZnkgdGhlIHNlbmRlciBpbW1lZGlhdGVs
+eSBieSBlLW1haWwgaWYgeW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBlLW1haWwgYnkgbWlzdGFrZSBh
+bmQgZGVsZXRlIHRoaXMgZS1tYWlsIGZyb20geW91ciBzeXN0ZW0uIEUtbWFpbCB0cmFuc21pc3Np
+b24gY2Fubm90IGJlIGd1YXJhbnRlZWQgdG8gYmUgc2VjdXJlIG9yIGVycm9yLWZyZWUgYXMgaW5m
+b3JtYXRpb24gY291bGQgYmUgaW50ZXJjZXB0ZWQsIGNvcnJ1cHRlZCwgbG9zdCwgZGVzdHJveWVk
+LCBhcnJpdmUgbGF0ZSBvciBpbmNvbXBsZXRlLCBvciBjb250YWluIHZpcnVzZXMuIFRoZSBzZW5k
+ZXIgdGhlcmVmb3JlIGRvZXMgbm90IGFjY2VwdCBsaWFiaWxpdHkgZm9yIGFueSBlcnJvcnMgb3Ig
+b21pc3Npb25zIGluIHRoZSBjb250ZW50cyBvZiB0aGlzIG1lc3NhZ2UsIHdoaWNoIGFyaXNlIGFz
+IGEgcmVzdWx0IG9mIGUtbWFpbCB0cmFuc21pc3Npb24uIElmIHZlcmlmaWNhdGlvbiBpcyByZXF1
+aXJlZCBwbGVhc2UgcmVxdWVzdCBhIGhhcmQtY29weSB2ZXJzaW9uLg0KDQpfX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fXw0KDQpUaGlzIG1lc3NhZ2UgY29udGFpbnMgY29uZmlkZW50aWFs
+IGluZm9ybWF0aW9uIGFuZCBpcyBpbnRlbmRlZCBvbmx5IGZvciB0aGUgaW5kaXZpZHVhbCBuYW1l
+ZC4gSWYgeW91IGFyZSBub3QgdGhlIG5hbWVkIGFkZHJlc3NlZSB5b3Ugc2hvdWxkIG5vdCBkaXNz
+ZW1pbmF0ZSwgZGlzdHJpYnV0ZSBvciBjb3B5IHRoaXMgZS1tYWlsLiBQbGVhc2Ugbm90aWZ5IHRo
+ZSBzZW5kZXIgaW1tZWRpYXRlbHkgYnkgZS1tYWlsIGlmIHlvdSBoYXZlIHJlY2VpdmVkIHRoaXMg
+ZS1tYWlsIGJ5IG1pc3Rha2UgYW5kIGRlbGV0ZSB0aGlzIGUtbWFpbCBmcm9tIHlvdXIgc3lzdGVt
+LiBFLW1haWwgdHJhbnNtaXNzaW9uIGNhbm5vdCBiZSBndWFyYW50ZWVkIHRvIGJlIHNlY3VyZSBv
+ciBlcnJvci1mcmVlIGFzIGluZm9ybWF0aW9uIGNvdWxkIGJlIGludGVyY2VwdGVkLCBjb3JydXB0
+ZWQsIGxvc3QsIGRlc3Ryb3llZCwgYXJyaXZlIGxhdGUgb3IgaW5jb21wbGV0ZSwgb3IgY29udGFp
+biB2aXJ1c2VzLiBUaGUgc2VuZGVyIHRoZXJlZm9yZSBkb2VzIG5vdCBhY2NlcHQgbGlhYmlsaXR5
+IGZvciBhbnkgZXJyb3JzIG9yIG9taXNzaW9ucyBpbiB0aGUgY29udGVudHMgb2YgdGhpcyBtZXNz
+YWdlLCB3aGljaCBhcmlzZSBhcyBhIHJlc3VsdCBvZiBlLW1haWwgdHJhbnNtaXNzaW9uLiBJZiB2
+ZXJpZmljYXRpb24gaXMgcmVxdWlyZWQgcGxlYXNlIHJlcXVlc3QgYSBoYXJkLWNvcHkgdmVyc2lv
+bi4NCg==
+
+------=_Part_249214_2020185201.1649573402624
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Untitled"
+Content-ID: <663980d5-0177-4f1d-ab82-c0576299ca2c>
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSdDb250ZW50LVR5cGUnIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD1VVEYtOCI+CjwvaGVhZD4KPGJvZHkgZGlyPSJhdXRvIj4KPGRpdj48
+YnI+Cjxicj4KU2VudCBmcm9tIG15IGlQaG9uZTwvZGl2Pgo8ZGl2Pjxicj4KQmVnaW4gZm9yd2Fy
+ZGVkIG1lc3NhZ2U6PGJyPgo8YnI+CjwvZGl2Pgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGRp
+dj48Yj5Gcm9tOjwvYj4gJnF1b3Q7R3JhZHksIFBhdHJpY2sgTSZxdW90OyAmbHQ7PGEgaHJlZj0i
+bWFpbHRvOlBhdHJpY2suR3JhZHlAbW9yZ2Fuc3RhbmxleS5jb20iPlBhdHJpY2suR3JhZHlAbW9y
+Z2Fuc3RhbmxleS5jb208L2E+Jmd0Ozxicj4KPGI+RGF0ZTo8L2I+IEZlYnJ1YXJ5IDEsIDIwMTYg
+YXQgMTA6Mjk6MzkgQU0gRVNUPGJyPgo8Yj5Ubzo8L2I+IFVuZGlzY2xvc2VkIHJlY2lwaWVudHM6
+Ozxicj4KPGI+U3ViamVjdDo8L2I+IDxiPk1TIFRlY2g6IEdPT0dMIHByaW50cyB0b25pZ2h0IHdp
+dGggZm9jdXMgb24gY29yZSBHb29nbGUgdnMgJ090aGVyIEJldHMnIGRpc2Nsb3N1cmUgYW5kIHRv
+cC1saW5lIG1vbWVudHVtIGZvbGxvd2luZyAyUS8zUSByZWFjY2VsZXJhdGlvbiAmIzQzOyBGQiBi
+bG93b3V0OyBHT09HTCBwb2lzZWQgdG8gZWNsaXBzZSBBQVBMIGFzIHdvcmxkJ3MgbW9zdCB2YWx1
+YWJsZSBjb21wYW55PC9iPjxicj4KPGJyPgo8L2Rpdj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj4KPGRpdj48IS0tIFRlbXBsYXRlIGdlbmVyYXRlZCBieSBFeGNsYWltZXIg
+TWFpbCBEaXNjbGFpbWVycyBvbiAxMDoyOTo0MSBNb25kYXksIDEgRmVicnVhcnkgMjAxNiAtLT4K
+PG1ldGEgbmFtZT0iR2VuZXJhdG9yIiBjb250ZW50PSJNaWNyb3NvZnQgV29yZCAxNCAoZmlsdGVy
+ZWQgbWVkaXVtKSI+CjxzdHlsZT48IS0tCi8qIEZvbnQgRGVmaW5pdGlvbnMgKi8KQGZvbnQtZmFj
+ZQoJe2ZvbnQtZmFtaWx5OkNhbGlicmk7CglwYW5vc2UtMToyIDE1IDUgMiAyIDIgNCAzIDIgNDt9
+CkBmb250LWZhY2UKCXtmb250LWZhbWlseTpUYWhvbWE7CglwYW5vc2UtMToyIDExIDYgNCAzIDUg
+NCA0IDIgNDt9Ci8qIFN0eWxlIERlZmluaXRpb25zICovCnAuTXNvTm9ybWFsLCBsaS5Nc29Ob3Jt
+YWwsIGRpdi5Nc29Ob3JtYWwKCXttYXJnaW46MGluOwoJbWFyZ2luLWJvdHRvbTouMDAwMXB0OwoJ
+Zm9udC1zaXplOjEyLjBwdDsKCWZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLCJzZXJpZiI7
+fQphOmxpbmssIHNwYW4uTXNvSHlwZXJsaW5rCgl7bXNvLXN0eWxlLXByaW9yaXR5Ojk5OwoJY29s
+b3I6Ymx1ZTsKCXRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7fQphOnZpc2l0ZWQsIHNwYW4uTXNv
+SHlwZXJsaW5rRm9sbG93ZWQKCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7Cgljb2xvcjpwdXJwbGU7
+Cgl0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lO30Kc3Bhbi5FbWFpbFN0eWxlMTcKCXttc28tc3R5
+bGUtdHlwZTpwZXJzb25hbDsKCWZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLCJzZXJpZiI7
+fQpzcGFuLkVtYWlsU3R5bGUxOAoJe21zby1zdHlsZS10eXBlOnBlcnNvbmFsLXJlcGx5OwoJZm9u
+dC1mYW1pbHk6IkNhbGlicmkiLCJzYW5zLXNlcmlmIjsKCWNvbG9yOiMxRjQ5N0Q7fQouTXNvQ2hw
+RGVmYXVsdAoJe21zby1zdHlsZS10eXBlOmV4cG9ydC1vbmx5OwoJZm9udC1zaXplOjEwLjBwdDt9
+CkBwYWdlIFdvcmRTZWN0aW9uMQoJe3NpemU6OC41aW4gMTEuMGluOwoJbWFyZ2luOjEuMGluIDEu
+MGluIDEuMGluIDEuMGluO30KZGl2LldvcmRTZWN0aW9uMQoJe3BhZ2U6V29yZFNlY3Rpb24xO30K
+LS0+PC9zdHlsZT48IS0tW2lmIGd0ZSBtc28gOV0+PHhtbD4KPG86c2hhcGVkZWZhdWx0cyB2OmV4
+dD0iZWRpdCIgc3BpZG1heD0iMTAyNiIgLz4KPC94bWw+PCFbZW5kaWZdLS0+PCEtLVtpZiBndGUg
+bXNvIDldPjx4bWw+CjxvOnNoYXBlbGF5b3V0IHY6ZXh0PSJlZGl0Ij4KPG86aWRtYXAgdjpleHQ9
+ImVkaXQiIGRhdGE9IjEiIC8+CjwvbzpzaGFwZWxheW91dD48L3htbD48IVtlbmRpZl0tLT4KPHAg
+Y2xhc3M9Ijk4MTJjMDgyLWQyOWMtNDA0Mi04ZWNhLWZhOGMzYTVhNGYzMCI+PC9wPgo8ZGl2IGNs
+YXNzPSJXb3JkU2VjdGlvbjEiPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9u
+dC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMt
+c2VyaWYmcXVvdDs7Y29sb3I6cmVkIj5Gb3IgSW5zdGl0dXRpb25hbCBDbGllbnRzIE9ubHk8L3Nw
+YW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJy
+aSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMxRjQ5N0QiPjxvOnA+PC9vOnA+
+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTox
+MS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1
+b3Q7O2NvbG9yOiMxRjQ5N0QiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4KPGRpdj4KPGRp
+diBzdHlsZT0iYm9yZGVyOm5vbmU7Ym9yZGVyLXRvcDpzb2xpZCAjQjVDNERGIDEuMHB0O3BhZGRp
+bmc6My4wcHQgMGluIDBpbiAwaW4iPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0i
+Zm9udC1mYW1pbHk6JnF1b3Q7VGFob21hJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPk1T
+IFRlY2g6IEdPT0dMIHByaW50cyB0b25pZ2h0IHdpdGggZm9jdXMgb24gY29yZSBHb29nbGUgdnMg
+J090aGVyIEJldHMnIGRpc2Nsb3N1cmUgYW5kIHRvcC1saW5lIG1vbWVudHVtIGZvbGxvd2luZyAy
+US8zUSByZWFjY2VsZXJhdGlvbiAmIzQzOyBGQiBibG93b3V0OyBHT09HTCBwb2lzZWQgdG8gZWNs
+aXBzZSBBQVBMIGFzIHdvcmxkJ3MKIG1vc3QgdmFsdWFibGUgY29tcGFueTxvOnA+PC9vOnA+PC9z
+cGFuPjwvcD4KPC9kaXY+CjwvZGl2Pgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48bzpwPiZuYnNwOzwv
+bzpwPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTo4LjBw
+dDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij5T
+QUxFUyBDT01NRU5UQVJZIChOb3QgYSBwcm9kdWN0IG9mIE1TIFJlc2VhcmNoIGFuZCBzaG91bGQg
+bm90IGJlIHJlZ2FyZGVkIGFzIGEgcmVzZWFyY2ggcmVwb3J0KTxvOnA+PC9vOnA+PC9zcGFuPjwv
+cD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9u
+dC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+PG86cD4m
+bmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48Yj48c3BhbiBzdHls
+ZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtz
+YW5zLXNlcmlmJnF1b3Q7Ij5HT09HTCBpcyBvbmx5IH4kMTBCIGluIG1hcmtldCBjYXAgYXdheSBm
+cm9tIGRldGhyb25pbmcgQUFQTCBhcyB0aGUgd29ybGQncyBtb3N0IHZhbHVhYmxlIGNvbXBhbnks
+IHdoaWNoIGZlZWxzIGEgbGl0dGxlIGJpdCAnbWFuaWZlc3QgZGVzdGlueScgaW50byByZXN1bHRz
+IHRvbmlnaHQuPG86cD48L286cD48L3NwYW4+PC9iPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+
+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVv
+dDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8
+cCBjbGFzcz0iTXNvTm9ybWFsIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250
+LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij5JbnZlc3Rv
+cnMgYXJlIGZvY3VzZWQgb24gbmV3IGZpbmFuY2lhbCBkaXNjbG9zdXJlIGZvciB0aGUgY29yZSBH
+b29nbGUgYnVzaW5lc3MgdnMgJ090aGVyIEJldHMnLCB3aXRoIG1vc3QgZXhwZWN0aW5nIGxvc3Nl
+cyBmcm9tICdPdGhlciBCZXRzJyBhbW91bnRpbmcgdG8gc29tZXRoaW5nIGluIHRoZQogfiQzQiBy
+YW5nZS4gQ29udmVudGlvbmFsIHdpc2RvbSBpcyB0aGF0IHRoZSBoZWF2aWVyIHRoZSAnT3RoZXIg
+QmV0cycgbG9zc2VzIGFyZSB0aGVuIHRoZSBiZXR0ZXIgaXQgaXMgZm9yIHRoZSBzdG9jayBiZWNh
+dXNlIG9mIHRoZSBwb3NpdGl2ZSBpbXBsaWNhdGlvbnMgZm9yIGNvcmUgR29vZ2xlIG1hcmdpbnMs
+IGFuZCAkM0ImIzQzOyBpbXBsaWVzIGFuIGltcHJvdmluZyBjb3JlIG1hcmdpbiB0cmFqZWN0b3J5
+LjxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFu
+IHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZx
+dW90O3NhbnMtc2VyaWYmcXVvdDsiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvYj48L3A+Cjxw
+IGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2ZvbnQt
+ZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPlRoYXQgc2Fp
+ZCwgdGhlcmUgaGF2ZSBiZWVuIGEgaGFuZGZ1bCBvZiByZWNlbnQsIG1vcmUgY2F1dGlvdXMgc2Vs
+bC1zaWRlIHByZXZpZXdzIHByZXBhcmluZyBpbnZlc3RvcnMgZm9yIHNtYWxsZXIgJ090aGVyIEJl
+dHMnIGxvc3NlcyBpbiB0aGUgfiQ1MDBNLTJCIHJhbmdlLiBCdWxscyBhcmd1ZQogdGhhdCB0aGlz
+IHdvdWxkIGFjdHVhbGx5IGJlIGZpbmUgZm9yIHRoZSBzdG9jayBiZWNhdXNlIG9mICgxKSBuZXcg
+Q0ZPIGZvY3VzIG9uICdjb3N0IGRpc2NpcGxpbmUnICYjNDM7ICcyMDE2IGJ1ZGdldGluZycgc3Vn
+Z2VzdHMgb3Bwb3J0dW5pdHkgZm9yIG1hcmdpbiBleHBhbnNpb24gaW4gMjAxNiBhbmQgYmV5b25k
+IGRlc3BpdGUgbG93ZXIgaGlzdG9yaWNhbCBwZXJmb3JtYW5jZSwgYW5kICgyKSBHT09HTCdzIElS
+CjxhIGhyZWY9Imh0dHBzOi8vYWJjLnh5ei9pbnZlc3Rvci9uZXdzL3JlbGVhc2VzLzIwMTYvMDEy
+OC5odG1sIj5ibG9nIHBvc3Q8L2E+IGxhc3Qgd2VlayBzYWlkIHRoYXQgdGhlIGNvbXBhbnkgd2ls
+bCBkaXNjbG9zZSBhICdSZWNvbmNpbGluZyBpdGVtcycgbGluZSBjb250YWluaW5nIGNvcnBvcmF0
+ZSBvdmVyaGVhZCBjb3N0cyBpbiBhZGRpdGlvbiB0byBjb3JlIEdvb2dsZSBhbmQgJ090aGVyIEJl
+dHMnLCB3aGljaCBtZWFucyBjb3JlIEdvb2dsZSBtYXJnaW5zCiBjYW4gbG9vayBnb29kIGV2ZW4g
+b24gc21hbGxlciAnT3RoZXIgQmV0cycgbG9zc2VzLjxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+
+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2Zv
+bnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPjxvOnA+
+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvYj48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFu
+IGxhbmc9IkVOIiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlh
+bCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij5CZXlvbmQgdGhlIGRpc2Nsb3N1cmUsIGlu
+dmVzdG9ycyBzZWVtIGVxdWFsbHkgKGlmIG5vdCBtb3JlIHNvKSBmb2N1c2VkIG9uIHRoZSBxdWFy
+dGVybHkgcmVzdWx0cyB0byB2ZXJpZnkgdGhhdCByZW5ld2VkIHRvcC1saW5lIG1vbWVudHVtIGlu
+IDJRLzNRIGNvbnRpbnVlcyBpbgogNFEgb24gdGhlIGJhY2sgb2YgYmV0dGVyIG1vYmlsZSBtb25l
+dGl6YXRpb24gYW5kIFlvdVR1YmUgYWQgc3BlbmQsIHdoaWNoIHNlZW1zIGxpa2VseSBnaXZlbiBT
+RU0gY2hlY2tzIHRoYXQgc3VnZ2VzdCBhbiBhY2NlbGVyYXRpb24gb24gdGhlIGJhY2sgb2YgYSB0
+aGlyZCBwYWlkIHNlYXJjaCBsaW5rIGFkZGVkIHRvIG1vYmlsZSBzZWFyY2ggcmVzdWx0cyBpbiBK
+dWx5Lgo8bzpwPjwvbzpwPjwvc3Bhbj48L2I+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48Yj48
+c3BhbiBsYW5nPSJFTiIgc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7
+QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+PG86cD4mbmJzcDs8L286cD48L3Nw
+YW4+PC9iPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PGI+PHNwYW4gbGFuZz0iRU4iIHN0eWxl
+PSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3Nh
+bnMtc2VyaWYmcXVvdDsiPlJlbWVtYmVyLCB0aGUgR09PR0wgbmFycmF0aXZlIGhhcyBjaGFuZ2Vk
+IGRyYW1hdGljYWxseSBmcm9tIGxhc3QgeWVhcidzIHNlY3VsYXIgYmVhciBjYXNlIGFyb3VuZCBt
+b2JpbGUvYXBwcyAmIzQzOyBGQiBzaGFyZSBsb3NzIHdpdGggaW52ZXN0b3JzIG5vdyBhc3N1bWlu
+ZyBhIG1vYmlsZQogYWQgZHVvcG9seSBhbW9uZyB0aGUgdHdvLiZuYnNwOyBGQidzIHN0ZWxsYXIg
+cmVzdWx0cyByYWlzZSB0aGUgYmFyLCBzbyBhbnkgdG9wLWxpbmUgc2hvcnRmYWxsIGF0IEdPT0dM
+IGNvdWxkIHJlc3VycmVjdCB0aGUgYmVhciBjYXNlLjxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+
+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQt
+ZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPjxvOnA+Jm5i
+c3A7PC9vOnA+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1z
+ZXJpZiZxdW90OyI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9y
+bWFsIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtB
+cmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij5HT09HTDwvc3Bhbj48L2I+PHNwYW4g
+c3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1
+b3Q7c2Fucy1zZXJpZiZxdW90OyI+IGFubm91bmNlZCB0aGUKPGI+QWxwaGFiZXQ8L2I+IHJlc3Ry
+dWN0dXJpbmcgYmFjayBpbiBBdWd1c3QgYW5kIGF0IHRoZSB0aW1lIGNvbW1pdHRlZCB0byBicmVh
+a2luZyBvdXQgZmluYW5jaWFscyBmb3IKPGI+Y29yZTwvYj4gPGI+R29vZ2xlPC9iPiAoPGI+U2Vh
+cmNoLCBBZHMsIFlvdVR1YmUsIEFuZHJvaWQsIE1hcHMsIFBsYXksIE5leHVzLCBDbG91ZDwvYj4p
+IHZzCjxiPidPdGhlciBCZXRzJyAvICdNb29uc2hvdHMnPC9iPiAoPGI+RmliZXI8L2I+IGJyb2Fk
+YmFuZCwgPGI+TmVzdDwvYj4gaG9tZSBhdXRvbWF0aW9uLAo8Yj5DYWxpY288L2I+IGJpb3RlY2gs
+IDxiPlZlcmlseTwvYj4gbGlmZSBzY2llbmNlcywgPGI+R29vZ2xlPC9iPiA8Yj5WZW50dXJlczwv
+Yj4vPGI+Q2FwaXRhbDwvYj4sCjxiPlg8L2I+IGluY3ViYXRvcikgb24gdGhlIDRRIGVhcm5pbmdz
+IGNhbGwuIDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4g
+c3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1
+b3Q7c2Fucy1zZXJpZiZxdW90OyI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBjbGFz
+cz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTom
+cXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij5XZWxsLCB3ZSBhcmUgaGVy
+ZSBhbmQgbW9zdCBleHBlY3QgdG9uaWdodCB0byBiZSBhIHBvc2l0aXZlIGNhdGFseXN0IGdpdmVu
+IGdyZWF0ZXIgb3ZlcmFsbCB0cmFuc3BhcmVuY3kgJiM0MzsgdGhlIGxpa2VsaWhvb2Qgb2YgaGln
+aGVyIGNvcmUgR29vZ2xlIG1hcmdpbnMuIFN0aWxsLCBjb21wYXJpc29ucyB0bwo8Yj5BTVpOIHdv
+dWxkPC9iPiBzZWVtICpvdmVybHkqIG9wdGltaXN0aWMgYXMgbm9uZSBvZiB0aGUgPGI+J090aGVy
+IEJldHMnPC9iPiB3aWxsIGdlbmVyYXRlIHRoZSBzYW1lIHN1bS1vZi10aGUtcGFydHMganVpY2Ug
+YXMKPGI+QVdTPC9iPi48bzpwPjwvbzpwPjwvc3Bhbj48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwi
+PjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1
+b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4K
+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1m
+YW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+Rm9yIHRoZSBx
+dWFydGVybHkgcHJpbnQsIGV4cGVjdGF0aW9ucyBhcmUgZm9yIGNvbnRpbnVlZCB0b3AtbGluZSBt
+b21lbnR1bSBvbiB0aGUgYmFjayBvZiBiZXR0ZXIgbW9iaWxlIG1vbmV0aXphdGlvbiAmIzQzOyBh
+IGJ1bGxpc2gKPGI+RkI8L2I+IHJlYWQtdGhyb3VnaCwgd2l0aCBFUFMgaW4tbGluZSAvIGFoZWFk
+IG9mIHRoZSBTdHJlZXQsIGFuZCBhIGRldGFpbGVkIGRpc2N1c3Npb24gb2YgMjAxNiAnY29zdCBk
+aXNjaXBsaW5lJyB1bmRlciBuZXcgQ0ZPIFJ1dGggUG9yYXQuPG86cD48L286cD48L3NwYW4+PC9w
+Pgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250
+LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48bzpwPiZu
+YnNwOzwvbzpwPjwvc3Bhbj48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxl
+PSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3Nh
+bnMtc2VyaWYmcXVvdDsiPlRoZSBib2dleSBmb3IgZ3Jvc3MgYWQgcmV2ZW51ZTwvc3Bhbj48L2I+
+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVv
+dDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+IGlzIGZvcgo8Yj5HT09HTDwvYj4gdG8gYXQgbGVh
+c3QgbWFpbnRhaW4gbGFzdCBxdWFydGVyJ3MgJiM0MzsyMiUgeS95IGNvbnN0YW50IGN1cnJlbmN5
+IGdyb3d0aCwgd2l0aAo8Yj5Hb29nbGUgV2Vic2l0ZXMgZ3Jvd3RoIGRlY2VsZXJhdGluZyBzbGln
+aHRseTwvYj4gZnJvbSBsYXN0IHF1YXJ0ZXIncyAmIzQzOzI1LjUlIGluIGNvbnN0YW50IGN1cnJl
+bmN5IHRlcm1zIGFnYWluc3QgYSAmZ3Q7IDMwMGJwcyB0b3VnaGVyIGNvbXAuJm5ic3A7IEF0IHRo
+ZSBzYW1lIHRpbWUsCjxiPm1hcmdpbiBleHBlY3RhdGlvbnMgYXBwZWFyICdpbiBjaGVjayc8L2I+
+IHNpbmNlIENGTyBQb3JhdCBjYXV0aW9uZWQgdGhhdCBzcGVuZGluZyB3aWxsIGJlIDJILXdlaWdo
+dGVkIGFyb3VuZCBtYXJrZXRpbmcgJiM0MzsgZGV2aWNlcywgYW5kIHNoZSBoYXMgcmVwZWF0ZWRs
+eSBzYWlkIHNoZSBpcyBtb3JlIGZvY3VzIG9uIHRoZSAnMjAxNiBidWRnZXRpbmcgcHJvY2Vzcycu
+PG86cD48L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0i
+Zm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5z
+LXNlcmlmJnF1b3Q7Ij48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L3A+CjxwIGNsYXNzPSJNc29O
+b3JtYWwiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90
+O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPk90aGVyIGl0ZW1zOjwvc3Bhbj48
+L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwm
+cXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+IEVCSVQgbWFyZ2lucyBzaG91bGQgbWFpbnRh
+aW4gbGFzdCBxdWFydGVyJ3MgdHJhamVjdG9yeSBvZiB+MzAwYnBzIHkveSBleHBhbnNpb24sCiB3
+aGljaCBlcXVhdGVzIHRvIH4zNCUsIHdoaWxlIG9wZXggZXN0aW1hdGVzIGxvb2sgc3VmZmljaWVu
+dGx5IGNvbnNlcnZhdGl2ZSBhcyA8Yj4KQnJpYW4gTm93YWs8L2I+IG1vZGVscyBhIHNpbWlsYXIg
+c2VxdWVudGlhbCBpbmNyZWFzZSBhcyBsYXN0IHllYXIgKH4kNzQwTSksIGRlc3BpdGUgYSAkMjAw
+TSYjNDM7IG9uZS10aW1lIGltcGFjdCBpbiA0UTE0LiBGaW5hbGx5LCBFUFMgc2hvdWxkIGF0IGxl
+YXN0IGhpdCBTdHJlZXQgbnVtYmVycyBvZiBhcm91bmQgJDggc2luY2UgdGhlIEZYIGhlYWR3aW5k
+IGlzIG9mZnNldCBieSBzb21lIGNvbWJpbmF0aW9uIG9mIHRvcC1saW5lLCBtYXJnaW5zLCBvciB0
+aGUKIHN0b2NrIGJ1eWJhY2sgKGEgdG9rZW4gJDVCIGFubm91bmNlZCBsYXN0IHF1YXJ0ZXIpLjxv
+OnA+PC9vOnA+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1z
+ZXJpZiZxdW90OyI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9y
+bWFsIj48bzpwPiZuYnNwOzwvbzpwPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5
+bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7
+c2Fucy1zZXJpZiZxdW90Oztjb2xvcjojMUY0OTdEIj48L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQt
+c2l6ZTo3LjVwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlm
+JnF1b3Q7O2NvbG9yOmJsYWNrIj4mbmJzcDsmbmJzcDsmbmJzcDs8L3NwYW4+PG86cD48L286cD48
+L3A+CjwvZGl2Pgo8Zm9udCBzaXplPSIxIj4KPGhyPgo8cD48L3A+CjwvZm9udD4KPHA+PGZvbnQg
+c2l6ZT0iMSI+PC9mb250PjwvcD4KPHA+PC9wPgo8cCBzdHlsZT0iTUFSR0lOOiAwaW4gMGluIDBw
+dCIgYWxpZ249Imp1c3RpZnkiPjxmb250IGNvbG9yPSIjODA4MDgwIj48Zm9udCBmYWNlPSJMdWNp
+ZGEgU2FucyBVbmljb2RlIj48Zm9udCBzaXplPSIxIj5JbXBvcnRhbnQgTm90aWNlIHRvIFJlY2lw
+aWVudHM6PGJyPgombmJzcDs8YnI+ClRoZSBzZW5kZXIgb2YgdGhpcyBlLW1haWwgaXMgYW4gZW1w
+bG95ZWUgb2YgTW9yZ2FuIFN0YW5sZXkgU21pdGggQmFybmV5IExMQyAoJnF1b3Q7TW9yZ2FuIFN0
+YW5sZXkmcXVvdDspLiZuYnNwOyBJZiB5b3UgaGF2ZSByZWNlaXZlZCB0aGlzIGNvbW11bmljYXRp
+b24gaW4gZXJyb3IsIHBsZWFzZSBkZXN0cm95IGFsbCBlbGVjdHJvbmljIGFuZCBwYXBlciBjb3Bp
+ZXMgYW5kIG5vdGlmeSB0aGUgc2VuZGVyIGltbWVkaWF0ZWx5LiBFcnJvbmVvdXMgdHJhbnNtaXNz
+aW9uIGlzIG5vdAogaW50ZW5kZWQgdG8gd2FpdmUgY29uZmlkZW50aWFsaXR5IG9yIHByaXZpbGVn
+ZS4mbmJzcDsgTW9yZ2FuIFN0YW5sZXkgcmVzZXJ2ZXMgdGhlIHJpZ2h0LCB0byB0aGUgZXh0ZW50
+IHBlcm1pdHRlZCB1bmRlciBhcHBsaWNhYmxlIGxhdywgdG8gbW9uaXRvciBlbGVjdHJvbmljIGNv
+bW11bmljYXRpb25zLiBUaGlzIG1lc3NhZ2UgaXMgc3ViamVjdCB0byB0ZXJtcyBhdmFpbGFibGUg
+YXQgdGhlIGZvbGxvd2luZyBsaW5rOgo8YSBocmVmPSJodHRwOi8vd3d3Lm1vcmdhbnN0YW5sZXku
+Y29tL2Rpc2NsYWltZXJzL21zc2JlbWFpbC5odG1sIj5odHRwOi8vd3d3Lm1vcmdhbnN0YW5sZXku
+Y29tL2Rpc2NsYWltZXJzL21zc2JlbWFpbC5odG1sPC9hPi4mbmJzcDsgSWYgeW91IGNhbm5vdCBh
+Y2Nlc3MgdGhpcyBsaW5rLCBwbGVhc2Ugbm90aWZ5IHVzIGJ5IHJlcGx5IG1lc3NhZ2UgYW5kIHdl
+IHdpbGwgc2VuZCB0aGUgY29udGVudHMgdG8geW91LiZuYnNwOyBCeSBtZXNzYWdpbmcgd2l0aCBN
+b3JnYW4KIFN0YW5sZXkgeW91IGNvbnNlbnQgdG8gdGhlIGZvcmVnb2luZy48L2ZvbnQ+PC9mb250
+PjwvZm9udD48L3A+CjxwPjwvcD4KPHA+PC9wPgo8cD48L3A+CjwvZGl2Pgo8L2Jsb2NrcXVvdGU+
+Cjxicj4KPGhyPgo8Zm9udCBmYWNlPSJBcmlhbCIgY29sb3I9IkdyYXkiIHNpemU9IjEiPjxicj4K
+VGhpcyBtZXNzYWdlIGNvbnRhaW5zIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbiBhbmQgaXMgaW50
+ZW5kZWQgb25seSBmb3IgdGhlIGluZGl2aWR1YWwgbmFtZWQuIElmIHlvdSBhcmUgbm90IHRoZSBu
+YW1lZCBhZGRyZXNzZWUgeW91IHNob3VsZCBub3QgZGlzc2VtaW5hdGUsIGRpc3RyaWJ1dGUgb3Ig
+Y29weSB0aGlzIGUtbWFpbC4gUGxlYXNlIG5vdGlmeSB0aGUgc2VuZGVyIGltbWVkaWF0ZWx5IGJ5
+IGUtbWFpbCBpZiB5b3UgaGF2ZSByZWNlaXZlZAogdGhpcyBlLW1haWwgYnkgbWlzdGFrZSBhbmQg
+ZGVsZXRlIHRoaXMgZS1tYWlsIGZyb20geW91ciBzeXN0ZW0uIEUtbWFpbCB0cmFuc21pc3Npb24g
+Y2Fubm90IGJlIGd1YXJhbnRlZWQgdG8gYmUgc2VjdXJlIG9yIGVycm9yLWZyZWUgYXMgaW5mb3Jt
+YXRpb24gY291bGQgYmUgaW50ZXJjZXB0ZWQsIGNvcnJ1cHRlZCwgbG9zdCwgZGVzdHJveWVkLCBh
+cnJpdmUgbGF0ZSBvciBpbmNvbXBsZXRlLCBvciBjb250YWluIHZpcnVzZXMuIFRoZSBzZW5kZXIg
+dGhlcmVmb3JlCiBkb2VzIG5vdCBhY2NlcHQgbGlhYmlsaXR5IGZvciBhbnkgZXJyb3JzIG9yIG9t
+aXNzaW9ucyBpbiB0aGUgY29udGVudHMgb2YgdGhpcyBtZXNzYWdlLCB3aGljaCBhcmlzZSBhcyBh
+IHJlc3VsdCBvZiBlLW1haWwgdHJhbnNtaXNzaW9uLiBJZiB2ZXJpZmljYXRpb24gaXMgcmVxdWly
+ZWQgcGxlYXNlIHJlcXVlc3QgYSBoYXJkLWNvcHkgdmVyc2lvbi48YnI+CjwvZm9udD48YnI+Cjxo
+cj4KPGZvbnQgZmFjZT0iQXJpYWwiIGNvbG9yPSJHcmF5IiBzaXplPSIxIj48YnI+ClRoaXMgbWVz
+c2FnZSBjb250YWlucyBjb25maWRlbnRpYWwgaW5mb3JtYXRpb24gYW5kIGlzIGludGVuZGVkIG9u
+bHkgZm9yIHRoZSBpbmRpdmlkdWFsIG5hbWVkLiBJZiB5b3UgYXJlIG5vdCB0aGUgbmFtZWQgYWRk
+cmVzc2VlIHlvdSBzaG91bGQgbm90IGRpc3NlbWluYXRlLCBkaXN0cmlidXRlIG9yIGNvcHkgdGhp
+cyBlLW1haWwuIFBsZWFzZSBub3RpZnkgdGhlIHNlbmRlciBpbW1lZGlhdGVseSBieSBlLW1haWwg
+aWYgeW91IGhhdmUgcmVjZWl2ZWQKIHRoaXMgZS1tYWlsIGJ5IG1pc3Rha2UgYW5kIGRlbGV0ZSB0
+aGlzIGUtbWFpbCBmcm9tIHlvdXIgc3lzdGVtLiBFLW1haWwgdHJhbnNtaXNzaW9uIGNhbm5vdCBi
+ZSBndWFyYW50ZWVkIHRvIGJlIHNlY3VyZSBvciBlcnJvci1mcmVlIGFzIGluZm9ybWF0aW9uIGNv
+dWxkIGJlIGludGVyY2VwdGVkLCBjb3JydXB0ZWQsIGxvc3QsIGRlc3Ryb3llZCwgYXJyaXZlIGxh
+dGUgb3IgaW5jb21wbGV0ZSwgb3IgY29udGFpbiB2aXJ1c2VzLiBUaGUgc2VuZGVyIHRoZXJlZm9y
+ZQogZG9lcyBub3QgYWNjZXB0IGxpYWJpbGl0eSBmb3IgYW55IGVycm9ycyBvciBvbWlzc2lvbnMg
+aW4gdGhlIGNvbnRlbnRzIG9mIHRoaXMgbWVzc2FnZSwgd2hpY2ggYXJpc2UgYXMgYSByZXN1bHQg
+b2YgZS1tYWlsIHRyYW5zbWlzc2lvbi4gSWYgdmVyaWZpY2F0aW9uIGlzIHJlcXVpcmVkIHBsZWFz
+ZSByZXF1ZXN0IGEgaGFyZC1jb3B5IHZlcnNpb24uPGJyPgo8L2ZvbnQ+CjwvYm9keT4KPC9odG1s
+Pgo=
+
+------=_Part_249214_2020185201.1649573402624--

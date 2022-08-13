@@ -1,0 +1,294 @@
+From - Sat May  7 16:21:06 2022
+X-Account-Key: account1
+X-UIDL: AMTOVzs2DmULYnbhPgvbKAwFi9A
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.134.140
+ by atlas112.free.mail.ne1.yahoo.com with HTTPS; Sat, 7 May 2022 21:14:38 +0000
+Return-Path: <>
+X-Originating-Ip: [216.71.138.18]
+Received-SPF: pass (domain of esa12.nycdoitt.iphmx.com designates 216.71.138.18 as permitted sender)
+Authentication-Results: atlas112.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@buildings.nyc.gov header.s=mail-s1;
+ dkim=pass header.i=@buildings.nyc.gov header.s=selector1;
+ spf=pass smtp.mailfrom=esa12.nycdoitt.iphmx.com;
+ dmarc=pass(p=REJECT) header.from=buildings.nyc.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 7 May 2022 21:14:38 +0000
+X-YMailISG: uV3qDcgWLDtJYE0Ha7Vl.E5UOjH4fjbQBGtMvQ3O8No5p3Bm
+ 0rBe7e.sG2NBcXSLud6l1MdlDhKXqMqXlwXz9NNusFL64xEHdD1NG2c1iEzU
+ LqJkEwfO6ChJ.U74QJQX.CAsLChE44D79DlFBPlwzaIKTsIsjrol92WxBCtP
+ mkXeV9MklTfCkd6TmC1AQCXf8vCSgxzej1cXGzJdL339zi5oO9hfzuS6Zzqf
+ HwEw8WqcEXEr6a_B9vMBvEoZBI8YIdfzZWFaJz.hDkj5MqBVd10LtATW4wz5
+ Kz5YAxdeSulNE7XF_MlB0xMfAnXcrMQYxUygnoeDw5_bASI0nK8nr.PmqBj0
+ qxgN_l6GpJ6kypoCXJkd3RYB7PnAdPB4DUWApnxsFQIoifK4nTmlk8b.zERl
+ FsfKTUTj78SKmoXi1Ia1cBFjjOTEetQu.BhefvrdcX7N2FViatMRnMH9HpIQ
+ 4V2PE.xCueWlnLzuAY_GvBwqfRDc.xpdiFRYCfrllanR7.FQp9dovZ1SOm65
+ bpdCiDwzcjYIpMmLdxtrD_ltGM7RFySVGmyU.TwnBvBRcASrevhIJDacfrSa
+ xq14OR1dSCifa8Xf5rxjuWSPXC3tW5.IjLM8r2INRyYrE365At06c6LmeNgp
+ YHblvborArUN_5_lnOUK450zlwli3hjfaS64oxdReEvWh6JdAVDM.P54QCZV
+ V8pQn6YBZ99J9fhb6N5Lp8KqR0gHVbKr563W0j7fcHO44hpB0tB5HannBVRj
+ J0xGh3rFWtqZiC6RrpHNyFq77V5p_VoS1PUOG.gbFXJesYxAzoSa.TEcMAuR
+ aaSONNvp_.zva.gYKgfZoc_GOgZOJhpfzidLD1G6kSvF0QJw47qI4uwwydiR
+ 7sDwAQnm8xFclXWnZG1wrNcZL_FFNK.s84Kjh5JAQo3N6RRO0s8AQoAg77yU
+ zgWlePtIEtzwbOZhI8HWZoe4K6Ldrxfd2axFpnAVmWRlgWJeCpBsftQGON2o
+ 9sHTOOIm3zOzB4nQvnJuFGPwLHh068Yv25_MoMFoonprgHewvnK.Ws0Lxv32
+ Klp1oD2v.s0LmH3qs9Pf2IVqiJWONes5Si5OsOAdUR5VOUeHiykyilfSyAy7
+ GUw0Gt.nKpck3t7uwfPp9qWmsp_F.d488PEcAo5WfXxxWPpwNpDOilFcHhw_
+ Goq1HOaNQcXD1rPmdgH.1q8ovXyUbNW6Ox2_wwBHprNFRJWoLHAqeVJ5ut91
+ aLEo3jc6jkwxVaLbm08MHSnXhZPi82K.GHKbySYdjeQiioujB8XEL5PTlWZ3
+ P.nEEFc-
+Received: from 216.71.138.18 (EHLO esa12.nycdoitt.iphmx.com)
+ by 10.217.134.140 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 07 May 2022 21:14:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=buildings.nyc.gov; i=@buildings.nyc.gov; q=dns/txt;
+  s=mail-s1; t=1651958078; x=1683494078;
+  h=from:to:subject:date:message-id:references:in-reply-to:
+   mime-version;
+  bh=DFC9d4JgUoeLKzjNSHluU0CcMDjiDlsL/a8EyF5acJw=;
+  b=OcoBG+8X/ojlHzVhQmWJ0H3Hf93k/z4v2DOHdpxyLC3tBQXV3IfCNshv
+   WYToH5fnfChp1tB9nDYhCVBjDnt/sdKBhTSJfy3drsenbyDHeVkhCiXwK
+   RumNNAaPblMMeN48dEZqOjJ4sBUQ3Kg+kiGzdkcv1K9714Sex8vj6lsSP
+   g=;
+IronPort-Data: A9a23:lfcX063hOxl45nHyQfbD5WBzkn2cJEfYwER7XKvMYLTBsI5bpzEOn
+ GccX2DSPKmPZ2agL40nOdi3o09U7ZDXndVqQQo4qSg9HnlHl5H5CIXCJC8cHc8zwu4v7q5Dx
+ 59DAjUVBJlsFhcwnj/0bv656yMUOZigHtIQMsadUsxKbVIiGX5JZS5LwbZj2NY12YThWWthh
+ PupyyHhEA78s9JLGjJMg06zgEsHUCPa4W5wUvQWPJinjXeG/5UnJMt3yZKZdhMUdrJp8tuSH
+ I4v+l0YElTxpH/BAvv9+lryn9ZjrrT6ZWBigVIPM0Sub4QrSoXfHc/XOdJFAXq7hQllkPhV0
+ tVqip+6TTw5L4aSot4cbyRWFQpXaPguFL/veRBTsOS85GaeKT7G560rC0s7e4oF5uxwHGdCs
+ +QCLywAZQyCgOTwx6+nTu5rhYIoK8yD0IE34yk8i22GS6h6B8mbHM0m5vcBtNs0rpQYdRrbT
+ 5VFOWAzNkWfC/FJEgsoOMtnp/j4vHryThFCiViegI4I33eGmWSd15CoarI5YOeiQN4LxhnB/
+ j6aoz6nXDkLPdyYznyO9XfEuwPUtSbyWYZXHrni+fVh2AeX3jZKUEJQUkanq/6kjEL4Q8hYN
+ 0Ef5ispq+416VCvSd7+GRa/pRZooyIhZjaZKMVigCnl90Yey1/x6rQsJtKZVOEbiQ==
+IronPort-HdrOrdr: A9a23:k1Uw76HJPkG2ABtHpLqFQJHXdLJyesId70hD6qkvc3Fom52j/f
+ xGws5x6faUskdcZJhEo7y90ca7MBfhHPJOgLX5eI3SJTUO21HYY72Kj7GSpAEIcheWnoEy6U
+ 4jSdkZNDSaNykYsS+O2njcLz9W+qjkzEnHv4fjJl5WPHpXQpAlyz08JheQE0VwSgUDL4E+Do
+ Cg6s1OoCflUWgLb+ygb0N1HtTrlpnurtbLcBQGDxko5E2lljWz8oP3FBCew1M3Ty5P+7E/6m
+ LI+jaJpplL8svLiSM05VWjqqi+q+GRjuerMfb8yPT8cF3X+3yVjcpaKvq/VXsO0ZmSAR4R4a
+ TxSlEbTopOAjrqDx2ISU6E4Xif7B8+r3Dl0lOWmn3lvIjwQy87EdNIgcZDfgLe8FdIhqA27E
+ tn5RPRi3NsN2KJoM093am8azh60k6v5XYym+8aiHJSFYMYdb9KtIQauEdYCo0JEi724J0uVL
+ AGNrCQ2N9GNVeBK3zJtGhmx9KhGnw1AxedW0AH/siYySJfknx1x1YRgMYfgnAD/pQgTIQs3Z
+ WPDo140LVVCsMGZ6N0A+kMBcOxF2zWWBrJdHmfJFz2fZt3TU4kg/bMkcQIDMjDQu128HLzou
+ W3bLp1jx9AR6u1M7z/4HRiyGG+fEytGTLw18pZ+591/rXhWbuDC1z2dGwT
+X-IronPort-AV: E=Sophos;i="5.91,198,1647316800"; 
+   d="scan'208,217";a="74824297"
+X-IronPort-Outbreak-Status: No, level 0, Unknown - Unknown
+Received: from mail-bl2gcc02lp2107.outbound.protection.outlook.com (HELO GCC02-BL0-obe.outbound.protection.outlook.com) ([104.47.64.107])
+  by ob1.nycdoitt.iphmx.com with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 07 May 2022 17:14:36 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=QAfZNr+hdHTHRiSN22e3SbrEEoM/D6xXTUaplYgumwTTjqDU4jmJEjdlJbBc4K8KOLXZicY60b9UzlHyqOTtOYjjYk+5bD9Do8NE2qPHjHw+i+Ve9bgF6Ofde4CAdPTE33491s4RPqTrdmDLpdUlPN+Cx45LdaiegrxFbYy3MKzub4DiH+k2WMh6Ie4Vzo+eSvKOmt7UcsJCGzR/bAgcm7CcYT003sCPo6sFdzhMPcGU39HzTv6JL2NNuCSI/x4ekOXPLa12D+WD9Om5iUhdrDtGOKZ8gFCqKM54v7K68h5vQeNT3F3KmcyJrhzy/PZ6wXPSTaRxyWZd0efBXpywHQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=DFC9d4JgUoeLKzjNSHluU0CcMDjiDlsL/a8EyF5acJw=;
+ b=bDTqzg/RkwnBOlEVmsKRGGDiUTIKypCnJu1CHvyGMUoLBJmj8bT7dy2H27/Qi86EKZkGcdBD7P3XMxD5PXFUETzH+Xg2VyR2Q16PrFQzj7QYY46WpoPoSTPeinPGKugKIsC70hODk3x8NpyWuWidylrRCsmTYRI3/ZTMYadDaSQVGy+Rrq5TWElFvNKvTwZCIOVroT3EncOML0VwYhLhq9D8LgfvCBO4CS7hA2bP06wHexrnTYY15+ztqDAJ3y49OH5Qazu/dTdfLMj6tmnDaaWb8FjyJAVbolMb21ljTJ+g4v2KWvCooK1qBvhAVZ/ZvvoXIMU51ZRCCKiO0cXw0w==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=pass
+ action=none header.from=buildings.nyc.gov; dkim=pass
+ header.d=buildings.nyc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=buildings.nyc.gov;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=DFC9d4JgUoeLKzjNSHluU0CcMDjiDlsL/a8EyF5acJw=;
+ b=CEkc7LekPba/pmjGu4RTfoWesoDEpd6yqLfKodqWz8vc1FsL5unGWrXWTaCckrVn/LAwDOpn8uIDkcmYeIBv7dp2J9/ZUPWsNebRFFCssjHg+paPUPF/ww288Nj8QtqK866NsPWHZFAG09TgZ77BBwYKH2T+Zye3h58cWIujePQsCyDJTBhuPICs55fZAFRmjKosMdH7uQVfVotvEM5dqWnU0hJBGnaOb6azG+mltB+q0g7soXF0n5P8/lT8xK1jZ6LEV+9tm/u+sWhYyCX4i5Jfgt9oOf90+E/lOOoO0Cm+MxsRMnj9SbnVWJhm3AO1BYIdMk7QLkmzZna0ST961A==
+Received: from DM8PR09MB6390.namprd09.prod.outlook.com (2603:10b6:5:2e2::23)
+ by BY3PR09MB8082.namprd09.prod.outlook.com (2603:10b6:a03:343::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5227.18; Sat, 7 May
+ 2022 21:14:34 +0000
+Received: from DM8PR09MB6390.namprd09.prod.outlook.com ([::1]) by
+ DM8PR09MB6390.namprd09.prod.outlook.com ([fe80::e1a2:1bac:f6b2:7013%3]) with
+ Microsoft SMTP Server id 15.20.5227.022; Sat, 7 May 2022 21:14:33 +0000
+From: "Customer Services (Buildings)" <DOBCustomerService@buildings.nyc.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Automatic reply: [EXTERNAL] Fwd: Fwd: COMBINED CERTIFICATES AND TAX
+ RECORDS ATTACHED.
+Thread-Topic: [EXTERNAL] Fwd: Fwd: COMBINED CERTIFICATES AND TAX RECORDS
+ ATTACHED.
+Thread-Index: AQHYYldyCQXvIzwYVU6T9WCb2Qr8qq0T6jeO
+Date: Sat, 7 May 2022 21:14:33 +0000
+Message-ID:
+ <4311acd1a5ae4c4b8d2689824e48d726@DM8PR09MB6390.namprd09.prod.outlook.com>
+References: <0f68854f-8fa3-0687-6b94-f5cd4c9f0797@yahoo.com>
+ <87924099-96bb-726c-c181-68c900cb20f1@yahoo.com>
+In-Reply-To: <87924099-96bb-726c-c181-68c900cb20f1@yahoo.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: dobcustomerservice@buildings.nyc.gov
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id:
+ <87924099-96bb-726c-c181-68c900cb20f1@yahoo.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 3c2edb20-74cb-43d2-1011-08da306e9588
+x-ms-traffictypediagnostic: BY3PR09MB8082:EE_
+x-microsoft-antispam-prvs:
+ <BY3PR09MB80826417846FC4415B1476CAB8C49@BY3PR09MB8082.namprd09.prod.outlook.com>
+x-outbound-auth: NYCO365
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 7jeKkuLu+NxZnHyxaMzsaU81ffOm2Tc+MBeIUdeTUc/NdsJZZR8AbyBBXQs5TyeObK6JzexbOQeaE/V0FCMAtYCOcCOqGwU2OA81EndlTu2d3Vn7DMNx5fzV98xTPZ0sqoC+dOyqeEOkAhPkL2Zad4VxmdOu2fm9YawSw54e8HEQBZbxhmSWOzTnjEB9n0H6TkitUzZAUtpBqXU3NmGNDpC2bEyr0M4WiEAUbzuKSOmwuQM0/xCheTWMjphHJ3IOzv2rryqYBn/Radi+qNLBgUVdtv/Jo9Xw1Qkadcuej0oS3durY0rWQmZho33TdVL8ZOA07KvSJf7/vcGpqSlCAHuyPob+RTffTP1Sc3+mca2gGkNu9S9ykXB38/nGSpdr+GIz7wNZEK38Soer/A4BoF1qTef7F/ufNuUrK6BKiTQ0JAI+7i75yhfW7B01Opjqp7cUp5LonZML4PO7qgjm0h8DdRJWeonGhzWX9Kbl6moSfgyYezEbJu+MfbKmf04MmKMFQCpvSbxAdIa6CB4RrnhKzauPIjWsA2HnjpS0wZDencFR79zOLOTZ8ZSUk7bGo3bqDmSTeDN+F5qh4UdV6zmHmrIZu2YmDjWfvr7M+h8uX4ka9AHGoKihdkFdpbkXgChv4vNvljz1iR5htKuqCTCrP17upwQoQtcRyuhfuhjOGHf4bBddf+lRQJvKSgBE2ZZlOmQkea85WJqjiWJgrg==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM8PR09MB6390.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230001)(50650200002)(366004)(8936002)(6916009)(66446008)(66476007)(78352004)(66946007)(8676002)(316002)(64756008)(122000001)(9686003)(6506007)(66556008)(24736004)(108616005)(7696005)(166002)(71200400001)(88996005)(508600001)(2906002)(42882007)(83380400001)(55016003)(5660300002)(4744005)(111220200005)(80100003);DIR:OUT;SFP:1501;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ 4KK8hQf8ks/brzGLctK76Nd64K+Iheu2gjIH+s/y+egM2A7SZTqtqRU144wePyA2JmRTBx05+YA5hMv+qjWVeDpaHAGIIkbOwYIDzFTcW5Kb/jBbJNM4EQl1ZcOT1gl++cNXtUVQulKQp424q+7mVFh7mNKieuglQsLRcmVfCzgKjvXuQHNmfDOgNRRpBE1KSSqGhP9BYi/hi7tHCavJkcQsJfqzbjZQ+qS4MMAbKsRpp2DS2zcDXdr4dZYnBK/4PLn0REdXQbR6mXTQ4Tf8sTFlzeOQBbnJWfIE08QzOVEH82tq2ODq9RtSIPjHnIa2
+Content-Type: multipart/alternative;
+	boundary="_000_4311acd1a5ae4c4b8d2689824e48d726DM8PR09MB6390namprd09pr_"
+MIME-Version: 1.0
+X-OriginatorOrg: buildings.nyc.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM8PR09MB6390.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3c2edb20-74cb-43d2-1011-08da306e9588
+X-MS-Exchange-CrossTenant-originalarrivaltime: 07 May 2022 21:14:33.9292
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 32f56fc7-5f81-4e22-a95b-15da66513bef
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY3PR09MB8082
+Content-Length: 8068
+
+--_000_4311acd1a5ae4c4b8d2689824e48d726DM8PR09MB6390namprd09pr_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Submit requests for assistance to the help form at www.nyc.gov/dobhelp<http=
+s://gcc02.safelinks.protection.outlook.com/?url=3Dhttp%3A%2F%2Fwww.nyc.gov%=
+2Fdobhelp&data=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov%7C3ad18beae23348d=
+adb4808d8881a3625%7C32f56fc75f814e22a95b15da66513bef%7C0%7C0%7C637408993435=
+833668%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6=
+Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=3DZ5%2B46vCqQfhauCp3d9BV%2BdcYIlgAqpp2G=
+gjD7pcC7gg%3D&reserved=3D0>.
+
+This includes questions about BIS jobs, Hub Self-Service, Hub Full-Service =
+and DOB NOW.
+
+
+
+Inquiries sent directly to DOBCustomerService@buildings.nyc.gov<mailto:DOBC=
+ustomerService@buildings.nyc.gov> will only receive a response if it concer=
+ns an issue that cannot be resolved through the help form.
+
+
+
+See the DOB NOW: Build FAQs<https://gcc02.safelinks.protection.outlook.com/=
+?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fsite%2Fbuildings%2Findustry%2Fdob-now-b=
+uild-faqs.page&data=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov%7C3ad18beae2=
+3348dadb4808d8881a3625%7C32f56fc75f814e22a95b15da66513bef%7C0%7C0%7C6374089=
+93435843623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJ=
+BTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=3DjJu2qWprqJN%2FfCMuRMM7%2BUbI2S23=
+iPhOHAKR9WgEvK0%3D&reserved=3D0>, DOB NOW: Safety FAQs<https://gcc02.safeli=
+nks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fsite%2Fbuild=
+ings%2Findustry%2Fdob-now-safety.page&data=3D04%7C01%7CJodyKaplan%40buildin=
+gs.nyc.gov%7C3ad18beae23348dadb4808d8881a3625%7C32f56fc75f814e22a95b15da665=
+13bef%7C0%7C0%7C637408993435843623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAw=
+MDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=3DspDmQhgB2=
+zHCedh1n%2BqA0H5FaEItRZT3hoyY9Rq6tqk%3D&reserved=3D0>, DOB NOW: Inspections=
+ FAQs<https://gcc02.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fw=
+ww1.nyc.gov%2Fsite%2Fbuildings%2Findustry%2Fdob-now-inspection-faqs.page&da=
+ta=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov%7C3ad18beae23348dadb4808d8881=
+a3625%7C32f56fc75f814e22a95b15da66513bef%7C0%7C0%7C637408993435853582%7CUnk=
+nown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX=
+VCI6Mn0%3D%7C1000&sdata=3DVz5GCZayWOrQWpHjeEdwvNsmqWXxWYnNxTjfHyBQ%2BFs%3D&=
+reserved=3D0>, or eFiling FAQs<https://gcc02.safelinks.protection.outlook.c=
+om/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fassets%2Fbuildings%2Fpdf%2FeFiling_e=
+xpansion_faqs.pdf&data=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov%7C3ad18be=
+ae23348dadb4808d8881a3625%7C32f56fc75f814e22a95b15da66513bef%7C0%7C0%7C6374=
+08993435863536%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIi=
+LCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=3DKe%2FhvWbhgfclufpqltQj74QBJ8p=
+35gTrXpo8LvyCZZ0%3D&reserved=3D0> for additional assistance.
+
+
+--_000_4311acd1a5ae4c4b8d2689824e48d726DM8PR09MB6390namprd09pr_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+<div></div>
+<div style=3D"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12p=
+t; color:rgb(0,0,0)">
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+<span style=3D"margin:0px; font-size:14pt"><b>Submit requests for assistanc=
+e to the help form at&nbsp;</b></span><b><a href=3D"https://gcc02.safelinks=
+.protection.outlook.com/?url=3Dhttp%3A%2F%2Fwww.nyc.gov%2Fdobhelp&amp;data=
+=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov%7C3ad18beae23348dadb4808d8881a3=
+625%7C32f56fc75f814e22a95b15da66513bef%7C0%7C0%7C637408993435833668%7CUnkno=
+wn%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVC=
+I6Mn0%3D%7C1000&amp;sdata=3DZ5%2B46vCqQfhauCp3d9BV%2BdcYIlgAqpp2GgjD7pcC7gg=
+%3D&amp;reserved=3D0" style=3D"margin:0px"><span style=3D"margin:0px; font-=
+size:14pt">www.nyc.gov/dobhelp</span></a></b><span style=3D"margin:0px; fon=
+t-size:14pt"><b>.</b></span><span style=3D"margin:0px; font-size:14pt">&nbs=
+p;</span></p>
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+<span style=3D"margin:0px">This includes questions about BIS jobs, Hub Self=
+-Service, Hub Full-Service and DOB NOW.</span><span style=3D"margin:0px">&n=
+bsp;</span></p>
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+&nbsp;</p>
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+<i>Inquiries sent directly to<span>&nbsp;</span><a href=3D"mailto:DOBCustom=
+erService@buildings.nyc.gov" style=3D"margin:0px">DOBCustomerService@buildi=
+ngs.nyc.gov</a>&nbsp;will only receive a response if it concerns an issue t=
+hat cannot be resolved through<span>&nbsp;</span><span style=3D"margin:0px;=
+ background-color:rgb(255,255,255)">the&nbsp;</span><span style=3D"margin:0=
+px; background:rgb(255,255,255)">h</span><span style=3D"margin:0px; backgro=
+und:rgb(255,255,255)">elp
+ form.</span><span style=3D"margin:0px; background-color:rgb(255,255,255)">=
+&nbsp;</span><span style=3D"margin:0px; background-color:rgb(255,255,255)">=
+&nbsp;</span></i></p>
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+&nbsp;&nbsp;</p>
+<p style=3D"background-color:rgb(255,255,255); font-size:11pt; font-family:=
+Calibri,sans-serif; margin:0in 0in 0.0001pt">
+See the<span>&nbsp;</span><a href=3D"https://gcc02.safelinks.protection.out=
+look.com/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fsite%2Fbuildings%2Findustry%2F=
+dob-now-build-faqs.page&amp;data=3D04%7C01%7CJodyKaplan%40buildings.nyc.gov=
+%7C3ad18beae23348dadb4808d8881a3625%7C32f56fc75f814e22a95b15da66513bef%7C0%=
+7C0%7C637408993435843623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIj=
+oiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=3DjJu2qWprqJN%2Ff=
+CMuRMM7%2BUbI2S23iPhOHAKR9WgEvK0%3D&amp;reserved=3D0" style=3D"margin:0px">=
+DOB
+ NOW: Build FAQs</a>,<span>&nbsp;</span><a href=3D"https://gcc02.safelinks.=
+protection.outlook.com/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fsite%2Fbuildings=
+%2Findustry%2Fdob-now-safety.page&amp;data=3D04%7C01%7CJodyKaplan%40buildin=
+gs.nyc.gov%7C3ad18beae23348dadb4808d8881a3625%7C32f56fc75f814e22a95b15da665=
+13bef%7C0%7C0%7C637408993435843623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAw=
+MDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=3DspDmQ=
+hgB2zHCedh1n%2BqA0H5FaEItRZT3hoyY9Rq6tqk%3D&amp;reserved=3D0" style=3D"marg=
+in:0px">DOB
+ NOW: Safety FAQs</a>,<span>&nbsp;</span><a href=3D"https://gcc02.safelinks=
+.protection.outlook.com/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fsite%2Fbuilding=
+s%2Findustry%2Fdob-now-inspection-faqs.page&amp;data=3D04%7C01%7CJodyKaplan=
+%40buildings.nyc.gov%7C3ad18beae23348dadb4808d8881a3625%7C32f56fc75f814e22a=
+95b15da66513bef%7C0%7C0%7C637408993435853582%7CUnknown%7CTWFpbGZsb3d8eyJWIj=
+oiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sda=
+ta=3DVz5GCZayWOrQWpHjeEdwvNsmqWXxWYnNxTjfHyBQ%2BFs%3D&amp;reserved=3D0" sty=
+le=3D"margin:0px">DOB
+ NOW: Inspections FAQs</a>, or<span>&nbsp;</span><a href=3D"https://gcc02.s=
+afelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fwww1.nyc.gov%2Fassets%=
+2Fbuildings%2Fpdf%2FeFiling_expansion_faqs.pdf&amp;data=3D04%7C01%7CJodyKap=
+lan%40buildings.nyc.gov%7C3ad18beae23348dadb4808d8881a3625%7C32f56fc75f814e=
+22a95b15da66513bef%7C0%7C0%7C637408993435863536%7CUnknown%7CTWFpbGZsb3d8eyJ=
+WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;=
+sdata=3DKe%2FhvWbhgfclufpqltQj74QBJ8p35gTrXpo8LvyCZZ0%3D&amp;reserved=3D0" =
+style=3D"margin:0px">eFiling
+ FAQs</a>&nbsp;for additional assistance.&nbsp;</p>
+<br>
+</div>
+</body>
+</html>
+
+--_000_4311acd1a5ae4c4b8d2689824e48d726DM8PR09MB6390namprd09pr_--

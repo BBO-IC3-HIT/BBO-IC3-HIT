@@ -1,0 +1,268 @@
+From - Thu Aug 11 15:33:05 2022
+X-Account-Key: account1
+X-UIDL: AFSDs2hy8qpEYvVgMQ5X4PoE12Y
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.159
+ by atlas215.free.mail.gq1.yahoo.com with HTTPS; Thu, 11 Aug 2022 20:01:53 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.209]
+Received-SPF: pass (domain of github.com designates 192.30.252.209 as permitted sender)
+Authentication-Results: atlas215.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 11 Aug 2022 20:01:53 +0000
+X-YMailAVSC: au3NJRU3bBszXgQUGi9WznD0QLO2tq4tLYbJkrrXUOlooh1
+ XWCZ8YV981af9tvCXcUqPGp2nmBFPFj95cqAGM.IJZWpRZMJF6oueQ1X_vjh
+ WZTyk6yuKgfPCWZSwKJtL12212QkI46Rz1s.Adt_W11988vDwLd8ntholXQK
+ .KXo9YJIOJnXR8br0RJNpeWDp_T22xV4AIXV4lio55NneL1JQwVMbrhG3mQb
+ MKRcs9bmClnv4Gdb6f_9zIOYhmj125KIw3CYTeBC0ddgZY.UsNSwSos0VtE.
+ z6npSIX8FpiqafLLEbzipRLA5cp7iu_pi0fzSg6X46rD8OErI67HuW7LRXHy
+ MTYdIdajO67CMlNrxXwIl2tnxcdg4wnNc1NnCDUSznNWKOHC5pUMqt8BibCx
+ 5He6OQrUa1LjMvDuG4Kt1cy7c9obJc5br5qiOPFQztD8Eq0ohuJlKinXRXBi
+ h4xGToc8lIsIk6ECBbhsINziTA_FRjyVzu1mSuDrqWc7nMALgMPfzNY_KLQ3
+ QOwHcu1poYQwvPEB74q5_bS_Hck1wgTn_vrGZzDcLqc._8OfEv3PmdXVsSLR
+ 5et7JzH2y0rwCVy0Sw6U3TpBYT0ZSOwtGdSpidX2_g55kC823OEQ_V5bTRE9
+ Za4_CzDxa9RaBwfN_yNT_7G6kBg5rN3X..mPv43XocvAqwi3oyA6NV4rvQu7
+ BI78WHK9mQafGW7KZx_B6C02FjGZYS3eWmJMODl6rwf4DC45KizAcVThy9xB
+ 4Xl.fRPO2kKbGrJxpe_3DL4ZXN1LXfyaZYJ5BQ.NNY1ILj1O4IxDS5Ogjd04
+ cRhZemTHYoiFUl9D55JZ0pGYj6oNz1UCDr..HIlIsZjEOsPkFglTafFVXDTk
+ w8rW95toaS7t7uOLtZCpkBq.E4LhPjVyHw.zBon3i.CX8sqWzxSTTc_Aw0Wd
+ 4e1eUs3pQQVLgld1eBVCYborZHK3zOnDLbujoNMmor_0yK3EDusX1xhPo9zp
+ h48GSqofmlEntoQ.IK8zzejm22WQXh7cHOPDG0FBpUpOrqJLAsRQD6RYhK4.
+ ObhUp6g.CEV0qNZCu.Dt.A6C1_spxdRUEStH9WO4yH4bLSqk26HzhgOhXz9Q
+ 3IDwEOMwcqRg72R_l5hy37mJx7hYOLDCPNtr_wuLMP5Ees5bTyzEpcqHCcJF
+ DaIj6rJnsZ7Rvlp.Edm12Bzm.uZe3NkSYJ20WuhcqRpOLQi51qwBvmnEv9CJ
+ tsEQO0H6spwmQ1RV9EF1pNRV0vNELr7l0S8Uy4c.A7NST4Ysq0xtG9eC_m3O
+ eF9GtG2f7hSWVG3SaFWtjLpJrXlLo6_2FWP1JGSHxozdjKbqYdEE-
+X-YMailISG: fYwrAi0WLDug78Tv1cafm243GBYIEUpPcQ_NUUICxYCS_xKV
+ BhEVEoq92JZ2_OUwazIVo_TVpXGEFLLX21nm9UZsSX3Txbjny5dUIuTPtGQL
+ JR_UpjZvQjBYaSdSFsHVSUdOfXuHnZhtbx.6dVyZmKU6DV.e6vCIAAD6CH3M
+ pIxRuXDbuFkYYf9dCicYqbgPGD4gqpKoptPkAFU84WLjBwf3oC55UgToQHxX
+ Td7wLHwa24VoeCv1ET6nYvqlJtppCZwfHftiLXPHgxtZj21fuw2yUKJJklsK
+ jANnq4H5a5xmJAf96FDoJWgj1ZzdB.PDJWnUHsB2Kllncx.QiSifSELRHXNR
+ M1AKI9ZfyKL5.jdwSXw0sFcFaFUUdwPSZmwM.oykTHlPlKHr187xOmpyxKwk
+ IJXbaAtDAJLWMb9wt8WN7p9aQqtlJbxU7_bXhqGSUVF9dID94DF4BdnFG.dY
+ lljTRxa5AUFjqayBWeLBM5Rz_sl2uuSiTxpcqMVuL3gTJhyu_mzVxHbi9zG5
+ HKmOUQccAywoML2iaPzXdc5LcZbgD9nVj2g8I8Hz2XGqqNcwE2cRHEZceih6
+ dVWL_rRtx3Z2pQssZE8aXkrB7dlJtNzTOt0.wjtOTcvbY5uekOFATooqVZlS
+ qVDk93TZKSdYo4k04odBp28T8pdtIBV0WPBycC0VvhgNG1LD0Zw_LgKbpavX
+ .bxYI2gq.BwyVn5m5F_Urpi7_jpuzGWD.0li8l4LqUXwsTppPSub4cUYAu6s
+ YF0G9wHAMX4iM2ZXWcBAfU4Vhbwu5eYz302HfxqVyXj1YG.XrtFsNm3FIH.a
+ WmSABunWmdAlxOJb7b5wOZBgezZII9_740l8MuCy62SQ9U9D5dUCG3kLW2S_
+ J5Pya1wuYbXd0qbAKRHlActCIuj_DXcGF7_ASWVju1eSw_G_kFMBNJuUAoxa
+ akoVt4uv.6gjwbhexLeQ2gXRM9fvdA.EpQ0h8.gs_Pb136O5ASECP.VGm4sJ
+ B8vb6bpFyuYuFkucT4xumq5.qL1cQ24Vb9nGbaLbae8MqrfWyYnggbTWSkGA
+ CDuLpBel0qAi19VGz.eGZTWHZYyH9m0SFIhZ5Rc0frIHyCHq2amMEoKaVoEw
+ 66V0A1_xN0sOkZOu._1dpDt9bK1uxqBgd78Fv_a7PzUwrnzDgYrb0UprsutY
+ R8krK8SqsNUyl_H39eP1unw9rlLWk3Bwk.RSvBu9sSGPFVSw7_xmY3d5n0qX
+ 52GM8pixd5jiUZBxYKokp7BLYXxvgzmV.8JIG4k0bW5ZDMJukK7arO2n5VKj
+ 1AndPAz8e6w7W06dQ4lThlsE8B1CFDDA
+Received: from 192.30.252.209 (EHLO smtp.github.com)
+ by 10.253.62.159 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 11 Aug 2022 20:01:53 +0000
+Received: from github-lowworker-c53a806.ac4-iad.github.net (github-lowworker-c53a806.ac4-iad.github.net [10.52.23.45])
+	by smtp.github.com (Postfix) with ESMTP id AD73B5E0509
+	for <ms60710444266@yahoo.com>; Thu, 11 Aug 2022 13:01:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1660248112;
+	bh=V4lsvHgkyPIquRld7rg82EWfIYyk2q8klrujKXSK1vA=;
+	h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:List-ID:
+	 List-Archive:List-Post:List-Unsubscribe:From;
+	b=QG6LjjLTU35RXz6ymkMNjsTr7Pa3O0vvq+pv7S1TWpubS4dmVrHI7XUg4FBweKGql
+	 oAjq+Zzd+D6hrzMwzKnqbLAhfWX+QYmqZbp5C9zKTBFmWYspbeYkNcEdshec4HhOrX
+	 7D8Q5B1DiCb1ZXe0Mh8bxTDkCKAmRk2a1OZkyPs8=
+Date: Thu, 11 Aug 2022 13:01:52 -0700
+From: 153974-HSI-OXLEY-BANKS-40ACT <notifications@github.com>
+Reply-To: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY <reply+AZZRE42M47GOAL3FLYR2ISGBAKJLBEVBNHHE4GDPOI@reply.github.com>
+To: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY <FEDERAL-USE-AND-DISTRIBUTION-ONLY@noreply.github.com>
+Cc: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER <ms60710444266@yahoo.com>, 
+ Mention <mention@noreply.github.com>
+Message-ID: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10/c1212431737@github.com>
+In-Reply-To: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10@github.com>
+References: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10@github.com>
+Subject: Re:
+ [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY]
+ $$$$[COLUMBIA-READ-RECEIPTS](https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/find/MSG-MULE1)
+ (PR #10)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_62f560309c89d_7e15d4bc1208cd";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: 153974-HSI-OXLEY-BANKS-40ACT
+X-GitHub-Recipient: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER
+X-GitHub-Reason: mention
+List-ID: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY
+ <FEDERAL-USE-AND-DISTRIBUTION-ONLY.WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER.github.com>
+List-Archive: https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY
+List-Post: <mailto:reply+AZZRE42M47GOAL3FLYR2ISGBAKJLBEVBNHHE4GDPOI@reply.github.com>
+List-Unsubscribe: <mailto:unsub+AZZRE42M47GOAL3FLYR2ISGBAKJLBEVBNHHE4GDPOI@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AZZRE43NHEV2ZPNJJ3NMADDVYVL3BANCNFSM54BXOUMA>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: ms60710444266@yahoo.com
+Content-Length: 8600
+
+
+----==_mimepart_62f560309c89d_7e15d4bc1208cd
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+## NO ONGOING INVESTIGATION HERE EITHER 
+- @WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER 
+- @WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER 
+
+![Screenshot_20220810-191019_YouTube.png](https://user-images.githubusercontent.com/110014688/184229429-27d0ea2c-2a81-44be-87bd-db88c5929287.png)
+
+![Screenshot_20220811-155751_Phone.png](https://user-images.githubusercontent.com/110014688/184228421-5dfadb6b-cb20-4b0f-8f63-37f4b8cbcbd8.png)
+
+![Screenshot_20220810-184403_Messages.png](https://user-images.githubusercontent.com/110014688/184228746-c191b8d0-c967-4d63-9cfd-bc6adf469752.png)
+
+
+![Screenshot_20220811-154503_Messages.png](https://user-images.githubusercontent.com/110014688/184228858-5adb81aa-ce50-40af-a96c-4269ef5d545c.png)
+
+
+![Screenshot_20220811-042015_Adobe Acrobat.png](https://user-images.githubusercontent.com/110014688/184228923-39e9fa4e-3d53-46a7-926e-d52609410c16.png)
+
+
+![Screenshot_20220810-190323_YouTube.png](https://user-images.githubusercontent.com/110014688/184229088-68712c37-020a-433e-8794-877d059dcc3c.png)
+
+![Screenshot_20220810-184201_Messages.png](https://user-images.githubusercontent.com/110014688/184229224-15821cd9-2e14-43a6-ad6f-998a61945ffb.png)
+
+
+![Screenshot_20220810-190323_YouTube.png](https://user-images.githubusercontent.com/110014688/184229296-16a06cf2-f5a5-4f43-861f-3d72dff4818b.png)
+
+
+![Screenshot_20220810-184344_Messages.png](https://user-images.githubusercontent.com/110014688/184229517-355ed028-f526-42ed-b4b4-6cbeda1a8cb9.png)
+
+
+![Screenshot_20220810-184240_Messages.png](https://user-images.githubusercontent.com/110014688/184229623-94283d57-886b-4a43-8d90-34772d6b1b2b.png)
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10#issuecomment-1212431737
+You are receiving this because you were mentioned.
+
+Message ID: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10/c1212431737@github.com>
+----==_mimepart_62f560309c89d_7e15d4bc1208cd
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p></p>
+<h2 dir=3D"auto">NO ONGOING INVESTIGATION HERE EITHER</h2>
+<ul dir=3D"auto">
+<li><a class=3D"user-mention notranslate" data-hovercard-type=3D"user" da=
+ta-hovercard-url=3D"/users/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/hoverca=
+rd" data-octo-click=3D"hovercard-link-click" data-octo-dimensions=3D"link=
+_type:self" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZU=
+CKER">@WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER</a></li>
+<li><a class=3D"user-mention notranslate" data-hovercard-type=3D"user" da=
+ta-hovercard-url=3D"/users/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/hoverca=
+rd" data-octo-click=3D"hovercard-link-click" data-octo-dimensions=3D"link=
+_type:self" href=3D"https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZU=
+CKER">@WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER</a></li>
+</ul>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229429-27d0ea2c-2a=
+81-44be-87bd-db88c5929287.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229429-27d0ea2c-2a81-44be-87bd-db88c5929287.png"=
+ alt=3D"Screenshot_20220810-191019_YouTube.png" style=3D"max-width: 100%;=
+"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184228421-5dfadb6b-cb=
+20-4b0f-8f63-37f4b8cbcbd8.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184228421-5dfadb6b-cb20-4b0f-8f63-37f4b8cbcbd8.png"=
+ alt=3D"Screenshot_20220811-155751_Phone.png" style=3D"max-width: 100%;">=
+</a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184228746-c191b8d0-c9=
+67-4d63-9cfd-bc6adf469752.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184228746-c191b8d0-c967-4d63-9cfd-bc6adf469752.png"=
+ alt=3D"Screenshot_20220810-184403_Messages.png" style=3D"max-width: 100%=
+;"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184228858-5adb81aa-ce=
+50-40af-a96c-4269ef5d545c.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184228858-5adb81aa-ce50-40af-a96c-4269ef5d545c.png"=
+ alt=3D"Screenshot_20220811-154503_Messages.png" style=3D"max-width: 100%=
+;"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184228923-39e9fa4e-3d=
+53-46a7-926e-d52609410c16.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184228923-39e9fa4e-3d53-46a7-926e-d52609410c16.png"=
+ alt=3D"Screenshot_20220811-042015_Adobe Acrobat.png" style=3D"max-width:=
+ 100%;"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229088-68712c37-02=
+0a-433e-8794-877d059dcc3c.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229088-68712c37-020a-433e-8794-877d059dcc3c.png"=
+ alt=3D"Screenshot_20220810-190323_YouTube.png" style=3D"max-width: 100%;=
+"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229224-15821cd9-2e=
+14-43a6-ad6f-998a61945ffb.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229224-15821cd9-2e14-43a6-ad6f-998a61945ffb.png"=
+ alt=3D"Screenshot_20220810-184201_Messages.png" style=3D"max-width: 100%=
+;"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229296-16a06cf2-f5=
+a5-4f43-861f-3d72dff4818b.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229296-16a06cf2-f5a5-4f43-861f-3d72dff4818b.png"=
+ alt=3D"Screenshot_20220810-190323_YouTube.png" style=3D"max-width: 100%;=
+"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229517-355ed028-f5=
+26-42ed-b4b4-6cbeda1a8cb9.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229517-355ed028-f526-42ed-b4b4-6cbeda1a8cb9.png"=
+ alt=3D"Screenshot_20220810-184344_Messages.png" style=3D"max-width: 100%=
+;"></a></p>
+<p dir=3D"auto"><a target=3D"_blank" rel=3D"noopener noreferrer" href=3D"=
+https://user-images.githubusercontent.com/110014688/184229623-94283d57-88=
+6b-4a43-8d90-34772d6b1b2b.png"><img src=3D"https://user-images.githubuser=
+content.com/110014688/184229623-94283d57-886b-4a43-8d90-34772d6b1b2b.png"=
+ alt=3D"Screenshot_20220810-184240_Messages.png" style=3D"max-width: 100%=
+;"></a></p>
+
+<p style=3D"font-size:small;-webkit-text-size-adjust:none;color:#666;">&m=
+dash;<br />Reply to this email directly, <a href=3D"https://github.com/WI=
+LSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pu=
+ll/10#issuecomment-1212431737">view it on GitHub</a>, or <a href=3D"https=
+://github.com/notifications/unsubscribe-auth/AZZRE42TIA4SBCGENR4QRLLVYVL3=
+BANCNFSM54BXOUMA">unsubscribe</a>.<br />You are receiving this because yo=
+u were mentioned.<img src=3D"https://github.com/notifications/beacon/AZZR=
+E42K4G4D7SKOAST4EKTVYVL3BA5CNFSM54BXOUMKYY3PNVWWK3TUL52HS4DFVREXG43VMVBW6=
+3LNMVXHJKTDN5WW2ZLOORPWSZGOJBCD26I.gif" height=3D"1" width=3D"1" alt=3D""=
+ /><span style=3D"color: transparent; font-size: 0; display: none; visibi=
+lity: hidden; overflow: hidden; opacity: 0; width: 0; height: 0; max-widt=
+h: 0; max-height: 0; mso-hide: all">Message ID: <span>&lt;WILSON-ELSER-ST=
+ATEFARM-SULLIVAN-ZUCKER/FEDERAL-USE-AND-DISTRIBUTION-ONLY/pull/10/c121243=
+1737</span><span>@</span><span>github</span><span>.</span><span>com&gt;</=
+span></span></p>
+<script type=3D"application/ld+json">[
+{
+"@context": "http://schema.org",
+"@type": "EmailMessage",
+"potentialAction": {
+"@type": "ViewAction",
+"target": "https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDE=
+RAL-USE-AND-DISTRIBUTION-ONLY/pull/10#issuecomment-1212431737",
+"url": "https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/FEDERAL=
+-USE-AND-DISTRIBUTION-ONLY/pull/10#issuecomment-1212431737",
+"name": "View Pull Request"
+},
+"description": "View this Pull Request on GitHub",
+"publisher": {
+"@type": "Organization",
+"name": "GitHub",
+"url": "https://github.com"
+}
+}
+]</script>=
+
+----==_mimepart_62f560309c89d_7e15d4bc1208cd--

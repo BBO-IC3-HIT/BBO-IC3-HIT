@@ -1,0 +1,1226 @@
+From - Sun May 22 23:32:18 2022
+X-Account-Key: account1
+X-UIDL: AJxtiYVKTTP1YosJBwC/aDypsVw
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.136.93
+ by atlas305.free.mail.ne1.yahoo.com with HTTPS; Mon, 23 May 2022 04:09:57 +0000
+Return-Path: <pinkbookswap@yahoo.com>
+X-Originating-Ip: [74.6.134.42]
+Received-SPF: pass (domain of yahoo.com designates 74.6.134.42 as permitted sender)
+Authentication-Results: atlas305.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 23 May 2022 04:09:57 +0000
+X-YMailISG: E86HmsYWLDvQP.XDe_rT87kHZxJSQbyif3YeGz_EMubUB.Mm
+ VPiracFJ3oOjz.Ib7A62lMQwQ8SvxoumAQHRXYJmbVVOnrduW.dnD52McxXd
+ x522DSRtckYIIYvWSOAo_BAWISXuEtpzkk4rMNZ4dEVeWo.Wq7o4rAKGB1e9
+ dYmLEchMFwfNYyQWl5tbhr9ikfAH7XM0kZJsNvl0w6yfZXbaQxkmFp.DWtC.
+ TGjoGUeRSxetVhV..djSyx0NctIsrwmX7PKef0dMjuFuWkMMzEoA8FxEBhP.
+ N.KrbiOd6vkbWeJKXHRLpRB0ptj4dB739SdVRsCDa1pMGxk1o484WBRVZLFO
+ ZTN.Zbrn9AwBtPL3QzqQw2IORlwpgbWLCIyoaOjZ320Me6pmVqiXArcAUcOn
+ AVu0WYObbTKd5aU8.7j.vGYr9gvPThyXI33tEHvt2bQTv.DUo86uxsmkYQGu
+ CrvPCbC.56mgX5SgT0i17XTHs_hvkUnuJaeoB8XPJYryE2zXid3bLKcOapZT
+ PSF97lTAAyv.UEbay55QLDdiCj0bLfWl0mQZus8dxUIsC4N0jOKSkfj9t5Qs
+ AMzurxTe1SxJeeXL4s3uaqaOeOhEx3fqDT5bKaSbZT5r0bOgwy_6Q1YvlgY.
+ bMxsg3bN4hxAdrMmjPzgdNpL2e6NvldvCCq2xDwXlUL4ftSFCNXVcD01flYU
+ P1ZjP1loL3pQgbmC4pMVfcQrgDkLYelc2DwxDQPCrVo7HKZgovMXwEoeC4Sl
+ by4ISSCFNxSMLU4ypuj_dSai8xCQID3XGGFkGmKKRjT4wn.fG1DJRleDbwGo
+ p6Ehlklv0EH7Cc5mXu6nkqXsQ5Ogw5JPRTxPmQ7V7jEifyJbBiiE3LiGvRwS
+ HJbcjxrMnGB5FCu9Azt65gYziFlItbXsjyzd9o6DleEWADnoYGE59sp2wy8H
+ kJnQ8qStrCgjhWhF9tK8_pJV9_hhcqI9Bx2CJ1TNjKqtIKsYH4R.F8Fy4NLu
+ 7dizgdqUQkSI7DCmZMiYE2U_OI2RURR1h1oO9DfzMRT6xQE_EJDdjXyuU0R_
+ oXuwyU9.Mb0DUCoN4X140IfFw1H0xe3FgLAUTmWEkWddjyl6M.v3IbNNinkm
+ ONqeuDLNep8oaQSGF6E5vc1illXc5l7RnzhkANUpIjbS6I6oNYhGOhtT6xjO
+ d0XjkqoD_1m8jYCZ.3E9shPfLmCnMpU0HXv4JRSqLcZH6FiG5ggiDEV.GpNZ
+ WiYtJnN5e86Yj3FxsjzRRSNa68CUXEYsLyAVmRt64kedaXUPSEUXqZXdjrg4
+ 0DBtLf4dCx0e9InnFSPcRwxicktkDya55hE-
+Received: from 74.6.134.42 (EHLO sonic307-3.consmr.mail.bf2.yahoo.com)
+ by 10.217.136.93 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 23 May 2022 04:09:57 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1653278996; bh=8sAmP7XanndyiEsh0Nxr63aTH0c1GlJaDk6jzu7OBx4=; h=Date:From:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=ipGwBjah9kciU5kXux6Lj4bRafKW2AssdK0BoIha12K86c5dmBHMH17P+tEgk3Jxbegw0VGJo7XChpE8lRd2SPi4Iq3JRtoF09CL/QViGK8/vRneWQhgMQoBrZYH1HdO4cbMZ8dW9zO+1mIHXibs6rgtSz57hnaM66pnWKw6Tl60dNG985bdukVAOlAdHdlw/NMlzHf5xK0OeXwshPQ2tUYEkJ4bhJLp2dAX0f+ppnNqqkyuMAZcxOVxk5mb2BtWJ6G/G/abcJzyeDY1Cqr5TeRHHJBF6lE13QUqYr169CC1X+wSy0bP0nWDUsrPqLr1iUlxJL16aguYaJsJUomN5g==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1653278996; bh=CQUGNYsqrrNGQ74PozUGfZl8c5J4Mq0yVryoGKBsR5y=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=K+OZXpaDWHtl5NyHA03XLx4rRfcJmNpltuZz8PaMRXyUJGwC1FXGUyvDamf0PlIW5PKNQY4OM8oBtrXt1MG5EFbb826fPNaqXkgpuhwLt0+ltCq4Ubdah8Q2jl8OSBbe4Tv5hJjAMzzZvJVE3L6zYcplNwdXTIk1XkmPWPE+J2G8FwfppZjC2cIknNmBSJHakMbSr2cpwdbzsK+L/k+Zv6J4BHq33cIe5OW2PGEt+GzlROBak2i0Zn2Gfb5dtOpRZDNyEM+aDPVtyBwtgHx4PQ/3gSKhGyKdjIKhGNq/FrrcCXairOY+9k8fpZjWBRIRGRlDhq7h71lHhvwVOxg1Ag==
+X-YMail-OSG: ixcwuUgVM1m3GBrq7phxcSNHLmtuMihkEUkuX1EVZwWA_KVNNySr537pxY8wZpb
+ WvefFk4zaLZQ.ML6w1ZMyv7WY7VzxWk7g355_Ei4e72TC4G_Brk6dg0PnNgVkZNnlupKuCIvHh2B
+ HioLuYAC_YcdUh.bJog3P.cktjr7BNjFzZEZOmc3makfE_OEgEFqvkbPLloyc.88xBxqrWDnUbbj
+ OdFVW2wAQyF53_.TpWA7dvPYKV_zCZVKbsqZcd8yR20G.ieQ6QbGILp5_npJXOPBx8xNlmbXyEYr
+ PQX_tZW_JUhtfkcvNBRnf9C1i5R7f0yKannKqqRCh5DMeF5foVLEYEG.sLN3APhSC5avQ9eMbM7r
+ v.x_xIEsJpzXhMWo_q82lM9Fpq.QOXgN1JW.YYOHk4zMSRhLNdDtQXfP8KoApaY1llcNkfL.qIJF
+ x__JHEZve029VC68e7q0T3EwGqVdxB8p7hM68oGrXN6_LanoiE0.Kq0nI0kb8YsWtB.u1py72hSy
+ bNTIN2IyPqRvNdcid1tEWQF5OPwB6e6qe_cupoJ5amXuaB.ENjXAd4wiTnG.OJcaEnQMgQza29o9
+ wc1LfjolNogwUa7EMkeK5_xThmj0I2Gds6RLhfAhrhJ.R_KI1Ey7rzBB7ARVdX0_zkhkvNohbi68
+ 37prsJeZ1TjE8e7SvH.Qvh04YNjku8aS.5BSb47nzg7WqVteNtKXhbn5a5TIGvOjg4ZR0e7.bffh
+ eFUWlODn8KWjvvmVmCyd3c_1Aab4DZqCdZVLBk78_RGWCfw9izbMQBsRtPC_RWejM9sZW3MOzFl6
+ 2w1mCG2SulrSSDG8MucZKL4SFM6oU8zPzYk6OWNiw0iwLOBJ.xi6fz6jIaB1AYaEkEdB7R.PvGLw
+ 0qLN2XhaRKcYX6DAlUPB6yi4nWJ3hOAAMjBe4XnvflRCqQv7.V0tvxVJ3MbkogL2QVhSxAXyX5hA
+ iI9Nqo0vf0jNoQxnsb6ghUIRjdHV2eyeCGsLbv4zAUtWrYSrAM5E031gdqWp1O794qjNtegFr0zW
+ ElnD8V_2oK89cUMAsH6ktsJYIBGlMb9uqGXJpJSpR7dukkkonNfJ7adBlVHQ2d1IgsjvSDpvtG3t
+ Kq.SRhXfwxVbN3ChvQV5UvyjOFlGzN66FIjmP_gLdDua0YHIpw45Y9dJbQhf1mKE2F1R360Mxqp4
+ gLdLn5wJOQRvkmVJ9JxaG3RygvGn8PzfGpXMSheDJKdkqi0Ts9mYHrRJBOEC8Y7yNRv9NJNPWYp8
+ GXgD0AwVgRls2x1S9gBGLkjgMyapTLi35esUdL78Ea.v3XYIg4V7J4LNuRDrKTWWvRzT1QNwV473
+ S.Dsh7MB1Ef0Noprbi46vwPMXDjG1vE7489vUXvH_J2GHoYE.XW1kEJW5ugqPBmnSEIpmiiitWuA
+ QyB2ascUps9LU8skevpge7ci4y8qEfPB9TuojknW2CLPOUNCQSQvRTf0GWFoy.pEMAga6yWqzIVJ
+ kGo87.fPEpN52_8uBzj3RoplJatIhlmubWfc49sfxzoHojbhgbZdYTYpHFIn3BJ5HRaPuxkR63ZA
+ OQVfXSezc4uiq0dz2VIegS.h4fzeY6DeY_zHYQgSTJYhwwO.X_bshyLH8EsMvFZ5eS3MJJtVCUhD
+ aYdQi9IQ44KnE20wpeatRHlJ8Cul1f7fTuQbOb3odbodVuYuLHmNaWt5bsFSPk_6PD6P3.TTNBbz
+ pMeU03rMosuIu9p5irbIQfNYlGueJGnzDwmhjPO6o5B3kvgwvxkJNMQWOKY3w.5Slx5I37bS4ivz
+ 88HlVPuY6nn5bJOdou8fPLxYtwjL6uLq9JAbsJxetzDFQ4be4uab3Ke1A_jfgKfy4utErzaMLXnJ
+ uyCWYDQCyzNrqEUDbx21PxczCXQWPiEaRYg49_oOeZtP5sfiRHqw_kp7kLYCCAjXb3gWtVlnAg8w
+ NaRTZe0VM5kAsG9ZLiStu2gvROsFasNjTxyVdIx5Oibo.RXuy0XMDlSvCRWQYpFn55CiEQi1yWor
+ 2OugGeWfqFC4yXHgu9nnXUiDaMk5xV05j7.7qbbKWSyUhtgrafD35NjM61ldBKSMGJOGOm2o0Fqu
+ upPztBobr0dPkMn3b_xVrDOotwdyX_1686SoWjaxD1jH_ki4E6lvubKARCPfnhg4XjeMJrVznEN7
+ LycG4VACz5qLd65kCz59wiQUPYwxtefVFG8XY7TJti2NVsEBL2hlSeHp8TCSbLdhIei00P_43iw1
+ _mEk7tcTACom0xX2oW6nRFwZ29J_7ISYMi0S3.Dpj4f6wgnUOA5UDy57xH2ePXK4GYoUuHtcdnjH
+ VKg--
+X-Sonic-MF: <pinkbookswap@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic307.consmr.mail.bf2.yahoo.com with HTTP; Mon, 23 May 2022 04:09:56 +0000
+Date: Mon, 23 May 2022 04:09:48 +0000 (UTC)
+From: "pinkbookswap@yahoo.com" <pinkbookswap@yahoo.com>
+To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+Cc: "block503lot11@outlook.com" <block503lot11@outlook.com>, 
+	"gsamonlinerequest@gs.com" <gsamonlinerequest@gs.com>, 
+	"jpetit@mccarter.com" <jpetit@mccarter.com>, 
+	"paul.jones@tudor.com" <paul.jones@tudor.com>, 
+	"ir-operations-team@tudor.com" <ir-operations-team@tudor.com>, 
+	"ir@tigerglobal.com" <ir@tigerglobal.com>, 
+	Us Umusic Online Info <info@us.umusic-online.com>, 
+	 <membership@sohohouse.com>
+Message-ID: <1637415087.862764.1653278988616@mail.yahoo.com>
+In-Reply-To: <1974634726.1165702.1653269271830@mail.yahoo.com>
+References: <BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/push/refs/heads/REQUEST-TO-BAR/3062fc-80bec9@github.com> <ef59574f-5dbe-ce7c-0923-ad53e1338134@yahoo.com> <1974634726.1165702.1653269271830@mail.yahoo.com>
+Subject: Re: B-114.  C16-93715 OBSTRUCTION
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_862763_129639009.1653278988610"
+X-Mailer: WebService/1.1.20225 YahooMailIosMobile
+Content-Length: 53338
+
+------=_Part_862763_129639009.1653278988610
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Can someone ask MSCO 8209 or whatever number they use now for a quote of ST=
+FGX or STFBX or any of the underlying holdings..
+They must know what=E2=80=99s going on in the former right?
+
+-=C2=A0Under filer 93715, knew about the legal matters and also the taxes e=
+vaded and letter of credit, without any indemnity however for State Farm Li=
+fe Insurance, of State Farm Realty Insurance LLC which is owned and operate=
+d by the directors of State Farm VP Management Corp. under both Filer 93715=
+ and 1516523.
+Not Covered for omissions by their =E2=80=9CFIDELITY=E2=80=9D or by the new=
+ 40-17G indenture of Assurances Funds Trust,=C2=A0and the same sub-manager =
+from the prior State Farm Assurances Funds Trust; was misrepresented in the=
+ir application to =E2=80=9CMerge=E2=80=9D and under the auspice of Morgan S=
+tanley as their Promoting broker.
+
+_______________
+Tel: =C2=A0646-256-3609
+P.S
+ATTN: STATE FARM
+
+ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
+
+
+
+Build software better, together=C2=A0
+ =20
+| =20
+|  =20
+|  =20
+|   |    |
+
+   |
+
+  |
+| =20
+|    | =20
+Build software better, together
+=20
+GitHub is where people build software. More than 83 million people use GitH=
+ub to discover, fork, and contribute to over 200 million projects.
+  |   |
+
+  |
+
+  |
+
+ =20
+
+
+** YOU OWN THE TAX LIABILITIES ON THOSE PROPERTIES --- ALL 6 OF THEM
+
+** YOU ALSO TOOK ON THE LIABILITIES OF THE "LEASES AND RENTS" TRANSFFERRED?=
+? OR USED AS A GUARANTEE FOR A LETTER OF CREDIT.
+
+
+
+"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DfXMaXgeyzv=
+A85ViWMmvfAQ=3D=3D"=C2=A0
+
+
+
+yOU UNDERSTAND WHAT YOU'RE PLAYING WITH - OR DID I MARK YOUR INTEREST EARLI=
+ER AS WELL..
+
+
+
+LET me know if your counselors have an opinion on this as well.
+
+
+
+[ C16 - DEALINGS -- UNFAIR DEALINGS AND INSIDER INFORMATION]
+
+ATTACHED.
+
+
+
+#GOCARDS
+
+
+
+Build software better, together=C2=A0
+ =20
+| =20
+|  =20
+|  =20
+|   |    |
+
+   |
+
+  |
+| =20
+|    | =20
+Build software better, together
+=20
+GitHub is where people build software. More than 83 million people use GitH=
+ub to discover, fork, and contribute to over 200 million projects.
+  |   |
+
+  |
+
+  |
+
+ =20
+
+
+^ tax receipts
+
+
+
+https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf=C2=A0
+
+
+
+
+
+VIOLATION OF PRIVACY
+
+
+
+MOV FILES DISTRIBUTED - NEVER RETURNED MY CALL EITHER.. IN FACT - HUN=E2=80=
+=A6 by BSCPGROUPHOLDINGSLLC =C2=B7 Pull Request #7 =C2=B7 BSCPGROUPHOLDINGS=
+LLC/ELSER-AND-DICKER=C2=A0
+ =20
+| =20
+|  =20
+|  =20
+|   |    |
+
+   |
+
+  |
+| =20
+|    | =20
+MOV FILES DISTRIBUTED - NEVER RETURNED MY CALL EITHER.. IN FACT - HUN=E2=80=
+=A6 by BSCPGROUPHOLDINGSLLC =C2=B7 Pull Request #7 =C2=B7 BSCPGROUPHOLDINGS=
+LLC&#47;ELSER-AND-DICKER
+=20
+I WAS ALSO ABLE TO CONVERT THIS PICTURE INTO A .MOV FILE... AT THE END FOR =
+YOU AS WELL. THAT LOOK OK FOR A CROSS MOTION .. SO I MADE A MOTION INSTEAD =
+[00048] 153974_2020 - INSIDE VIEW YES OR NO.p...
+  |   |
+
+  |
+
+  |
+
+ =20
+
+
+
+
+
+
+HOW MANY FIRMS DOES IT TAKE TO LOSE TWO BILLION DOLLARS OF MARKET CAP - AND=
+ HIDE IT FROM THE INVESTORS...
+
+
+
+UPDATED C16-93715 INSIDER OMISSIONS BY THE PREMIUM DEALERS AT 750 SEV=E2=80=
+=A6 =C2=B7 BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER@3062fcf=C2=A0
+ =20
+| =20
+|  =20
+|  =20
+|   |    |
+
+   |
+
+  |
+| =20
+|    | =20
+UPDATED C16-93715 INSIDER OMISSIONS BY THE PREMIUM DEALERS AT 750 SEV=E2=80=
+=A6 =C2=B7 BSCPGROUPHOLDINGSLLC&#47;ELSER-AND-DICKER@3062fcf
+=20
+=E2=80=A6ENTH AVENUE &#38; CO. &#60;!DOCTYPE html&#62; &#60;html&#62; &#60;=
+head&#62; &#60;meta charset=3DUTF-8 &#47;&#62; &#60;meta name=3Dauthor cont=
+ent=3DMarkdownVie...
+  |   |
+
+  |
+
+  |
+
+ =20
+
+
+
+
+THATS TWO BILLION USD=C2=A0
+
+On Sunday, May 22, 2022, 9:28 PM, Bo Dincer <bo.dincer@yahoo.com> wrote:
+
+=C2=A0 =C2=A0 ATTN: STATE FARM...
+/S/ BO DINCER=20
+=20
+   ----- Forwarded Message ----- From: "B D2022" <ms60710444266@yahoo.com> =
+To: "news@therealdeal.com" <news@therealdeal.com>, "news@penews.com" <news@=
+penews.com>, "mediarelations@ap.org" <mediarelations@ap.org>, "df@gc.columb=
+ia.edu" <df@gc.columbia.edu>, "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>, =
+"ds@gc.columbia.edu" <ds@gc.columbia.edu>, "gcho@doi.nyc.gov" <gcho@doi.nyc=
+.gov>, "jeb@gc.columbia.edu" <jeb@gc.columbia.edu>, "jk@gc.columbia.ed" <jk=
+@gc.columbia.ed>, "jmf@gc.columbia.edu" <jmf@gc.columbia.edu>, "js@gc.colum=
+bia.edu" <js@gc.columbia.edu>, "kd@gc.columbia.edu" <kd@gc.columbia.edu>, "=
+kyh@gc.columbia.edu" <kyh@gc.columbia.edu>, "mg@gc.columbia.edu" <mg@gc.col=
+umbia.edu>, "mn@gc.columbia.edu" <mn@gc.columbia.edu>, "mpc@gc.columbia.edu=
+" <mpc@gc.columbia.edu>, "mya@gc.columbia.edu" <mya@gc.columbia.edu>, "pc1@=
+gc.columbia.edu" <pc1@gc.columbia.edu>, "pml@gc.columbia.edu" <pml@gc.colum=
+bia.edu>, "psc@gc.columbia.edu" <psc@gc.columbia.edu>, "rs@gc.columbia.edu"=
+ <rs@gc.columbia.edu>, "ssc@gc.columbia.edu" <ssc@gc.columbia.edu>, "tc@gc.=
+columbia.edu" <tc@gc.columbia.edu>, "VOGcustserv@cdsfulfillment.com" <VOGcu=
+stserv@cdsfulfillment.com>, "writingcenter@columbia.edu" <writingcenter@col=
+umbia.edu>, "sgo2107@columbia.edu" <sgo2107@columbia.edu> Cc:  Sent: Sun, M=
+ay 22, 2022 at 8:21 PM Subject: Fwd: [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER=
+] 80bec9: C16-937 =20
+
+-------- Forwarded Message --------
+| Subject:  | [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER] 80bec9: C16-93715 151=
+6523 [ SFITX STFGX STFBX SFBDX ] #1 |
+| Date:  | Sun, 22 May 2022 17:19:42 -0700 |
+| From:  | 1212-5858 <noreply@github.com> |
+| To:  | MS60710444266@YAHOO.COM, BLOCK803LOT11@OUTLOOK.COM |
+
+
+
+ Branch: refs/heads/REQUEST-TO-BAR
+
+ Home: https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+
+ Commit: 80bec9c83359c85563c8847bfef867c4cdb180cb
+
+ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/80bec9c833=
+59c85563c8847bfef867c4cdb180cb
+
+ Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+
+ Date: 2022-05-22 (Sun, 22 May 2022)
+
+
+
+ Changed paths:
+
+ A 1516523-100-C16-93715
+
+
+
+ Log Message:
+
+ -----------
+
+ C16-93715 1516523 [ SFITX STFGX STFBX SFBDX ] #1
+
+
+
+ATTN: STATE FARM
+
+ ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
+
+
+
+https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1
+
+** YOU OWN THE TAX LIABILITIES ON THOSE PROPERTIES --- ALL 6 OF THEM
+
+** YOU ALSO TOOK ON THE LIABILITIES OF THE "LEASES AND RENTS" TRANSFFERRED?=
+? OR USED AS A GUARANTEE FOR A LETTER OF CREDIT.
+
+
+
+"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DfXMaXgeyzv=
+A85ViWMmvfAQ=3D=3D"
+
+
+
+yOU UNDERSTAND WHAT YOU'RE PLAYING WITH - OR DID I MARK YOUR INTEREST EARLI=
+ER AS WELL..
+
+
+
+LET me know if your counselors have an opinion on this as well.
+
+
+
+[ C16 - DEALINGS -- UNFAIR DEALINGS AND INSIDER INFORMATION]
+
+ ATTACHED.
+
+
+
+#GOCARDS
+
+
+
+https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490
+
+^ tax receipts
+
+
+
+https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf
+
+
+
+
+
+VIOLATION OF PRIVACY
+
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+
+
+
+
+HOW MANY FIRMS DOES IT TAKE TO LOSE TWO BILLION DOLLARS OF MARKET CAP - AND=
+ HIDE IT FROM THE INVESTORS...
+
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/3062fcf9c98=
+9174cbc76ea0b7d8135cf32eef8f4
+
+
+
+THATS TWO BILLION USD.
+
+
+
+NOT INCLUDING THE 9 BILLION IN ASSETS UNDER MANAGEMENTS LOST, AND NO LONGER=
+ UNDER FILER 93715.
+
+
+
+
+
+ - PRIOR TO LITIGATION AND REGULATORY FINES???
+
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+
+
+
+WARNED THEM IN JUNE OF 2020 - THAT THERE IS ABOUT $9 BILLION AT RISK.
+
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DTxAa7cNVIHK=
+tnJU/ni/zvg=3D=3D
+
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/61f910a979d5ec11a7b5000=
+d3a1af965/2020-06-03%20Notice%20and%20Obstruction.png
+
+
+
+TRIED TO HAVE STATE FARM RESPOND, IN A CHANGE OF CAPTION, AND NOTIFIED ALL =
+RELEVANT PARTIES ON THE 8TH OF AUGUST IN 2020.
+
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DXjn0/e1NcBA=
+DqRc_PLUS_g11P4g=3D=3D
+
+
+
+FILED A TCR REPORT WITH THE SECURITIES AND EXCHANGE COMMISSION ON NOVEMBER =
+13TH, 2021
+
+
+
+[ _TCRReport (1).pdf ]
+
+
+
+NOTIFIED THE PROMOTERS OF STATE FARM ON NOVEMBER 16TH, 2021
+
+
+
+HOW MANY PEOPLE DOES IT TAKE TO DO THE OPPOSITE?
+
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/d7daa60e1e9=
+3abf4098d905770c945a2957c46c8
+
+
+
+ June 3, 2020
+
+ https://saaze2311prdsra.blob.core.windows.net/clean/61f910a979d5ec11a7b500=
+0d3a1af965/2020-06-03%20Notice%20and%20Obstruction.png
+
+=20
+ February 20, 2022
+
+ Your fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 267-466-1115
+
+ " has been delivered successfully at 11:44 PM Eastern Daylight Time"
+
+ https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110d164afa=
+a6
+
+
+
+
+
+
+per the holding report filed by Terrence Ludwig, Paul J Smith and other com=
+pliance officers and Directors of:
+
+
+
+ State Farm VP Management Corp.,
+
+
+
+
+
+ I am certain those securities reported in the semi-annual holding reports =
+were traded by Morgan Stanley without any disclosure to other market partic=
+ipants, which I understand as:
+
+
+
+INSIDER TRADING AND UNFAIR DEALINGS.
+
+
+
+=20
+
+
+ ## WHEN I am CERTAIN
+
+
+
+
+
+
+
+I do NOTIFY parties which in part is a failure on the PART OF THE CURRENT "=
+PROMOTERS"
+
+
+
+1. to make these undisclosed / unregistered securities public and make them=
+ available to the General PUBLIC for consideration prior to making an inves=
+tment.=20
+
+
+- and also in the Central Registration Depository by the Representatives at=
+ State Farm VP. FIRM 43036...
+
+
+
+=20
+
+
+## SO HOW EXACTLY IS IT THESE MORALLY ARE DECISIONS BY THE "PROMOTERS" of a=
+ $10 BILLION DOLLAR "State Farm Associates' Funds Trust"
+
+
+
+
+
+
+
+COMPLIANCE OFFICER & TREASURER ALSO CERTIFIED UNDER THESE DOCTRINES HERE un=
+der the Sarbanas-Oxley and the Securities and Exchange Act of 1940, HAVE NO=
+T DEALT FAIRLY WITH PRICE WATERHOUSE, IN THEIR CONCERTED EFFORTS OF OBSTRUC=
+TION AND UNFAIR DEALINGS=E2=80=A6 HAVE CREATED AN EVEN LARGER PROBLEM WHICH=
+ I ALSO TRIED TO MITIGATE IN THEIR OMISSIONS.
+
+
+
+
+
+WITH THE HELP OF THE ZUCKER FAMILY AND ITS COUNSELORS, THESE LOSSES WILL CO=
+NTINUE AND MORE SPECIFICALLY IN THE =E2=80=9CEVASIVE=E2=80=9D STRATEGIES EM=
+PLOYED BY THE COUNSELORS AND ADVISORS OF THE FORMER AND CURRENT STATE FARM =
+FUNDS HEADQUARTER, MANAGED AT:
+
+
+
+ ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710
+
+
+
+
+
+TO CEASE AND DESIST.
+
+
+
+
+
+
+
+
+
+1. I REQUESTED AN ESTOPPEL: STATE FARM
+
+
+
+ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3Ds5WAeCnxmd=
+/hcOI4eTnbig=3D=3D
+
+
+
+
+
+
+
+2. I REQUESTED AN ESTOPPEL: THE ZUCKER FAMILY & ITS COUNSELORS.
+
+
+
+=20
+
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DJf3Un/JaVXZ=
+wF7kvbaee4w=3D=3D
+
+
+
+
+
+
+
+
+
+
+
+
+It's all about who you have working in your best interests - you know what =
+that is right Jamoe???
+
+
+
+- You're traders have to cheat AND pay extra to keep an eye on me, all 25,0=
+00 of them - but guess what.
+
+
+
+--- I can carry them too... ALL OF THEM
+
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/d7daa60e1e9=
+3abf4098d905770c945a2957c46c8
+
+
+
+
+
+* HEY IF YOU ARE LOOKING FOR AN EARLY RETIREMENT, JUST SAY THE WORD BUDDY..=
+ PLUS, THAT NAME HASN'T CHANGED IN A WHILE HAS IT...
+
+
+
+
+
+ =20
+
+
+
+
+------=_Part_862763_129639009.1653278988610
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head><!--[=
+if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>=
+96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--></head><bo=
+dy>
+Can someone ask MSCO 8209 or whatever number they use now for a quote of ST=
+FGX or STFBX or any of the underlying holdings..<div><br></div><div>They mu=
+st know what=E2=80=99s going on in the former right?<br><br></div><div>-&nb=
+sp;Under filer 93715, knew about the legal matters and also the taxes evade=
+d and letter of credit, without any indemnity however for State Farm Life I=
+nsurance, of State Farm Realty Insurance LLC which is owned and operated by=
+ the directors of State Farm VP Management Corp. under both Filer 93715 and=
+ 1516523.</div><div><br></div><div>Not Covered for omissions by their =E2=
+=80=9CFIDELITY=E2=80=9D or by the new 40-17G indenture of Assurances Funds =
+Trust,&nbsp;and the same sub-manager from the prior State Farm Assurances F=
+unds Trust; was misrepresented in their application to =E2=80=9CMerge=E2=80=
+=9D and under the auspice of Morgan Stanley as their Promoting broker.</div=
+><div><br></div><div><br>_______________<br><div>Tel: &nbsp;646-256-3609</d=
+iv><div><br><div>P.S</div></div><div><br></div><div>ATTN: STATE FARM<br><br=
+>ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br><br><br><br><a href=3D"htt=
+ps://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1" target=3D"_blank" cl=
+ass=3D"enhancr2_DDA9F42B-F81C-4A9D-892C-7BD54A390847">Build software better=
+, together</a>&nbsp;<div><br></div><div id=3D"enhancr2_DDA9F42B-F81C-4A9D-8=
+92C-7BD54A390847" class=3D"yahoo-link-enhancr-card yahoo-link-enhancr-cardS=
+ize-medium yahoo-link-enhancr-cardType-yenhancr yahoo-link-enhancr-cardCate=
+gory-article  ymail-preserve-class ymail-preserve-style" style=3D"max-width=
+:400px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;" content=
+editable=3D"false" data-url=3D"https://github.com/users/BSCPGROUPHOLDINGSLL=
+C/projects/1" data-type=3D"LINK_ENHANCR_ATTACHMENT_TYPE_INLINE" data-catego=
+ry=3D"article" data-embed-url=3D"" data-size=3D"medium">     <a href=3D"htt=
+ps://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1" style=3D"text-decora=
+tion:none !important; color: #000 !important;" class=3D"yahoo-enhancr-cardl=
+ink" target=3D"_blank" rel=3D"noreferrer">         <table class=3D"card-wra=
+pper yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"max-width:400px;">             <tbody><tr>             <td width=3D=
+"400">                 <table class=3D"card yahoo-ignore-table" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"max-width:400=
+px;">                     <tbody><tr>                         <td class=3D"=
+card-primary-image-cell" style=3D"background:#000 url('https://s.yimg.com/l=
+o/api/res/1.2/JauAtmHu3W2vrpNlK2JqYA--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD=
+1pZXh0cmFjdA--/https://github.githubassets.com/images/modules/open_graph/gi=
+thub-logo.png.cf.jpg') no-repeat center center;background-size:cover;height=
+:200px;position:relative;" background=3D"https://s.yimg.com/lo/api/res/1.2/=
+JauAtmHu3W2vrpNlK2JqYA--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1pZXh0cmFjdA--=
+/https://github.githubassets.com/images/modules/open_graph/github-logo.png.=
+cf.jpg" bgcolor=3D"#000000" valign=3D"top">                              <!=
+--[if gte mso 9]><v:rect fill=3D"true" stroke=3D"false" style=3D"width:400p=
+x;height:218px;position:absolute;top:0;left:0;"><v:fill type=3D"frame" colo=
+r=3D"#000000" src=3D"https:&#x2F;&#x2F;s.yimg.com&#x2F;lo&#x2F;api&#x2F;res=
+&#x2F;1.2&#x2F;JauAtmHu3W2vrpNlK2JqYA--~A&#x2F;Zmk9ZmlsbDt3PTQwMDtoPTIwMDth=
+cHBpZD1pZXh0cmFjdA--&#x2F;https:&#x2F;&#x2F;github.githubassets.com&#x2F;im=
+ages&#x2F;modules&#x2F;open_graph&#x2F;github-logo.png.cf.jpg"/></v:rect><!=
+[endif]-->                                               <table class=3D"ya=
+hoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" valign=
+=3D"top" style=3D"width:100%;">                                 <tbody><tr>=
+                                     <td style=3D"background:transparent ur=
+l('https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png') repea=
+t left top;height:200px;" background=3D"https://s.yimg.com/nq/storm/assets/=
+enhancrV2/12/overlay-tile.png" bgcolor=3D"transparent" valign=3D"top">     =
+                                     <!--[if gte mso 9]><v:rect fill=3D"tru=
+e" stroke=3D"false" style=3D"width:400px;height:218px;position:absolute;top=
+:-18px;left:0;"><v:fill type=3D"pattern" color=3D"#000000" src=3D"https://s=
+.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png"/><v:textbox inset=
+=3D"0,0,20px,0"><![endif]-->                                          <tabl=
+e class=3D"yahoo-ignore-table" height=3D"185" style=3D"width:100%;height:18=
+5px;min-height:185px;">                                             <tbody>=
+<tr>                                                 <td class=3D"card-rich=
+Info2" style=3D"text-align:left;text-align:left;padding:15px 0 0 15px;verti=
+cal-align:top;">                                                           =
+                                           </td>                           =
+                      <td class=3D"card-actions" style=3D"text-align:right;=
+padding:15px 15px 0 0;vertical-align:top;">                                =
+                     <div class=3D"card-share-container"></div>            =
+                                     </td>                                 =
+            </tr>                                         </tbody></table> =
+                                         <!--[if gte mso 9]></v:textbox></v=
+:rect><![endif]-->                                     </td>               =
+                  </tr>                             </tbody></table>       =
+                  </td>                     </tr>                     <tr> =
+                        <td>                             <table class=3D"ca=
+rd-info yahoo-ignore-table" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"background:#fff;position:relative;z-index:2;wi=
+dth:95%;max-width:380px;border:1px solid #e0e4e9;border-bottom:3px solid #0=
+10101;margin-top:-40px;margin-left:auto;margin-right:auto;">               =
+                  <tbody><tr>                                              =
+                     <td style=3D"background-color:#ffffff;padding:16px 0 1=
+6px 12px;vertical-align:top;">                                             =
+                                         <img class=3D"card-object-1 yahoo-=
+ignore-inline-image ymail-preserve-class" src=3D"https://s.yimg.com/nq/stor=
+m/assets/enhancrV2/23/logos/github.png" height=3D"32" style=3D"min-width:32=
+px;border:1px solid #e0e4e9;margin-top:3px;">                              =
+                                                </td>                      =
+                <td style=3D"vertical-align:middle;padding:16px 12px;width:=
+99%;">                                         <h2 class=3D"card-title" sty=
+le=3D"font-size: 16px; line-height:19px; margin:0 0 4px 0;font-family:'Helv=
+etica Neue', Helvetica, Arial, sans-serif;">Build software better, together=
+</h2>                                                                      =
+            <p class=3D"card-description" style=3D"font-size:11px;line-heig=
+ht:15px;color:#999;">GitHub is where people build software. More than 83 mi=
+llion people use GitHub to discover, fork, and contribute to over 200 milli=
+on projects.</p>                                     </td>                 =
+                     <td style=3D"text-align:right;padding:16px 12px 16px 0=
+;">                                                                        =
+      </td>                                 </tr>                          =
+   </tbody></table>                         </td>                     </tr>=
+                 </tbody></table>             </td>             </tr>      =
+   </tbody></table>     </a> </div><div><br></div><br><br>** YOU OWN THE TA=
+X LIABILITIES ON THOSE PROPERTIES --- ALL 6 OF THEM<br><br>** YOU ALSO TOOK=
+ ON THE LIABILITIES OF THE "LEASES AND RENTS" TRANSFFERRED?? OR USED AS A G=
+UARANTEE FOR A LETTER OF CREDIT.<br><br><br><br>"<a href=3D"https://iapps.c=
+ourts.state.ny.us/nyscef/ViewDocument?docIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=
+=3D&quot;" target=3D"_blank">https://iapps.courts.state.ny.us/nyscef/ViewDo=
+cument?docIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D"</a>&nbsp;<div id=3D"temp-en=
+hancr-placeholder" class=3D"enhancr-placeholder-medium" data-size=3D"medium=
+"></div><br><br><br><br>yOU UNDERSTAND WHAT YOU'RE PLAYING WITH - OR DID I =
+MARK YOUR INTEREST EARLIER AS WELL..<br><br><br><br>LET me know if your cou=
+nselors have an opinion on this as well.<br><br><br><br>[ C16 - DEALINGS --=
+ UNFAIR DEALINGS AND INSIDER INFORMATION]<br><br>ATTACHED.<br><br><br><br>#=
+GOCARDS<br><br><br><br><a href=3D"https://github.com/users/BSCPGROUPHOLDING=
+SLLC/projects/1#column-18309490" target=3D"_blank" class=3D"enhancr2_AEF487=
+7B-C027-49E6-98A6-6ED0C8736DC0">Build software better, together</a>&nbsp;<d=
+iv><br></div><div id=3D"enhancr2_AEF4877B-C027-49E6-98A6-6ED0C8736DC0" clas=
+s=3D"yahoo-link-enhancr-card yahoo-link-enhancr-cardSize-medium yahoo-link-=
+enhancr-cardType-yenhancr yahoo-link-enhancr-cardCategory-article  ymail-pr=
+eserve-class ymail-preserve-style" style=3D"max-width:400px;font-family:'He=
+lvetica Neue', Helvetica, Arial, sans-serif;" contenteditable=3D"false" dat=
+a-url=3D"https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18=
+309490" data-type=3D"LINK_ENHANCR_ATTACHMENT_TYPE_INLINE" data-category=3D"=
+article" data-embed-url=3D"" data-size=3D"medium">     <a href=3D"https://g=
+ithub.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490" style=3D"t=
+ext-decoration:none !important; color: #000 !important;" class=3D"yahoo-enh=
+ancr-cardlink" target=3D"_blank" rel=3D"noreferrer">         <table class=
+=3D"card-wrapper yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" style=3D"max-width:400px;">             <tbody><tr>             =
+<td width=3D"400">                 <table class=3D"card yahoo-ignore-table"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"m=
+ax-width:400px;">                     <tbody><tr>                         <=
+td class=3D"card-primary-image-cell" style=3D"background:#000 url('https://=
+s.yimg.com/lo/api/res/1.2/JauAtmHu3W2vrpNlK2JqYA--~A/Zmk9ZmlsbDt3PTQwMDtoPT=
+IwMDthcHBpZD1pZXh0cmFjdA--/https://github.githubassets.com/images/modules/o=
+pen_graph/github-logo.png.cf.jpg') no-repeat center center;background-size:=
+cover;height:200px;position:relative;" background=3D"https://s.yimg.com/lo/=
+api/res/1.2/JauAtmHu3W2vrpNlK2JqYA--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1p=
+ZXh0cmFjdA--/https://github.githubassets.com/images/modules/open_graph/gith=
+ub-logo.png.cf.jpg" bgcolor=3D"#000000" valign=3D"top">                    =
+          <!--[if gte mso 9]><v:rect fill=3D"true" stroke=3D"false" style=
+=3D"width:400px;height:218px;position:absolute;top:0;left:0;"><v:fill type=
+=3D"frame" color=3D"#000000" src=3D"https:&#x2F;&#x2F;s.yimg.com&#x2F;lo&#x=
+2F;api&#x2F;res&#x2F;1.2&#x2F;JauAtmHu3W2vrpNlK2JqYA--~A&#x2F;Zmk9ZmlsbDt3P=
+TQwMDtoPTIwMDthcHBpZD1pZXh0cmFjdA--&#x2F;https:&#x2F;&#x2F;github.githubass=
+ets.com&#x2F;images&#x2F;modules&#x2F;open_graph&#x2F;github-logo.png.cf.jp=
+g"/></v:rect><![endif]-->                                               <ta=
+ble class=3D"yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" valign=3D"top" style=3D"width:100%;">                               =
+  <tbody><tr>                                     <td style=3D"background:t=
+ransparent url('https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-til=
+e.png') repeat left top;height:200px;" background=3D"https://s.yimg.com/nq/=
+storm/assets/enhancrV2/12/overlay-tile.png" bgcolor=3D"transparent" valign=
+=3D"top">                                          <!--[if gte mso 9]><v:re=
+ct fill=3D"true" stroke=3D"false" style=3D"width:400px;height:218px;positio=
+n:absolute;top:-18px;left:0;"><v:fill type=3D"pattern" color=3D"#000000" sr=
+c=3D"https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png"/><v:=
+textbox inset=3D"0,0,20px,0"><![endif]-->                                  =
+        <table class=3D"yahoo-ignore-table" height=3D"185" style=3D"width:1=
+00%;height:185px;min-height:185px;">                                       =
+      <tbody><tr>                                                 <td class=
+=3D"card-richInfo2" style=3D"text-align:left;text-align:left;padding:15px 0=
+ 0 15px;vertical-align:top;">                                              =
+                                                        </td>              =
+                                   <td class=3D"card-actions" style=3D"text=
+-align:right;padding:15px 15px 0 0;vertical-align:top;">                   =
+                                  <div class=3D"card-share-container"></div=
+>                                                 </td>                    =
+                         </tr>                                         </tb=
+ody></table>                                          <!--[if gte mso 9]></=
+v:textbox></v:rect><![endif]-->                                     </td>  =
+                               </tr>                             </tbody></=
+table>                         </td>                     </tr>             =
+        <tr>                         <td>                             <tabl=
+e class=3D"card-info yahoo-ignore-table" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"background:#fff;position:relative;=
+z-index:2;width:95%;max-width:380px;border:1px solid #e0e4e9;border-bottom:=
+3px solid #010101;margin-top:-40px;margin-left:auto;margin-right:auto;">   =
+                              <tbody><tr>                                  =
+                                 <td style=3D"background-color:#ffffff;padd=
+ing:16px 0 16px 12px;vertical-align:top;">                                 =
+                                                     <img class=3D"card-obj=
+ect-1 yahoo-ignore-inline-image ymail-preserve-class" src=3D"https://s.yimg=
+.com/nq/storm/assets/enhancrV2/23/logos/github.png" height=3D"32" style=3D"=
+min-width:32px;border:1px solid #e0e4e9;margin-top:3px;">                  =
+                                                            </td>          =
+                            <td style=3D"vertical-align:middle;padding:16px=
+ 12px;width:99%;">                                         <h2 class=3D"car=
+d-title" style=3D"font-size: 16px; line-height:19px; margin:0 0 4px 0;font-=
+family:'Helvetica Neue', Helvetica, Arial, sans-serif;">Build software bett=
+er, together</h2>                                                          =
+                        <p class=3D"card-description" style=3D"font-size:11=
+px;line-height:15px;color:#999;">GitHub is where people build software. Mor=
+e than 83 million people use GitHub to discover, fork, and contribute to ov=
+er 200 million projects.</p>                                     </td>     =
+                                 <td style=3D"text-align:right;padding:16px=
+ 12px 16px 0;">                                                            =
+                  </td>                                 </tr>              =
+               </tbody></table>                         </td>              =
+       </tr>                 </tbody></table>             </td>            =
+ </tr>         </tbody></table>     </a> </div><div><br></div><br><br>^ tax=
+ receipts<br><br><br><br><a href=3D"https://www.sec.gov/comments/s7-14-18/s=
+71418-4531826-176079.pdf" target=3D"_blank">https://www.sec.gov/comments/s7=
+-14-18/s71418-4531826-176079.pdf</a>&nbsp;<div id=3D"temp-enhancr-placehold=
+er" class=3D"enhancr-placeholder-medium" data-size=3D"medium"></div><br><br=
+><br><br><br><br>VIOLATION OF PRIVACY<br><br><br><br><a href=3D"https://git=
+hub.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7" target=3D"_blank" cla=
+ss=3D"enhancr2_DE5FF0CF-D371-4E3D-8827-1CFB25A1F71F">MOV FILES DISTRIBUTED =
+- NEVER RETURNED MY CALL EITHER.. IN FACT - HUN=E2=80=A6 by BSCPGROUPHOLDIN=
+GSLLC =C2=B7 Pull Request #7 =C2=B7 BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER</=
+a>&nbsp;<div><br></div><div id=3D"enhancr2_DE5FF0CF-D371-4E3D-8827-1CFB25A1=
+F71F" class=3D"yahoo-link-enhancr-card yahoo-link-enhancr-cardSize-medium y=
+ahoo-link-enhancr-cardType-yenhancr yahoo-link-enhancr-cardCategory-object =
+ ymail-preserve-class ymail-preserve-style" style=3D"max-width:400px;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif;" contenteditable=3D"f=
+alse" data-url=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/=
+pull/7" data-type=3D"LINK_ENHANCR_ATTACHMENT_TYPE_INLINE" data-category=3D"=
+object" data-embed-url=3D"" data-size=3D"medium">     <a href=3D"https://gi=
+thub.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7" style=3D"text-decora=
+tion:none !important; color: #000 !important;" class=3D"yahoo-enhancr-cardl=
+ink" target=3D"_blank" rel=3D"noreferrer">         <table class=3D"card-wra=
+pper yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"max-width:400px;">             <tbody><tr>             <td width=3D=
+"400">                 <table class=3D"card yahoo-ignore-table" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"max-width:400=
+px;">                     <tbody><tr>                         <td class=3D"=
+card-primary-image-cell" style=3D"background:#000 url('https://s.yimg.com/l=
+o/api/res/1.2/CBxsvdeH6i_ZDXs0.76Z7g--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD=
+1pZXh0cmFjdA--/https://opengraph.githubassets.com/634a318a4b20c36a322202d34=
+30eae2f184d0d77f1dd478b3aba141caba12e16/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICK=
+ER/pull/7.cf.jpg') no-repeat center center;background-size:cover;height:200=
+px;position:relative;" background=3D"https://s.yimg.com/lo/api/res/1.2/CBxs=
+vdeH6i_ZDXs0.76Z7g--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1pZXh0cmFjdA--/htt=
+ps://opengraph.githubassets.com/634a318a4b20c36a322202d3430eae2f184d0d77f1d=
+d478b3aba141caba12e16/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7.cf.jpg" =
+bgcolor=3D"#000000" valign=3D"top">                              <!--[if gt=
+e mso 9]><v:rect fill=3D"true" stroke=3D"false" style=3D"width:400px;height=
+:218px;position:absolute;top:0;left:0;"><v:fill type=3D"frame" color=3D"#00=
+0000" src=3D"https:&#x2F;&#x2F;s.yimg.com&#x2F;lo&#x2F;api&#x2F;res&#x2F;1.=
+2&#x2F;CBxsvdeH6i_ZDXs0.76Z7g--~A&#x2F;Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1p=
+ZXh0cmFjdA--&#x2F;https:&#x2F;&#x2F;opengraph.githubassets.com&#x2F;634a318=
+a4b20c36a322202d3430eae2f184d0d77f1dd478b3aba141caba12e16&#x2F;BSCPGROUPHOL=
+DINGSLLC&#x2F;ELSER-AND-DICKER&#x2F;pull&#x2F;7.cf.jpg"/></v:rect><![endif]=
+-->                                               <table class=3D"yahoo-ign=
+ore-table" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" valign=3D"top" =
+style=3D"width:100%;">                                 <tbody><tr>         =
+                            <td style=3D"background:transparent url('https:=
+//s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png') repeat left to=
+p;height:200px;" background=3D"https://s.yimg.com/nq/storm/assets/enhancrV2=
+/12/overlay-tile.png" bgcolor=3D"transparent" valign=3D"top">              =
+                            <!--[if gte mso 9]><v:rect fill=3D"true" stroke=
+=3D"false" style=3D"width:400px;height:218px;position:absolute;top:-18px;le=
+ft:0;"><v:fill type=3D"pattern" color=3D"#000000" src=3D"https://s.yimg.com=
+/nq/storm/assets/enhancrV2/12/overlay-tile.png"/><v:textbox inset=3D"0,0,20=
+px,0"><![endif]-->                                          <table class=3D=
+"yahoo-ignore-table" height=3D"185" style=3D"width:100%;height:185px;min-he=
+ight:185px;">                                             <tbody><tr>      =
+                                           <td class=3D"card-richInfo2" sty=
+le=3D"text-align:left;text-align:left;padding:15px 0 0 15px;vertical-align:=
+top;">                                                                     =
+                                 </td>                                     =
+            <td class=3D"card-actions" style=3D"text-align:right;padding:15=
+px 15px 0 0;vertical-align:top;">                                          =
+           <div class=3D"card-share-container"></div>                      =
+                           </td>                                           =
+  </tr>                                         </tbody></table>           =
+                               <!--[if gte mso 9]></v:textbox></v:rect><![e=
+ndif]-->                                     </td>                         =
+        </tr>                             </tbody></table>                 =
+        </td>                     </tr>                     <tr>           =
+              <td>                             <table class=3D"card-info ya=
+hoo-ignore-table" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" style=3D"background:#fff;position:relative;z-index:2;width:95%;max=
+-width:380px;border:1px solid #e0e4e9;border-bottom:3px solid #010101;margi=
+n-top:-40px;margin-left:auto;margin-right:auto;">                          =
+       <tbody><tr>                                                         =
+          <td style=3D"background-color:#ffffff;padding:16px 0 16px 12px;ve=
+rtical-align:top;">                                                        =
+                              <img class=3D"card-object-1 yahoo-ignore-inli=
+ne-image ymail-preserve-class" src=3D"https://s.yimg.com/nq/storm/assets/en=
+hancrV2/23/logos/github.png" height=3D"32" style=3D"min-width:32px;border:1=
+px solid #e0e4e9;margin-top:3px;">                                         =
+                                     </td>                                 =
+     <td style=3D"vertical-align:middle;padding:16px 12px;width:99%;">     =
+                                    <h2 class=3D"card-title" style=3D"font-=
+size: 16px; line-height:19px; margin:0 0 4px 0;font-family:'Helvetica Neue'=
+, Helvetica, Arial, sans-serif;">MOV FILES DISTRIBUTED - NEVER RETURNED MY =
+CALL EITHER.. IN FACT - HUN=E2=80=A6 by BSCPGROUPHOLDINGSLLC =C2=B7 Pull Re=
+quest #7 =C2=B7 BSCPGROUPHOLDINGSLLC&amp;#47;ELSER-AND-DICKER</h2>         =
+                                                                         <p=
+ class=3D"card-description" style=3D"font-size:11px;line-height:15px;color:=
+#999;">I WAS ALSO ABLE TO CONVERT THIS PICTURE INTO A .MOV FILE... AT THE E=
+ND FOR YOU AS WELL. THAT LOOK OK FOR A CROSS MOTION .. SO I MADE A MOTION I=
+NSTEAD   [00048] 153974_2020 - INSIDE VIEW YES OR NO.p...</p>              =
+                       </td>                                      <td style=
+=3D"text-align:right;padding:16px 12px 16px 0;">                           =
+                                                   </td>                   =
+              </tr>                             </tbody></table>           =
+              </td>                     </tr>                 </tbody></tab=
+le>             </td>             </tr>         </tbody></table>     </a> <=
+/div><div><br></div><br><br><br><br><br><br>HOW MANY FIRMS DOES IT TAKE TO =
+LOSE TWO BILLION DOLLARS OF MARKET CAP - AND HIDE IT FROM THE INVESTORS...<=
+br><br><br><br><a href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND=
+-DICKER/commit/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4" target=3D"_blank" =
+class=3D"enhancr2_3040D978-A432-45BE-892E-4E23A2290916">UPDATED C16-93715 I=
+NSIDER OMISSIONS BY THE PREMIUM DEALERS AT 750 SEV=E2=80=A6 =C2=B7 BSCPGROU=
+PHOLDINGSLLC/ELSER-AND-DICKER@3062fcf</a>&nbsp;<div><br></div><div id=3D"en=
+hancr2_3040D978-A432-45BE-892E-4E23A2290916" class=3D"yahoo-link-enhancr-ca=
+rd yahoo-link-enhancr-cardSize-medium yahoo-link-enhancr-cardType-yenhancr =
+yahoo-link-enhancr-cardCategory-object  ymail-preserve-class ymail-preserve=
+-style" style=3D"max-width:400px;font-family:'Helvetica Neue', Helvetica, A=
+rial, sans-serif;" contenteditable=3D"false" data-url=3D"https://github.com=
+/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/3062fcf9c989174cbc76ea0b7d813=
+5cf32eef8f4" data-type=3D"LINK_ENHANCR_ATTACHMENT_TYPE_INLINE" data-categor=
+y=3D"object" data-embed-url=3D"" data-size=3D"medium">     <a href=3D"https=
+://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/3062fcf9c989174c=
+bc76ea0b7d8135cf32eef8f4" style=3D"text-decoration:none !important; color: =
+#000 !important;" class=3D"yahoo-enhancr-cardlink" target=3D"_blank" rel=3D=
+"noreferrer">         <table class=3D"card-wrapper yahoo-ignore-table" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"max-width:400px;">   =
+          <tbody><tr>             <td width=3D"400">                 <table=
+ class=3D"card yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" width=3D"100%" style=3D"max-width:400px;">                     <tb=
+ody><tr>                         <td class=3D"card-primary-image-cell" styl=
+e=3D"background:#000 url('https://s.yimg.com/lo/api/res/1.2/xjrxov8a72iUHKd=
+vp5tpEw--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1pZXh0cmFjdA--/https://opengr=
+aph.githubassets.com/75fcfe6189cb06d632609151d0e40c6286872355ed88b989bc0562=
+d85dc4acac/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/3062fcf9c989174cbc7=
+6ea0b7d8135cf32eef8f4.cf.jpg') no-repeat center center;background-size:cove=
+r;height:200px;position:relative;" background=3D"https://s.yimg.com/lo/api/=
+res/1.2/xjrxov8a72iUHKdvp5tpEw--~A/Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1pZXh0=
+cmFjdA--/https://opengraph.githubassets.com/75fcfe6189cb06d632609151d0e40c6=
+286872355ed88b989bc0562d85dc4acac/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/com=
+mit/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4.cf.jpg" bgcolor=3D"#000000" va=
+lign=3D"top">                              <!--[if gte mso 9]><v:rect fill=
+=3D"true" stroke=3D"false" style=3D"width:400px;height:218px;position:absol=
+ute;top:0;left:0;"><v:fill type=3D"frame" color=3D"#000000" src=3D"https:&#=
+x2F;&#x2F;s.yimg.com&#x2F;lo&#x2F;api&#x2F;res&#x2F;1.2&#x2F;xjrxov8a72iUHK=
+dvp5tpEw--~A&#x2F;Zmk9ZmlsbDt3PTQwMDtoPTIwMDthcHBpZD1pZXh0cmFjdA--&#x2F;htt=
+ps:&#x2F;&#x2F;opengraph.githubassets.com&#x2F;75fcfe6189cb06d632609151d0e4=
+0c6286872355ed88b989bc0562d85dc4acac&#x2F;BSCPGROUPHOLDINGSLLC&#x2F;ELSER-A=
+ND-DICKER&#x2F;commit&#x2F;3062fcf9c989174cbc76ea0b7d8135cf32eef8f4.cf.jpg"=
+/></v:rect><![endif]-->                                               <tabl=
+e class=3D"yahoo-ignore-table" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" valign=3D"top" style=3D"width:100%;">                               =
+  <tbody><tr>                                     <td style=3D"background:t=
+ransparent url('https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-til=
+e.png') repeat left top;height:200px;" background=3D"https://s.yimg.com/nq/=
+storm/assets/enhancrV2/12/overlay-tile.png" bgcolor=3D"transparent" valign=
+=3D"top">                                          <!--[if gte mso 9]><v:re=
+ct fill=3D"true" stroke=3D"false" style=3D"width:400px;height:218px;positio=
+n:absolute;top:-18px;left:0;"><v:fill type=3D"pattern" color=3D"#000000" sr=
+c=3D"https://s.yimg.com/nq/storm/assets/enhancrV2/12/overlay-tile.png"/><v:=
+textbox inset=3D"0,0,20px,0"><![endif]-->                                  =
+        <table class=3D"yahoo-ignore-table" height=3D"185" style=3D"width:1=
+00%;height:185px;min-height:185px;">                                       =
+      <tbody><tr>                                                 <td class=
+=3D"card-richInfo2" style=3D"text-align:left;text-align:left;padding:15px 0=
+ 0 15px;vertical-align:top;">                                              =
+                                                        </td>              =
+                                   <td class=3D"card-actions" style=3D"text=
+-align:right;padding:15px 15px 0 0;vertical-align:top;">                   =
+                                  <div class=3D"card-share-container"></div=
+>                                                 </td>                    =
+                         </tr>                                         </tb=
+ody></table>                                          <!--[if gte mso 9]></=
+v:textbox></v:rect><![endif]-->                                     </td>  =
+                               </tr>                             </tbody></=
+table>                         </td>                     </tr>             =
+        <tr>                         <td>                             <tabl=
+e class=3D"card-info yahoo-ignore-table" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"background:#fff;position:relative;=
+z-index:2;width:95%;max-width:380px;border:1px solid #e0e4e9;border-bottom:=
+3px solid #010101;margin-top:-40px;margin-left:auto;margin-right:auto;">   =
+                              <tbody><tr>                                  =
+                                 <td style=3D"background-color:#ffffff;padd=
+ing:16px 0 16px 12px;vertical-align:top;">                                 =
+                                                     <img class=3D"card-obj=
+ect-1 yahoo-ignore-inline-image ymail-preserve-class" src=3D"https://s.yimg=
+.com/nq/storm/assets/enhancrV2/23/logos/github.png" height=3D"32" style=3D"=
+min-width:32px;border:1px solid #e0e4e9;margin-top:3px;">                  =
+                                                            </td>          =
+                            <td style=3D"vertical-align:middle;padding:16px=
+ 12px;width:99%;">                                         <h2 class=3D"car=
+d-title" style=3D"font-size: 16px; line-height:19px; margin:0 0 4px 0;font-=
+family:'Helvetica Neue', Helvetica, Arial, sans-serif;">UPDATED C16-93715 I=
+NSIDER OMISSIONS BY THE PREMIUM DEALERS AT 750 SEV=E2=80=A6 =C2=B7 BSCPGROU=
+PHOLDINGSLLC&amp;#47;ELSER-AND-DICKER@3062fcf</h2>                         =
+                                                         <p class=3D"card-d=
+escription" style=3D"font-size:11px;line-height:15px;color:#999;">=E2=80=A6=
+ENTH AVENUE &amp;#38; CO.    &amp;#60;!DOCTYPE html&amp;#62;  &amp;#60;html=
+&amp;#62;      &amp;#60;head&amp;#62;          &amp;#60;meta charset=3DUTF-=
+8 &amp;#47;&amp;#62;          &amp;#60;meta name=3Dauthor content=3DMarkdow=
+nVie...</p>                                     </td>                      =
+                <td style=3D"text-align:right;padding:16px 12px 16px 0;">  =
+                                                                           =
+ </td>                                 </tr>                             </=
+tbody></table>                         </td>                     </tr>     =
+            </tbody></table>             </td>             </tr>         </=
+tbody></table>     </a> </div><div><br></div><br><br><br><br>THATS TWO BILL=
+ION USD&nbsp;</div><br><p class=3D"yahoo-quoted-begin" style=3D"font-size: =
+15px; color: #715FFA; padding-top: 15px; margin-top: 0">On Sunday, May 22, =
+2022, 9:28 PM, Bo Dincer &lt;bo.dincer@yahoo.com&gt; wrote:</p><blockquote =
+class=3D"iosymail"><div id=3D"yiv3618826726">&nbsp; &nbsp; ATTN: STATE FARM=
+..<div id=3D"yiv3618826726yMail_cursorElementTracker_1653269226439"><br><d=
+iv id=3D"yiv3618826726ymail_android_signature">/S/ BO DINCER</div> <br> <bl=
+ockquote style=3D"margin:0 0 20px 0;"> <div style=3D"padding:10px 0 0 20px;=
+margin:10px 0 0 0;border-left:1px solid #6D00F6;"> <div style=3D"font-famil=
+y:Roboto, sans-serif;color:#6D00F6;"> <div>----- Forwarded Message -----</d=
+iv> <div><b>From:</b> "B D2022" &lt;ms60710444266@yahoo.com&gt;</div> <div>=
+<b>To:</b> "news@therealdeal.com" &lt;news@therealdeal.com&gt;, "news@penew=
+s.com" &lt;news@penews.com&gt;, "mediarelations@ap.org" &lt;mediarelations@=
+ap.org&gt;, "df@gc.columbia.edu" &lt;df@gc.columbia.edu&gt;, "bo.dincer@yah=
+oo.com" &lt;bo.dincer@yahoo.com&gt;, "ds@gc.columbia.edu" &lt;ds@gc.columbi=
+a.edu&gt;, "gcho@doi.nyc.gov" &lt;gcho@doi.nyc.gov&gt;, "jeb@gc.columbia.ed=
+u" &lt;jeb@gc.columbia.edu&gt;, "jk@gc.columbia.ed" &lt;jk@gc.columbia.ed&g=
+t;, "jmf@gc.columbia.edu" &lt;jmf@gc.columbia.edu&gt;, "js@gc.columbia.edu"=
+ &lt;js@gc.columbia.edu&gt;, "kd@gc.columbia.edu" &lt;kd@gc.columbia.edu&gt=
+;, "kyh@gc.columbia.edu" &lt;kyh@gc.columbia.edu&gt;, "mg@gc.columbia.edu" =
+&lt;mg@gc.columbia.edu&gt;, "mn@gc.columbia.edu" &lt;mn@gc.columbia.edu&gt;=
+, "mpc@gc.columbia.edu" &lt;mpc@gc.columbia.edu&gt;, "mya@gc.columbia.edu" =
+&lt;mya@gc.columbia.edu&gt;, "pc1@gc.columbia.edu" &lt;pc1@gc.columbia.edu&=
+gt;, "pml@gc.columbia.edu" &lt;pml@gc.columbia.edu&gt;, "psc@gc.columbia.ed=
+u" &lt;psc@gc.columbia.edu&gt;, "rs@gc.columbia.edu" &lt;rs@gc.columbia.edu=
+&gt;, "ssc@gc.columbia.edu" &lt;ssc@gc.columbia.edu&gt;, "tc@gc.columbia.ed=
+u" &lt;tc@gc.columbia.edu&gt;, "VOGcustserv@cdsfulfillment.com" &lt;VOGcust=
+serv@cdsfulfillment.com&gt;, "writingcenter@columbia.edu" &lt;writingcenter=
+@columbia.edu&gt;, "sgo2107@columbia.edu" &lt;sgo2107@columbia.edu&gt;</div=
+> <div style=3D"display:none;"><b>Cc:</b> </div> <div><b>Sent:</b> Sun, May=
+ 22, 2022 at 8:21 PM</div> <div><b>Subject:</b> Fwd: [BSCPGROUPHOLDINGSLLC/=
+ELSER-AND-DICKER] 80bec9: C16-937</div> </div>  <div id=3D"yiv3618826726"><=
+div id=3D"yiv3618826726yMail_cursorElementTracker_1653269212105"><br><br>--=
+------ Forwarded Message --------<table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" class=3D"yiv3618826726moz-email-headers-table"><tbody><tr><th=
+ valign=3D"BASELINE" align=3D"RIGHT" nowrap=3D"">Subject: </th><td>[BSCPGRO=
+UPHOLDINGSLLC/ELSER-AND-DICKER] 80bec9: C16-93715 1516523 [ SFITX STFGX STF=
+BX SFBDX ] #1</td></tr><tr><th valign=3D"BASELINE" align=3D"RIGHT" nowrap=
+=3D"">Date: </th><td>Sun, 22 May 2022 17:19:42 -0700</td></tr><tr><th valig=
+n=3D"BASELINE" align=3D"RIGHT" nowrap=3D"">From: </th><td>1212-5858 &lt;nor=
+eply@github.com&gt;</td></tr><tr><th valign=3D"BASELINE" align=3D"RIGHT" no=
+wrap=3D"">To: </th><td>MS60710444266@YAHOO.COM, BLOCK803LOT11@OUTLOOK.COM</=
+td></tr></tbody></table>
+<br><br>  Branch: refs/heads/REQUEST-TO-BAR<br><br>  Home:   https://github=
+.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER<br><br>  Commit: 80bec9c83359c85=
+563c8847bfef867c4cdb180cb<br><br>      https://github.com/BSCPGROUPHOLDINGS=
+LLC/ELSER-AND-DICKER/commit/80bec9c83359c85563c8847bfef867c4cdb180cb<br><br=
+>  Author: 1212-5858 &lt;70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github=
+.com&gt;<br><br>  Date:   2022-05-22 (Sun, 22 May 2022)<br><br><br><br>  Ch=
+anged paths:<br><br>    A 1516523-100-C16-93715<br><br><br><br>  Log Messag=
+e:<br><br>  -----------<br><br>  C16-93715 1516523 [ SFITX STFGX STFBX SFBD=
+X ] #1<br><br><br><br>ATTN: STATE FARM<br><br> ONE STATE FARM PLAZA, BLOOMI=
+NGTON, IL, 61710<br><br><br><br>https://github.com/users/BSCPGROUPHOLDINGSL=
+LC/projects/1<br><br>** YOU OWN THE TAX LIABILITIES ON THOSE PROPERTIES ---=
+ ALL 6 OF THEM<br><br>** YOU ALSO TOOK ON THE LIABILITIES OF THE "LEASES AN=
+D RENTS" TRANSFFERRED?? OR USED AS A GUARANTEE FOR A LETTER OF CREDIT.<br><=
+br><br><br>"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
+=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D"<br><br><br><br>yOU UNDERSTAND WHAT YOU'RE =
+PLAYING WITH - OR DID I MARK YOUR INTEREST EARLIER AS WELL..<br><br><br><br=
+>LET me know if your counselors have an opinion on this as well.<br><br><br=
+><br>[ C16 - DEALINGS -- UNFAIR DEALINGS AND INSIDER INFORMATION]<br><br>  =
+  ATTACHED.<br><br><br><br>#GOCARDS<br><br><br><br>https://github.com/users=
+/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490<br><br>^ tax receipts<br><=
+br><br><br>https://www.sec.gov/comments/s7-14-18/s71418-4531826-176079.pdf<=
+br><br><br><br><br><br>VIOLATION OF PRIVACY<br><br><br><br>https://github.c=
+om/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7<br><br><br><br><br><br>HOW =
+MANY FIRMS DOES IT TAKE TO LOSE TWO BILLION DOLLARS OF MARKET CAP - AND HID=
+E IT FROM THE INVESTORS...<br><br><br><br>https://github.com/BSCPGROUPHOLDI=
+NGSLLC/ELSER-AND-DICKER/commit/3062fcf9c989174cbc76ea0b7d8135cf32eef8f4<br>=
+<br><br><br>THATS TWO BILLION USD.<br><br><br><br>NOT INCLUDING THE 9 BILLI=
+ON IN ASSETS UNDER MANAGEMENTS LOST, AND NO LONGER UNDER FILER 93715.<br><b=
+r><br><br><br><br>    - PRIOR TO LITIGATION AND REGULATORY FINES???<br><br>=
+<br><br>https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER<br><br><br=
+><br>WARNED THEM IN JUNE OF 2020 - THAT THERE IS ABOUT $9 BILLION AT RISK.<=
+br><br><br><br>https://iapps.courts.state.ny.us/nyscef/ViewDocument?docInde=
+x=3DTxAa7cNVIHKtnJU/ni/zvg=3D=3D<br><br><br><br>https://saaze2311prdsra.blo=
+b.core.windows.net/clean/61f910a979d5ec11a7b5000d3a1af965/2020-06-03%20Noti=
+ce%20and%20Obstruction.png<br><br><br><br>TRIED TO HAVE STATE FARM RESPOND,=
+ IN A CHANGE OF CAPTION, AND NOTIFIED ALL RELEVANT PARTIES ON THE 8TH OF AU=
+GUST IN 2020.<br><br><br><br>https://iapps.courts.state.ny.us/nyscef/ViewDo=
+cument?docIndex=3DXjn0/e1NcBADqRc_PLUS_g11P4g=3D=3D<br><br><br><br>FILED A =
+TCR REPORT WITH THE SECURITIES AND EXCHANGE COMMISSION ON NOVEMBER 13TH, 20=
+21<br><br><br><br>[ _TCRReport (1).pdf ]<br><br><br><br>NOTIFIED THE PROMOT=
+ERS OF STATE FARM ON NOVEMBER 16TH, 2021<br><br><br><br>HOW MANY PEOPLE DOE=
+S IT TAKE TO DO THE OPPOSITE?<br><br><br><br>https://github.com/BSCPGROUPHO=
+LDINGSLLC/ELSER-AND-DICKER/commit/d7daa60e1e93abf4098d905770c945a2957c46c8<=
+br><br><br><br>    June 3, 2020<br><br>    https://saaze2311prdsra.blob.cor=
+e.windows.net/clean/61f910a979d5ec11a7b5000d3a1af965/2020-06-03%20Notice%20=
+and%20Obstruction.png<br><br>    <br>    February 20, 2022<br><br>    Your =
+fax (ID: #30666994) to IRS CRIMINAL INVESTIGATIONS at 267-466-1115<br><br> =
+   " has been delivered successfully at 11:44 PM Eastern Daylight Time"<br>=
+<br>    https://faxzero.com/status/30666994/5790f17018611119e07814be9e36110=
+d164afaa6<br><br><br><br><br><br><blockquote type=3D"cite">per the holding =
+report filed by Terrence Ludwig, Paul J Smith and other  compliance officer=
+s and Directors of:<br></blockquote><br><blockquote type=3D"cite">       St=
+ate Farm VP Management Corp.,<br></blockquote><br><br><br><blockquote type=
+=3D"cite"> I am certain those securities reported in the semi-annual holdin=
+g reports were traded by Morgan Stanley without any disclosure to other mar=
+ket participants, which I understand as:<br></blockquote><br><blockquote ty=
+pe=3D"cite">INSIDER TRADING AND UNFAIR DEALINGS.<br></blockquote><br><block=
+quote type=3D"cite">     </blockquote><br><blockquote type=3D"cite"> ##  WH=
+EN I am CERTAIN<br></blockquote><br><blockquote type=3D"cite"><br></blockqu=
+ote><br><blockquote type=3D"cite">I do NOTIFY parties which in part is a fa=
+ilure on the PART OF THE CURRENT "PROMOTERS"<br></blockquote><br><blockquot=
+e type=3D"cite">1.  to make these undisclosed / unregistered securities pub=
+lic and make them available to the General PUBLIC for consideration prior t=
+o making an investment. </blockquote><br><blockquote type=3D"cite">- and al=
+so in the Central Registration Depository by the Representatives at State F=
+arm VP. FIRM 43036...<br></blockquote><br><blockquote type=3D"cite"> </bloc=
+kquote><br><blockquote type=3D"cite">## SO HOW EXACTLY IS IT THESE MORALLY =
+ARE DECISIONS BY THE "PROMOTERS" of a $10 BILLION DOLLAR "State Farm Associ=
+ates' Funds Trust"<br></blockquote><br><blockquote type=3D"cite"><br></bloc=
+kquote><br><blockquote type=3D"cite">COMPLIANCE OFFICER &amp; TREASURER ALS=
+O CERTIFIED UNDER THESE DOCTRINES HERE under the Sarbanas-Oxley and the Sec=
+urities and Exchange Act of 1940, HAVE NOT DEALT FAIRLY WITH PRICE WATERHOU=
+SE, IN THEIR CONCERTED EFFORTS OF OBSTRUCTION AND UNFAIR DEALINGS=E2=80=A6 =
+HAVE CREATED AN EVEN LARGER PROBLEM WHICH I ALSO TRIED TO MITIGATE IN THEIR=
+ OMISSIONS.<br></blockquote><br><br><br><blockquote type=3D"cite">WITH THE =
+HELP OF THE ZUCKER FAMILY AND ITS COUNSELORS, THESE LOSSES WILL CONTINUE AN=
+D MORE SPECIFICALLY IN THE =E2=80=9CEVASIVE=E2=80=9D STRATEGIES EMPLOYED BY=
+ THE COUNSELORS AND ADVISORS OF THE FORMER AND CURRENT STATE FARM FUNDS HEA=
+DQUARTER, MANAGED AT:<br></blockquote><br><blockquote type=3D"cite"> ONE ST=
+ATE FARM PLAZA, BLOOMINGTON, IL, 61710<br></blockquote><br><br><br><blockqu=
+ote type=3D"cite">TO CEASE AND DESIST.<br></blockquote><br><br><br><blockqu=
+ote type=3D"cite"><br></blockquote><br><blockquote type=3D"cite">1.    I RE=
+QUESTED AN ESTOPPEL:        STATE FARM<br></blockquote><br><blockquote type=
+=3D"cite">      https://iapps.courts.state.ny.us/nyscef/ViewDocument?docInd=
+ex=3Ds5WAeCnxmd/hcOI4eTnbig=3D=3D<br></blockquote><br><blockquote type=3D"c=
+ite"><br></blockquote><br><blockquote type=3D"cite">2.    I REQUESTED AN ES=
+TOPPEL:        THE ZUCKER FAMILY &amp; ITS COUNSELORS.<br></blockquote><br>=
+<blockquote type=3D"cite">   </blockquote><br><blockquote type=3D"cite">htt=
+ps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DJf3Un/JaVXZwF7=
+kvbaee4w=3D=3D<br></blockquote><br><blockquote type=3D"cite"><br></blockquo=
+te><br><blockquote type=3D"cite"><br></blockquote><br><br><br>It's all abou=
+t who you have working in your best interests - you know what that is right=
+ Jamoe???<br><br><br><br>- You're traders have to cheat AND pay extra to ke=
+ep an eye on me, all 25,000 of them - but guess what.<br><br><br><br>--- I =
+can carry them too... ALL OF THEM<br><br><br><br>https://github.com/BSCPGRO=
+UPHOLDINGSLLC/ELSER-AND-DICKER/commit/d7daa60e1e93abf4098d905770c945a2957c4=
+6c8<br><br><br><br><br><br>* HEY IF YOU ARE LOOKING FOR AN EARLY RETIREMENT=
+, JUST SAY THE WORD BUDDY.. PLUS, THAT NAME HASN'T CHANGED IN A WHILE HAS I=
+T...<br><br><br><br><br><br>
+</div> </div> </div></blockquote></div></div><blockquote></blockquote></blo=
+ckquote></div>
+</body></html>
+------=_Part_862763_129639009.1653278988610--

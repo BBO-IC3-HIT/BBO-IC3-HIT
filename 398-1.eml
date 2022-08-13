@@ -1,0 +1,304 @@
+From - Wed May 18 00:05:02 2022
+X-Account-Key: account1
+X-UIDL: AGigwcJtfnpHYoRQmwKYEAoQ/eg
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-omega.free.mail.gq1.yahoo.com with HTTP; Wed, 18 May 2022 01:49:14 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.181]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.181 as permitted sender)
+Authentication-Results: atlas-omega.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 18 May 2022 01:49:15 +0000
+X-YMailAVSC: BqBXxqM3bBv3hdFXAdUfR5cuOydQ_wGJdPkCHg4tCREM9Vc
+ _kwDQwgDfCVYqvY7nL.njMCIFBNbWkCo_wZDrw8U3Yo5evtFbCktjZ_tWeTc
+ 7YEDR5fjct2dlOmNJ_61R0A0U4nuwdcTyjzzbtvOLrpaxGfBZceKH482jveq
+ BTQ9By4P7qMcD6_lzyhgI_1Kg0boNiTVGXKJxo9acLL3Dq_foYN4PTskTZyL
+ 4yUc1CTg_WsIFebNtPmVNM.f34Y18yDNTcnqpBn1XFGQ3ETD3p2J2.ejBXq8
+ OpuAYVB.YTuA58pIbjbgETLLOqBSNaSHPGXdNGkGLZ54ER9oNCxhAlNXneBL
+ UWdWwNIgn9q3yDy8z1IoMzDVPWp_zacpdCqdrRa7GPFWT727yyS4-
+X-YMailISG: hpDzniYWLDt72pmKTg0FTh8WR589rbOrFpHfZHB5D0G.UPwo
+ Jmh0wGgK9VQLNMHM9zdJXw2pL972KYfsB_BTszy8HzLiwSHFtTFlNgmnO1PF
+ PE7B8FcuUpjO4fa9bWvuZXQ9Sn2nKGXsBNq7.2ColhYM2lPVimkEMh6hovMz
+ 4VVvUlon_phHEekhdQKXMtnm0eONuu_B6Qd74LQohKyWsy_MJY2uR_H.uuvR
+ brPDMJqRUF5SZJqqhSs7La2cBLK_oTy6_X1GNMi.JdraJa6vXBzs_c9vfb6W
+ sYBKj2dMo4KD_sMlu01mGnGU2BBuNquFGGY8ffZ5cQ4PNDeToWcypZFZWHQ.
+ jcKNorCIuRKStGaX8kBwP8XMDStihvI9Sh3VwJYOsWcM6U263gH9o.0AeA13
+ tJFw3AoXvY7Wjq03XJw1hUThbQBZHfPine1FK8Bx08czsLX_fIKs51xfYT7x
+ Kvbt.aPWP.4.nUmtCPaI6BLO39BP_0BoxvUGx9sD9YtBTNgl3u2aaM3hjsKQ
+ gJrQx2PqghdfLh0yAPHrgI1HLIClm7.QUCYk7GmHsXr0l3luRsv9ZFZw6Snu
+ Z1muV3ZEVWxcS1yWnN2m4.wgJqJr1TSiPG.sLHGcwDQ_7iMvKR0Fa2WlpSy0
+ woZEaGeooRNXs66gDW3jSNfjm7oc9CMOC608ufNxzmjKtG5IPLhAGDRkOIjW
+ cXm2Yv5KhAFLDloocx1x.eN5rrVpvJNlEKsB4G7uHgTY_YH_mzV_Pe16aCbK
+ ._zkJAHdyQ6uxBlBn7OFuq2cSXpa7TM6cmF2724H176YpVKMfPdmEk2x_jQY
+ 0ZEgQQdzMDC.m_kgeb7Q5gvUsSeWoN0NWUuUYrcGsz4c3wR031d.U0vfcZ6F
+ ZHznH1ZMunrQJG6AtScidfrEJ3pFC2wDDZdKsj9v4uWU56N7LnNmcbHizkDa
+ Izbcl40Wox3oOLuiSVXR3NqsEUbbg1d_yBH.mXp1gFfztI2DWMfHje3qgeEc
+ iAIopXIkc.5lrPgPTo4mRCRG3hm.OtCnVgv73hQd80NcQPOvZGjVxjQRAyN4
+ TNKoesRt.rtbVXmdNEsh_1CAIIsMjVU6OcFmTfb1AFGDc01R1wHjSL0aoVZ.
+ J0ZFMPqgFzyxjSEVGZ.asTGPK3yYuofRkkaI0eshhpywfWOId9FPhMTFNzbu
+ b0HxUGAZYVtLenYpb7WZPZUv54yRsTFUYCuYQtPd..fmY4Mw33.7eRlBCd_n
+ 559Tl.de9NRsDp.ufrPP5rY-
+Received: from 17.58.63.181 (EHLO st43p00im-zteg10073401.me.com)
+ by 10.253.62.156 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 18 May 2022 01:49:14 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652838553;
+	bh=y0XQURLGvDfa7jY15DpsNohflzHh2iDvs2Jti2BQsKY=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=KT7GSxHP3QswcqvilhPAHiLGKTSCwDoz3Yxfx5TiuEJT8NXfUENjVg/Y9P+roifa5
+	 fI7OYf7DvYNXL42ikUS7VxW1K9b3SZM3TlvYV5LnTlYiJZXbgdI1hHr0Tmi6C/MfVJ
+	 0bQMKBhnOMMYWE0R/GfDQwR/pznI7OeQhhTE0PSVejyKy5PBpyo+oD2qhST7gP5Jjj
+	 sNJuVFOrk6jpDsAVD6iOpy7AwxP0+FXWv65Xdy417UPXSZ2JJ/8vpyFKk0sKMDELu5
+	 oLWNvP/0iSSWg/Dkg7xODzIvhXA0WavtyJD+3PZ1aEgEo5gJNyMislQPxWwtulaG9G
+	 WGDuLzec2+nQw==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-zteg10073401.me.com (Postfix) with ESMTPSA id 7B29FA8106A;
+	Wed, 18 May 2022 01:49:11 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-73FAFE72-B1B2-4B5F-A8F6-BB255D8BD0ED
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 17 May 2022 21:49:10 -0400
+Subject: 398
+Message-Id: <4E490662-C9C0-4DAA-97BC-BD197D0358EB@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: gNHs0LaZ88akW036gwnChrkFRM-0qFTx
+X-Proofpoint-ORIG-GUID: gNHs0LaZ88akW036gwnChrkFRM-0qFTx
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.816,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-17=5F04:2022-01-14=5F01,2022-01-17=5F04,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 adultscore=0 suspectscore=0
+ malwarescore=0 bulkscore=0 phishscore=0 mlxscore=0 clxscore=1015
+ mlxlogscore=980 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205180008
+Content-Length: 13663
+
+
+--Apple-Mail-73FAFE72-B1B2-4B5F-A8F6-BB255D8BD0ED
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+#nov16-2021 PWC- STATE FARM
+
+https://saaze2311prdsra.blob.core.windows.net/clean/c31213993cd6ec11a7b5000d=
+3a1956dd/STATE%20FARM%20-%20PWC%20-%20%20INFO%20-%20nov16-2021.pdf
+
+tax evasionloan50075
+
+May 9 2022 Notice
+
+https://saaze2311prdsra.blob.core.windows.net/clean/847789e43cd6ec11a7b5000d=
+3a1af965/TAX%20EVASIONLoan50075.PDF
+
+nov17-2021-ingramzuckers
+
+https://saaze2311prdsra.blob.core.windows.net/clean/0d16940d3dd6ec11a7b50022=
+483079c1/Nov17-2021-IngramZuckers.PDF
+
+
+-7398
+
+
+=EF=BB=BFhttps://saaze2311prdsra.blob.core.windows.net/clean/0f198ce646d6ec1=
+1a7b5002248307f33/2022-05-04-EstoppelDENIED.PDF
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/30ae18d746d6ec11a7b5000d=
+3a1afadb/2022-03-18-WilsonElser%20Firm.PDF
+
+https://saaze2311prdsra.blob.core.windows.net/clean/0e0bc9b146d6ec11a7b50022=
+48307b90/2020-11-30-0000093715-Properties10012.PDF
+
+
+
+-7679
+
+2022-05-08-tax evasion-insiderobstructions
+
+https://saaze2311prdsra.blob.core.windows.net/clean/80832e9f4ad6ec11a7b5000d=
+3a1956dd/2022-05-08-TAX%20EVASION-InsiderOBSTRUCTIONS.PDF
+
+BMW Motorsports=20
+
+https://saaze2311prdsra.blob.core.windows.net/clean/3e980ca54ad6ec11a7b5000d=
+3a1afadb/BMW-MOTORSPORTS.png
+
+Nov 16- Notice
+
+https://saaze2311prdsra.blob.core.windows.net/clean/cd7272864ad6ec11a7b5000d=
+3a1956dd/Nov%2016%202021-10%20attachments.png
+
+
+/BD
+
+
+--Apple-Mail-73FAFE72-B1B2-4B5F-A8F6-BB255D8BD0ED
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><p class=3D"p1" style=3D"margin: 0px; font-=
+stretch: normal; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(=
+0, 0, 0); -webkit-text-size-adjust: auto;">#nov16-2021 PWC- STATE FARM</p><p=
+ class=3D"p2" style=3D"margin: 0px; font-stretch: normal; line-height: norma=
+l; min-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webk=
+it-text-size-adjust: auto;"><span class=3D"s1"></span></p><p class=3D"p2" st=
+yle=3D"margin: 0px; font-stretch: normal; line-height: normal; min-height: 1=
+6.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adj=
+ust: auto;"><span class=3D"s1"></span><br></p><p class=3D"p1" style=3D"margi=
+n: 0px; font-stretch: normal; line-height: normal; caret-color: rgb(0, 0, 0)=
+; color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s2" s=
+tyle=3D"text-decoration: underline;"><a href=3D"https://saaze2311prdsra.blob=
+.core.windows.net/clean/c31213993cd6ec11a7b5000d3a1956dd/STATE%20FARM%20-%20=
+PWC%20-%20%20INFO%20-%20nov16-2021.pdf">https://saaze2311prdsra.blob.core.wi=
+ndows.net/clean/c31213993cd6ec11a7b5000d3a1956dd/STATE%20FARM%20-%20PWC%20-%=
+20%20INFO%20-%20nov16-2021.pdf</a></span></p><p class=3D"p2" style=3D"margin=
+: 0px; font-stretch: normal; line-height: normal; min-height: 16.7px; caret-=
+color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><=
+span class=3D"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-=
+stretch: normal; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(=
+0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1">tax evasionloa=
+n50075</span></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal;=
+ line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webki=
+t-text-size-adjust: auto;"><span class=3D"s1"><br></span></p><p class=3D"p1"=
+ style=3D"margin: 0px; font-stretch: normal; line-height: normal; caret-colo=
+r: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span=
+ class=3D"s1">May 9 2022 Notice</span></p><p class=3D"p2" style=3D"margin: 0=
+px; font-stretch: normal; line-height: normal; min-height: 16.7px; caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><spa=
+n class=3D"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-str=
+etch: normal; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); -webkit-text-size-adjust: auto;"><span class=3D"s2" style=3D"text-deco=
+ration: underline;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net=
+/clean/847789e43cd6ec11a7b5000d3a1af965/TAX%20EVASIONLoan50075.PDF">https://=
+saaze2311prdsra.blob.core.windows.net/clean/847789e43cd6ec11a7b5000d3a1af965=
+/TAX%20EVASIONLoan50075.PDF</a></span></p><p class=3D"p2" style=3D"margin: 0=
+px; font-stretch: normal; line-height: normal; min-height: 16.7px; caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><spa=
+n class=3D"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-str=
+etch: normal; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1">nov17-2021-ingramz=
+uckers</span></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: normal;=
+ line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); color: r=
+gb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1"></span><br>=
+</p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal; line-height:=
+ normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-a=
+djust: auto;"><span class=3D"s2" style=3D"text-decoration: underline;"><a hr=
+ef=3D"https://saaze2311prdsra.blob.core.windows.net/clean/0d16940d3dd6ec11a7=
+b50022483079c1/Nov17-2021-IngramZuckers.PDF">https://saaze2311prdsra.blob.co=
+re.windows.net/clean/0d16940d3dd6ec11a7b50022483079c1/Nov17-2021-IngramZucke=
+rs.PDF</a></span></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: nor=
+mal; line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); col=
+or: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><br><span class=3D"s1"></=
+span></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: normal; line-he=
+ight: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1"></span></p><p clas=
+s=3D"p2" style=3D"margin: 0px; font-stretch: normal; line-height: normal; mi=
+n-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-te=
+xt-size-adjust: auto;"><span class=3D"s2" style=3D"text-decoration: underlin=
+e;"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: norma=
+l; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -web=
+kit-text-size-adjust: auto;"><span class=3D"s1">-7398</span></p><p class=3D"=
+p3" style=3D"margin: 9px 0px 8px; font-stretch: normal; line-height: normal;=
+ caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: a=
+uto;"><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal; li=
+ne-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-t=
+ext-size-adjust: auto;"><span class=3D"s1">=EF=BB=BF<a href=3D"https://saaze=
+2311prdsra.blob.core.windows.net/clean/0f198ce646d6ec11a7b5002248307f33/2022=
+-05-04-EstoppelDENIED.PDF"><span class=3D"s2">https://saaze2311prdsra.blob.c=
+ore.windows.net/clean/0f198ce646d6ec11a7b5002248307f33/2022-05-04-EstoppelDE=
+NIED.PDF</span></a></span></p><p class=3D"p2" style=3D"margin: 0px; font-str=
+etch: normal; line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0=
+, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s=
+1"></span><br></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: normal=
+; line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); color:=
+ rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1"></span><b=
+r></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal; line-heigh=
+t: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size=
+-adjust: auto;"><span class=3D"s2" style=3D"text-decoration: underline;"><a h=
+ref=3D"https://saaze2311prdsra.blob.core.windows.net/clean/30ae18d746d6ec11a=
+7b5000d3a1afadb/2022-03-18-WilsonElser%20Firm.PDF">https://saaze2311prdsra.b=
+lob.core.windows.net/clean/30ae18d746d6ec11a7b5000d3a1afadb/2022-03-18-Wilso=
+nElser%20Firm.PDF</a></span></p><p class=3D"p2" style=3D"margin: 0px; font-s=
+tretch: normal; line-height: normal; min-height: 16.7px; caret-color: rgb(0,=
+ 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D=
+"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: norm=
+al; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -we=
+bkit-text-size-adjust: auto;"><span class=3D"s2" style=3D"text-decoration: u=
+nderline;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/0e=
+0bc9b146d6ec11a7b5002248307b90/2020-11-30-0000093715-Properties10012.PDF">ht=
+tps://saaze2311prdsra.blob.core.windows.net/clean/0e0bc9b146d6ec11a7b5002248=
+307b90/2020-11-30-0000093715-Properties10012.PDF</a></span></p><p class=3D"p=
+2" style=3D"margin: 0px; font-stretch: normal; line-height: normal; min-heig=
+ht: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-siz=
+e-adjust: auto;"><span class=3D"s2" style=3D"text-decoration: underline;"></=
+span><br></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: normal; lin=
+e-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(=
+0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s2" style=3D"text-=
+decoration: underline;"></span><br></p><p class=3D"p2" style=3D"margin: 0px;=
+ font-stretch: normal; line-height: normal; min-height: 16.7px; caret-color:=
+ rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span c=
+lass=3D"s2" style=3D"text-decoration: underline;"></span><br></p><p class=3D=
+"p1" style=3D"margin: 0px; font-stretch: normal; line-height: normal; caret-=
+color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><=
+span class=3D"s1">-7679</span></p><p class=3D"p2" style=3D"margin: 0px; font=
+-stretch: normal; line-height: normal; min-height: 16.7px; caret-color: rgb(=
+0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D=
+"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: norm=
+al; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -we=
+bkit-text-size-adjust: auto;"><span class=3D"s1">2022-05-08-tax evasion-insi=
+derobstructions</span></p><p class=3D"p2" style=3D"margin: 0px; font-stretch=
+: normal; line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0)=
+; color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1"><=
+/span><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal; li=
+ne-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-t=
+ext-size-adjust: auto;"><span class=3D"s2" style=3D"text-decoration: underli=
+ne;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/80832e9f=
+4ad6ec11a7b5000d3a1956dd/2022-05-08-TAX%20EVASION-InsiderOBSTRUCTIONS.PDF">h=
+ttps://saaze2311prdsra.blob.core.windows.net/clean/80832e9f4ad6ec11a7b5000d3=
+a1956dd/2022-05-08-TAX%20EVASION-InsiderOBSTRUCTIONS.PDF</a></span></p><p cl=
+ass=3D"p2" style=3D"margin: 0px; font-stretch: normal; line-height: normal; m=
+in-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-t=
+ext-size-adjust: auto;"><span class=3D"s1"></span><br></p><p class=3D"p1" st=
+yle=3D"margin: 0px; font-stretch: normal; line-height: normal; caret-color: r=
+gb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span cla=
+ss=3D"s1">BMW Motorsports&nbsp;</span></p><p class=3D"p2" style=3D"margin: 0=
+px; font-stretch: normal; line-height: normal; min-height: 16.7px; caret-col=
+or: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><spa=
+n class=3D"s1"></span><br></p><p class=3D"p1" style=3D"margin: 0px; font-str=
+etch: normal; line-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0=
+, 0); -webkit-text-size-adjust: auto;"><span class=3D"s2" style=3D"text-deco=
+ration: underline;"><a href=3D"https://saaze2311prdsra.blob.core.windows.net=
+/clean/3e980ca54ad6ec11a7b5000d3a1afadb/BMW-MOTORSPORTS.png">https://saaze23=
+11prdsra.blob.core.windows.net/clean/3e980ca54ad6ec11a7b5000d3a1afadb/BMW-MO=
+TORSPORTS.png</a></span></p><p class=3D"p2" style=3D"margin: 0px; font-stret=
+ch: normal; line-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0=
+); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1">=
+</span><br></p><p class=3D"p1" style=3D"margin: 0px; font-stretch: normal; l=
+ine-height: normal; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-=
+text-size-adjust: auto;"><span class=3D"s1">Nov 16- Notice</span></p><p clas=
+s=3D"p2" style=3D"margin: 0px; font-stretch: normal; line-height: normal; mi=
+n-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-te=
+xt-size-adjust: auto;"><span class=3D"s1"></span><br></p><p class=3D"p1" sty=
+le=3D"margin: 0px; font-stretch: normal; line-height: normal; caret-color: r=
+gb(0, 0, 0); color: rgb(0, 0, 0); -webkit-text-size-adjust: auto;"><span cla=
+ss=3D"s2" style=3D"text-decoration: underline;"><a href=3D"https://saaze2311=
+prdsra.blob.core.windows.net/clean/cd7272864ad6ec11a7b5000d3a1956dd/Nov%2016=
+%202021-10%20attachments.png">https://saaze2311prdsra.blob.core.windows.net/=
+clean/cd7272864ad6ec11a7b5000d3a1956dd/Nov%2016%202021-10%20attachments.png<=
+/a></span></p><p class=3D"p2" style=3D"margin: 0px; font-stretch: normal; li=
+ne-height: normal; min-height: 16.7px; caret-color: rgb(0, 0, 0); color: rgb=
+(0, 0, 0); -webkit-text-size-adjust: auto;"><span class=3D"s1"></span><br></=
+p><br><div dir=3D"ltr">/BD<div><br></div></div></body></html>=
+
+--Apple-Mail-73FAFE72-B1B2-4B5F-A8F6-BB255D8BD0ED--

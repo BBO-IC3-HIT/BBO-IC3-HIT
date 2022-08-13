@@ -1,0 +1,280 @@
+From - Fri Aug 12 02:46:57 2022
+X-Account-Key: account1
+X-UIDL: AAF/GfZF8v8cYvYDHQszMAE62yI
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.147.16
+ by atlas205.free.mail.gq1.yahoo.com with HTTPS; Fri, 12 Aug 2022 07:37:01 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.204]
+Received-SPF: pass (domain of github.com designates 192.30.252.204 as permitted sender)
+Authentication-Results: atlas205.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 12 Aug 2022 07:37:01 +0000
+X-YMailAVSC: 0Ls8mkI3bBvB_S9J7t_zB55vH7uOMQUHktvCklHzEjUCV9U
+ 35yqii_f_Lr53GFJmyugOQRLKGfO.vCHCBlrAE0a44c1aBpDhhTX.ZwnoC54
+ VCUJAPTIdMZETzxg2BNm7sg55javwxzj0BbpVMc0EEeBsKO5FYXNvtbcTMQr
+ MUDnN6gfBOTnuHROE_vygbpY3zZBvRIMQcGn9RRunLjga_tqmFsUOO_orOEB
+ 4AgVHJDmkla6B01FzXuC3D4WzNlFSTedXt47LDOgZbmS3doP5DCOJYZ3kOoV
+ hvzglLw3mff_WyzEIZlgcMBgfyQBa6m9oZnzbpgusIR2azion_kRO0.1.VDg
+ YUxwrTUVbKqnQP_DRP91Z1njTGzL30D550tONtWClmipx1GAmjBtCgehj0fD
+ kgSbbnaEA7A28RRsa5Rdtf1OdkK80SEZRBd4ZX8N6nC20FioRqiwrYsMUM2b
+ nnn85s3_X2Rp2rP6kPBcI24mIiqYwPlLoHR6mTWz03TbTp62it7t0.ZFRctg
+ 3_mMSPjK0_YKD3nZx3hQqcCnqcNS.cOoRJLjpQV.y8RKEEmEbV4AsmhaUvyG
+ Q_k9VXKQXsqD.Qm.Jy1VRvpF2gwyCMO3Pc.gZU7WuFn5mfb6REdzse027k3V
+ Gid4mgoMXvJAp.UJHsO1JEB0__RoXho.k26Umt74SCS9F2FSY6wxhp0gaxoM
+ vec9qkU5fw7p8Q3YRwS_Zkxs6AbKbiAYqFKk95hJHMaQt8GnSwHJ7t2ys_zj
+ eMan_qExGqt5lZjt.3MPCjgDLXQd_MZHAZy0DIZl1UaT6Q.p90xRCrvT1YGv
+ R9d5xz1SFSPOqmAurEgy503XdU8zB6kkARuijdtqQouxFY3p_ZP4vpEsRTCL
+ 7jLJfp_3kSsn7yEEhoUNMGrvX83r7rQuty63B_wCLpFF0LmIsY_pIvaMhCeX
+ zWKiwlO7c8fg6cZUyED83PuWF1BUoPWebI7A8c5NaBV2BsYje3dOvx0Wpzr3
+ dwKjnRHF6lZEaSlBmxkM3AR3Ll2Dsz4SK87ZdXf4Iz6hiMEmO6Qopdr.Rn0p
+ Izhr1LecTpYrS097R7v1FvXf4QnUn6DBBNj9JTEaUrlSF8YYwYbvytZ_ZXRP
+ nT.wcwlhP_6v.hLATvQ--
+X-YMailISG: l7hByBgWLDs2ljxPBCfUbBiHHwvb9_aIW04iilFCCGFSzhuu
+ PjcFTB1oJrbh7cjbQzVqrfKqt1Kvntzvjlg7PfNcRfn9bK3bVN0YK7yKrDf5
+ dNwlPs7R13k1zjjg2COrRJ0rJVwxG73PheJQUm8Pgf.IaLKxLqpb5VB3BWZZ
+ HcZpmVxKjGfld89tmPpqNa93ZiOoSwQwPkhEmIPTbumTqIdwcNRwTMl41xnT
+ loq3wJnNszeev4HpmlK6rORi2CRA7hN3e1wo.wZhDjd1ntpfSi89_FfwBZvq
+ AqQhConzcKepwzx3gQUomxhCesfuRrJMv1Q2xjoa7viflx.ObsAkPI9L2tZA
+ KbrZw0xULqen3lqLthBa4FsAWtteityMZJ7em49sCZrlS5KIvZb987WDTaYn
+ 4K_GdmixKfBARMH50HWz2NXUix6Dn4Iaq7bo94IrQ8FPE6.KyjYof4zfVjs9
+ KlfCHTaH20ln2zzblaESYnMBnzhrI3L.13LIXezFH4BzxgnYfliwNfR3eTW4
+ HwvYOedGDV6kem.fYsNz4RnB127TbC0hCsMMS6FQV3wy60AQLMgebEjOsdYZ
+ CCJDOcQFrUFsmna02BLQEVbXvhlRzZJEwGlXM_cfRZolybu6jdsfgnKX3Nyz
+ DsenQTioVDbtiXqNkY4mapNjfPrv.SPUjsGxA0rZ35nieh5Qe_7IHOsARPzr
+ ktkUd9j8C9TH3gFBprWFg3UkXTr5BrxCLQt2uY2.y81xeYGfTavKGkzk0s_h
+ mpqev0VhDdW9KInfMQgW_nxDFV.nvJZ3Fs8AnKsg27.y7KxWr0YzeVkYXnz_
+ BXX8TlXmBnFvq4M8.kGu0m7Yk1TQAhP2Mx5Gru6zXPmjSSzMoVJFlebVi3zS
+ oJ.t9wFQ4XgigaxkILnG_io2gfW8x.uWFsPbwSdQsxOHjWXxexzMTGr0SBC7
+ ZITsVHxff54MFSUbVvl3toZ1JZl0y6kkNYYjKedb2ulTdDa044Y9HhbryM.g
+ D4nVVAshK7IViQ.yqYSm.rBBEnnRxLnF74UYv98ZwnNtl1uGpwx1.fgFKTA5
+ rSVJksJJ2m11Olff4jg_sgE0qTv838EiEzopaSDPF4ITnxnQKBTtp.bwqoLn
+ ZwxanJ5S2kEdbJhz_2cIO8KDUT5SqzBLIJ6q90KGcILV7HhBO007N3.2eBEt
+ AetXpaPSEprAQu9TQUyMVXs.mG4inOQU
+Received: from 192.30.252.204 (EHLO smtp.github.com)
+ by 10.214.147.16 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 12 Aug 2022 07:37:01 +0000
+Received: from github.com (hubbernetes-node-d4791e0.ac4-iad.github.net [10.52.200.26])
+	by smtp.github.com (Postfix) with ESMTPA id A2C4352043C;
+	Fri, 12 Aug 2022 00:37:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1660289820;
+	bh=QHx9nGri8iDjkq6m8CCdeRt15AucT5Cy0af0gz/Y2eI=;
+	h=Date:From:To:Subject:From;
+	b=jxCoQgATBIw/Tgxot+9wNJP2VhfhcvdXM9Lk2LvR4vF2HVQKkqAWvouYWGTNXKBuU
+	 3qHKHrduUOGkI6Ot2TLL1EF1SmH2EKiTFJy+FRYtD62FW3B/fNRX28CSik/XmsvHBM
+	 BsJ0xpndgpOwKe4r+oeWHhwXokHRjogEXDjvsZic=
+Date: Fri, 12 Aug 2022 00:37:00 -0700
+From: 1212-5858 <noreply@github.com>
+To: helpdesk@listserv.leo.gov, 
+ ms60710444266@yahoo.com
+Message-ID: <BSCPGROUPHOLDINGSLLC/RELATIVES/push/refs/heads/6-24-2020--after-STATE-FARM-EXECUTED/75d2d1-8dd466@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/RELATIVES] 8dd466: Read SEC. 34. DESTRUCTION
+ AND FALSIFICATION OF REP...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: AIDED AND ABETTED BY LEWISOHN LOAN 50074 #90849565
+X-GitHub-Recipient-Address: helpdesk@listserv.leo.gov,ms60710444266@yahoo.com
+X-Auto-Response-Suppress: All
+Content-Length: 10461
+
+  Branch: refs/heads/6-24-2020--after-STATE-FARM-EXECUTED=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES=0D
+  Commit: 8dd46696c6919f6b48462a04fad51565fd4b45d2=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES/commit/8dd46696c6=
+919f6b48462a04fad51565fd4b45d2=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-08-12 (Fri, 12 Aug 2022)=0D
+=0D
+  Changed paths:=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -1-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -2-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -3-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -4-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -5-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -6-1.eml=0D
+    A DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT =
+REPLY -6.eml=0D
+    A FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=0D
+    A Fwd quash .eml=0D
+    A Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED.-1.eml=0D
+    A Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED.-2.eml=0D
+    A Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED..eml=0D
+    A Read FEDERAL BANK INVESTIGATION ---.eml=0D
+    A Read Fwd Case Number 01413744 [ 50074 EST ++ ].eml=0D
+    M Read Fwd Fw OPEN EXPOSURES #50074 & AS STATED, TIME IS OF THE ESSEN=
+CE..eml=0D
+    A Read Fwd LOAN 50074 by and between State Farm and Sullivan Properti=
+es LP..eml=0D
+    A Read Fwd LOAN DOCKETS AND EDGARS EVALUATED IN THE TXT FILES - FOR C=
+ONVENIENCE [ URL ] [ oig ].eml=0D
+    A Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS =
+_ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-1-1.eml=0D
+    A Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS =
+_ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-1.eml=0D
+    A Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS =
+_ 255 AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-2.eml=0D
+    A Read [EXTERNAL MESSAGE] 'https _iapps.courts.state.ny.us_nyscef_Vie=
+wDocument docIndex=3DBHKQCNuN0DHZNk5LD_32Lg=3D=3D'[ kids ].eml=0D
+    A Read [EXTERNAL MESSAGE] Fwd LOAN 50074 by and between State Farm an=
+d Sullivan Properties LP..eml=0D
+    A Read [EXTERNAL MESSAGE] Fwd Read [EXTERNAL] [ STATE FARM SVC PROVID=
+ERS ] https _github.com_BSCPGROUPHOLDINGSLLC_WILSO....eml=0D
+    A Read [EXTERNAL MESSAGE] RE TAX RISKS and LETTER OF CREDIT 50074 ---=
+ rents and leases transferred to State Farm .eml=0D
+    A Read [EXTERNAL]'https _iapps.courts.state.ny.us_nyscef_ViewDocument=
+ docIndex=3DBHKQCNuN0DHZNk5LD_32Lg=3D=3D'[ kids ].eml=0D
+    A Read [EXTERNAL]Fwd (PS-Investigation@facil.columbia.edu)TAX EVASION=
+.. Miss Monrovia..eml=0D
+    A Read [EXTERNAL]Fwd Fwd November 22nd, 2021 NOTICE to Laurie Zucker,=
+ #348#ADV FORM [bk01@cb.nyc.gov] nonplussed..eml=0D
+    A Read [EXTERNAL]Fwd [BSCPGROUPHOLDINGSLLC_WILSONELSER-ZUCKER] 21bd91=
+ FDIC Law. Section 8000 - DOCKETS FILED IN NYSCEF M....eml=0D
+    A Read [EXTERNAL]NYSCEF MATTER 153974_2020 - ALL LOAN DOCKETS WERE AL=
+SO ANNEXED FOR CONVENIENCE (93715) [1516523].eml=0D
+    A Read [EXTERNAL]REF. UNLAWFUL RENTS AND SUPPLEMENTS FOR CONVENIENCE.=
+ JP MORGAN CHASE, NA..eml=0D
+    A Read [EXTERNAL]Re ox 63.18 SIMPLIFIED... morgan stanley [ -12.325% =
+=3D -$1,357,848,214 ] [ tax receipts & estimates. ] ....eml=0D
+    A Read what's the opposite of not sharing externally..eml=0D
+    A Thank you for contacting CBP Media Relations-1.eml=0D
+    A Thank you for contacting CBP Media Relations-10.eml=0D
+    A Thank you for contacting CBP Media Relations-11.eml=0D
+    A Thank you for contacting CBP Media Relations-12.eml=0D
+    A Thank you for contacting CBP Media Relations-13.eml=0D
+    A Thank you for contacting CBP Media Relations-14.eml=0D
+    A Thank you for contacting CBP Media Relations-15.eml=0D
+    A Thank you for contacting CBP Media Relations-16.eml=0D
+    A Thank you for contacting CBP Media Relations-17.eml=0D
+    A Thank you for contacting CBP Media Relations-18.eml=0D
+    A Thank you for contacting CBP Media Relations-19.eml=0D
+    A Thank you for contacting CBP Media Relations-2.eml=0D
+    A Thank you for contacting CBP Media Relations-20.eml=0D
+    A Thank you for contacting CBP Media Relations-21.eml=0D
+    A Thank you for contacting CBP Media Relations-22.eml=0D
+    A Thank you for contacting CBP Media Relations-3.eml=0D
+    A Thank you for contacting CBP Media Relations-4.eml=0D
+    A Thank you for contacting CBP Media Relations-5.eml=0D
+    A Thank you for contacting CBP Media Relations-6.eml=0D
+    A Thank you for contacting CBP Media Relations-7.eml=0D
+    A Thank you for contacting CBP Media Relations-8.eml=0D
+    A Thank you for contacting CBP Media Relations-9.eml=0D
+    A Thank you for contacting CBP Media Relations.eml=0D
+    A VIOLATION OF PRIVACY DOCKETS OBSTRUCTED IN NYSCEF 153974_2020 [ URL=
+ ].eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 07cbb9 DESTRUCTION AND FALSIFICATION OF ....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 358ac7 [$6 MILLION DOLLAR LOAN](https _....eml=0D
+    A [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULL=
+IVAN-ZUCKER] 37495d AKA. NOT FIT..eml=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS =0D
+=0D
+Read [EXTERNAL MESSAGE] Fwd LOAN 50074 by and between State Farm and Sull=
+ivan Properties LP..eml=0D
+Read [EXTERNAL]Fwd Fwd November 22nd, 2021 NOTICE to Laurie Zucker, #348#=
+ADV FORM [bk01@cb.nyc.gov] nonplussed..eml=0D
+Read [EXTERNAL]Fwd [BSCPGROUPHOLDINGSLLC_WILSONELSER-ZUCKER] 21bd91 FDIC =
+Law. Section 8000 - DOCKETS FILED IN NYSCEF M....eml=0D
+Read [EXTERNAL]REF. UNLAWFUL RENTS AND SUPPLEMENTS FOR CONVENIENCE. JP MO=
+RGAN CHASE, NA..eml=0D
+Read [EXTERNAL]'https _iapps.courts.state.ny.us_nyscef_ViewDocument docIn=
+dex=3DBHKQCNuN0DHZNk5LD_32Lg=3D=3D'[ kids ].eml=0D
+Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS _ 255 =
+AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-1.eml=0D
+Read [EXTERNAL MESSAGE] RE TAX RISKS and LETTER OF CREDIT 50074 --- rents=
+ and leases transferred to State Farm .eml=0D
+Read [EXTERNAL]Fwd (PS-Investigation@facil.columbia.edu)TAX EVASION... Mi=
+ss Monrovia..eml=0D
+Read [EXTERNAL]NYSCEF MATTER 153974_2020 - ALL LOAN DOCKETS WERE ALSO ANN=
+EXED FOR CONVENIENCE (93715) [1516523].eml=0D
+Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS _ 255 =
+AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-1-1.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-6.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-1-1.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-2-1.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-3-1.eml=0D
+Read [EXTERNAL MESSAGE] 'https _iapps.courts.state.ny.us_nyscef_ViewDocum=
+ent docIndex=3DBHKQCNuN0DHZNk5LD_32Lg=3D=3D'[ kids ].eml=0D
+Read [EXTERNAL MESSAGE] Fwd Read [EXTERNAL] [ STATE FARM SVC PROVIDERS ] =
+https _github.com_BSCPGROUPHOLDINGSLLC_WILSO....eml=0D
+Read SEC. 34. DESTRUCTION AND FALSIFICATION OF REPORTS AND RECORDS _ 255 =
+AFFIDAVIT _ $6MM TRANSFER =E2=80=94 STFGX _ 6171...-2.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-4-1.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-5-1.eml=0D
+DOC Constituent Services - Auto Reply Email Acknowledgement DO NOT REPLY =
+-6-1.eml=0D
+Read [EXTERNAL]Re ox 63.18 SIMPLIFIED... morgan stanley [ -12.325% =3D -$=
+1,357,848,214 ] [ tax receipts & estimates. ] ....eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 07cbb9 DESTRUCTION AND FALSIFICATION OF ....eml=0D
+Automatic reply [EXTERNAL] Fwd Fwd [c.16] BREACH UNDER SARBANAS-OXLEY ACT=
+ [ public audit firm] obo Miss Daugherty & Co..eml=0D
+Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED..eml=0D
+Fwd quash .eml=0D
+Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED.-1.eml=0D
+Read Fwd Case Number 01413744 [ 50074 EST ++ ].eml=0D
+Read what's the opposite of not sharing externally..eml=0D
+Read Fwd LOAN 50074 by and between State Farm and Sullivan Properties LP.=
+.eml=0D
+Read FEDERAL BANK INVESTIGATION ---.eml=0D
+Read Fwd LOAN DOCKETS AND EDGARS EVALUATED IN THE TXT FILES - FOR CONVENI=
+ENCE [ URL ] [ oig ].eml=0D
+Thank you for contacting CBP Media Relations.eml=0D
+Thank you for contacting CBP Media Relations-1.eml=0D
+Thank you for contacting CBP Media Relations-2.eml=0D
+Thank you for contacting CBP Media Relations-3.eml=0D
+Thank you for contacting CBP Media Relations-4.eml=0D
+Thank you for contacting CBP Media Relations-5.eml=0D
+Thank you for contacting CBP Media Relations-6.eml=0D
+Thank you for contacting CBP Media Relations-7.eml=0D
+Thank you for contacting CBP Media Relations-8.eml=0D
+Thank you for contacting CBP Media Relations-9.eml=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 358ac7 [$6 MILLION DOLLAR LOAN](https _....eml=0D
+Re $$$$$$ GS _ JOB REGISTRATIONS ---) WERE CONTACTED.-2.eml=0D
+Thank you for contacting CBP Media Relations-10.eml=0D
+Thank you for contacting CBP Media Relations-11.eml=0D
+Thank you for contacting CBP Media Relations-12.eml=0D
+Thank you for contacting CBP Media Relations-13.eml=0D
+Thank you for contacting CBP Media Relations-14.eml=0D
+Thank you for contacting CBP Media Relations-15.eml=0D
+Thank you for contacting CBP Media Relations-16.eml=0D
+Thank you for contacting CBP Media Relations-17.eml=0D
+Thank you for contacting CBP Media Relations-18.eml=0D
+Thank you for contacting CBP Media Relations-19.eml=0D
+Thank you for contacting CBP Media Relations-20.eml=0D
+Thank you for contacting CBP Media Relations-21.eml=0D
+Thank you for contacting CBP Media Relations-22.eml=0D
+VIOLATION OF PRIVACY DOCKETS OBSTRUCTED IN NYSCEF 153974_2020 [ URL ].eml=
+=0D
+Read Fwd Fw OPEN EXPOSURES #50074 & AS STATED, TIME IS OF THE ESSENCE..em=
+l=0D
+[WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER_WILSON-ELSER-STATEFARM-SULLIVAN-Z=
+UCKER] 37495d AKA. NOT FIT..eml=0D
+FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=0D
+=0D
+=0D

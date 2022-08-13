@@ -1,0 +1,840 @@
+From - Sun Apr 17 11:51:13 2022
+X-Account-Key: account1
+X-UIDL: ADghdOdGdqf4YlJ+Gwu76IEcl+U
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.220.161.203
+ by atlas221.free.mail.ne1.yahoo.com with HTTPS; Sun, 10 Apr 2022 06:50:03 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.69.84]
+Received-SPF: pass (domain of yahoo.com designates 98.137.69.84 as permitted sender)
+Authentication-Results: atlas221.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 10 Apr 2022 06:50:03 +0000
+X-YMailISG: QuloIbEWLDvJ2ai_fUGqk8I_uH.cfUyXZEwh6AYy2vm_6_eo
+ 9mfqawNhFMIO.ISJFpT2StrSX.6.q.UsyIFldzTyLCQkYSv3.JAvP.mUAWYB
+ ltWwzLiT87w3ffN.FRw9OcVvVsmrZubUKVF5B.f31xSJJudsaU3UBi9qYwkk
+ d5WX9dPGuf2cCcMYv2Z0LVAAApiQvc4KVT4aFSf0yJyiO_c.WISwhN.uyxWG
+ FHmP.eNx3rKd7k4c1NyHNwSLAed18.ijwuv6PkfPkRyeP302g_woFpWRsvU6
+ U2EgsYMaBUd5sQ7iihmtPFkiv7vMpFdzn7rDG9lshJQI7PWmT74SmMR8VT.R
+ 9hW6vfuEJeRrRaG8lyqlEAJOUm_5e0r3QXZtEm7gK_Lf23A3yOu.i_QUyO0N
+ ZGqUCV_JYps._0HfzL8tHtBDz5VW.yiEbgKTcqUi_VsnvgA67NtHK461NkTc
+ _YjJ8u9YrOKvy0xSxwefQDFYKGIyFC4aII54GWGZKh6mBkfKBkDyBE_k_6J5
+ bhlutTdkqu3DhVPc39d.YpgZx3xmnwameKYGeXRmwZkioqN8UPvsOD1Ed5lr
+ YA6NSx2NcSiSHEnW.gcs9jxKmlh4L.hV9pkU3r7xoUgLbqZV6Ch9QZhcZYxE
+ USV13cS3Vz3XV3OD44UO9k.MHGDhWxModub9nUDofFmr2ifHtcD35qOvBNUr
+ 2xfnAChVh9DsyGpV86gmAJMcuOfmv3FxPKqvPMUmxtkt973D5Rd0tkEIXiuv
+ GyW6cUA6GPz8DFaB0X.kMsJAzleSem9GSIGqf00znfh2A4G73i5E62m2CLmN
+ zJKzDfjkDIfBxNh3LGd2aJAe.nRy5KInRYFpsxv7L8LQ86sRLZATisYbmrf1
+ B6eCnViaoF9In0n3Puka2UAU5.yKFydHYZ92glzTmYJWoDo7kg9Dr8otV.6J
+ c8qOJD2ZLDL8NWBljs2kL2EhigHe3p1RZnbuTFp2h7knDjEmXwPz1lMkNCNB
+ aNM7Ek6X.4dfbJxBAZxyUoHLTPjy2nKnKe26cB_sz7q3bYv5TlxY8fh3sK7p
+ EB_8_nLdS11Sgnu9l.bb1QP99Xk7DsZYVXkoSSgpBkahiFbc5rZxAki62G8l
+ _cSW1vhdIycnd3ivkb_U6su3GdA6SWM7qQoSW78A09sryTLIiUc4DhuxCUEt
+ LrCIq89d3e4-
+Received: from 98.137.69.84 (EHLO sonic314-21.consmr.mail.gq1.yahoo.com)
+ by 10.220.161.203 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sun, 10 Apr 2022 06:50:03 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1649573402; bh=Oo5eGvTC5lBSBI22eQuVDlbjp4YjbvuVQ0H/iyv6LIE=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=MTr3ZyXz6t5RcO0GTcBIugtQWjat+nADsWPfsvMthh3RsyEdNC5dDu3Ri0tpT4Ei2Ha4UvvjkwOakoGrXy2JuQclFadyHBPKthBGYQ9l6fNXlf01k5+y2wpyNoU8zYi0vP4Z9NxqWWW/6JKZjmxI5atm9Sx1zZ/vUbSetgVAk2xIHF0mCyijD0cfQvKQecwAm94A2AboqNQTsC050kKDuTm4a4CLMJ6paZCFNGkSJeSjDq1FHb68/Qi2nAgTA8FFnmjEF7aOkuXqsDmNmjJpT4u2YWMTf32ssEjzNb3ljSO1CZjbqEN+3EQPQLy4nvDMnszHeymec247Am6YpC1ktQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1649573402; bh=NZKq7HsYoXgTvgt1foRWNeVZR6Q60RtZ3NxmHGtgiM5=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=B2MbK3a0ALCbPld2G85zFBbP3odqJV6Fi2+48N9lyd9vcXCxT+OKAzztWZo3VCc4maCu+tafISMayhCRmrwjfaqM4MTMCxf2jn+1mqrmNqT+eMboZcQyfIDWyWHRuRBvOAI9dU4Pqzy/AAjCPFXu4idTczmX/I+mKFW3ZjftdDwxWpTx/1yE238s/xXhMF9uXbD/rOPLN5S2CYV4o/UaK+P5+aLBD/Afa5WSQn02CJDGr0Vq2pKfOSR8emP5Age5nKm8sbRJzCAxHjY+PKvn1M8mlXpcl4xwP/o8jd1InqzAN6qzk7e62ASqVa5ZYF/LpVkr/ZXa/ng4qBXdxUQLig==
+X-YMail-OSG: Se6vYXEVM1mMg23fuqJj6P9lTVMVULVThmIwFG6KvtNzP1w0Ysuf.CkIwUEJc6E
+ FgZGz4mJ3_EGBdqCXHvf2zvBx4Wv4V4tHOmleBBQWRfV5PdteYp0jf6baEdmGxQMRGxnr.bukI5e
+ RalZjYGhpoC4a4JtTBos9_UIuqyAX6OtbTwNLs03eO7gQquUZQxPPdwXgQZ7Y0zyplA4rWXOOWiq
+ tK19XsHSteENxCMcPwOFMWuy6rj6d5bEgC.SPp3gXOZ5K4X2zCdVwmsu.TubqbD40yW6I9Ni0gKs
+ AUZ0YRspACXpZq8GinND7AMgpCUNq77vA0snXW3Q2nad_FkualWJySO6yk9lyY9KmAfO30.LP5LP
+ AXwsRX2O2rCcPKmd4LbbyTUlBtlAs_L27d1opA8ODLJGDvLTZcGAG5HdzxtBmGQGQFSR_W0Q.kgA
+ pu2cmwQsuN6RbNzIu0in3VLqeFS9uNN7hwDYcKepztpHSpu57VY5sadJSUnxKqsvT426Q7vpoxF1
+ MCUPDhcIlw56x168l.ujk.JJrQJqssxdiMSXXObsuxHfbdh_78C3_2KXnGw5mH8IQCqr3T6t.v6.
+ AP_x1qpcrVmOcaFd2tZA9FmZJ2RZdHBbQvH1uexJ0uODcON6Etnp0Gc3idBMiNHUAVnLHoFtEcOt
+ GVNWE07NgGJh5NOCU1EcqEeP8MR6jrF_3kWNK7N.6Cnx1pDCClh6QgKAErocE8c8z8Y5WTNJudpT
+ qzAckOsED8gAbjFNqHKZjLdvGe_eIn7fL7gtwml8hqVj.Zdlr_iz1NI7suiwf12oSh26VXfSHiZC
+ T8a7iYAOja28PUEtHPqpjZ5u5CuxQ5mAVl3r5KXAwSy5LeCyZnU974GJbFGDLzgpDdBu65Sc8w54
+ Gm2zui7vhd9KrGREYPAaGXwo6AwGWhQriW9GPPqP8Jn761BbLpz2_R2Ym6Mr77hQGuUA6nxonLdQ
+ FX2QTEhuWZJZ1T0NWgBy2DI3sVEbxbBm5tSK5xXHiSdbVpUAr.BC5UU5HbnCsVe1TKuqlpQqsgEe
+ WAt87NfO8_Y8r6ImPsX4vAp5jXxdNN2Qi.v6QhS6ZqdpBYH_UU00mKsOF8cjmR_gqLzamKYNkbO3
+ Bq2hUPpmNgkbQW.csze490NL95KZuNevSytdxhwOdFBJc1lrngPjL1dq180R_gbYByi81x.ZCw40
+ 8AII6n5Ka00QxxhILiLkSSFTrvByH_KhBKxP3_lf8TSHxmARYbEEzYbMNbtmkW2pnvpz5b93euQM
+ Dmhxvu7NQk1jVwPMNaFFTdPnu_hvSu50wjVC_wyr5VNLNZBtVpHy58xcuLAYNuh5mkl4mMkQ_HiL
+ cXMYRkCLTlCskfkskf.SBtZ3VbvEiQ0K039bLfRa04pH8tFlc.XXc_kCo2sh7CzY0qFU8tM3kFZJ
+ AE8feKvRid6caA2CWDDU97.9ntI6EeT51l9f_zDZBLM.wHTf94fRwXlSAZcKh7MDvF5QTBdNVkfC
+ AzzrC.xT7a4ijJdLHtqZx9iRPZH2T.EEukOKpThQ2JOj.Mqf5oe.NqJ23aJj0_3NPsMwc0EhmQtC
+ G5lu.RwFi8uriJ.8P2RXy884v8ybagJFw5teLs5cQbQ3v7E__vpaweO9XDl9MoYSbyj1ZVWDLmNp
+ l9DGOs4aOrQD0N90PsxZIdJgSJlllvC6b2NA2aiuLAyDs7_Zx1Bla7hB8yXRpPu49XmaEEXE95_7
+ fZT9LcL3wAtNuc6JCpaScvo.5HdKQtl2ex6magnT1NdUaAoHutUzJbSTiPMHeFrcmVsUHHuw01Kh
+ ceuxrPsfN.BW2u.3GPVizHRcUypyTomMzXs6DozEZmky3_mSo0lRyQb8dbjd2TtYJIEaRRgeD9Nq
+ kUzOXiRbxkdXEuvR9wLmYk4zhyb11ziIjHlfOwIkALcP6Y_baJLbaGEnGcTaBhBgBbaNYNi__6Mh
+ RL3393XzB1D8sC1m9vh29rfcPgPYTJ01fMKzA93A1mr8SMPxMR1mb1HGCgM_bDDNL_vmKEM5L6sz
+ 9qags5lj0FUJcjNNp2PTECqXZW6umWydx9tehHLy3aKd4VOdmCTTaReUQZZekxaXDESS28KRtasQ
+ cHwMxLQDKd4pA268XLNAN8KHToJhOX6bv7.6e4adekPps9JJJkS5kvFkA5X5O3.x_iZFlb0RTGzi
+ lMuGOB6wMYa5lHX8G4Agkvu79DY87EmrvYiND5JB80Oe4hlNB0hRYfp5qGBwu4UvVfgtKxi5EKc5
+ o48MB5D0Z6RjW8CQGLTLTYycQ11pdAJoYgkIojwpuZ5QemYZKZ2Hng8vTeUTFrdWci.RizQmC.dN
+ zzMZau4KZAsmfLRcS9E5QV8DdX3y3wuVloAZPoDIlbuiZMPjz658iDpxmFEkoexBRGJ5RyuDQvS0
+ 3dp_OoGt9xdt5CesrnW7C78lVzCpWL2P6A9_WGDI9rPmgahr4X3WOwCwM3wckSdsAQ.EO2xH6P7a
+ icHDzsTIqhhUQ9G68pV5smSIP_6CE4zflcHOvxSIC_yWTMUrBX75xpff9K03jtia8RjgnBdCDa.1
+ aIy7NkoV2mA13FT3H4mCQXQ1g3zCIZbf7bvZ7YqY4Il5BHztWwqlpEO2HrnDr4bTjLRfFC1z6isf
+ kvhBJqFFcjEGZi_bP6mnsGuqK8GANy4vYLce6H_qlmlfRL_8IsPiiCHq_aIUyEg--
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic314.consmr.mail.gq1.yahoo.com with HTTP; Sun, 10 Apr 2022 06:50:02 +0000
+Date: Sun, 10 Apr 2022 06:49:59 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: MILTON MCKENZIE <ms60710444266@yahoo.com>
+Message-ID: <911510077.249011.1649573400148@mail.yahoo.com>
+In-Reply-To: <56A689A80223059C01199E9B_0_860882@n281>
+References: <56A689A80223059C01199E9B_0_860882@n281>
+Subject: FW: AAPL Reports Earnings Tomorrow After the Close: Preview
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_249010_772425760.1649573400148"
+X-Mailer: WebService/1.1.20048 YahooMailAndroidMobile
+Content-Length: 44810
+
+------=_Part_249010_772425760.1649573400148
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_249009_67998240.1649573399359"
+
+------=_Part_249009_67998240.1649573399359
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from Yahoo Mail on Android=20
+=20
+   ----- Forwarded Message ----- From: "Bo Dincer (SCHOTTENFELD GROUP L)" <=
+bdincer10@bloomberg.net> To:  Cc:  Sent: Mon, Jan 25, 2016 at 3:46 PM Subje=
+ct: FW: AAPL Reports Earnings Tomorrow After the Close: Preview   <!--#yiv9=
+796297710 _filtered {} _filtered {} _filtered {}#yiv9796297710 #yiv97962977=
+10 p.yiv9796297710MsoNormal, #yiv9796297710 li.yiv9796297710MsoNormal, #yiv=
+9796297710 div.yiv9796297710MsoNormal {margin:0in;margin-bottom:.0001pt;fon=
+t-size:12.0pt;font-family:"Times New Roman", "serif";}#yiv9796297710 a:link=
+, #yiv9796297710 span.yiv9796297710MsoHyperlink {color:blue;text-decoration=
+:underline;}#yiv9796297710 a:visited, #yiv9796297710 span.yiv9796297710MsoH=
+yperlinkFollowed {color:purple;text-decoration:underline;}#yiv9796297710 p =
+{margin-right:0in;margin-left:0in;font-size:12.0pt;font-family:"Times New R=
+oman", "serif";}#yiv9796297710 p.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0=
+a3bc84e, #yiv9796297710 li.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0a3bc84=
+e, #yiv9796297710 div.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0a3bc84e {ma=
+rgin:0in;margin-bottom:.0001pt;font-size:12.0pt;font-family:"Times New Roma=
+n", "serif";}#yiv9796297710 span.yiv9796297710EmailStyle18 {font-family:"Ti=
+mes New Roman", "serif";}#yiv9796297710 span.yiv9796297710EmailStyle19 {fon=
+t-family:"Calibri", "sans-serif";color:#1F497D;}#yiv9796297710 span.yiv9796=
+297710EmailStyle21 {font-family:"Calibri", "sans-serif";color:#1F497D;}#yiv=
+9796297710 .yiv9796297710MsoChpDefault {font-size:10.0pt;} _filtered {}#yiv=
+9796297710 div.yiv9796297710WordSection1 {}-->
+ =C2=A0
+=20
+ =C2=A0
+=20
+From: Grady, Patrick M [mailto:Patrick.Grady@morganstanley.com]
+Sent: Monday, January 25, 2016 3:46 PM
+Subject: AAPL Reports Earnings Tomorrow After the Close: Preview
+=20
+ =C2=A0
+=20
+For Institutional Clients Only
+=20
+ =C2=A0
+=20
+AAPL Reports Earnings Tomorrow After the Close: Preview
+=20
+ =C2=A0
+=20
+**TRADING COMMENTARY (this is not a product of Morgan Stanley Research and =
+should not be regarded as a research report)**
+
+
+AAPL will release earnings at 4:30pm ET tomorrow (stock halt possible given=
+ anticipation of soft guide / capital allocation update {though cash return=
+ expected with the April call})
+*Conference call at 5pm ET: 866-409-1555 / no passcode / http://www.apple.c=
+om/investor/earnings-call/
+
+-=C2=A0Set-up: Expectations call for a relatively in-line quarter with thef=
+ocus squarely on the March guide given supply chain preannouncements, month=
+s of downward estimate revisions and weak third-party checks.=C2=A0 Most bu=
+y-siders have been shaking out at 48-51mm units (MSe 52mm) but Katy Huberty=
+ still sees some even lower (mid-to-high 40s).=C2=A0 As for the financials,=
+ there is a wide variance with most low-end whispers in the $50-$52B range =
+or $1.90-$2 in EPS.=C2=A0 GMs & ASPs will be crucial so look for margins to=
+ hold the ~39% level with ASPs in the high $600s.=C2=A0 Otherwise, it will =
+be more subjective as to whether or not units can grow in 2016, how Service=
+s are tracking and maybe even data points around refresh rates.=C2=A0Net-ne=
+t: with everyone positioned for a guide down, the question is whether or no=
+t the bar has been lowered enough so that product cycle bulls can begin to =
+look forward to the iPhone 7.=C2=A0
+
+-=C2=A0Trading: Short interest has come off the November highs (currently s=
+tands at ~70mm shares vs ~110mm at 11/30) as 6 cycle bears have begun to re=
+alize what has become a highly profitable trade (AAPL -20% during that time=
+ vs SPX -10%).=C2=A0 In the mid-$90s, the stock naturally found valuation s=
+upport as FCF bulls took advantage of marco-led dislocations (note that Kat=
+y=E2=80=99s bear case =3D $94/share; 11x significantly lower FY16 EPS of $8=
+.50).=C2=A0=C2=A0 It was not until recently where longs have begun to revis=
+it previously held positions -- something that will be highly dependent upo=
+n tomorrow=E2=80=99s result.
+=20
+**5.5% implied move**
+=20
+=C2=A0
+=20
+Core Metrics, Street Estimates
+=20
+- Net Revs: $76.6B(guide: $75.5B-$77.5B)<--=C2=A0MSe $76.8B
+=20
+- GMs: ~39-40%(guide: 39%-40%)<--=C2=A0MSe 39.8%
+=20
+- OMs: 31.5%
+- EPS: $3.23 <--=C2=A0MSe $3.25
+=20
+=C2=A0
+=20
+Key Metrics, MS Estimates
+- iPhone Units: 74mm <-- investors seems prepared for first even y/y unit d=
+ecline or ~74.5mm
+=20
+- iPad Units: 15mm
+- Mac Units: 5.57mm
+- Share Repurchase: $8B
+
+March Q Guidance, Potential Buyside Levels
+=20
+- Net Revs: $50-$52B<-- street is just below $56B but clearly expectations =
+are below
+- Units: ~50mm <-- 48-51mm with some even lower
+- GMs: ~39-40%
+- EPS: $2.10-$2.15
+=20
+ =C2=A0
+=20
+
+
+
+**TRADING COMMENTARY (this is not a product of Morgan Stanley Research and =
+should not be regarded as a research report)**=C2=A0=C2=A0=C2=A0
+=20
+Important Notice to Recipients:
+=C2=A0
+The sender of this e-mail is an employee of Morgan Stanley Smith Barney LLC=
+ ("Morgan Stanley").=C2=A0 If you have received this communication in error=
+, please destroy all electronic and paper copies and notify the sender imme=
+diately. Erroneous transmission is not intended to waive confidentiality or=
+ privilege.=C2=A0 Morgan Stanley reserves the right, to the extent permitte=
+d under applicable law, to monitor electronic communications. This message =
+is subject to terms available at the following link:http://www.morganstanle=
+y.com/disclaimers/mssbemail.html.=C2=A0 If you cannot access this link, ple=
+ase notify us by reply message and we will send the contents to you.=C2=A0 =
+By messaging with Morgan Stanley you consent to the foregoing.
+=20
+
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received this e-mail by mistake and delete this e-ma=
+il from your system. E-mail transmission cannot be guaranteed to be secure =
+or error-free as information could be intercepted, corrupted, lost, destroy=
+ed, arrive late or incomplete, or contain viruses. The sender therefore doe=
+s not accept liability for any errors or omissions in the contents of this =
+message, which arise as a result of e-mail transmission. If verification is=
+ required please request a hard-copy version.
+
+
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received this e-mail by mistake and delete this e-ma=
+il from your system. E-mail transmission cannot be guaranteed to be secure =
+or error-free as information could be intercepted, corrupted, lost, destroy=
+ed, arrive late or incomplete, or contain viruses. The sender therefore doe=
+s not accept liability for any errors or omissions in the contents of this =
+message, which arise as a result of e-mail transmission. If verification is=
+ required please request a hard-copy version.
+ =20
+
+------=_Part_249009_67998240.1649573399359
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div id=3D"ymail_android_signature"><a id=3D"ymail_android_signatur=
+e_link" href=3D"https://go.onelink.me/107872968?pid=3DInProduct&amp;c=3DGlo=
+bal_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_su=
+b1=3DInternal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailSignature">Se=
+nt from Yahoo Mail on Android</a></div> <br> <blockquote style=3D"margin: 0=
+ 0 20px 0;"> <div style=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0; bord=
+er-left: 1px solid #6D00F6;"> <div style=3D"font-family:Roboto, sans-serif;=
+ color:#6D00F6;"> <div>----- Forwarded Message -----</div> <div><b>From:</b=
+> "Bo Dincer (SCHOTTENFELD GROUP L)" &lt;bdincer10@bloomberg.net&gt;</div> =
+<div><b>To:</b> </div> <div style=3D"display:none"><b>Cc:</b> </div> <div><=
+b>Sent:</b> Mon, Jan 25, 2016 at 3:46 PM</div> <div><b>Subject:</b> FW: AAP=
+L Reports Earnings Tomorrow After the Close: Preview</div> </div>  <div id=
+=3D"yiv9796297710">
+
+=20
+=20
+<style><!--
+#yiv9796297710 =20
+ _filtered {}
+ _filtered {}
+ _filtered {}
+#yiv9796297710 =20
+#yiv9796297710 p.yiv9796297710MsoNormal, #yiv9796297710 li.yiv9796297710Mso=
+Normal, #yiv9796297710 div.yiv9796297710MsoNormal
+=09{margin:0in;margin-bottom:.0001pt;font-size:12.0pt;font-family:"Times Ne=
+w Roman", "serif";}
+#yiv9796297710 a:link, #yiv9796297710 span.yiv9796297710MsoHyperlink
+=09{color:blue;text-decoration:underline;}
+#yiv9796297710 a:visited, #yiv9796297710 span.yiv9796297710MsoHyperlinkFoll=
+owed
+=09{color:purple;text-decoration:underline;}
+#yiv9796297710 p
+=09{margin-right:0in;margin-left:0in;font-size:12.0pt;font-family:"Times Ne=
+w Roman", "serif";}
+#yiv9796297710 p.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0a3bc84e, #yiv979=
+6297710 li.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0a3bc84e, #yiv979629771=
+0 div.yiv9796297710ff678391-2bd0-4ffd-ae1a-011d0a3bc84e
+=09{margin:0in;margin-bottom:.0001pt;font-size:12.0pt;font-family:"Times Ne=
+w Roman", "serif";}
+#yiv9796297710 span.yiv9796297710EmailStyle18
+=09{font-family:"Times New Roman", "serif";}
+#yiv9796297710 span.yiv9796297710EmailStyle19
+=09{font-family:"Calibri", "sans-serif";color:#1F497D;}
+#yiv9796297710 span.yiv9796297710EmailStyle21
+=09{font-family:"Calibri", "sans-serif";color:#1F497D;}
+#yiv9796297710 .yiv9796297710MsoChpDefault
+=09{font-size:10.0pt;}
+ _filtered {}
+#yiv9796297710 div.yiv9796297710WordSection1
+=09{}
+--></style>
+
+<div>
+<div class=3D"yiv9796297710WordSection1">
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"> &nbsp;</span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"> &nbsp;</span></p>=20
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in;">
+<p class=3D"yiv9796297710MsoNormal"><b><span style=3D"font-size:10.0pt;">Fr=
+om:</span></b><span style=3D"font-size:10.0pt;"> Grady, Patrick M [mailto:P=
+atrick.Grady@morganstanley.com]
+<br>
+<b>Sent:</b> Monday, January 25, 2016 3:46 PM<br>
+<b>Subject:</b> AAPL Reports Earnings Tomorrow After the Close: Preview</sp=
+an></p>=20
+</div>
+</div>
+<p class=3D"yiv9796297710MsoNormal"> &nbsp;</p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:11.0pt;color:r=
+ed;">For Institutional Clients Only</span><span style=3D"font-size:11.0pt;c=
+olor:#1F497D;"></span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:11.0pt;color:#=
+1F497D;"> &nbsp;</span></p>=20
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in;">
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:14.0pt;">AAPL =
+Reports Earnings Tomorrow After the Close: Preview</span></p>=20
+</div>
+</div>
+<p class=3D"yiv9796297710MsoNormal"> &nbsp;</p>=20
+<p style=3D"margin-bottom:12.0pt;" class=3D"yiv9796297710MsoNormal"><i><spa=
+n style=3D"font-size:10.0pt;">**TRADING COMMENTARY (this is not a product o=
+f Morgan Stanley Research and should not be regarded as a research report)*=
+*</span></i><span style=3D"font-size:10.0pt;"><br>
+<br>
+<br>
+AAPL will release earnings at 4:30pm ET tomorrow (stock halt possible given=
+ anticipation of soft guide / capital allocation update {though cash return=
+ expected with the April call})<br>
+*Conference call at 5pm ET: 866-409-1555 / no passcode / <a rel=3D"nofollow=
+ noopener noreferrer" target=3D"_blank" href=3D"http://www.apple.com/invest=
+or/earnings-call/">
+http://www.apple.com/investor/earnings-call/</a><br>
+<br>
+<span style=3D"color:blue;">-&nbsp;<b><u>Set-up</u></b>: Expectations call =
+for a relatively in-line quarter with the
+<b>focus squarely on the March guide</b> given supply chain preannouncement=
+s, months of downward estimate revisions and weak third-party checks.&nbsp;=
+ Most buy-siders have been shaking out at 48-51mm units (MSe 52mm) but Katy=
+ Huberty still sees some even lower (mid-to-high
+ 40s).&nbsp; As for the financials, there is a wide variance with most low-=
+end whispers in the $50-$52B range or $1.90-$2 in EPS.&nbsp; GMs &amp; ASPs=
+ will be crucial so look for margins to hold the ~39% level with ASPs in th=
+e high $600s.&nbsp; Otherwise, it will be more subjective
+ as to whether or not units can grow in 2016, how Services are tracking and=
+ maybe even data points around refresh rates.&nbsp;
+<b>Net-net: with everyone positioned for a guide down, the question is whet=
+her or not the bar has been lowered enough so that product cycle bulls can =
+begin to look forward to the iPhone 7.&nbsp;
+<br>
+</b><br>
+</span>-&nbsp;<b><u>Trading</u></b>: Short interest has come off the Novemb=
+er highs (currently stands at ~70mm shares vs ~110mm at 11/30) as 6 cycle b=
+ears have begun to realize what has become a highly profitable trade (AAPL =
+-20% during that time vs SPX -10%).&nbsp;
+ In the mid-$90s, the stock naturally found valuation support as FCF bulls =
+took advantage of marco-led dislocations (note that Katy=E2=80=99s bear cas=
+e =3D $94/share; 11x significantly lower FY16 EPS of $8.50).&nbsp;&nbsp; It=
+ was not until recently where longs have begun to revisit
+ previously held positions -- something that will be highly dependent upon =
+tomorrow=E2=80=99s result.
+</span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><b><span style=3D"font-size:10.0pt;colo=
+r:blue;">**5.5% implied move**</span></b><b><span style=3D"font-size:11.0pt=
+;"></span></b></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:10.0pt;">&nbsp=
+;</span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><b><u><span style=3D"font-size:10.0pt;"=
+>Core Metrics, Street Estimates</span></u></b></p>=20
+<p class=3D"yiv9796297710MsoNormal"><b><span style=3D"font-size:10.0pt;">- =
+Net Revs: $76.6B
+</span></b><span style=3D"font-size:10.0pt;">(guide: $75.5B-$77.5B)<b>
+</b><span style=3D"color:blue;">&lt;--</span>&nbsp;<span style=3D"color:blu=
+e;">MSe $76.8B</span></span><b></b></p>=20
+<p class=3D"yiv9796297710MsoNormal"><b><span style=3D"font-size:10.0pt;">- =
+GMs: ~39-40%
+</span></b><span style=3D"font-size:10.0pt;">(guide: 39%-40%)<b>
+</b><span style=3D"color:blue;">&lt;--</span>&nbsp;<span style=3D"color:blu=
+e;">MSe 39.8%</span></span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:10.0pt;">- OMs=
+: 31.5%<b><br>
+- EPS: $3.23 </b><span style=3D"color:blue;">&lt;--</span>&nbsp;<span style=
+=3D"color:blue;">MSe $3.25</span></span><b><span style=3D"font-size:11.0pt;=
+"></span></b></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:10.0pt;">&nbsp=
+;</span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><b><u><span style=3D"font-size:10.0pt;"=
+>Key Metrics, MS Estimates</span></u></b><span style=3D"font-size:10.0pt;">=
+<br>
+<b>- iPhone Units: 74mm </b><span style=3D"color:blue;">&lt;-- investors se=
+ems prepared for first even y/y unit decline or ~74.5mm</span></span></p>=
+=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:10.0pt;">- iPa=
+d Units: 15mm
+<br>
+- Mac Units: 5.57mm<b><br>
+- Share Repurchase: $8B</b><span style=3D"color:blue;"><br>
+<br>
+</span><b><u>March Q Guidance, Potential Buyside Levels</u></b></span></p>=
+=20
+<p style=3D"margin-bottom:12.0pt;" class=3D"yiv9796297710MsoNormal"><b><spa=
+n style=3D"font-size:10.0pt;">- Net Revs: $50-$52B
+</span></b><span style=3D"font-size:10.0pt;color:blue;">&lt;-- street is ju=
+st below $56B but clearly expectations are below</span><b><span style=3D"fo=
+nt-size:10.0pt;"><br>
+- Units: ~50mm </span></b><span style=3D"font-size:10.0pt;color:blue;">&lt;=
+-- 48-51mm with some even lower</span><b><span style=3D"font-size:10.0pt;">=
+<br>
+- GMs: ~39-40%<br>
+- EPS: $2.10-$2.15</span></b></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:11.0pt;"> &nbs=
+p;</span></p>=20
+<p class=3D"yiv9796297710MsoNormal"><span style=3D"font-size:7.5pt;color:bl=
+ack;"><br>
+</span><i><span style=3D"font-size:10.0pt;"><br>
+<br>
+**TRADING COMMENTARY (this is not a product of Morgan Stanley Research and =
+should not be regarded as a research report)**</span></i><span style=3D"fon=
+t-size:7.5pt;color:black;">&nbsp;&nbsp;&nbsp;</span></p>=20
+<div align=3D"center" style=3D"text-align:center;" class=3D"yiv9796297710Ms=
+oNormal"><span style=3D"font-size:7.5pt;">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p style=3D"margin:0in;margin-bottom:.0001pt;"><span style=3D"font-size:7.5=
+pt;font-family:Sans;color:gray;">Important Notice to Recipients:<br>
+&nbsp;<br>
+The sender of this e-mail is an employee of Morgan Stanley Smith Barney LLC=
+ ("Morgan Stanley").&nbsp; If you have received this communication in error=
+, please destroy all electronic and paper copies and notify the sender imme=
+diately. Erroneous transmission is not
+ intended to waive confidentiality or privilege.&nbsp; Morgan Stanley reser=
+ves the right, to the extent permitted under applicable law, to monitor ele=
+ctronic communications. This message is subject to terms available at the f=
+ollowing link:
+<a rel=3D"nofollow noopener noreferrer" target=3D"_blank" href=3D"http://ww=
+w.morganstanley.com/disclaimers/mssbemail.html">http://www.morganstanley.co=
+m/disclaimers/mssbemail.html</a>.&nbsp; If you cannot access this link, ple=
+ase notify us by reply message and we will send the contents to you.&nbsp; =
+By messaging with Morgan
+ Stanley you consent to the foregoing.</span></p>=20
+</div>
+<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1"><br>
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received
+ this e-mail by mistake and delete this e-mail from your system. E-mail tra=
+nsmission cannot be guaranteed to be secure or error-free as information co=
+uld be intercepted, corrupted, lost, destroyed, arrive late or incomplete, =
+or contain viruses. The sender therefore
+ does not accept liability for any errors or omissions in the contents of t=
+his message, which arise as a result of e-mail transmission. If verificatio=
+n is required please request a hard-copy version.<br>
+</font><br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1"><br>
+This message contains confidential information and is intended only for the=
+ individual named. If you are not the named addressee you should not dissem=
+inate, distribute or copy this e-mail. Please notify the sender immediately=
+ by e-mail if you have received
+ this e-mail by mistake and delete this e-mail from your system. E-mail tra=
+nsmission cannot be guaranteed to be secure or error-free as information co=
+uld be intercepted, corrupted, lost, destroyed, arrive late or incomplete, =
+or contain viruses. The sender therefore
+ does not accept liability for any errors or omissions in the contents of t=
+his message, which arise as a result of e-mail transmission. If verificatio=
+n is required please request a hard-copy version.<br>
+</font>
+</div>
+
+</div> </div> </blockquote>
+------=_Part_249009_67998240.1649573399359--
+
+------=_Part_249010_772425760.1649573400148
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Untitled"
+Content-ID: <b0f0b989-2beb-4fc0-a8bc-5edf0f3e3852>
+
+DQotLS0tLSBPcmlnaW5hbCBNZXNzYWdlIC0tLS0tDQpGcm9tOiBtbWFzaXVrQGtveW90ZWNhcGl0
+YWwuY29tDQpUbzogQk8gRElOQ0VSIChTQ0hPVFRFTkZFTEQgR1JPVVAgTCkNCkF0OiAgMS8yNSAx
+NTo0NjozMQ0KDQoNCg0KRnJvbTogR3JhZHksIFBhdHJpY2sgTSBbbWFpbHRvOlBhdHJpY2suR3Jh
+ZHlAbW9yZ2Fuc3RhbmxleS5jb21dDQpTZW50OiBNb25kYXksIEphbnVhcnkgMjUsIDIwMTYgMzo0
+NiBQTQ0KU3ViamVjdDogQUFQTCBSZXBvcnRzIEVhcm5pbmdzIFRvbW9ycm93IEFmdGVyIHRoZSBD
+bG9zZTogUHJldmlldw0KDQpGb3IgSW5zdGl0dXRpb25hbCBDbGllbnRzIE9ubHkNCg0KQUFQTCBS
+ZXBvcnRzIEVhcm5pbmdzIFRvbW9ycm93IEFmdGVyIHRoZSBDbG9zZTogUHJldmlldw0KDQoqKlRS
+QURJTkcgQ09NTUVOVEFSWSAodGhpcyBpcyBub3QgYSBwcm9kdWN0IG9mIE1vcmdhbiBTdGFubGV5
+IFJlc2VhcmNoIGFuZCBzaG91bGQgbm90IGJlIHJlZ2FyZGVkIGFzIGEgcmVzZWFyY2ggcmVwb3J0
+KSoqDQoNCg0KQUFQTCB3aWxsIHJlbGVhc2UgZWFybmluZ3MgYXQgNDozMHBtIEVUIHRvbW9ycm93
+IChzdG9jayBoYWx0IHBvc3NpYmxlIGdpdmVuIGFudGljaXBhdGlvbiBvZiBzb2Z0IGd1aWRlIC8g
+Y2FwaXRhbCBhbGxvY2F0aW9uIHVwZGF0ZSB7dGhvdWdoIGNhc2ggcmV0dXJuIGV4cGVjdGVkIHdp
+dGggdGhlIEFwcmlsIGNhbGx9KQ0KKkNvbmZlcmVuY2UgY2FsbCBhdCA1cG0gRVQ6IDg2Ni00MDkt
+MTU1NSAvIG5vIHBhc3Njb2RlIC8gaHR0cDovL3d3dy5hcHBsZS5jb20vaW52ZXN0b3IvZWFybmlu
+Z3MtY2FsbC8NCg0KLSBTZXQtdXA6IEV4cGVjdGF0aW9ucyBjYWxsIGZvciBhIHJlbGF0aXZlbHkg
+aW4tbGluZSBxdWFydGVyIHdpdGggdGhlIGZvY3VzIHNxdWFyZWx5IG9uIHRoZSBNYXJjaCBndWlk
+ZSBnaXZlbiBzdXBwbHkgY2hhaW4gcHJlYW5ub3VuY2VtZW50cywgbW9udGhzIG9mIGRvd253YXJk
+IGVzdGltYXRlIHJldmlzaW9ucyBhbmQgd2VhayB0aGlyZC1wYXJ0eSBjaGVja3MuICBNb3N0IGJ1
+eS1zaWRlcnMgaGF2ZSBiZWVuIHNoYWtpbmcgb3V0IGF0IDQ4LTUxbW0gdW5pdHMgKE1TZSA1Mm1t
+KSBidXQgS2F0eSBIdWJlcnR5IHN0aWxsIHNlZXMgc29tZSBldmVuIGxvd2VyIChtaWQtdG8taGln
+aCA0MHMpLiAgQXMgZm9yIHRoZSBmaW5hbmNpYWxzLCB0aGVyZSBpcyBhIHdpZGUgdmFyaWFuY2Ug
+d2l0aCBtb3N0IGxvdy1lbmQgd2hpc3BlcnMgaW4gdGhlICQ1MC0kNTJCIHJhbmdlIG9yICQxLjkw
+LSQyIGluIEVQUy4gIEdNcyAmIEFTUHMgd2lsbCBiZSBjcnVjaWFsIHNvIGxvb2sgZm9yIG1hcmdp
+bnMgdG8gaG9sZCB0aGUgfjM5JSBsZXZlbCB3aXRoIEFTUHMgaW4gdGhlIGhpZ2ggJDYwMHMuICBP
+dGhlcndpc2UsIGl0IHdpbGwgYmUgbW9yZSBzdWJqZWN0aXZlIGFzIHRvIHdoZXRoZXIgb3Igbm90
+IHVuaXRzIGNhbiBncm93IGluIDIwMTYsIGhvdyBTZXJ2aWNlcyBhcmUgdHJhY2tpbmcgYW5kIG1h
+eWJlIGV2ZW4gZGF0YSBwb2ludHMgYXJvdW5kIHJlZnJlc2ggcmF0ZXMuICBOZXQtbmV0OiB3aXRo
+IGV2ZXJ5b25lIHBvc2l0aW9uZWQgZm9yIGEgZ3VpZGUgZG93biwgdGhlIHF1ZXN0aW9uIGlzIHdo
+ZXRoZXIgb3Igbm90IHRoZSBiYXIgaGFzIGJlZW4gbG93ZXJlZCBlbm91Z2ggc28gdGhhdCBwcm9k
+dWN0IGN5Y2xlIGJ1bGxzIGNhbiBiZWdpbiB0byBsb29rIGZvcndhcmQgdG8gdGhlIGlQaG9uZSA3
+Lg0KDQotIFRyYWRpbmc6IFNob3J0IGludGVyZXN0IGhhcyBjb21lIG9mZiB0aGUgTm92ZW1iZXIg
+aGlnaHMgKGN1cnJlbnRseSBzdGFuZHMgYXQgfjcwbW0gc2hhcmVzIHZzIH4xMTBtbSBhdCAxMS8z
+MCkgYXMgNiBjeWNsZSBiZWFycyBoYXZlIGJlZ3VuIHRvIHJlYWxpemUgd2hhdCBoYXMgYmVjb21l
+IGEgaGlnaGx5IHByb2ZpdGFibGUgdHJhZGUgKEFBUEwgLTIwJSBkdXJpbmcgdGhhdCB0aW1lIHZz
+IFNQWCAtMTAlKS4gIEluIHRoZSBtaWQtJDkwcywgdGhlIHN0b2NrIG5hdHVyYWxseSBmb3VuZCB2
+YWx1YXRpb24gc3VwcG9ydCBhcyBGQ0YgYnVsbHMgdG9vayBhZHZhbnRhZ2Ugb2YgbWFyY28tbGVk
+IGRpc2xvY2F0aW9ucyAobm90ZSB0aGF0IEthdHnigJlzIGJlYXIgY2FzZSA9ICQ5NC9zaGFyZTsg
+MTF4IHNpZ25pZmljYW50bHkgbG93ZXIgRlkxNiBFUFMgb2YgJDguNTApLiAgIEl0IHdhcyBub3Qg
+dW50aWwgcmVjZW50bHkgd2hlcmUgbG9uZ3MgaGF2ZSBiZWd1biB0byByZXZpc2l0IHByZXZpb3Vz
+bHkgaGVsZCBwb3NpdGlvbnMgLS0gc29tZXRoaW5nIHRoYXQgd2lsbCBiZSBoaWdobHkgZGVwZW5k
+ZW50IHVwb24gdG9tb3Jyb3figJlzIHJlc3VsdC4NCioqNS41JSBpbXBsaWVkIG1vdmUqKg0KDQpD
+b3JlIE1ldHJpY3MsIFN0cmVldCBFc3RpbWF0ZXMNCi0gTmV0IFJldnM6ICQ3Ni42QiAoZ3VpZGU6
+ICQ3NS41Qi0kNzcuNUIpIDwtLSBNU2UgJDc2LjhCDQotIEdNczogfjM5LTQwJSAoZ3VpZGU6IDM5
+JS00MCUpIDwtLSBNU2UgMzkuOCUNCi0gT01zOiAzMS41JQ0KLSBFUFM6ICQzLjIzIDwtLSBNU2Ug
+JDMuMjUNCg0KS2V5IE1ldHJpY3MsIE1TIEVzdGltYXRlcw0KLSBpUGhvbmUgVW5pdHM6IDc0bW0g
+PC0tIGludmVzdG9ycyBzZWVtcyBwcmVwYXJlZCBmb3IgZmlyc3QgZXZlbiB5L3kgdW5pdCBkZWNs
+aW5lIG9yIH43NC41bW0NCi0gaVBhZCBVbml0czogMTVtbQ0KLSBNYWMgVW5pdHM6IDUuNTdtbQ0K
+LSBTaGFyZSBSZXB1cmNoYXNlOiAkOEINCg0KTWFyY2ggUSBHdWlkYW5jZSwgUG90ZW50aWFsIEJ1
+eXNpZGUgTGV2ZWxzDQotIE5ldCBSZXZzOiAkNTAtJDUyQiA8LS0gc3RyZWV0IGlzIGp1c3QgYmVs
+b3cgJDU2QiBidXQgY2xlYXJseSBleHBlY3RhdGlvbnMgYXJlIGJlbG93DQotIFVuaXRzOiB+NTBt
+bSA8LS0gNDgtNTFtbSB3aXRoIHNvbWUgZXZlbiBsb3dlcg0KLSBHTXM6IH4zOS00MCUNCi0gRVBT
+OiAkMi4xMC0kMi4xNQ0KDQoNCg0KDQoqKlRSQURJTkcgQ09NTUVOVEFSWSAodGhpcyBpcyBub3Qg
+YSBwcm9kdWN0IG9mIE1vcmdhbiBTdGFubGV5IFJlc2VhcmNoIGFuZCBzaG91bGQgbm90IGJlIHJl
+Z2FyZGVkIGFzIGEgcmVzZWFyY2ggcmVwb3J0KSoqDQpfX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fXw0KDQpJbXBvcnRhbnQgTm90aWNlIHRvIFJlY2lwaWVudHM6DQoNClRoZSBzZW5kZXIg
+b2YgdGhpcyBlLW1haWwgaXMgYW4gZW1wbG95ZWUgb2YgTW9yZ2FuIFN0YW5sZXkgU21pdGggQmFy
+bmV5IExMQyAoIk1vcmdhbiBTdGFubGV5IikuICBJZiB5b3UgaGF2ZSByZWNlaXZlZCB0aGlzIGNv
+bW11bmljYXRpb24gaW4gZXJyb3IsIHBsZWFzZSBkZXN0cm95IGFsbCBlbGVjdHJvbmljIGFuZCBw
+YXBlciBjb3BpZXMgYW5kIG5vdGlmeSB0aGUgc2VuZGVyIGltbWVkaWF0ZWx5LiBFcnJvbmVvdXMg
+dHJhbnNtaXNzaW9uIGlzIG5vdCBpbnRlbmRlZCB0byB3YWl2ZSBjb25maWRlbnRpYWxpdHkgb3Ig
+cHJpdmlsZWdlLiAgTW9yZ2FuIFN0YW5sZXkgcmVzZXJ2ZXMgdGhlIHJpZ2h0LCB0byB0aGUgZXh0
+ZW50IHBlcm1pdHRlZCB1bmRlciBhcHBsaWNhYmxlIGxhdywgdG8gbW9uaXRvciBlbGVjdHJvbmlj
+IGNvbW11bmljYXRpb25zLiBUaGlzIG1lc3NhZ2UgaXMgc3ViamVjdCB0byB0ZXJtcyBhdmFpbGFi
+bGUgYXQgdGhlIGZvbGxvd2luZyBsaW5rOiBodHRwOi8vd3d3Lm1vcmdhbnN0YW5sZXkuY29tL2Rp
+c2NsYWltZXJzL21zc2JlbWFpbC5odG1sLiAgSWYgeW91IGNhbm5vdCBhY2Nlc3MgdGhpcyBsaW5r
+LCBwbGVhc2Ugbm90aWZ5IHVzIGJ5IHJlcGx5IG1lc3NhZ2UgYW5kIHdlIHdpbGwgc2VuZCB0aGUg
+Y29udGVudHMgdG8geW91LiAgQnkgbWVzc2FnaW5nIHdpdGggTW9yZ2FuIFN0YW5sZXkgeW91IGNv
+bnNlbnQgdG8gdGhlIGZvcmVnb2luZy4NCg0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X18NCg0KVGhpcyBtZXNzYWdlIGNvbnRhaW5zIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbiBhbmQg
+aXMgaW50ZW5kZWQgb25seSBmb3IgdGhlIGluZGl2aWR1YWwgbmFtZWQuIElmIHlvdSBhcmUgbm90
+IHRoZSBuYW1lZCBhZGRyZXNzZWUgeW91IHNob3VsZCBub3QgZGlzc2VtaW5hdGUsIGRpc3RyaWJ1
+dGUgb3IgY29weSB0aGlzIGUtbWFpbC4gUGxlYXNlIG5vdGlmeSB0aGUgc2VuZGVyIGltbWVkaWF0
+ZWx5IGJ5IGUtbWFpbCBpZiB5b3UgaGF2ZSByZWNlaXZlZCB0aGlzIGUtbWFpbCBieSBtaXN0YWtl
+IGFuZCBkZWxldGUgdGhpcyBlLW1haWwgZnJvbSB5b3VyIHN5c3RlbS4gRS1tYWlsIHRyYW5zbWlz
+c2lvbiBjYW5ub3QgYmUgZ3VhcmFudGVlZCB0byBiZSBzZWN1cmUgb3IgZXJyb3ItZnJlZSBhcyBp
+bmZvcm1hdGlvbiBjb3VsZCBiZSBpbnRlcmNlcHRlZCwgY29ycnVwdGVkLCBsb3N0LCBkZXN0cm95
+ZWQsIGFycml2ZSBsYXRlIG9yIGluY29tcGxldGUsIG9yIGNvbnRhaW4gdmlydXNlcy4gVGhlIHNl
+bmRlciB0aGVyZWZvcmUgZG9lcyBub3QgYWNjZXB0IGxpYWJpbGl0eSBmb3IgYW55IGVycm9ycyBv
+ciBvbWlzc2lvbnMgaW4gdGhlIGNvbnRlbnRzIG9mIHRoaXMgbWVzc2FnZSwgd2hpY2ggYXJpc2Ug
+YXMgYSByZXN1bHQgb2YgZS1tYWlsIHRyYW5zbWlzc2lvbi4gSWYgdmVyaWZpY2F0aW9uIGlzIHJl
+cXVpcmVkIHBsZWFzZSByZXF1ZXN0IGEgaGFyZC1jb3B5IHZlcnNpb24uDQoNCl9fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fDQoNClRoaXMgbWVzc2FnZSBjb250YWlucyBjb25maWRlbnRp
+YWwgaW5mb3JtYXRpb24gYW5kIGlzIGludGVuZGVkIG9ubHkgZm9yIHRoZSBpbmRpdmlkdWFsIG5h
+bWVkLiBJZiB5b3UgYXJlIG5vdCB0aGUgbmFtZWQgYWRkcmVzc2VlIHlvdSBzaG91bGQgbm90IGRp
+c3NlbWluYXRlLCBkaXN0cmlidXRlIG9yIGNvcHkgdGhpcyBlLW1haWwuIFBsZWFzZSBub3RpZnkg
+dGhlIHNlbmRlciBpbW1lZGlhdGVseSBieSBlLW1haWwgaWYgeW91IGhhdmUgcmVjZWl2ZWQgdGhp
+cyBlLW1haWwgYnkgbWlzdGFrZSBhbmQgZGVsZXRlIHRoaXMgZS1tYWlsIGZyb20geW91ciBzeXN0
+ZW0uIEUtbWFpbCB0cmFuc21pc3Npb24gY2Fubm90IGJlIGd1YXJhbnRlZWQgdG8gYmUgc2VjdXJl
+IG9yIGVycm9yLWZyZWUgYXMgaW5mb3JtYXRpb24gY291bGQgYmUgaW50ZXJjZXB0ZWQsIGNvcnJ1
+cHRlZCwgbG9zdCwgZGVzdHJveWVkLCBhcnJpdmUgbGF0ZSBvciBpbmNvbXBsZXRlLCBvciBjb250
+YWluIHZpcnVzZXMuIFRoZSBzZW5kZXIgdGhlcmVmb3JlIGRvZXMgbm90IGFjY2VwdCBsaWFiaWxp
+dHkgZm9yIGFueSBlcnJvcnMgb3Igb21pc3Npb25zIGluIHRoZSBjb250ZW50cyBvZiB0aGlzIG1l
+c3NhZ2UsIHdoaWNoIGFyaXNlIGFzIGEgcmVzdWx0IG9mIGUtbWFpbCB0cmFuc21pc3Npb24uIElm
+IHZlcmlmaWNhdGlvbiBpcyByZXF1aXJlZCBwbGVhc2UgcmVxdWVzdCBhIGhhcmQtY29weSB2ZXJz
+aW9uLg0K
+
+------=_Part_249010_772425760.1649573400148
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Untitled"
+Content-ID: <b4b35619-a0ff-4e15-9e13-14938ad54540>
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
+YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
+cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
+VFIvUkVDLWh0bWw0MCI+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSdDb250ZW50LVR5cGUnIGNv
+bnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCI+CjxtZXRhIG5hbWU9IkdlbmVyYXRvciIg
+Y29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTQgKGZpbHRlcmVkIG1lZGl1bSkiPgo8IS0tW2lmICFt
+c29dPjxzdHlsZT52XDoqIHtiZWhhdmlvcjp1cmwoI2RlZmF1bHQjVk1MKTt9Cm9cOioge2JlaGF2
+aW9yOnVybCgjZGVmYXVsdCNWTUwpO30Kd1w6KiB7YmVoYXZpb3I6dXJsKCNkZWZhdWx0I1ZNTCk7
+fQouc2hhcGUge2JlaGF2aW9yOnVybCgjZGVmYXVsdCNWTUwpO30KPC9zdHlsZT48IVtlbmRpZl0t
+LT48c3R5bGU+PCEtLQovKiBGb250IERlZmluaXRpb25zICovCkBmb250LWZhY2UKCXtmb250LWZh
+bWlseTpDYWxpYnJpOwoJcGFub3NlLTE6MiAxNSA1IDIgMiAyIDQgMyAyIDQ7fQpAZm9udC1mYWNl
+Cgl7Zm9udC1mYW1pbHk6VGFob21hOwoJcGFub3NlLTE6MiAxMSA2IDQgMyA1IDQgNCAyIDQ7fQpA
+Zm9udC1mYWNlCgl7Zm9udC1mYW1pbHk6Ikx1Y2lkYSBTYW5zIFVuaWNvZGUiOwoJcGFub3NlLTE6
+MiAxMSA2IDIgMyA1IDQgMiAyIDQ7fQovKiBTdHlsZSBEZWZpbml0aW9ucyAqLwpwLk1zb05vcm1h
+bCwgbGkuTXNvTm9ybWFsLCBkaXYuTXNvTm9ybWFsCgl7bWFyZ2luOjBpbjsKCW1hcmdpbi1ib3R0
+b206LjAwMDFwdDsKCWZvbnQtc2l6ZToxMi4wcHQ7Cglmb250LWZhbWlseToiVGltZXMgTmV3IFJv
+bWFuIiwic2VyaWYiO30KYTpsaW5rLCBzcGFuLk1zb0h5cGVybGluawoJe21zby1zdHlsZS1wcmlv
+cml0eTo5OTsKCWNvbG9yOmJsdWU7Cgl0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lO30KYTp2aXNp
+dGVkLCBzcGFuLk1zb0h5cGVybGlua0ZvbGxvd2VkCgl7bXNvLXN0eWxlLXByaW9yaXR5Ojk5OwoJ
+Y29sb3I6cHVycGxlOwoJdGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZTt9CnAKCXttc28tc3R5bGUt
+cHJpb3JpdHk6OTk7Cgltc28tbWFyZ2luLXRvcC1hbHQ6YXV0bzsKCW1hcmdpbi1yaWdodDowaW47
+Cgltc28tbWFyZ2luLWJvdHRvbS1hbHQ6YXV0bzsKCW1hcmdpbi1sZWZ0OjBpbjsKCWZvbnQtc2l6
+ZToxMi4wcHQ7Cglmb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIiwic2VyaWYiO30KcC5mZjY3
+ODM5MS0yYmQwLTRmZmQtYWUxYS0wMTFkMGEzYmM4NGUsIGxpLmZmNjc4MzkxLTJiZDAtNGZmZC1h
+ZTFhLTAxMWQwYTNiYzg0ZSwgZGl2LmZmNjc4MzkxLTJiZDAtNGZmZC1hZTFhLTAxMWQwYTNiYzg0
+ZQoJe21zby1zdHlsZS1uYW1lOmZmNjc4MzkxLTJiZDAtNGZmZC1hZTFhLTAxMWQwYTNiYzg0ZTsK
+CW1hcmdpbjowaW47CgltYXJnaW4tYm90dG9tOi4wMDAxcHQ7Cglmb250LXNpemU6MTIuMHB0OwoJ
+Zm9udC1mYW1pbHk6IlRpbWVzIE5ldyBSb21hbiIsInNlcmlmIjt9CnNwYW4uRW1haWxTdHlsZTE4
+Cgl7bXNvLXN0eWxlLXR5cGU6cGVyc29uYWw7Cglmb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFu
+Iiwic2VyaWYiO30Kc3Bhbi5FbWFpbFN0eWxlMTkKCXttc28tc3R5bGUtdHlwZTpwZXJzb25hbDsK
+CWZvbnQtZmFtaWx5OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7Cgljb2xvcjojMUY0OTdEO30Kc3Bh
+bi5FbWFpbFN0eWxlMjEKCXttc28tc3R5bGUtdHlwZTpwZXJzb25hbC1yZXBseTsKCWZvbnQtZmFt
+aWx5OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7Cgljb2xvcjojMUY0OTdEO30KLk1zb0NocERlZmF1
+bHQKCXttc28tc3R5bGUtdHlwZTpleHBvcnQtb25seTsKCWZvbnQtc2l6ZToxMC4wcHQ7fQpAcGFn
+ZSBXb3JkU2VjdGlvbjEKCXtzaXplOjguNWluIDExLjBpbjsKCW1hcmdpbjoxLjBpbiAxLjBpbiAx
+LjBpbiAxLjBpbjt9CmRpdi5Xb3JkU2VjdGlvbjEKCXtwYWdlOldvcmRTZWN0aW9uMTt9Ci0tPjwv
+c3R5bGU+PCEtLVtpZiBndGUgbXNvIDldPjx4bWw+CjxvOnNoYXBlZGVmYXVsdHMgdjpleHQ9ImVk
+aXQiIHNwaWRtYXg9IjEwMjYiIC8+CjwveG1sPjwhW2VuZGlmXS0tPjwhLS1baWYgZ3RlIG1zbyA5
+XT48eG1sPgo8bzpzaGFwZWxheW91dCB2OmV4dD0iZWRpdCI+CjxvOmlkbWFwIHY6ZXh0PSJlZGl0
+IiBkYXRhPSIxIiAvPgo8L286c2hhcGVsYXlvdXQ+PC94bWw+PCFbZW5kaWZdLS0+CjwvaGVhZD4K
+PGJvZHkgbGFuZz0iRU4tVVMiIGxpbms9ImJsdWUiIHZsaW5rPSJwdXJwbGUiPgo8ZGl2IGNsYXNz
+PSJXb3JkU2VjdGlvbjEiPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1z
+aXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMtc2Vy
+aWYmcXVvdDs7Y29sb3I6IzFGNDk3RCI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBj
+bGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWls
+eTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFGNDk3
+RCI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8ZGl2Pgo8ZGl2IHN0eWxlPSJib3JkZXI6
+bm9uZTtib3JkZXItdG9wOnNvbGlkICNCNUM0REYgMS4wcHQ7cGFkZGluZzozLjBwdCAwaW4gMGlu
+IDBpbiI+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAu
+MHB0O2ZvbnQtZmFtaWx5OiZxdW90O1RhaG9tYSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7
+Ij5Gcm9tOjwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1p
+bHk6JnF1b3Q7VGFob21hJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPiBHcmFkeSwgUGF0
+cmljayBNIFttYWlsdG86UGF0cmljay5HcmFkeUBtb3JnYW5zdGFubGV5LmNvbV0KPGJyPgo8Yj5T
+ZW50OjwvYj4gTW9uZGF5LCBKYW51YXJ5IDI1LCAyMDE2IDM6NDYgUE08YnI+CjxiPlN1YmplY3Q6
+PC9iPiBBQVBMIFJlcG9ydHMgRWFybmluZ3MgVG9tb3Jyb3cgQWZ0ZXIgdGhlIENsb3NlOiBQcmV2
+aWV3PG86cD48L286cD48L3NwYW4+PC9wPgo8L2Rpdj4KPC9kaXY+CjxwIGNsYXNzPSJNc29Ob3Jt
+YWwiPjxvOnA+Jm5ic3A7PC9vOnA+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHls
+ZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90
+O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6cmVkIj5Gb3IgSW5zdGl0dXRpb25hbCBDbGllbnRzIE9u
+bHk8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7
+Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMxRjQ5N0QiPjxvOnA+
+PC9vOnA+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQt
+c2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNl
+cmlmJnF1b3Q7O2NvbG9yOiMxRjQ5N0QiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4KPGRp
+dj4KPGRpdiBzdHlsZT0iYm9yZGVyOm5vbmU7Ym9yZGVyLXRvcDpzb2xpZCAjQjVDNERGIDEuMHB0
+O3BhZGRpbmc6My4wcHQgMGluIDBpbiAwaW4iPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBz
+dHlsZT0iZm9udC1zaXplOjE0LjBwdDtmb250LWZhbWlseTomcXVvdDtUYWhvbWEmcXVvdDssJnF1
+b3Q7c2Fucy1zZXJpZiZxdW90OyI+QUFQTCBSZXBvcnRzIEVhcm5pbmdzIFRvbW9ycm93IEFmdGVy
+IHRoZSBDbG9zZTogUHJldmlldzxvOnA+PC9vOnA+PC9zcGFuPjwvcD4KPC9kaXY+CjwvZGl2Pgo8
+cCBjbGFzcz0iTXNvTm9ybWFsIj48bzpwPiZuYnNwOzwvbzpwPjwvcD4KPHAgY2xhc3M9Ik1zb05v
+cm1hbCIgc3R5bGU9Im1hcmdpbi1ib3R0b206MTIuMHB0Ij48aT48c3BhbiBzdHlsZT0iZm9udC1z
+aXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlm
+JnF1b3Q7Ij4qKlRSQURJTkcgQ09NTUVOVEFSWSAodGhpcyBpcyBub3QgYSBwcm9kdWN0IG9mIE1v
+cmdhbiBTdGFubGV5IFJlc2VhcmNoIGFuZCBzaG91bGQgbm90IGJlIHJlZ2FyZGVkIGFzIGEgcmVz
+ZWFyY2ggcmVwb3J0KSoqPC9zcGFuPjwvaT48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtm
+b250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48YnI+
+Cjxicj4KPGJyPgpBQVBMIHdpbGwgcmVsZWFzZSBlYXJuaW5ncyBhdCA0OjMwcG0gRVQgdG9tb3Jy
+b3cgKHN0b2NrIGhhbHQgcG9zc2libGUgZ2l2ZW4gYW50aWNpcGF0aW9uIG9mIHNvZnQgZ3VpZGUg
+LyBjYXBpdGFsIGFsbG9jYXRpb24gdXBkYXRlIHt0aG91Z2ggY2FzaCByZXR1cm4gZXhwZWN0ZWQg
+d2l0aCB0aGUgQXByaWwgY2FsbH0pPGJyPgoqQ29uZmVyZW5jZSBjYWxsIGF0IDVwbSBFVDogODY2
+LTQwOS0xNTU1IC8gbm8gcGFzc2NvZGUgLyA8YSBocmVmPSJodHRwOi8vd3d3LmFwcGxlLmNvbS9p
+bnZlc3Rvci9lYXJuaW5ncy1jYWxsLyI+Cmh0dHA6Ly93d3cuYXBwbGUuY29tL2ludmVzdG9yL2Vh
+cm5pbmdzLWNhbGwvPC9hPjxicj4KPGJyPgo8c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+LSZuYnNw
+OzxiPjx1PlNldC11cDwvdT48L2I+OiBFeHBlY3RhdGlvbnMgY2FsbCBmb3IgYSByZWxhdGl2ZWx5
+IGluLWxpbmUgcXVhcnRlciB3aXRoIHRoZQo8Yj5mb2N1cyBzcXVhcmVseSBvbiB0aGUgTWFyY2gg
+Z3VpZGU8L2I+IGdpdmVuIHN1cHBseSBjaGFpbiBwcmVhbm5vdW5jZW1lbnRzLCBtb250aHMgb2Yg
+ZG93bndhcmQgZXN0aW1hdGUgcmV2aXNpb25zIGFuZCB3ZWFrIHRoaXJkLXBhcnR5IGNoZWNrcy4m
+bmJzcDsgTW9zdCBidXktc2lkZXJzIGhhdmUgYmVlbiBzaGFraW5nIG91dCBhdCA0OC01MW1tIHVu
+aXRzIChNU2UgNTJtbSkgYnV0IEthdHkgSHViZXJ0eSBzdGlsbCBzZWVzIHNvbWUgZXZlbiBsb3dl
+ciAobWlkLXRvLWhpZ2gKIDQwcykuJm5ic3A7IEFzIGZvciB0aGUgZmluYW5jaWFscywgdGhlcmUg
+aXMgYSB3aWRlIHZhcmlhbmNlIHdpdGggbW9zdCBsb3ctZW5kIHdoaXNwZXJzIGluIHRoZSAkNTAt
+JDUyQiByYW5nZSBvciAkMS45MC0kMiBpbiBFUFMuJm5ic3A7IEdNcyAmYW1wOyBBU1BzIHdpbGwg
+YmUgY3J1Y2lhbCBzbyBsb29rIGZvciBtYXJnaW5zIHRvIGhvbGQgdGhlIH4zOSUgbGV2ZWwgd2l0
+aCBBU1BzIGluIHRoZSBoaWdoICQ2MDBzLiZuYnNwOyBPdGhlcndpc2UsIGl0IHdpbGwgYmUgbW9y
+ZSBzdWJqZWN0aXZlCiBhcyB0byB3aGV0aGVyIG9yIG5vdCB1bml0cyBjYW4gZ3JvdyBpbiAyMDE2
+LCBob3cgU2VydmljZXMgYXJlIHRyYWNraW5nIGFuZCBtYXliZSBldmVuIGRhdGEgcG9pbnRzIGFy
+b3VuZCByZWZyZXNoIHJhdGVzLiZuYnNwOwo8Yj5OZXQtbmV0OiB3aXRoIGV2ZXJ5b25lIHBvc2l0
+aW9uZWQgZm9yIGEgZ3VpZGUgZG93biwgdGhlIHF1ZXN0aW9uIGlzIHdoZXRoZXIgb3Igbm90IHRo
+ZSBiYXIgaGFzIGJlZW4gbG93ZXJlZCBlbm91Z2ggc28gdGhhdCBwcm9kdWN0IGN5Y2xlIGJ1bGxz
+IGNhbiBiZWdpbiB0byBsb29rIGZvcndhcmQgdG8gdGhlIGlQaG9uZSA3LiZuYnNwOwo8YnI+Cjwv
+Yj48YnI+Cjwvc3Bhbj4tJm5ic3A7PGI+PHU+VHJhZGluZzwvdT48L2I+OiBTaG9ydCBpbnRlcmVz
+dCBoYXMgY29tZSBvZmYgdGhlIE5vdmVtYmVyIGhpZ2hzIChjdXJyZW50bHkgc3RhbmRzIGF0IH43
+MG1tIHNoYXJlcyB2cyB+MTEwbW0gYXQgMTEvMzApIGFzIDYgY3ljbGUgYmVhcnMgaGF2ZSBiZWd1
+biB0byByZWFsaXplIHdoYXQgaGFzIGJlY29tZSBhIGhpZ2hseSBwcm9maXRhYmxlIHRyYWRlIChB
+QVBMIC0yMCUgZHVyaW5nIHRoYXQgdGltZSB2cyBTUFggLTEwJSkuJm5ic3A7CiBJbiB0aGUgbWlk
+LSQ5MHMsIHRoZSBzdG9jayBuYXR1cmFsbHkgZm91bmQgdmFsdWF0aW9uIHN1cHBvcnQgYXMgRkNG
+IGJ1bGxzIHRvb2sgYWR2YW50YWdlIG9mIG1hcmNvLWxlZCBkaXNsb2NhdGlvbnMgKG5vdGUgdGhh
+dCBLYXR54oCZcyBiZWFyIGNhc2UgPSAkOTQvc2hhcmU7IDExeCBzaWduaWZpY2FudGx5IGxvd2Vy
+IEZZMTYgRVBTIG9mICQ4LjUwKS4mbmJzcDsmbmJzcDsgSXQgd2FzIG5vdCB1bnRpbCByZWNlbnRs
+eSB3aGVyZSBsb25ncyBoYXZlIGJlZ3VuIHRvIHJldmlzaXQKIHByZXZpb3VzbHkgaGVsZCBwb3Np
+dGlvbnMgLS0gc29tZXRoaW5nIHRoYXQgd2lsbCBiZSBoaWdobHkgZGVwZW5kZW50IHVwb24gdG9t
+b3Jyb3figJlzIHJlc3VsdC4KPG86cD48L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9y
+bWFsIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtB
+cmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOmJsdWUiPioqNS41JSBpbXBs
+aWVkIG1vdmUqKjwvc3Bhbj48L2I+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7Zm9u
+dC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48bzpw
+PjwvbzpwPjwvc3Bhbj48L2I+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0i
+Zm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5z
+LXNlcmlmJnF1b3Q7Ij4mbmJzcDs8L3NwYW4+PG86cD48L286cD48L3A+CjxwIGNsYXNzPSJNc29O
+b3JtYWwiPjxiPjx1PjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZx
+dW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPkNvcmUgTWV0cmljcywgU3Ry
+ZWV0IEVzdGltYXRlczwvc3Bhbj48L3U+PG86cD48L286cD48L2I+PC9wPgo8cCBjbGFzcz0iTXNv
+Tm9ybWFsIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVv
+dDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij4tIE5ldCBSZXZzOiAkNzYuNkIK
+PC9zcGFuPjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVv
+dDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij4oZ3VpZGU6ICQ3NS41Qi0kNzcu
+NUIpPGI+CjwvYj48c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+Jmx0Oy0tPC9zcGFuPiZuYnNwOzxz
+cGFuIHN0eWxlPSJjb2xvcjpibHVlIj5NU2UgJDc2LjhCPC9zcGFuPjwvc3Bhbj48Yj48bzpwPjwv
+bzpwPjwvYj48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNp
+emU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYm
+cXVvdDsiPi0gR01zOiB+MzktNDAlCjwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTox
+MC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90
+OyI+KGd1aWRlOiAzOSUtNDAlKTxiPgo8L2I+PHNwYW4gc3R5bGU9ImNvbG9yOmJsdWUiPiZsdDst
+LTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+TVNlIDM5LjglPG86cD48L286
+cD48L3NwYW4+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZv
+bnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1z
+ZXJpZiZxdW90OyI+LSBPTXM6IDMxLjUlPGI+PGJyPgotIEVQUzogJDMuMjMgPC9iPjxzcGFuIHN0
+eWxlPSJjb2xvcjpibHVlIj4mbHQ7LS08L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImNvbG9yOmJs
+dWUiPk1TZSAkMy4yNTwvc3Bhbj48L3NwYW4+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4w
+cHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7
+Ij48bzpwPjwvbzpwPjwvc3Bhbj48L2I+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBz
+dHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVv
+dDtzYW5zLXNlcmlmJnF1b3Q7Ij4mbmJzcDs8L3NwYW4+PG86cD48L286cD48L3A+CjxwIGNsYXNz
+PSJNc29Ob3JtYWwiPjxiPjx1PjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFt
+aWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDsiPktleSBNZXRyaWNz
+LCBNUyBFc3RpbWF0ZXM8L3NwYW4+PC91PjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBw
+dDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48
+YnI+CjxiPi0gaVBob25lIFVuaXRzOiA3NG1tIDwvYj48c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+
+Jmx0Oy0tIGludmVzdG9ycyBzZWVtcyBwcmVwYXJlZCBmb3IgZmlyc3QgZXZlbiB5L3kgdW5pdCBk
+ZWNsaW5lIG9yIH43NC41bW08L3NwYW4+PC9zcGFuPjxvOnA+PC9vOnA+PC9wPgo8cCBjbGFzcz0i
+TXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVv
+dDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij4tIGlQYWQgVW5pdHM6IDE1bW0K
+PGJyPgotIE1hYyBVbml0czogNS41N21tPGI+PGJyPgotIFNoYXJlIFJlcHVyY2hhc2U6ICQ4Qjwv
+Yj48c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+PGJyPgo8YnI+Cjwvc3Bhbj48Yj48dT5NYXJjaCBR
+IEd1aWRhbmNlLCBQb3RlbnRpYWwgQnV5c2lkZSBMZXZlbHM8L3U+PC9iPjwvc3Bhbj48bzpwPjwv
+bzpwPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1ib3R0b206MTIuMHB0
+Ij48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlh
+bCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij4tIE5ldCBSZXZzOiAkNTAtJDUyQgo8L3Nw
+YW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0Fy
+aWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6Ymx1ZSI+Jmx0Oy0tIHN0cmVl
+dCBpcyBqdXN0IGJlbG93ICQ1NkIgYnV0IGNsZWFybHkgZXhwZWN0YXRpb25zIGFyZSBiZWxvdzwv
+c3Bhbj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtB
+cmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48YnI+Ci0gVW5pdHM6IH41MG1tIDwv
+c3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7
+QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xvcjpibHVlIj4mbHQ7LS0gNDgt
+NTFtbSB3aXRoIHNvbWUgZXZlbiBsb3dlcjwvc3Bhbj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXpl
+OjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1
+b3Q7Ij48YnI+Ci0gR01zOiB+MzktNDAlPGJyPgotIEVQUzogJDIuMTAtJDIuMTU8L3NwYW4+PC9i
+PjxvOnA+PC9vOnA+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1z
+aXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMtc2Vy
+aWYmcXVvdDsiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1h
+bCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTo3LjVwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZx
+dW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOmJsYWNrIj48YnI+Cjwvc3Bhbj48aT48
+c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90
+OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7Ij48YnI+Cjxicj4KKipUUkFESU5HIENPTU1FTlRBUlkg
+KHRoaXMgaXMgbm90IGEgcHJvZHVjdCBvZiBNb3JnYW4gU3RhbmxleSBSZXNlYXJjaCBhbmQgc2hv
+dWxkIG5vdCBiZSByZWdhcmRlZCBhcyBhIHJlc2VhcmNoIHJlcG9ydCkqKjwvc3Bhbj48L2k+PHNw
+YW4gc3R5bGU9ImZvbnQtc2l6ZTo3LjVwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90Oywm
+cXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOmJsYWNrIj4mbmJzcDsmbmJzcDsmbmJzcDs8L3Nw
+YW4+PG86cD48L286cD48L3A+CjxkaXYgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIg
+c3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjcuNXB0Ij4K
+PGhyIHNpemU9IjIiIHdpZHRoPSIxMDAlIiBhbGlnbj0iY2VudGVyIj4KPC9zcGFuPjwvZGl2Pgo8
+cCBzdHlsZT0ibWFyZ2luOjBpbjttYXJnaW4tYm90dG9tOi4wMDAxcHQiPjxzcGFuIHN0eWxlPSJm
+b250LXNpemU6Ny41cHQ7Zm9udC1mYW1pbHk6JnF1b3Q7THVjaWRhIFNhbnMgVW5pY29kZSZxdW90
+OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOmdyYXkiPkltcG9ydGFudCBOb3RpY2UgdG8g
+UmVjaXBpZW50czo8YnI+CiZuYnNwOzxicj4KVGhlIHNlbmRlciBvZiB0aGlzIGUtbWFpbCBpcyBh
+biBlbXBsb3llZSBvZiBNb3JnYW4gU3RhbmxleSBTbWl0aCBCYXJuZXkgTExDICgmcXVvdDtNb3Jn
+YW4gU3RhbmxleSZxdW90OykuJm5ic3A7IElmIHlvdSBoYXZlIHJlY2VpdmVkIHRoaXMgY29tbXVu
+aWNhdGlvbiBpbiBlcnJvciwgcGxlYXNlIGRlc3Ryb3kgYWxsIGVsZWN0cm9uaWMgYW5kIHBhcGVy
+IGNvcGllcyBhbmQgbm90aWZ5IHRoZSBzZW5kZXIgaW1tZWRpYXRlbHkuIEVycm9uZW91cyB0cmFu
+c21pc3Npb24gaXMgbm90CiBpbnRlbmRlZCB0byB3YWl2ZSBjb25maWRlbnRpYWxpdHkgb3IgcHJp
+dmlsZWdlLiZuYnNwOyBNb3JnYW4gU3RhbmxleSByZXNlcnZlcyB0aGUgcmlnaHQsIHRvIHRoZSBl
+eHRlbnQgcGVybWl0dGVkIHVuZGVyIGFwcGxpY2FibGUgbGF3LCB0byBtb25pdG9yIGVsZWN0cm9u
+aWMgY29tbXVuaWNhdGlvbnMuIFRoaXMgbWVzc2FnZSBpcyBzdWJqZWN0IHRvIHRlcm1zIGF2YWls
+YWJsZSBhdCB0aGUgZm9sbG93aW5nIGxpbms6CjxhIGhyZWY9Imh0dHA6Ly93d3cubW9yZ2Fuc3Rh
+bmxleS5jb20vZGlzY2xhaW1lcnMvbXNzYmVtYWlsLmh0bWwiPmh0dHA6Ly93d3cubW9yZ2Fuc3Rh
+bmxleS5jb20vZGlzY2xhaW1lcnMvbXNzYmVtYWlsLmh0bWw8L2E+LiZuYnNwOyBJZiB5b3UgY2Fu
+bm90IGFjY2VzcyB0aGlzIGxpbmssIHBsZWFzZSBub3RpZnkgdXMgYnkgcmVwbHkgbWVzc2FnZSBh
+bmQgd2Ugd2lsbCBzZW5kIHRoZSBjb250ZW50cyB0byB5b3UuJm5ic3A7IEJ5IG1lc3NhZ2luZyB3
+aXRoIE1vcmdhbgogU3RhbmxleSB5b3UgY29uc2VudCB0byB0aGUgZm9yZWdvaW5nLjwvc3Bhbj48
+bzpwPjwvbzpwPjwvcD4KPC9kaXY+Cjxicj4KPGhyPgo8Zm9udCBmYWNlPSJBcmlhbCIgY29sb3I9
+IkdyYXkiIHNpemU9IjEiPjxicj4KVGhpcyBtZXNzYWdlIGNvbnRhaW5zIGNvbmZpZGVudGlhbCBp
+bmZvcm1hdGlvbiBhbmQgaXMgaW50ZW5kZWQgb25seSBmb3IgdGhlIGluZGl2aWR1YWwgbmFtZWQu
+IElmIHlvdSBhcmUgbm90IHRoZSBuYW1lZCBhZGRyZXNzZWUgeW91IHNob3VsZCBub3QgZGlzc2Vt
+aW5hdGUsIGRpc3RyaWJ1dGUgb3IgY29weSB0aGlzIGUtbWFpbC4gUGxlYXNlIG5vdGlmeSB0aGUg
+c2VuZGVyIGltbWVkaWF0ZWx5IGJ5IGUtbWFpbCBpZiB5b3UgaGF2ZSByZWNlaXZlZAogdGhpcyBl
+LW1haWwgYnkgbWlzdGFrZSBhbmQgZGVsZXRlIHRoaXMgZS1tYWlsIGZyb20geW91ciBzeXN0ZW0u
+IEUtbWFpbCB0cmFuc21pc3Npb24gY2Fubm90IGJlIGd1YXJhbnRlZWQgdG8gYmUgc2VjdXJlIG9y
+IGVycm9yLWZyZWUgYXMgaW5mb3JtYXRpb24gY291bGQgYmUgaW50ZXJjZXB0ZWQsIGNvcnJ1cHRl
+ZCwgbG9zdCwgZGVzdHJveWVkLCBhcnJpdmUgbGF0ZSBvciBpbmNvbXBsZXRlLCBvciBjb250YWlu
+IHZpcnVzZXMuIFRoZSBzZW5kZXIgdGhlcmVmb3JlCiBkb2VzIG5vdCBhY2NlcHQgbGlhYmlsaXR5
+IGZvciBhbnkgZXJyb3JzIG9yIG9taXNzaW9ucyBpbiB0aGUgY29udGVudHMgb2YgdGhpcyBtZXNz
+YWdlLCB3aGljaCBhcmlzZSBhcyBhIHJlc3VsdCBvZiBlLW1haWwgdHJhbnNtaXNzaW9uLiBJZiB2
+ZXJpZmljYXRpb24gaXMgcmVxdWlyZWQgcGxlYXNlIHJlcXVlc3QgYSBoYXJkLWNvcHkgdmVyc2lv
+bi48YnI+CjwvZm9udD48YnI+Cjxocj4KPGZvbnQgZmFjZT0iQXJpYWwiIGNvbG9yPSJHcmF5IiBz
+aXplPSIxIj48YnI+ClRoaXMgbWVzc2FnZSBjb250YWlucyBjb25maWRlbnRpYWwgaW5mb3JtYXRp
+b24gYW5kIGlzIGludGVuZGVkIG9ubHkgZm9yIHRoZSBpbmRpdmlkdWFsIG5hbWVkLiBJZiB5b3Ug
+YXJlIG5vdCB0aGUgbmFtZWQgYWRkcmVzc2VlIHlvdSBzaG91bGQgbm90IGRpc3NlbWluYXRlLCBk
+aXN0cmlidXRlIG9yIGNvcHkgdGhpcyBlLW1haWwuIFBsZWFzZSBub3RpZnkgdGhlIHNlbmRlciBp
+bW1lZGlhdGVseSBieSBlLW1haWwgaWYgeW91IGhhdmUgcmVjZWl2ZWQKIHRoaXMgZS1tYWlsIGJ5
+IG1pc3Rha2UgYW5kIGRlbGV0ZSB0aGlzIGUtbWFpbCBmcm9tIHlvdXIgc3lzdGVtLiBFLW1haWwg
+dHJhbnNtaXNzaW9uIGNhbm5vdCBiZSBndWFyYW50ZWVkIHRvIGJlIHNlY3VyZSBvciBlcnJvci1m
+cmVlIGFzIGluZm9ybWF0aW9uIGNvdWxkIGJlIGludGVyY2VwdGVkLCBjb3JydXB0ZWQsIGxvc3Qs
+IGRlc3Ryb3llZCwgYXJyaXZlIGxhdGUgb3IgaW5jb21wbGV0ZSwgb3IgY29udGFpbiB2aXJ1c2Vz
+LiBUaGUgc2VuZGVyIHRoZXJlZm9yZQogZG9lcyBub3QgYWNjZXB0IGxpYWJpbGl0eSBmb3IgYW55
+IGVycm9ycyBvciBvbWlzc2lvbnMgaW4gdGhlIGNvbnRlbnRzIG9mIHRoaXMgbWVzc2FnZSwgd2hp
+Y2ggYXJpc2UgYXMgYSByZXN1bHQgb2YgZS1tYWlsIHRyYW5zbWlzc2lvbi4gSWYgdmVyaWZpY2F0
+aW9uIGlzIHJlcXVpcmVkIHBsZWFzZSByZXF1ZXN0IGEgaGFyZC1jb3B5IHZlcnNpb24uPGJyPgo8
+L2ZvbnQ+CjwvYm9keT4KPC9odG1sPgo=
+
+------=_Part_249010_772425760.1649573400148--

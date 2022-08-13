@@ -1,0 +1,371 @@
+From - Mon Apr 25 15:45:55 2022
+X-Account-Key: account8
+X-UIDL: 1645857828.638
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <ms60710444266@yahoo.com>
+Received: from compute4.internal (compute4.nyi.internal [10.202.2.44])
+	 by sloti52n19 (Cyrus 3.7.0-alpha0-569-g7622ad95cc-fm-20220421.002-g7622ad95) with LMTPA;
+	 Mon, 25 Apr 2022 16:41:27 -0400
+X-Cyrus-Session-Id: sloti52n19-1650919287-2778161-2-4099295308372909123
+X-Sieve: CMU Sieve 3.0
+X-Spam-known-sender: yes ("Address ms60710444266@yahoo.com in From header is in addressbook");
+ in-addressbook; bba2db8d-33a3-40c2-87e0-df67be267777 ("Autosaved")
+X-Spam-charsets: plain='UTF-8', html='UTF-8'
+X-Resolved-to: cockarens@vouchersrus.org
+X-Delivered-to: COCKARENS@VOUCHERSRUS.ORG
+X-Mail-from: ms60710444266@yahoo.com
+Received: from mx3 ([10.202.2.202])
+  by compute4.internal (LMTPProxy); Mon, 25 Apr 2022 16:41:27 -0400
+Received: from mx3.messagingengine.com (localhost [127.0.0.1])
+	by mailmx.nyi.internal (Postfix) with ESMTP id 62B84196007B
+	for <COCKARENS@VOUCHERSRUS.ORG>; Mon, 25 Apr 2022 16:41:27 -0400 (EDT)
+Received: from mx3.messagingengine.com (localhost [127.0.0.1])
+    by mx3.messagingengine.com (Authentication Milter) with ESMTP
+    id 2C83A769F01;
+    Mon, 25 Apr 2022 16:41:27 -0400
+ARC-Seal: i=1; a=rsa-sha256; cv=none; d=messagingengine.com; s=fm3; t=
+    1650919287; b=C9/o93ZuU6c8OuG6x+1iqWNr0gxKMvKUM1bwgZ72Kf4iIg7hvM
+    +Bv2cIRveWTAu/U/y7+oTRVbwP0C5FWXphq8ifrEejYcvF69IFyZssvSuBa2FDLc
+    Z6Z5imL9c/kwnQ7ixIjZ9kkw5N1GAH2grseaFFu7yOsvpIwcLKTm5qj5a1GPG0Iw
+    X1fQhlXk2Sp0IKZ8i4X2ZcYBXdmCJ4sAYTcDQFDoq0E751Q6iOlMov8GQWvY9p2Y
+    1ObUwMuFvHtAnQJ6qfa0DgfxmyEIaR/ARRYPrKPjAQXxGfZCpqeny4aOJMVWOikB
+    JowobeWv+86I+jivU22lsOQ2Fy9BQ9C3Q+6g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=
+    messagingengine.com; h=content-type:message-id:date:mime-version
+    :subject:references:to:from:in-reply-to; s=fm3; t=1650919287;
+    bh=MVKzpzzSnZos8WPQmHBCKiFusa2AyudQqu5yhnjIadQ=; b=BMKKe4t2XvrQ
+    rwRclWZNUuthbyxhpMFr25ABUzS43GYHESJYX/lDuvwuGd2K5v7P64lAjL70YgHG
+    c4w4LLxGzPTJQEHgCe3Uno0rplWLEe4N5ojZBEZ5Hoxe1lcOami1s9UH0AlYc2tx
+    TqNl9qlUQy35WI0EvfRJBJUq8KgMjX8kAEjo+p9CAWDbX88XKGa9wrI5jtdMX84N
+    uhqCFCffcHcKhzcOaWKFzqP8E/JUt9ZOl01/3eCwfmCKrtiD0kzrrU10RtEee9ZV
+    PQlIPqwT9zfFmQLkXl6xOjz32hnqBJXYouNZ1lEQf/97CWnS4ZMQn3vM8cZgW/XT
+    TdNFleu3xw==
+ARC-Authentication-Results: i=1; mx3.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic315-21.consmr.mail.ne1.yahoo.com
+    policy.ptr=sonic315-21.consmr.mail.ne1.yahoo.com;
+    bimi=none (No BIMI records found);
+    arc=none (no signatures found);
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+    header.i=@yahoo.com header.b=VV3dbPW0 header.a=rsa-sha256
+    header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+    policy.applied-disposition=none policy.evaluated-disposition=none
+    (p=reject,d=none,d.eval=none) policy.policy-from=p
+    header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=66.163.190.147
+    (sonic315-21.consmr.mail.ne1.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+    smtp.helo=sonic315-21.consmr.mail.ne1.yahoo.com
+X-ME-Authentication-Results: mx3.messagingengine.com;
+    x-aligned-from=pass (Address match);
+    x-return-mx=pass header.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta7.am0.yahoodns.net,mta6.am0.yahoodns.net,mta5.am0.yahoodns.net);
+    x-return-mx=pass smtp.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta5.am0.yahoodns.net,mta7.am0.yahoodns.net,mta6.am0.yahoodns.net);
+    x-tls=pass smtp.version=TLSv1.3 smtp.cipher=TLS_AES_256_GCM_SHA384
+      smtp.bits=256/256;
+    x-vs=clean score=-6 state=0
+Authentication-Results: mx3.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic315-21.consmr.mail.ne1.yahoo.com
+      policy.ptr=sonic315-21.consmr.mail.ne1.yahoo.com
+Authentication-Results: mx3.messagingengine.com;
+    bimi=none (No BIMI records found)
+Authentication-Results: mx3.messagingengine.com;
+    arc=none (no signatures found)
+Authentication-Results: mx3.messagingengine.com;
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+      header.i=@yahoo.com header.b=VV3dbPW0 header.a=rsa-sha256
+      header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+      policy.applied-disposition=none policy.evaluated-disposition=none
+      (p=reject,d=none,d.eval=none) policy.policy-from=p
+      header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=66.163.190.147
+      (sonic315-21.consmr.mail.ne1.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+      smtp.helo=sonic315-21.consmr.mail.ne1.yahoo.com
+X-ME-VSCause: gggruggvucftvghtrhhoucdtuddrgedvfedruddugdduheduucetufdoteggodetrfdotf
+    fvucfrrhhofhhilhgvmecuhfgrshhtofgrihhlpdggtfgfnhhsuhgsshgtrhhisggvpdfu
+    rfetoffkrfgpnffqhgenuceurghilhhouhhtmecufedttdenucgfrhhlucfvnfffucdlqd
+    eimdenucfjughrpegtkfffgggfufhfvffhjgfosegrtderreerfeejnecuhfhrohhmpeeu
+    ucffvddtvddvuceomhhsiedtjedutdeggeegvdeiieeshigrhhhoohdrtghomheqnecugg
+    ftrfgrthhtvghrnhepveelgeekjeejkeefleejhfevffejgfehvddvvdetudfgjeekgeeh
+    veetledtgedvnecuffhomhgrihhnpehgihhthhhusgdrtghomhenucfkphepieeirdduie
+    efrdduledtrddugeejnecuvehluhhsthgvrhfuihiivgeptdenucfrrghrrghmpehinhgv
+    thepieeirdduieefrdduledtrddugeejpdhhvghlohepshhonhhitgefudehqddvuddrtg
+    honhhsmhhrrdhmrghilhdrnhgvuddrhigrhhhoohdrtghomhdpmhgrihhlfhhrohhmpeeo
+    mhhsiedtjedutdeggeegvdeiieeshigrhhhoohdrtghomheq
+X-ME-VSScore: -6
+X-ME-VSCategory: clean
+X-ME-CSA: none
+Received-SPF: pass
+    (yahoo.com ... _spf.mail.yahoo.com: 66.163.190.147 is authorized to use 'ms60710444266@yahoo.com' in 'mfrom' identity (mechanism 'ptr:yahoo.com' matched))
+    receiver=mx3.messagingengine.com;
+    identity=mailfrom;
+    envelope-from="ms60710444266@yahoo.com";
+    helo=sonic315-21.consmr.mail.ne1.yahoo.com;
+    client-ip=66.163.190.147
+Received: from sonic315-21.consmr.mail.ne1.yahoo.com (sonic315-21.consmr.mail.ne1.yahoo.com [66.163.190.147])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mx3.messagingengine.com (Postfix) with ESMTPS
+	for <COCKARENS@VOUCHERSRUS.ORG>; Mon, 25 Apr 2022 16:41:27 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1650919285; bh=MVKzpzzSnZos8WPQmHBCKiFusa2AyudQqu5yhnjIadQ=; h=Date:Subject:References:To:From:In-Reply-To:From:Subject:Reply-To; b=VV3dbPW0hbix9UkndqgUzCAzoa4+UR/8ZGj7yEx/AD7Ul5NAQGxR18Ro9EwTxLaVmYTGNGsTje6+W7OxqHXHAAmw4Icwjz4mr06bH48uB443G8WXfBzlso9z45ivCrsI4HPq8WJMs7/UPlwF7mirrfxsiJygNvxtIi+e1uurCtOzP+yQX5oDWyl7tkM31CfZz5cdnKaoXUX60w7H8OyLgXUOBNCfXH+e2BMd3UXMD2+5w8sANxe+DSaZognMqPAzkzbv6TELc/6pseVkZMvlicd6alKPMqI9cPS2ToeJLhPDU4MK+QBb1zB51LkBMZLIM4iZEFZ2nYf5a1/W1/9FzA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1650919285; bh=M2TldlC5P7aCt1Z/pMOZ28wo2caQM0phGOOekvHRA65=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=pK/NuqW9ZaWMQSGvHZlLHMmGrvmOqPj8ZFER8gGui+CqLouAE+RS7rWxyuHEpPzEIOpQY+a+J6Jd0Urd2QawkJFZ7q8cb3pD+T9rvP9p0NGKXrPLDxdB+oMf3i2x37cghqwRGjxWxDoCEycdO0Pv6kxzTEBnNNUPPNqR18ZXmT0uAAH/YS1sP4OC4J/HsSa77c987b/gxc1Yxle5oBIj4Y6pFUpfT+iIqcfwXc+USkDaVDMJGAdtosv73PoS+X4x00sUldbtlIsuvlcVD8l71blOq/aigItjijXJf4nSRVrc1pHMgtjRciAoPSE+Mi34RyLb5cY+Rlj+gMmrqqSBdQ==
+X-YMail-OSG: FSI2eecVM1l_5PRjlPodGWaZ_Dbe5hmlhuXVSCJmsdg8_jMKBEGVkg51e51XuFi
+ lX7cS4H0Qp3A6NF029IYPcam840U73WtmfzkQ_Bn9JY.zPVVg89Rnaoc7CqrA4XIlzm1jhpnDMmS
+ mGtW4Aly70N7KIl5Ge3nLutU5CWS3ZSHXWYhBPZJpeBbl2BUMF2waffbq3KyNmqnuPJbwHM.KI8f
+ ybFcnp4oqQs4rGgZ17eUdbY2__96BBZgP9hzLsEkES4GfQFBAn.vRX5U6ZRJzEE0jMHlwW3xcKMH
+ oLrJCIEEiSLzbHHv13i94mUV8RGQ86jpcyA_PVHntlBXQglToLQc66mBd4WmQTFvpO4C9w1CjCos
+ u2O7w0OfgdS3Ixfewot29uXBat7oLwH0qfrcXixHLaCmR7fyuA9hpFbx4Hu5sUhLM0fE23VVqA2H
+ 0qtVu3H69NuqeMwh4kSzl08IZ13WgbxoHLAl4F5oUCXTlzkyfcO1vogQCXqxyqa7i.PwyoiHiYeY
+ zikW9XxClgPXxFow_Iga92nvg6xKjFA9Z2z5moFbMNtDFLq4qUbObpCqSLCy1RW_wol2DM2eJEfm
+ z3RsFN5SzeHK1hx36GxhouUEQwr02LEh4UYG1FpvJbOsV1TCIOmIYhODq2E2gaiUxf7mOULaBwMn
+ 57vxbcMPgjgw0K8EkJHy3kqIilLPkITlPsOBQyFK9rpvEHlMBpdLIkrf5QLP.ODCqMwtLtU7ut.Y
+ HmbpYLUZbyNqCguP6FOsf7vSHsVq_phicPNBODdTH.lu5qClD.wMtES4jPp84wR2xKQD49VDIpud
+ YYhj3xFeWRg5DPp3dFGXQQnAEwwNHLPJf86K_quKU9cfM5T0QvCcZzgYFyeVIua9rZmaNHtKanWH
+ Z_8r0lXyl.DjXWC7fIL3czLXegluz7T5azz1TOF6UsN6Hv.tr8q8D8aqqkQm5N5SZrQIhNNdVHeX
+ O5tDzQanijcOsagA2LGaMXheJg93ZnoEHlE8ao_RzAJCj6bcnYASbxyCldx9OofP8WV9ZMYsNPcB
+ eJdGtL2v.t_LdQb98FXe93EsUoPImPdVW6WOODZ8nBID8JhQ3um4PfdATSepLhsEnIL0auCrQDLq
+ 4Zoqr1hprea.RytkhtJtC95tLoN5QuaXKx2iOe30_TtSDMiwmnOCLrhYUrbnQ.rKTAXNguLNpAR9
+ K7EsbBJZ.YXdYtDzd2bwduwOJLRKM.CXeSK.E0yVd3z.lb8GBF9oto20QgyHDm2bOQQB4YRJAcIO
+ PkvVx710x4Uqg9VOTAv._BuQlfgtyk4klfaoD12g8Ic.XOfPF0y0JfBjtWErOoFkvlVFhmiHvomr
+ OqbaJkevOciwbAjQyEcKrjv5H79xd8TDrk6TaiM3RKtwXMcY0uBxKWNSmBHKokIlINaEl_Lv_xQN
+ ZUmmnLM8cy.LLl8mlBT1hG3rsz8rnUz07jHj4WoAsGxkNSoit3PtBK7OmIqjjmly3LTayI.hS.FL
+ YkV3K2CAskj2ifPhkr6RtKpyOiA.SvMe8o7zgnw3oyUxUax2gIAx0F0I9YBMItk6ssV_pmr56KT1
+ lRJU7NZkUQcBkkPc_2nrb83vaieW5AFKef.6GMRxvWxKLW2WZsc0OgTf8R_VlvmnnUg_nQtgGc18
+ Y_T_qH43NtJGeXBZyAX5OQb2SnhF8PoKywJycYWPcFc9SLUgBaXEoRYkPHmdBaeBUquHCYCxK8zv
+ x4HeEW83rpxdvcWNf54_QU8rRTuVd5y1boRCStyEstKxK1G_RxVv3koU5dQpYkRLLU7Z3tRPMaAS
+ yswXh41GS.m1V0AYgT5AzKsd1ngT_r0My7ix_RaOcEdemr7h5H7h0P2C7iVmVMACQCNS7vkUlha5
+ 1Nbk5dYKpfdksjK7GQUJVDHkO1.bJsQ_EL9HfgP9f22F5Hg5W6vmZZdwDWidHyfJ6rZFYt_Iifn7
+ hDiMn3crSLKAh8I0c_xIg6Lt8.lu9w00wKm15TTGFLNRltBsKvVcmopzlkgvFYx3kSs4Pyv2RovB
+ OFoLX0ifeN.dbGzEQifStyJfotEaAHJHUT.vrfZ_qiIOELni6zhyCYImRD9LeP5Ggrc6ojJdKlua
+ 5wg33u7_6OHhlRuOjqhjJ0JTGQ.7XKReXQH_aPDvuB6wByvopgQgA_VD5AQYz6aIbCmSQ3QiQ8as
+ UMQmc.bD88mhul5d0PJqaXG.nhx06Dn1vYTHiu_KSqDxrmb3SW2P5tZQsz4d1AzVZBWMLvqMmaKJ
+ P8xQjhzUJnlusNAh25i9SFcZF_fSb9iTFwtur1i7s6UxE
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic315.consmr.mail.ne1.yahoo.com with HTTP; Mon, 25 Apr 2022 20:41:25 +0000
+Received: by hermes--canary-production-ne1-6855c48695-xh97j (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID dce36c01e156651ce8a30c7ac0610318;
+          Mon, 25 Apr 2022 20:41:19 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------x3HgOuhhKpiHpjNAiBqez3Rh"
+Message-ID: <b770533e-207f-5400-1723-0e4f4bdc0c61@yahoo.com>
+Date: Mon, 25 Apr 2022 15:41:12 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.6.1
+Subject: Fwd: Annexed in 153974/2020 by its own counselors
+References: <homHnW0oHN7YihomHnUm5o@txt.att.net>
+Content-Language: en-US
+To: MWheeler@euronext.com, endowmentadmin@columbia.edu,
+ Stephen O'Connell <sgo2107@columbia.edu>, Secretarys-Office@sec.gov
+From: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <homHnW0oHN7YihomHnUm5o@txt.att.net>
+X-Forwarded-Message-Id: <homHnW0oHN7YihomHnUm5o@txt.att.net>
+X-Mailer: WebService/1.1.20118 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+
+This is a multi-part message in MIME format.
+--------------x3HgOuhhKpiHpjNAiBqez3Rh
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+New Year's Eve, not my naming convention center for you
+For ease of reference. FILES. Re: Fwd: filed. All pro
+
+  #BIN-CODES PAR-ID, IN THE DECK.
+
+
+             QUARTERLY & QUARTERED.
+
+
+         #RUSSIAN-ROULETTE WHEEL ---x0x0
+
+- https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27
+- https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+
+-------- Forwarded Message --------
+Subject: 	Annexed in 153974/2020 by its own counselors
+Date: 	Fri, 22 Apr 2022 08:36:33 +0000 (UTC)
+From: 	6462563609@mms.att.net
+To: 	praghuram2@bloomberg.net, inquiries@point72.com, 
+bcassese19@bloomberg.net, iceglobalnetwork-info@ice.com, 
+bbrief@bloomberg.net, tips@latimes.com, newyork@sec.gov, 
+premerger@ftc.gov, pronewsletter@dowjones.com, ms60710444266@yahoo.com, 
+wsjprosupport@dowjones.com, tips@nypost.com, tips@nytimes.com
+
+
+
+New Year's Eve, not my naming convention center for you
+For ease of reference. FILES. Re: Fwd: filed. All pro
+
+  #BIN-CODES PAR-ID, IN THE DECK.
+
+
+             QUARTERLY & QUARTERED.
+
+
+         #RUSSIAN-ROULETTE WHEEL ---x0x0
+
+- https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27
+- https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+
+
+
+
+         #GOLIONS
+
+- https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER
+
+
+
+
+#goCARDS
+
+- https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490
+
+Sent from Yahoo Mail on Android On Wed, Apr 20, 2022 at 1:44 AM, BO 
+DINCER<bondstrt007@gmail.com> wrote: 852,029,489.38 on par at 
+10,164,850,238.82  last i checked.
+Is the greater LOSS to investors at the OMISSION and UNFAIR dealings of 
+the registrant C.16 as the new entrants are also MISREPRESENTED earlier.
+Matrimonial tax records represent the underlying property values 
+insured, indentured and OMITTED by the C.16 Brokers and enjoined a 
+larger body of risk to the OMISSION.
+So who is in charge to file into the web at the COMMISSION?
+TY--
+---------- Forwarded message ---------
+From: <6462563609@mms.att.net>
+Date: Wed, Apr 20, 2022, 1:21 AM
+Subject: To: <bondstrt007@gmail.com>
+
+
+| 
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:72b77ada-c493-30b8-b2fe-f473dcf49de4 
+|
+
+--------------x3HgOuhhKpiHpjNAiBqez3Rh
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body spellcheck="false" data-gramm="false">
+    <p><br>
+    </p>
+    <div class="moz-forward-container">New Year's Eve, not my naming
+      convention center for you<br>
+      For ease of reference. FILES. Re: Fwd: filed. All pro<br>
+      <br>
+       #BIN-CODES PAR-ID, IN THE DECK.<br>
+      <br>
+      <br>
+                  QUARTERLY &amp; QUARTERED.<br>
+      <br>
+      <br>
+              #RUSSIAN-ROULETTE WHEEL ---x0x0<br>
+      <br>
+      - <a class="moz-txt-link-freetext" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27</a>
+      <br>
+      - <a class="moz-txt-link-freetext" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7</a>
+      <br>
+      <br>
+      <br>
+      -------- Forwarded Message --------
+      <table class="moz-email-headers-table" cellspacing="0"
+        cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Subject:
+            </th>
+            <td>Annexed in 153974/2020 by its own counselors</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Date: </th>
+            <td>Fri, 22 Apr 2022 08:36:33 +0000 (UTC)</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">From: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:6462563609@mms.att.net">6462563609@mms.att.net</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">To: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:praghuram2@bloomberg.net">praghuram2@bloomberg.net</a>, <a class="moz-txt-link-abbreviated" href="mailto:inquiries@point72.com">inquiries@point72.com</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:bcassese19@bloomberg.net">bcassese19@bloomberg.net</a>, <a class="moz-txt-link-abbreviated" href="mailto:iceglobalnetwork-info@ice.com">iceglobalnetwork-info@ice.com</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:bbrief@bloomberg.net">bbrief@bloomberg.net</a>, <a class="moz-txt-link-abbreviated" href="mailto:tips@latimes.com">tips@latimes.com</a>, <a class="moz-txt-link-abbreviated" href="mailto:newyork@sec.gov">newyork@sec.gov</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:premerger@ftc.gov">premerger@ftc.gov</a>, <a class="moz-txt-link-abbreviated" href="mailto:pronewsletter@dowjones.com">pronewsletter@dowjones.com</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:ms60710444266@yahoo.com">ms60710444266@yahoo.com</a>, <a class="moz-txt-link-abbreviated" href="mailto:wsjprosupport@dowjones.com">wsjprosupport@dowjones.com</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:tips@nypost.com">tips@nypost.com</a>, <a class="moz-txt-link-abbreviated" href="mailto:tips@nytimes.com">tips@nytimes.com</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      New Year's Eve, not my naming convention center for you<br>
+      For ease of reference. FILES. Re: Fwd: filed. All pro<br>
+      <br>
+       #BIN-CODES PAR-ID, IN THE DECK.<br>
+      <br>
+      <br>
+                  QUARTERLY &amp; QUARTERED.<br>
+      <br>
+      <br>
+              #RUSSIAN-ROULETTE WHEEL ---x0x0<br>
+      <br>
+      - <a class="moz-txt-link-freetext" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/27</a>
+      <br>
+      - <a class="moz-txt-link-freetext" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7</a>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+              #GOLIONS<br>
+      <br>
+      - <a class="moz-txt-link-freetext" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER</a><br>
+      <br>
+         <br>
+      <br>
+      <br>
+      #goCARDS<br>
+      <br>
+      -
+      <a class="moz-txt-link-freetext" href="https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490">https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1#column-18309490</a><br>
+      <br>
+      Sent from Yahoo Mail on Android On Wed, Apr 20, 2022 at 1:44 AM,
+      BO DINCER<a class="moz-txt-link-rfc2396E" href="mailto:bondstrt007@gmail.com">&lt;bondstrt007@gmail.com&gt;</a> wrote: 852,029,489.38 on
+      par at 10,164,850,238.82  last i checked.<br>
+      Is the greater LOSS to investors at the OMISSION and UNFAIR
+      dealings of the registrant C.16 as the new entrants are also
+      MISREPRESENTED earlier.<br>
+      Matrimonial tax records represent the underlying property values
+      insured, indentured and OMITTED by the C.16 Brokers and enjoined a
+      larger body of risk to the OMISSION.<br>
+      So who is in charge to file into the web at the COMMISSION?<br>
+      TY--<br>
+      ---------- Forwarded message ---------<br>
+      From: <a class="moz-txt-link-rfc2396E" href="mailto:6462563609@mms.att.net">&lt;6462563609@mms.att.net&gt;</a><br>
+      Date: Wed, Apr 20, 2022, 1:21 AM<br>
+      Subject: To: <a class="moz-txt-link-rfc2396E" href="mailto:bondstrt007@gmail.com">&lt;bondstrt007@gmail.com&gt;</a><br>
+      <br>
+      <br>
+      |
+<a class="moz-txt-link-freetext" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:72b77ada-c493-30b8-b2fe-f473dcf49de4">https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:72b77ada-c493-30b8-b2fe-f473dcf49de4</a>
+      |<br>
+      <br>
+    </div>
+  </body>
+</html>
+
+--------------x3HgOuhhKpiHpjNAiBqez3Rh--

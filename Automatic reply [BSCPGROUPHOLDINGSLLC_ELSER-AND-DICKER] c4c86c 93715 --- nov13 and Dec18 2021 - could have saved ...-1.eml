@@ -1,0 +1,248 @@
+From - Mon May 23 07:08:43 2022
+X-Account-Key: account1
+X-UIDL: AF69erU86hZnYot5OgGeEGs2kcY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.155.146
+ by atlas317.free.mail.gq1.yahoo.com with HTTPS; Mon, 23 May 2022 12:08:25 +0000
+Return-Path: <>
+X-Originating-Ip: [68.232.135.175]
+Received-SPF: pass (domain of esa2.marketaxess.iphmx.com designates 68.232.135.175 as permitted sender)
+Authentication-Results: atlas317.free.mail.gq1.yahoo.com;
+ dkim=perm_fail header.i=@marketaxesscorp.onmicrosoft.com header.s=selector1-marketaxesscorp-onmicrosoft-com;
+ spf=pass smtp.mailfrom=esa2.marketaxess.iphmx.com;
+ dmarc=unknown header.from=marketaxess.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 23 May 2022 12:08:25 +0000
+X-YMailAVSC: zA57UwE3bBvdbIyvV_IbX_8z.L0eKYui53bFL25OPc1hYSZ
+ 7MjtgHIJ2uvKLpXfPgAingcfxpVIDauXGKDHotLRhTlksaRomGtRs48Ea_LW
+ 22zTf5ttZ718lADh5IlqpcdK4coZU_NtBN6t33IPMOwicoHSJwAP9BhPq.jV
+ tswGtMC7PiGu4v2ZcTSpQ0n_3Dw9_W5FWJbtadIrV8OsymlxnlKfKzsHxkux
+ 6FIsozEF4NPvX8SVEcyNhG9SswT96WCvJ0vcn5N5e.3hQ4bm2vYRfIC04gcT
+ BaFFnQ7poibIYecZNNIvqvb2KJP8XDTLpD1kRsIL.P.SDQ9XfmLQolzhZtw-
+ -
+X-YMailISG: LViUyTwWLDtr75W8ZQ2kyVULwAx2P0a4K28UrB29.tvzJtyD
+ frEmHsNMr6Q8M1KeftKq4Dd3PwrRbajOj0hRkS_qEifajRLHo0tvw6ohhyHI
+ H5Ls8nMrZ557dJtCV0CYA2YpNByG_wvx01fssVglut6ge4n9ygbzBmjPrF6q
+ .DJpU6n2QFZP5WTC36V0v7nws5DLtv95QHo9pQ2h1lqLwwUluL1YfDaVD4fI
+ JKK6yuv1Ha4aw3S0_132t3SGnkAXxRUIK8MsZSjA6Reu7mj5sOLvgR3t0StS
+ R9f09cSeqk_sxh14vLpO3vg2eXsMRck2OOmo8.ZBjJYjxQjo8e79uR8hrIhE
+ jJhYCQQaJ195XM6uOzJhHIOf5BvpQj5eOluMra29NNFuSN42RV5KuDFIuX5_
+ iluFuU._5itXpo7RKdqWgQty6TmPGcFMSfbHY3AMSHlUEr20Me.nEfoMJUW2
+ uN68hsQ7EoKvFZub0tgEu925J1BpCkR8CdAXx3EHMj7RQTKOTorNnvD1yEvo
+ 6e2KBCLroICILjLYq03Ra7qjCphyeq3to6V0_OiVqHSaL8wv1sCE_qImpp8i
+ 7bgI0lZS9jgKko1s40w1LJF_JgyXeW_jZdj25fbwlloCmG2dyMceAiqEfzO9
+ 6oVCHsicj2wxUxg8D01LdB9IMKFldxg.vvIg.tvfspCMwn2XsnVDX.mm02nj
+ wS3aGVrJB5zHVSdWZymAzAUvmedtONXsAoGbWqsFaTCmrysUF8UZpENkYIaz
+ mfO_i8.sS5htS8VB0CjnlJ_YVlYbHWeYWfocd_I05Q3NM_1uKbta1v5flns2
+ Cs4NtCLepuS6TXHcgFK4omMD8f1hptBdZ.wBZxqgcSPS7HdbpSGBBij.niFM
+ gB3JO1U_IQKng45v9MPS5_1Ioyx_nyTOQdGOWDCp7gH0PCnpbUNR7aohIJka
+ ONxmAa2KkR1tioc19DQICQifbdtsYA9Kz9pEI7OA2GH2OWZe1Hcc.UScJToJ
+ byVbzqhCefPq.6VTG8m4EXgFihPz7CbM_N37Ro9m8iusyZfgCbyofBtYd7DL
+ tX9J.oG7FkxWW5kRNt9x9dn8zZYiVHkxH2KgP3NH47UkBc5DIjXQPsBEZ8nZ
+ u_HfUXmd4g--
+Received: from 68.232.135.175 (EHLO esa2.marketaxess.iphmx.com)
+ by 10.214.155.146 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 23 May 2022 12:08:25 +0000
+X-IronPort-SPF: NONEFAIL
+X-IronPort-FromHeader: FROMFAIL
+X-IronPort-AV: E=Sophos;i="5.91,246,1647320400"; 
+   d="scan'208,217";a="96575764"
+Received: from unknown (HELO mail.marketaxess.com) ([192.69.224.0])
+  by esa2.marketaxess.iphmx.com with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 23 May 2022 07:08:20 -0500
+Received: from crpnbgexmbox02.CORPORATE.LOCAL (10.80.10.214) by
+ crpnbgexmbox02.CORPORATE.LOCAL (10.80.10.214) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2176.14; Mon, 23 May 2022 08:08:14 -0400
+Received: from NAM11-CO1-obe.outbound.protection.outlook.com (10.80.253.130)
+ by crpnbgexmbox02.CORPORATE.LOCAL (10.80.10.214) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2176.14 via Frontend Transport; Mon, 23 May 2022 08:08:14 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=HZoDwYjTNukDWSskOWmBthB6Dk0z69Rpxen0A+HViRMzvj2lvvrrQtdjcsufVleDaIfPLugdLdMfW2lyo0QL2c9awsjBO+cuf7YDjYXC2ziP2ibo9woRCXNk24Ws3QdgLXuf5YIoOB4S4p0M07bO3B2aobqdU5RvCzE1oc2bNkVg4GzJFqQyardmITRK7NxpgTJErARNlmnnrOyz8e28LxbOsdxhJ9xkgyVPD1iL7WZ1YnbRkPG+RGHYhFYrWuPGrpq/1Y2INljlOgYYeri0h8BGm4/18pcvhCVGcxSUCBd7YOZHp6bH4g1+GP37Gh9l8gkBP2OiyNiGJ0rP063fqw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=VPIaGTrVJe/ugv/fNByGSMcMT3SjLRSEWG3dGzgsil0=;
+ b=d8koRZjF/6Pag/xDEuP2BYKgSi9FUixf3VgA1gmV+ps5pbnNjbrlZ+2ep5ws0YAKfeaDo/Dv23dZ5J0/BuNNIdsDbPZQJvGCUSsVznKP6FXBb0BK+mxXviHyJeKLvc42wRuI6lNRdzkeo7fRtanAit8W0cn5sx8lyq1xI4ZlutkoQfTJ9Kg4/EM7Cdt1UEOU9VjfIA7fiu4Onqm0MCMcDCo/+XA48KGxGSd5h3vh7OqlL7EcJQ+/ibb/rXoq5ezBNUGgelPbUZjg+M5TUgmBJC5jggt+HJjlVo4ctvxReBDrQBZsA2QuPsxH0hLA3eOIvrpP9CaGY7RwzoQewlrNyQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=pass
+ action=none header.from=marketaxess.com; dkim=pass header.d=marketaxess.com;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=marketaxesscorp.onmicrosoft.com;
+ s=selector1-marketaxesscorp-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=VPIaGTrVJe/ugv/fNByGSMcMT3SjLRSEWG3dGzgsil0=;
+ b=MzDI0IO8w7ZzCvFXZTWroudxApTyQyZX1gUBE7TdeMdTUXlyWhDa+KF0s/mbkLfFFLIweQkL+aiDh21AigunxGWCJbSXpTwcdVNjdzHUtuzNDnPT0jYRHLvk/IuFsduJa5xcCFXF+Tv6R1raAHe6pDk3O6ueReeZ5UYy7KEdAh4=
+Received: from MN2PR20MB3040.namprd20.prod.outlook.com (2603:10b6:208:1b5::33)
+ by CY5PR20MB4927.namprd20.prod.outlook.com (2603:10b6:930:3d::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5273.14; Mon, 23 May
+ 2022 12:08:12 +0000
+Received: from MN2PR20MB3040.namprd20.prod.outlook.com ([::1]) by
+ MN2PR20MB3040.namprd20.prod.outlook.com ([fe80::34bd:2494:54ea:f30e%6]) with
+ Microsoft SMTP Server id 15.20.5273.022; Mon, 23 May 2022 12:08:12 +0000
+From: Art Modesto <AModesto@marketaxess.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Automatic reply: [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER] c4c86c:
+ 93715 --- nov13 and Dec18 2021 - could have saved ...
+Thread-Topic: [BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER] c4c86c: 93715 --- nov13
+ and Dec18 2021 - could have saved ...
+Thread-Index: AQHYbp3FWo0L+3vMF0ezpkLBcDB3V60sXlGx
+Date: Mon, 23 May 2022 12:08:12 +0000
+Message-ID: <d918918a5db74d8c9b3d52741cfabbea@MN2PR20MB3040.namprd20.prod.outlook.com>
+References: <BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/push/refs/heads/93715-CS16-93715-153974/562488-c4c86c@github.com>
+ <5b8684e7-3528-3f9b-eaad-3992ef9ba457@yahoo.com>
+In-Reply-To: <5b8684e7-3528-3f9b-eaad-3992ef9ba457@yahoo.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: AModesto@marketaxess.com
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id: <5b8684e7-3528-3f9b-eaad-3992ef9ba457@yahoo.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 4caddd9f-e644-428b-4a52-08da3cb4e8fe
+x-ms-traffictypediagnostic: CY5PR20MB4927:EE_
+x-microsoft-antispam-prvs: <CY5PR20MB4927808AB4D50F51A7B4F311B8D49@CY5PR20MB4927.namprd20.prod.outlook.com>
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: yhJ6v+vt9Vbcb9UDR9eoTPvFn2hdo+Y7QVJG3PwGvYKj11wz+UpOa3blQxFJknbsg7fOXM4z4P3bVQXuky80vXezfTK9DP8tTOejVHT5ZJqc3zHZsFJ9b5hh3nJLZi9a0RoDZUdbayq5onzZ2aBSamPduLAAWeMJLdKP3k9qwoC1LQuyM8fJTW0I/BHvJZa04nbYqSTmOsZ+TQAITzAv/lorUmBIwLo1GUp3XpJNpsqiJp9q9510zs2ya/XZdo8s3QWwW0Ilj749e5BSD99r4iT38LeqqEas68fMCQuihFlMirh+UIpd1WfjsdT5mztp9zolVdLZxT6r4EDU8WN6EVORPi7dXY8VdEczNWqfaVsiGLwhW+TUyWrKDaCbW08IGIu5Lsj37hvvt8Sfkw86irN83xoAzsN+h+z4WyaebJcTSh7t7E2rtshaTIUWYNAf0wIRuv0CflMb8Z66RiRhW0GtSDWrAeEZU/cyPqRpFNbuHkblkgh7+eQR7Gn2de0OjoKarKCwkzWDw3IQVy/mm4TXRN/AXwMhT5HQ4fTeJ1Y2PZm4tiJJb65hi71FT0rk9nHe+rAgPu8x4GkGoPOYcMeXHz9reefMJGWp24+XDvPAcLiabJWSThm3TPnDm3uz
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR20MB3040.namprd20.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230001)(50650200002)(366004)(24736004)(5660300002)(2906002)(6506007)(8936002)(55016003)(108616005)(88996005)(71200400001)(9686003)(122000001)(42882007)(7696005)(83380400001)(8676002)(66946007)(508600001)(78352004)(558084003)(66446008)(66556008)(64756008)(66476007)(6916009)(40140700001)(316002)(111220200005)(80100003);DIR:OUT;SFP:1501;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: UPEEeU+O0hBlyZLRCQk3rmVLCS6K+YYkj5+KJIARaea4zlerIxIuT6xaVLojeWqnMjY3rXxtDBuOSwzinRmGHlhjv4fCBlJrXD+Gp2aA8TJ2fq0o14mV8x5wOMdODNl4dEQWB/weTMiKLU6Md925vTZczoq22CFYHrIpf9D7goKnfNgWYFfwb6THYyk+EWvzmIVjuqe0kb3aWWxgy7vXK/hMQ6nI778ya21sGgI2fI+1AOxF+OUVBpm0XvkmrGSbMWBaKVWdcFtr1bL8sLvB2WktSbO+aThFMu3Mnv1vkIBzwXK2D/MVJdpKxmQkTaxE
+Content-Type: multipart/alternative;
+	boundary="_000_d918918a5db74d8c9b3d52741cfabbeaMN2PR20MB3040namprd20pr_"
+MIME-Version: 1.0
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN2PR20MB3040.namprd20.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4caddd9f-e644-428b-4a52-08da3cb4e8fe
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 May 2022 12:08:12.6636
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: da329765-dc0c-47de-a0a1-582aaa49faf7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY5PR20MB4927
+X-OriginatorOrg: marketaxess.com
+Content-Length: 6237
+
+--_000_d918918a5db74d8c9b3d52741cfabbeaMN2PR20MB3040namprd20pr_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+I am currently out of the office with very limited access to email. For ass=
+istance please contact   Kelsey Fried 908-451-758 or Andrew Chase 908-577-6=
+749 for assistance.  For emergencies you can contact client services @ 877 =
+638 0037 or email marketaxess@marketaxess.com.
+
+
+=C2=A92022 MarketAxess Holding Inc. (the "Company"). MarketAxess Corporatio=
+n is a member of FINRA and SIPC. MarketAxess Canada Company is a member of =
+IIROC. MarketAxess Europe Limited (04017160), MarketAxess Capital Limited (=
+09777893), and MarketAxess Post-Trade Limited (01917944) are incorporated i=
+n England and Wales, and are each authorised and regulated by the Financial=
+ Conduct Authority. MarketAxess NL B.V. (69592888) is incorporated in the N=
+etherlands and is licensed by the Netherlands Authority for the Financial M=
+arkets (=E2=80=9CAFM=E2=80=9D). MarketAxess Post-Trade B.V. (69597774) is i=
+ncorporated in the Netherlands and is authorised by the AFM and supervised =
+by the European Securities and Markets Authority. For the purposes of EU27 =
+countries, services are provided by MarketAxess NL B.V. and MarketAxess Pos=
+t-Trade B.V. MarketAxess Singapore Pte. Limited is recognised by the Moneta=
+ry Authority of Singapore. MarketAxess is a trading name of the aforementio=
+ned entities. The information contained in and accompanying this communicat=
+ion is strictly confidential and intended solely for the use of the intende=
+d recipient(s). This information is for institutional investor use only and=
+ may not be redistributed without the prior written consent of the Company =
+or its subsidiaries. Under no circumstances may this information be distrib=
+uted to retail investors. If you have received it by mistake, please let us=
+ know by reply and then delete it from your system; you should not copy the=
+ message or disclose its content to anyone. MarketAxess reserves the right =
+to monitor the content of emails sent to or from its systems. Any comments =
+or statements made are not necessarily those of MarketAxess. For more infor=
+mation on MarketAxess, please visit our website at marketaxess.com.
+
+--_000_d918918a5db74d8c9b3d52741cfabbeaMN2PR20MB3040namprd20pr_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Times New Roman&quot;,serif">I am currently out=
+ of the office with very limited access to email. For assistance please con=
+tact&nbsp;&nbsp; Kelsey Fried 908-451-758 or Andrew Chase
+ 908-577-6749 for assistance.&nbsp; For emergencies you can contact client =
+services @ 877 638 0037 or email
+<u><span style=3D"color:blue">marketaxess@marketaxess.com</span></u>.</span=
+><span style=3D"color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p><=
+/span></p>
+</div>
+<p style=3D"font-size:9pt; line-height:10pt; font-family: 'Calibri';">=C2=
+=A92022 MarketAxess Holding Inc. (the &quot;Company&quot;). MarketAxess Cor=
+poration is a member of FINRA and SIPC. MarketAxess Canada Company is a mem=
+ber of IIROC. MarketAxess Europe Limited (04017160),
+ MarketAxess Capital Limited (09777893), and MarketAxess Post-Trade Limited=
+ (01917944) are incorporated in England and Wales, and are each authorised =
+and regulated by the Financial Conduct Authority. MarketAxess NL B.V. (6959=
+2888) is incorporated in the Netherlands
+ and is licensed by the Netherlands Authority for the Financial Markets (=
+=E2=80=9CAFM=E2=80=9D). MarketAxess Post-Trade B.V. (69597774) is incorpora=
+ted in the Netherlands and is authorised by the AFM and supervised by the E=
+uropean Securities and Markets Authority. For the
+ purposes of EU27 countries, services are provided by MarketAxess NL B.V. a=
+nd MarketAxess Post-Trade B.V. MarketAxess Singapore Pte. Limited is recogn=
+ised by the Monetary Authority of Singapore. MarketAxess is a trading name =
+of the aforementioned entities.
+ The information contained in and accompanying this communication is strict=
+ly confidential and intended solely for the use of the intended recipient(s=
+). This information is for institutional investor use only and may not be r=
+edistributed without the prior written
+ consent of the Company or its subsidiaries. Under no circumstances may thi=
+s information be distributed to retail investors. If you have received it b=
+y mistake, please let us know by reply and then delete it from your system;=
+ you should not copy the message
+ or disclose its content to anyone. MarketAxess reserves the right to monit=
+or the content of emails sent to or from its systems. Any comments or state=
+ments made are not necessarily those of MarketAxess. For more information o=
+n MarketAxess, please visit our
+ website at marketaxess.com.</p>
+</body>
+</html>
+
+--_000_d918918a5db74d8c9b3d52741cfabbeaMN2PR20MB3040namprd20pr_--

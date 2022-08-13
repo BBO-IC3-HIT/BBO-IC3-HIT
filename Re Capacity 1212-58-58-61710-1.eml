@@ -1,0 +1,296 @@
+From - Sat May 14 00:55:49 2022
+X-Account-Key: account1
+X-UIDL: AMt/XQ1JnxgdYn7/twKrmM4Hh5E
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.105
+ by atlas319.free.mail.bf1.yahoo.com with HTTPS; Sat, 14 May 2022 01:02:46 +0000
+Return-Path: <bondstrt007@gmail.com>
+X-Originating-Ip: [209.85.166.174]
+Received-SPF: pass (domain of gmail.com designates 209.85.166.174 as permitted sender)
+Authentication-Results: atlas319.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 14 May 2022 01:02:47 +0000
+X-YMailAVSC: N5rdxrE3bBscTCMTbCA1ZTAxnEfMhdhkXFwhMSkJdGh.Xtj
+ CbZ1CguHEoOllocS22T6TkbjMoAeKTxdPEzjIY5v0BA1uuTbjj8cIrbcA3By
+ ao_v3yBQ4NKGao60lGoo2xUszid4GGghBNlGnqRVK0PyK_VpKHaLZv3sMUHh
+ nyY5_knQg_tqDAhncVpmSd1lWOdiLRPl9ix9fYYPkZGyBvmZcUgOMbLq97Ix
+ xQtI_GjUOsuOfMUotsd0BK9Pm13S1rS4hf58QZV6dt5ulVwzmV4qNS9oML01
+ zchEno3OeX4W_KNuAIFmajAl.022oQvQvqZTZi_c1Jvu_q6NGX64h8ps_dWL
+ iQ1lKByioh1aIXcrOzwFp6bEzZoQJyiocRHmCHVfWd71D9AlFDcHQuFYN.vf
+ XYMm_MDxxe5wJvLpEVXm.rN3wwgf6Mae9xhnjalirgT9s
+X-YMailISG: zLfJn30WLDvJDKjyvLkcQ5SQBMKDFnqBS4N2MfwFKxUrXjo4
+ KLyI23pW8vRuPhQfZDsuJfH0w4E3ooh2VOHjdK597SqEOq3dxvUbXL4j7GfQ
+ S2S9sB9Yd0uypWmTQO8qW2fEKMmZGCaqmJW4X4nFHXmdcb6tUYWhRFfeRpAO
+ bkys4NTpj9JoGt56aHD.By0QoRCcONLD8gHp0FnuXsNqfn5f92UT9Nxm5nUD
+ juiGP5HBSesiqeQ5RsbVcbPtkfCi3hVweHIAXJ6FZB5FRI4O6yCx3sRSB45L
+ gDwtii_S83UNh8AftkatGslKdSPDJbHppPaWH2HBAfVvxWvuI0XSxteqD_Ag
+ 1KnSpCxDpXWmshWW0p.sWcJ23fFEvzIGWpo_bT7ZORr0BXB4uXvKFMF46n8w
+ 8GNiRcPwRzNebHuOSMc5gT1izBCOmwd07FGxJhoAhv0cUPA_vVIkGZZCtzgq
+ W9bY3P5zkBNigiVZ2LD3H.rIYpeSHNAW.ReiAWoUINj04YsB5C5QRI1VILS7
+ Em4vgSC1PWgorsa.JoP_AVup8r2nXgu5VBLq0NngI688slYLcVk_589QcPcS
+ QkniJIP_Ycrvm9Ev4xSxPo4rFGuRLSnis0aWoTIEQNRcHAlsZMbkDvSDN8Xr
+ Fcv.ZLhePEgCeydf6CE5WJhIJwi7BbiLTXkPvpbEIydLWyda8ntvRk.a7IQt
+ 63m8jJLuirxu42WEKpOe7iEZnPcxoW2wYJy1GpuRwLSTL_6JBaw7kErP3g1v
+ ky4rGEvFKN8Af.pMkcztBRyq8yAm9NycVeSH0DTCrawh0FlSngzi0AuaavV0
+ .vqmj.I3asElLioDM5vMwGOhjr55yS3oqH_Kgg1Tn7CB7lLfJ9ACeIshDTF8
+ LAr4.eiKFxyIYsf2.X.GsRlyUgZP1YSluX42VA8R9RIaATcWBiGXp2hOc18O
+ i9tOp2QnJVt.XA7wdpYSJlZOL5u4yKXMcVOrLH4zGkHFGxD8uzLvzhpUtt0q
+ 1PhMz1hbS6D771lmWldUKiBJiIZpv4g_k.IE0Hi3RovjliO5GcoLmEsMPdz5
+ keIePoLIxcWkWAYBg7IppzFj5ve_wQM8GnsiYPFb7xgdxZHcBBzZ4VfHoFJF
+ HLs2_vJaEYKu3UUUnYquIFD.ZgXUfFR0HWIAyPkIoX.K1X0mIMT3289OM2H3
+ co53Cw--
+Received: from 209.85.166.174 (EHLO mail-il1-f174.google.com)
+ by 10.197.39.105 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 14 May 2022 01:02:46 +0000
+Received: by mail-il1-f174.google.com with SMTP id s6so2072741ilp.9;
+        Fri, 13 May 2022 18:02:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=KdANZdzwUSuLs8ZV85De9t01Gi9Ij+hZCdpFt8RrNLk=;
+        b=nF/O7tv8ug/j1NK2V4IRe9Irwm4b1aZoUrkkcEQ+UatNMNPfgjzIYyK4mNsq0dyU9Y
+         5dUUbN/KApC6O/bU3oSg2w3KvVO7OhHao79X5tEDjWsz7xbuP66XD60XynNwlQ+5Im+k
+         B56uPRqG1s5VcwUXQZmXnx7gm5h/jMoHWHTquS/vMfHraegAzfoU1Ap/lkAYLA5zHqER
+         sJeGPjErp49oJOGNQAoJADlfh/sqpmPjYoqKHXu5ZYj4seGY78ii1QXkKjJHZUUSCx+u
+         VfmGeWLmtCRv0NqbUwZyrth3o/TnbFCLCmek6FpVplOlic03jDfbqoMPbToI8AIg2drc
+         lThA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=KdANZdzwUSuLs8ZV85De9t01Gi9Ij+hZCdpFt8RrNLk=;
+        b=0NNK3/rUFH9OwNFMj8hnlx0QaTWHMduH08i9cTahUQZHt87eozVF50cpvrkSqkSLXO
+         B0phNqftjUmiGQS74ifZ2KkACkPOXycQGkyMgEHfNqXWVfrhp3zWvLorYnDrLDIezBIF
+         91ceFdV3vD4U7vZaKVAC0k41ShLychXvO42rTkkLKnwI0sAx0oEUYXq5uCmxMFO9RPgj
+         +eTaiJaF28VA/MqlFjSL7fgDGkQEnCtysOansRH8ZdHCr5EHdWdJz0KUYZKZ+X+GujjN
+         AzlANMtZWlIulpvy1BpVl8J5lAtI5Sc/nq3/UJsZi5pmCpgT0Vv/vHRiTOJXr8S48f1h
+         Cr+g==
+X-Gm-Message-State: AOAM532/lbnC1OURa97Mai7syTrJRgSHYnuff0JQzethvi/Uova+0FgI
+	73/9OoBHQVwt0F1+j4KaBs8IT8qz17vVSLIoTVI=
+X-Google-Smtp-Source: ABdhPJzpBWErIwxkRAHxK2othvmvzBbA2uP877jRrD0N4LSM/d28SKuky4ep4RN4LqA432McWL/TVyaIoit5UfVbByQ=
+X-Received: by 2002:a05:6e02:1a86:b0:2cf:5846:29b3 with SMTP id
+ k6-20020a056e021a8600b002cf584629b3mr3960586ilv.232.1652490166364; Fri, 13
+ May 2022 18:02:46 -0700 (PDT)
+MIME-Version: 1.0
+From: BO DINCER <bondstrt007@gmail.com>
+Date: Fri, 13 May 2022 21:02:37 -0400
+Message-ID: <CAOHu4882VfUFH=KFyDbUPbfnf0eYQY4tQXg90N=01H4wQ9MoTw@mail.gmail.com>
+Subject: Re: Capacity: 1212-58-58-61710
+To: 6462563609@mms.att.net, kerri.saperstein@morgansley.com, 
+	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, info@kpmg.com, larissa.vonlockner@pwc.com, 
+	=?UTF-8?B?4oCLaWNlZ2xvYmFsbmV0d29yay1pbmZvQGljZS5jb20=?= <iceglobalnetwork-info@ice.com>, 
+	praghuram2@bloomberg.net, Premerger <premerger@ftc.gov>, pressinquiries@point72.com, 
+	espnfrontrow@espn.com, Dow Jones <pronewsletter@dowjones.com>, 
+	Dow Jones <wsjprosupport@dowjones.com>, governor.hochul@exec.ny.gov, 
+	letters@nypost.com, dfw@sec.gov, CRC FTC REPORTS <crcmessages@ftc.gov>, 
+	crcomplaints@treasury.gov, Jpetit <jpetit@mccarter.com>, thermanson@northmarq.com, 
+	terrance.ludwig@statefarm.com, 
+	Ir-operations-team <ir-operations-team@tudor.com>, texasable@cpa.texas.gov, 
+	LA TIMES NEWSLETTERS <newsletters@latimes.com>, losangeles@sec.gov, 
+	=?UTF-8?B?4oCLbmV3eW9ya0BTRUMuR09W?= <newyork@sec.gov>, 
+	BLACKSTONE GROUP <campusrecruiting@blackstone.com>, BBO 121 <ms60710444266@yahoo.com>, 
+	=?UTF-8?B?4oCLYmJyaWVmQGJsb29tYmVyZy5uZXQ=?= <bbrief@bloomberg.net>, 
+	ryan.a.cangialosi@pwc.com, "Laskowitz, Shari" <slaskowitz@ingramllp.com>, LZUCKER@mskyline.com, 
+	INFO <narrow@sadis.com>, 
+	Federal Reserve Bank of New York <general.info@ny.frb.org>, FDIC Public Information <publicinfo@fdic.gov>
+Cc: steve.ekert@gs.com, tmalafronte2@bloomberg.net, Chair <chair@sec.gov>, 
+	gs@gs.com, =?UTF-8?B?4oCLYmxhd3JlQGJsb29tYmVyZy5uZXQ=?= <blawre@bloomberg.net>, 
+	Bo Dincer <bo.dincer@yahoo.com>, jpminvestorrelatioms@jpmchase.com, 
+	joeaemail@gmail.com, info@statefarm.com, 
+	State Farm <mutualfunds@statefarm.com>, ombudsman@tdcj.texas.gov, Ombudsman@sec.gov, 
+	ombuds@finra.org, CustomerService@seahawks.com, media.relations@kcc.com, 
+	SOHO HOUSE <membership@sohohouse.com>, Ipadhelp <ipadhelp@nypost.com>, 
+	Iphonehelp <iphonehelp@nypost.com>
+Content-Type: multipart/alternative; boundary="0000000000005c6f2805deee59b8"
+Content-Length: 9075
+
+--0000000000005c6f2805deee59b8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b5002=
+248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/db5e3c6a10d3ec11a7b5000=
+d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC.jpeg
+
+=E2=80=94SHARI-
+
+https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000=
+d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg
+
+
+=E2=80=94#GOCARDS
+Tax receipts.
+
+https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1
+
+
+
+Ping PNG.
+
+1212-58-58-61710
+
+STFGX
+
+
+
+
+
+
+Error Icon
+Address not found
+Your message wasn't delivered to kerry.saperstein@morganstanley.com because
+the address couldn't be found, or is unable to receive mail.
+The response from the remote server was:
+550 5.1.1 User Unknown
+
+
+
+
+---------- Forwarded message ----------
+From: B B <boboschickenandpoker@gmail.com>
+To: "MSHY15@MORGANSTANLEY.COM" <MSHY15@morganstanley.com>,
+jamcreations2001@yahoo.com, espnfrontrow@espn.com, letters@nypost.com,
+IMShareholderProposals@sec.gov, lzucker@mskyline.com,
+kerry.saperstein@morganstanley.com, ksaperstein2@bloomberg.net, Dow Jones <
+pronewsletter@dowjones.com>, wsjprosupport@dowjones.com, Josephine Vella <
+Josephine.Vella@finra.org>, investor@annaly.com, info@statefarm.com,
+investorrelations@umusic.com, praghuram2@bloomberg.net,
+james.gorman@morganstanley.com, colin.brooks@morganstanley.com,
+priya.raghuram@morganstanleys.com, press@vice.com, press@barrons.com
+Cc: scott@holcombward.com, crcomplaints@treasury.gov, premerger@ftc.gov
+Bcc:
+Date: Fri, 13 May 2022 20:53:55 -0400
+Subject: Whats the 411 ? $852,029,489 +++++++ NO DISCLOSURE?
+Show quoted text
+
+
+On Fri, May 13, 2022, 7:56 PM <6462563609@mms.att.net> wrote:
+
+> 58-58
+> https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3ec11a7b50=
+02248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg
+>
+
+--0000000000005c6f2805deee59b8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div dir=3D"auto"><div dir=3D"auto"><br></div><div dir=3D=
+"auto"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/8de5f=
+89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" targ=
+et=3D"_blank" rel=3D"noreferrer">https://saaze2311prdsra.blob.core.windows.=
+net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD2024=
+98A9.jpeg</a></div><div dir=3D"auto"><br></div><div dir=3D"auto"><br></div>=
+<div dir=3D"auto"><a href=3D"https://saaze2311prdsra.blob.core.windows.net/=
+clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D15-3AF4205617AC=
+.jpeg" target=3D"_blank" rel=3D"noreferrer">https://saaze2311prdsra.blob.co=
+re.windows.net/clean/db5e3c6a10d3ec11a7b5000d3a132789/8A5FDA9F-D641-4B62-9D=
+15-3AF4205617AC.jpeg</a></div><div dir=3D"auto"><br></div><div dir=3D"auto"=
+>=E2=80=94SHARI-</div><div dir=3D"auto"><br></div><div dir=3D"auto"><a href=
+=3D"https://saaze2311prdsra.blob.core.windows.net/clean/a463845010d3ec11a7b=
+5000d3a1326fe/0F6C27D5-69BD-4971-91F6-A5A40317CC63.jpeg">https://saaze2311p=
+rdsra.blob.core.windows.net/clean/a463845010d3ec11a7b5000d3a1326fe/0F6C27D5=
+-69BD-4971-91F6-A5A40317CC63.jpeg</a></div><div dir=3D"auto"><br></div><div=
+ dir=3D"auto"><br></div><div dir=3D"auto">=E2=80=94#GOCARDS</div><div dir=
+=3D"auto">Tax receipts.</div><div dir=3D"auto"><br></div><div dir=3D"auto">=
+<a href=3D"https://github.com/users/BSCPGROUPHOLDINGSLLC/projects/1" target=
+=3D"_blank" rel=3D"noreferrer">https://github.com/users/BSCPGROUPHOLDINGSLL=
+C/projects/1</a></div><div dir=3D"auto"><br></div><div dir=3D"auto">=C2=A0 =
+=C2=A0=C2=A0</div><div dir=3D"auto"><br></div><div dir=3D"auto">Ping PNG.</=
+div><div dir=3D"auto"><br></div><div dir=3D"auto">1212-58-58-61710=C2=A0</d=
+iv><div dir=3D"auto"><br></div><div dir=3D"auto">STFGX</div><div dir=3D"aut=
+o"><br></div><div dir=3D"auto"><br></div><div dir=3D"auto"><br></div><div d=
+ir=3D"auto"><br></div><div dir=3D"auto"><br></div><div dir=3D"auto"><br></d=
+iv><div dir=3D"auto">Error Icon</div><div dir=3D"auto">Address not found</d=
+iv><div dir=3D"auto">Your message wasn&#39;t delivered to <a href=3D"mailto=
+:kerry.saperstein@morganstanley.com" target=3D"_blank" rel=3D"noreferrer">k=
+erry.saperstein@morganstanley.com</a> because the address couldn&#39;t be f=
+ound, or is unable to receive mail.</div><div dir=3D"auto">The response fro=
+m the remote server was:</div><div dir=3D"auto">550 5.1.1 User Unknown</div=
+><div dir=3D"auto"><br></div><div dir=3D"auto"><br></div><div dir=3D"auto">=
+<br></div><div dir=3D"auto"><br></div><div dir=3D"auto">---------- Forwarde=
+d message ----------</div><div dir=3D"auto">From: B B &lt;<a href=3D"mailto=
+:boboschickenandpoker@gmail.com" target=3D"_blank" rel=3D"noreferrer">bobos=
+chickenandpoker@gmail.com</a>&gt;</div><div dir=3D"auto">To: &quot;<a href=
+=3D"mailto:MSHY15@MORGANSTANLEY.COM" target=3D"_blank" rel=3D"noreferrer">M=
+SHY15@MORGANSTANLEY.COM</a>&quot; &lt;<a href=3D"mailto:MSHY15@morganstanle=
+y.com" target=3D"_blank" rel=3D"noreferrer">MSHY15@morganstanley.com</a>&gt=
+;, <a href=3D"mailto:jamcreations2001@yahoo.com" target=3D"_blank" rel=3D"n=
+oreferrer">jamcreations2001@yahoo.com</a>, <a href=3D"mailto:espnfrontrow@e=
+spn.com" target=3D"_blank" rel=3D"noreferrer">espnfrontrow@espn.com</a>, <a=
+ href=3D"mailto:letters@nypost.com" target=3D"_blank" rel=3D"noreferrer">le=
+tters@nypost.com</a>, <a href=3D"mailto:IMShareholderProposals@sec.gov" tar=
+get=3D"_blank" rel=3D"noreferrer">IMShareholderProposals@sec.gov</a>, <a hr=
+ef=3D"mailto:lzucker@mskyline.com" target=3D"_blank" rel=3D"noreferrer">lzu=
+cker@mskyline.com</a>, <a href=3D"mailto:kerry.saperstein@morganstanley.com=
+" target=3D"_blank" rel=3D"noreferrer">kerry.saperstein@morganstanley.com</=
+a>, <a href=3D"mailto:ksaperstein2@bloomberg.net" target=3D"_blank" rel=3D"=
+noreferrer">ksaperstein2@bloomberg.net</a>, Dow Jones &lt;<a href=3D"mailto=
+:pronewsletter@dowjones.com" target=3D"_blank" rel=3D"noreferrer">pronewsle=
+tter@dowjones.com</a>&gt;, <a href=3D"mailto:wsjprosupport@dowjones.com" ta=
+rget=3D"_blank" rel=3D"noreferrer">wsjprosupport@dowjones.com</a>, Josephin=
+e Vella &lt;<a href=3D"mailto:Josephine.Vella@finra.org" target=3D"_blank" =
+rel=3D"noreferrer">Josephine.Vella@finra.org</a>&gt;, <a href=3D"mailto:inv=
+estor@annaly.com" target=3D"_blank" rel=3D"noreferrer">investor@annaly.com<=
+/a>, <a href=3D"mailto:info@statefarm.com" target=3D"_blank" rel=3D"norefer=
+rer">info@statefarm.com</a>, <a href=3D"mailto:investorrelations@umusic.com=
+" target=3D"_blank" rel=3D"noreferrer">investorrelations@umusic.com</a>, <a=
+ href=3D"mailto:praghuram2@bloomberg.net" target=3D"_blank" rel=3D"noreferr=
+er">praghuram2@bloomberg.net</a>, <a href=3D"mailto:james.gorman@morganstan=
+ley.com" target=3D"_blank" rel=3D"noreferrer">james.gorman@morganstanley.co=
+m</a>, <a href=3D"mailto:colin.brooks@morganstanley.com" target=3D"_blank" =
+rel=3D"noreferrer">colin.brooks@morganstanley.com</a>, <a href=3D"mailto:pr=
+iya.raghuram@morganstanleys.com" target=3D"_blank" rel=3D"noreferrer">priya=
+.raghuram@morganstanleys.com</a>, <a href=3D"mailto:press@vice.com" target=
+=3D"_blank" rel=3D"noreferrer">press@vice.com</a>, <a href=3D"mailto:press@=
+barrons.com" target=3D"_blank" rel=3D"noreferrer">press@barrons.com</a></di=
+v><div dir=3D"auto">Cc: <a href=3D"mailto:scott@holcombward.com" target=3D"=
+_blank" rel=3D"noreferrer">scott@holcombward.com</a>, <a href=3D"mailto:crc=
+omplaints@treasury.gov" target=3D"_blank" rel=3D"noreferrer">crcomplaints@t=
+reasury.gov</a>, <a href=3D"mailto:premerger@ftc.gov" target=3D"_blank" rel=
+=3D"noreferrer">premerger@ftc.gov</a></div><div dir=3D"auto">Bcc:=C2=A0</di=
+v><div dir=3D"auto">Date: Fri, 13 May 2022 20:53:55 -0400</div><div dir=3D"=
+auto">Subject: Whats the 411 ? $852,029,489 +++++++ NO DISCLOSURE?</div><di=
+v dir=3D"auto">Show quoted text</div><div dir=3D"auto"><br></div></div><br>=
+<div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Fri, Ma=
+y 13, 2022, 7:56 PM  &lt;<a href=3D"mailto:6462563609@mms.att.net" target=
+=3D"_blank" rel=3D"noreferrer">6462563609@mms.att.net</a>&gt; wrote:<br></d=
+iv><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex">
+=09
+	=09
+	=09
+=09
+	<div>
+          =20
+           =20
+          =20
+           =20
+                <table><tbody><tr height=3D"15" style=3D"border-top:1px sol=
+id #0f7bbc">
+                    <td>
+                        58-58
+
+
+<a href=3D"https://saaze2311prdsra.blob.core.windows.net/clean/8de5f89e10d3=
+ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD202498A9.jpeg" rel=3D"nore=
+ferrer noreferrer" target=3D"_blank">https://saaze2311prdsra.blob.core.wind=
+ows.net/clean/8de5f89e10d3ec11a7b5002248286421/CE48526B-6A0E-4B2A-89B9-93BD=
+202498A9.jpeg</a>
+                    </td>
+                </tr>
+           =20
+        =20
+     </tbody></table></div>
+
+
+</blockquote></div></div>
+
+--0000000000005c6f2805deee59b8--

@@ -1,0 +1,213 @@
+From - Thu Aug 11 11:51:18 2022
+X-Account-Key: account1
+X-UIDL: ADEHRPlhqIfWYvTlvwlecIaXJ04
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Thu, 11 Aug 2022 11:19:26 +0000
+Return-Path: <abanews@americanbar.org>
+X-Originating-Ip: [40.107.236.100]
+Received-SPF: pass (domain of americanbar.org designates 40.107.236.100 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@americanbar.org header.s=selector1;
+ spf=pass smtp.mailfrom=americanbar.org;
+ dmarc=pass(p=QUARANTINE) header.from=americanbar.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 11 Aug 2022 11:19:26 +0000
+X-YMailAVSC: 5OltM_43bBsVIt92xq3J_o6_5Y.dilm6zcNpnawEhNsNDxQ
+ B1d1ByrFbrkUl7YU0JfNeveES38OmzD_.F2SaaJV9fOT5ZCfi37lXCp3T2L8
+ nB.qxeQtqy0PPxufiqVeMPOI9cOTLklvd.n52_gwJU021zyEUDktTezcQryZ
+ zryHRI6.y4Ktlml.mHXhaCwLOYzrfrdda0MkpwfZfp3F12e3CK4KMGOMhGxe
+ HsKaqC.h_wRuvQqwOzQHHz7xxkkq27Pt1quhOphyyFwt.m2vFYblzrqRT.A1
+ Elp6GE3FuU43IdGgUJgqdTSteSbdrMSMjLdGdhC1wuglEMmaznMHd.roxLB9
+ Pljk4gKNNXt58YrQkEQ8QEjdj22A.d2Fk_ZVuwgjLtB2CvwOpal_0xV7BVze
+ zyexRqK063XRxCBfDs41Ep.mEZ.LXhJZ2JQ9eiV3_y9ktY2jOFqdBhc6bh9z
+ 9qLSJctfAGqd0pLk.XnpDYW5pamjOxoqebRQf6MdZgx3zkRo06h7P3N3A63H
+ m4GUPPReTCHpWYbHktrGDmqFDsbyAHladnfVeUPE4FVhejVgE3sBNhw8xeKL
+ WR.d9IRtmNy5Gg0oYAwZO8Di2V8OmRxH8DMWNrIvbEczyLpe2Ze4ps6o9iA4
+ xmXYIt.Km8U5VyMEs3DJn7st.J6Cv.jWSP6WfK7lc6rd2Ct_y1wApwrmskSy
+ 0Xd_vKbnuhskSyJctDM.hkdpnEFT2IjFhrSB0omWn5kJkV7GJayfQa2qp8s8
+ alAxpBuW0x13wsOuhTUhPld6hzImHROcxvqNEuJfG048JWGYQV11ZWwrpqJA
+ U_CsBPo_r_1OBuedvc7O7EhASTBLg.Cyh7JeXMExrM._nS6_ItKEyt_44kfA
+ M3emCSlBoc0LfMRZH3KMFcXVVJ8NFAEmRGO_EDyzYu5dZT9EGl50KAZVcigA
+ I3Z9bI4IvwjCfFmUAp4LpztfanYQfRjOrQ6XmrqU8WTaDc716rn72gNLi19f
+ DP2uBr4JZZ2kRqodxruxsNlcITcSK3UVyfUpBYPxZukq53QidA5ZHyICOLwT
+ Mwtn.EMrEyCzUMKkU37wLAHqlnaOQ31aVrOviWvZPeXgqKaX7kUabtOFZXT_
+ 72QfENyZdciV2XayJUzsth5y69TKXAXgOBUdmYONyDuYQzGTmBIyJlO7kptB
+ l7NMP7WF_zxo9pS.7YxD_E67xwb41PdRoNHVX7D.OYDyxvFDNgAf1fwVU8PQ
+ xRy8olxMpbCZvDkKcjUXY9718cWcilqY-
+X-YMailISG: zhcuBmgWLDv7MzrRO5Q4LuJ9ng9D7SuhX6X9Pd_B1.imOvRg
+ ZCH6IS_1Yi9zAI8LhzQyXumdwmjpEgkYpCsbbUIDv9Y8y82XvdWihx5hhUyf
+ X5UyIJdmyUURb3.Q4Lq7jVquAzGU6LZgr7ron.dNYmebOu2CP4JvYzkc0257
+ tKZosYrmkUTRmcirvMXQH8Rrl5sokHVWtn7e5wPfKBhdNzbwZiQmuWCFjRGC
+ dJo_masTEsTsIJTDe39SzW2vKOB7k5GVZvVSzX5jw8VW6MoTa3Nw_vE64sNa
+ Y0FOmkHdwOuScLyuZE9Sn0n8s5BNH1t1VGcG7On4C18BdLPGFC5dMKtl.gKS
+ Jc3pbZVz3cy03CzGlIlY4sAiE5ID26O6BT1F3FIam1XvZcWeLAydIw5TK8FR
+ I9TI9t25abyBm.APKTEJ1yQmyFgAx4w_52tYUqbsSN0eK2V4RSXVGdXH5TF3
+ dC9h1ikMkBGt72tabgtXtMUiJVEgFq9S3QfvBDhP2rWhJo3bAytUDO_iwOST
+ IvSWlQRxBpfRebG8UKlKar0ekc1c_JU5wJhtZf_umV3g1KDV0zpHSXOtio70
+ zZrKZaQVg5Z_fgv8K0T1_uEmARlfyNe2.ToH8jqpRlEWFQGu7QcSWH4aaX3_
+ mv7nsj09VJKjyC4cxkEuRqhwlyl.SP5quslTZJOoTEedECZqfe_OFvBxf3sv
+ 2zdXaEm.TZRgG6Dxp426.FDSGcq4gwu7MCEkqt1F8f1quxUEPndF6wSYfnJq
+ KExWbik.5cvjO3Pr_s7VIRNtQgXae.3F0XB_CEE8braeucB91VNlvUx24puA
+ 7qHDQlNWVbJLg7Kjkwjo6lW9HY7.o_HwO8YHwarMkwHZqSPDN7j9g2f3xgzI
+ EbFg9IKPsk0dGB85uhsgN.aU8.3Uzp99xNwXcAe5LzoqTx3zxbmEvJksLGiZ
+ 3F0.7BL_stdWYARLx0Kd47CeO66GFgLmslW_a2Ipb_ElUqLUUeHK.C8OFRlA
+ 6D7_9jPEVjUJgzcHdeQfCP86cKXXesIa6q7yLGMirHeFCBwKvxp5yOXuf.eS
+ U55dG5ohZDVvNmFxqvkhYvqGgdaJCvo0B5qnSR8QmOOLcA2pNxNhyVgHcXeK
+ 4ckU8tykQd7n5iVeolwgzKzxwuCmEqo3L9gLTv9R04.A1407SYGOEo2g0s_2
+ DPplE7IlrYJC2YrrER60AVEVzG.GvvgZwHwv
+Received: from 40.107.236.100 (EHLO NAM11-BN8-obe.outbound.protection.outlook.com)
+ by 10.253.230.152 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 11 Aug 2022 11:19:26 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=h2ocCHS6BS6R0HYqw0kFQXvlc8IXSrvqt5Pp/CUd7ooU9NS/hyGSOC9+VaanOlYW2K9DtQW6/nqxgqy12XifmZvbCl/bdGyZOMEbA6yGTeDYdN/GjzMbV99CtN0IxtOiq/pjkM79YISikGgpzw0YKH1IoiFicO9t/40Fx4zJv7yw8UpyxDfQc26R5uHKI4BDplLVdUT6ye4DTwiYq08uDpybZFibNuyZ4TuUO617r16/J+8qOs4YCy9Ir1EeJ3ckneaMEBYokYVDvzZvCW/0r/YXzsycW9tbfnhIvutNZQWprNoJHHIKhvKTFouJisXG6dl1omCuw9zTRgIxKh/5Dg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=NYIYx77xoPnHWr4TDsYxH1h66Yni0CRsOhNeDN4bUjc=;
+ b=cYfhpIyTQDWNuxFCzNiwvpmUOF60bwSJXD9Jfu9sPvPfKKtV/KrcdM68rsiPeIA6leuYITcRcsu9Uet1I1ymFWCpSGmvfTRJ8Iz0tZjWv70KJ5H+q//Tg5KxuwvbGkqPJ2KYHr9kZ3SVN9T62lJheSzw3W3/wO5pFX6xsD51Gbz+JGCN0e4k5aSofS4jr9AfqUAN365D/lwNvB6IMBUOhwYSlW/jy2Ucdbzd+dV+4RXoWcs1dCdJAx0rGC0w/9nQ1L3J27tW5BbFgi71A2nvMLM7KtnXciGKtVoWn4ZItX1mxSFmcRz6IQm31wgZuchHEWyqaPZPiooDUMq2gJ9E3g==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=americanbar.org; dmarc=pass action=none
+ header.from=americanbar.org; dkim=pass header.d=americanbar.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=americanbar.org;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=NYIYx77xoPnHWr4TDsYxH1h66Yni0CRsOhNeDN4bUjc=;
+ b=Mt2N+TQxmh0byQpsRrRGd8NeC1zon1sD9KyAARI5CrPZiD8/YoYhI+xDwKEgk9HGzeElSYHhMMt2Q4QmvA9FVAw0s4hTquTgejwpxhj5Qg/HSsiv6Bh2B9xJuuu0VHxT4tNXN/09Wr2Jnew3d9ePryM/FNRv6D1YFC8nV9ju8ic=
+Received: from MN2PR12MB3773.namprd12.prod.outlook.com (2603:10b6:208:164::14)
+ by DM6PR12MB4699.namprd12.prod.outlook.com (2603:10b6:5:36::24) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5504.16; Thu, 11 Aug
+ 2022 11:19:21 +0000
+Received: from MN2PR12MB3773.namprd12.prod.outlook.com
+ ([fe80::4066:a4ca:c695:686c]) by MN2PR12MB3773.namprd12.prod.outlook.com
+ ([fe80::4066:a4ca:c695:686c%5]) with mapi id 15.20.5525.011; Thu, 11 Aug 2022
+ 11:19:20 +0000
+From: ABA Media Relations and Strategic Communications
+	<abanews@americanbar.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Not read: Re: Fwd: ABA -- 40-17G NOT COVERED --- 5/9/2022 6:05 AM
+Thread-Topic: Fwd: ABA -- 40-17G NOT COVERED --- 5/9/2022 6:05 AM
+Thread-Index: AQHYfI5lQzdtgAk4fUSc085YP4z7rK1II2qAgAAAWIA=
+Date: Thu, 11 Aug 2022 11:19:19 +0000
+Message-ID: <2f72f4147a1943da9993a50d0fac7914@americanbar.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 8ca83cdb-90fe-4c85-e2cd-08da7b8b55cc
+x-ms-traffictypediagnostic: DM6PR12MB4699:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ IqGECneU6heF29ZeD5xNyr4IDwy2Q1kB0tViLc9lGkZ3w30XBCjvy1HfTAfTCsKsuThF67wg39Jtmp9kTRFC7nfmPkTGqAEq1nb9/+kLkPaKSW+iBfr0OCewYuPR1ulQzNcUEtBEUyVcLotw7ZA2sSmWtXTRONiROV/7G70gA6u+z8wVjpJOSX9faHCXR5VX+0JwsxAkvyjhnWKKgDmXgrA4vBSdXxcwndK5Xhe8mZdZBMGTs6GJ/2Bx4r0ZvF5rSW30iU7PdH6SNQ8N7+Z3nbM0ajCh6tqsfWjhKkaGojGrm3UW7VhWdw8ltf3bTvNdMHKdMaraSWUf7Un97TB8NEK5KvpvRrSScaPKaFC44Busqw8PeB6yrlzeCIOD4P/CbI251r/yG4BJSFpinM7fQBTiqzY/9C2EFfG2IRjj5evVKspH1KKH1d1G9Wa9/OSsRp/TjHKMfMCl7NoAAc47TnMMDyZu9yIKj4cevJ+UM+owO4ebNNp7sWpgooMZ/YSmRn/4DurNs2YZjY9zNUJ/i5zTZNrqtlSR7S8RyAFTGyY=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR12MB3773.namprd12.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(136003)(39850400004)(376002)(396003)(346002)(73894004)(186003)(2906002)(122000001)(2616005)(6486002)(66476007)(41300700001)(8676002)(88996005)(6916009)(71200400001)(8936002)(66556008)(108616005)(4270600006)(6506007)(316002)(66946007)(6512007)(478600001)(64756008)(621065003)(66446008)(24736004)(86362001)(36756003)(2490200003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?5SDhfcjbPEdHxW073sw0bYt+iHKUVUOAWRkK5sixEAAosmZ9Gmgmc8vKQGJE?=
+ =?us-ascii?Q?vlMxDwiHb5k/46Kk1RAcgYpDxNIVLkjpu/KElwerj55ENukEnlJWgsM4PVRV?=
+ =?us-ascii?Q?pxP4u3YjvBzR/DLzuznjgi7D9CvP4Pt9mRVGKvBQm/i9N0WFglXYoYwLzalK?=
+ =?us-ascii?Q?hpM5f2q7Hft5IHyhW2DPs6G1LImH26+G6KVTT+vQI+ADCraHHYAif2urx4F/?=
+ =?us-ascii?Q?M116KON0ON5J2ZmW5JS24ZsmJuH4o6mdTSP+61wHLEI34wm2Jd6c075SOQT0?=
+ =?us-ascii?Q?KVEYRcbVgu+p+TZNyM1awcxqjEP24rLDCcXzIwSAJ59gJfQGtjs/Rzier5Mj?=
+ =?us-ascii?Q?i588VwIWVORl3caRsIjWm1T2zzT2pBtLrGKP0Vld6nQBMVe/aitrPGMcW8kG?=
+ =?us-ascii?Q?biOQsGPbigAj96+l2mMn20VM8zSXPc677ifqd2ZStspgPwJz4ZBJ1Igtk0Ip?=
+ =?us-ascii?Q?StImZQs8d+WMOhQQhJpnhig0wMYP7rFXhNa3ApkhDK7VV+QxfOFIqqDPWOfX?=
+ =?us-ascii?Q?jdUAWRUWPZpvlaW+CBVuoUrksI1WPdZoPDOSRo3usvNym29BoNzbn99F/UiO?=
+ =?us-ascii?Q?loc8Cl/1q7d+45VLWVHGoMcQHfjPPKxTp3Y2vspoxZY6a1oV76ogqbpks4yd?=
+ =?us-ascii?Q?pFf3W/6hpumyZzocDXNMq/M9P8ZRClrzzvrRtxgC3PAN9qRQAnCMDmzP6HMH?=
+ =?us-ascii?Q?Mh9bJo+OkJ1JgVSehZIMricutflkYstGbY1NSn7Uroqa/ovFAddGQDx85IDx?=
+ =?us-ascii?Q?U1j2YzKcaz9oC5rH35jmMyqOnRzij6hTg97XM/ibLcXzkH394byUU3aaE/Tk?=
+ =?us-ascii?Q?3C45rLnnrZWiHMIDzq5IQ4DA7yrF+BwhECj1zIxQauD7ILzSXFSUge6Ua/Cr?=
+ =?us-ascii?Q?/2xfc8Lc+CXZVTl1bDatkGN1+GH2bH9Fqh7Gr+xBD0UOyEt54lhqpUvZAFOS?=
+ =?us-ascii?Q?/9Y8nFK2lS6WtXSWP877tZiAthQcymVcVUS6sTA/A043Ldrl2efWTRmMCwkn?=
+ =?us-ascii?Q?RXf6kCobN/dZ2UygaqUh3GrNCFkqjwwx7AXXeY+ZhiC9qiCT5GP3v3bRLAuv?=
+ =?us-ascii?Q?s4jBjvYcJpUs96KMMrbkQUzV70U5jxmuoiMpli+1qohtcbxIhzJ7kCBfkh+e?=
+ =?us-ascii?Q?cNIzMiq/fwXEAOOdgHuLKhnf+eStaEiovnWiGl5obLmmGLqE8HeBOo1jsMmB?=
+ =?us-ascii?Q?hefBWco/Y6sVRN/f4WlebY/9oz/WUHgE6EfEvB5V1yixZGIhJJBQ/U/78Rpm?=
+ =?us-ascii?Q?tbHcB3i+bQhEDDh0UEPE7DB3CGYpFnjDBvZ+u0yqVH6NYxSMPrHghr69NhGn?=
+ =?us-ascii?Q?OBTCnlajVxbb2mnv9ei8DJEKimBq+qz4iCiOcjJj96TLJw7Pwl0xr1dLBCRp?=
+ =?us-ascii?Q?u3ian4M+SgAysQh4GZJ3RmeuJfsxuNi+oscCWdSzGy2nucrrRgE1llKfO6MT?=
+ =?us-ascii?Q?RJ/psKy8wh82r6ZQqHktSf8IFy2oc9Ctby4bo+sNKKEBd7fyrNp4c3fdk9Sy?=
+ =?us-ascii?Q?Hx2e+x2xynHOpDHfzAJIsWAbU2AvIkz53Pkd?=
+Content-Type: multipart/report;
+	boundary="_000_2f72f4147a1943da9993a50d0fac7914americanbarorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: americanbar.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN2PR12MB3773.namprd12.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 8ca83cdb-90fe-4c85-e2cd-08da7b8b55cc
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 Aug 2022 11:19:19.6195
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: c0f7bf33-a74b-4d15-a7b3-bcae22ea9bdc
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: AVJCEQS5oD9IuORrna7aUWd9ORE78UwdQzzjMVDM1iDZrKq0F9+zH18ahkaq6hMHZFHHDPgnln5Tpq5P4CS2Sw==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM6PR12MB4699
+Content-Length: 2133
+
+--_000_2f72f4147a1943da9993a50d0fac7914americanbarorg_
+Content-Type: multipart/alternative;
+	boundary="_002_2f72f4147a1943da9993a50d0fac7914americanbarorg_"
+
+--_002_2f72f4147a1943da9993a50d0fac7914americanbarorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: ABA Media Relations and Strategic Communications
+   Subject: Re: Fwd: ABA -- 40-17G NOT COVERED --- 5/9/2022 6:05 AM
+   Sent: Friday, June 10, 2022 12:53:41 AM (UTC-06:00) Central Time (US & C=
+anada)
+
+ was deleted without being read on Thursday, August 11, 2022 6:19:19 AM (UT=
+C-06:00) Central Time (US & Canada).
+
+--_002_2f72f4147a1943da9993a50d0fac7914americanbarorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: ABA Media Relations and Strategic Communications<br>
+&nbsp;&nbsp; Subject: Re: Fwd: ABA -- 40-17G NOT COVERED --- 5/9/2022 6:05 =
+AM<br>
+&nbsp;&nbsp; Sent: Friday, June 10, 2022 12:53:41 AM (UTC-06:00) Central Ti=
+me (US &amp; Canada)<br>
+<br>
+&nbsp;was deleted without being read on Thursday, August 11, 2022 6:19:19 A=
+M (UTC-06:00) Central Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_2f72f4147a1943da9993a50d0fac7914americanbarorg_--
+
+--_000_2f72f4147a1943da9993a50d0fac7914americanbarorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; abanews@americanbar.org
+Disposition: automatic-action/MDN-sent-automatically; deleted
+X-MSExch-Correlation-Key: luegAbSNgkKsMgYTGoRGNw==
+Original-Message-ID: <98038041-4f09-1282-8a8a-f38258d0bce5@yahoo.com>
+X-Display-Name: ABA Media Relations and Strategic Communications
+
+
+--_000_2f72f4147a1943da9993a50d0fac7914americanbarorg_--

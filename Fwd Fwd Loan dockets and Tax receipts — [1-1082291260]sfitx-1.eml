@@ -1,0 +1,352 @@
+From - Wed May  4 19:51:29 2022
+X-Account-Key: account8
+X-UIDL: 1645857828.704
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <ms60710444266@yahoo.com>
+Received: from compute4.internal (compute4.nyi.internal [10.202.2.44])
+	 by sloti52n19 (Cyrus 3.7.0-alpha0-591-gfe6c3a2700-fm-20220427.001-gfe6c3a27) with LMTPA;
+	 Wed, 04 May 2022 20:47:30 -0400
+X-Cyrus-Session-Id: sloti52n19-1651711650-1369607-2-2657987448744366800
+X-Sieve: CMU Sieve 3.0
+X-Spam-known-sender: yes ("Address ms60710444266@yahoo.com in From header is in addressbook");
+ in-addressbook; bba2db8d-33a3-40c2-87e0-df67be267777 ("Autosaved")
+X-Spam-charsets: subject='UTF-8', plain='UTF-8', html='UTF-8'
+X-Resolved-to: cockarens@vouchersrus.org
+X-Delivered-to: COCKARENS@VOUCHERSRUS.ORG
+X-Mail-from: ms60710444266@yahoo.com
+Received: from mx4 ([10.202.2.203])
+  by compute4.internal (LMTPProxy); Wed, 04 May 2022 20:47:30 -0400
+Received: from mx4.messagingengine.com (localhost [127.0.0.1])
+	by mailmx.nyi.internal (Postfix) with ESMTP id F37DE1F20080
+	for <COCKARENS@VOUCHERSRUS.ORG>; Wed,  4 May 2022 20:47:29 -0400 (EDT)
+Received: from mx4.messagingengine.com (localhost [127.0.0.1])
+    by mx4.messagingengine.com (Authentication Milter) with ESMTP
+    id 080711F9A9A;
+    Wed, 4 May 2022 20:47:29 -0400
+ARC-Seal: i=1; a=rsa-sha256; cv=none; d=messagingengine.com; s=fm3; t=
+    1651711649; b=PfLcaIZQb7sfTfZ1+NBNdnwZMeFgOsfdyHMvuK2qJ+bOMmktYy
+    LH1J4qykiOwWRlW6zwpbOs/P3fQcgNmApJpGt2UFaY49DKUTtfKwp55p9kDhsmj0
+    YH8YuRwtUiaHM0dWpoTP+HSWNZ2zMrW5j39vLETWF1QEWFbCF0uxbelCdCK+E2Vw
+    fyu7Eg4Db6hFvtAljrBRVdCAfhnG66a1UBGKtYFsBBblzOEfdbuodjDWnu44PCJh
+    Wgi0IyJRJIO6HvwfeOziIElZA9Lp5/llFmeAe0KoAZ+n2dqCMZSKYa0dMZIqzY5w
+    U4ORfeClmWsEZqqifdHNAXzE4DyDPXRaLO6Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=
+    messagingengine.com; h=content-type:message-id:date:mime-version
+    :subject:references:to:from:in-reply-to; s=fm3; t=1651711649;
+    bh=A/g2WwNNAtE0bdZq3bCf6p+7TnzcbZMFuv2OJrKC9h0=; b=i9IqA1QTmB86
+    kL2QD/n1Z7AsL+GjpC3M1B+nr9qu0zWfbrPuJZH/4pqGKGdWvKLqigBxdpXtfOiB
+    AhlY1HPz1jpxOIiud0MvOUnltlpZjDowYUR6VwMNhJACY41mJ2491ePrOUHiaD2f
+    DtfxpginWE1m4x29sApKDYeEZ3HquIo7xPP5LQtIdacf4lKHxzT3K7n4VpKUv8jo
+    HNl9Buy/Y5AqmIWdt3lFtZKNIjrbL9BslaQOA5e9sv/U1o1psYg8Rg4yn3jZY86Z
+    IZBkvuRoci9u5hwNY8cCb0gmjmDRidyg9C6lOqDNKvpv4AbBI787wrkwWOfod4ZG
+    ahNqASxndQ==
+ARC-Authentication-Results: i=1; mx4.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic303-31.consmr.mail.bf2.yahoo.com
+    policy.ptr=sonic303-31.consmr.mail.bf2.yahoo.com;
+    bimi=none (No BIMI records found);
+    arc=none (no signatures found);
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+    header.i=@yahoo.com header.b=bxW6aLRN header.a=rsa-sha256
+    header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+    policy.applied-disposition=none policy.evaluated-disposition=none
+    (p=reject,d=none,d.eval=none) policy.policy-from=p
+    header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=74.6.131.230
+    (sonic303-31.consmr.mail.bf2.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+    smtp.helo=sonic303-31.consmr.mail.bf2.yahoo.com
+X-ME-Authentication-Results: mx4.messagingengine.com;
+    x-aligned-from=pass (Address match);
+    x-return-mx=pass header.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta7.am0.yahoodns.net,mta6.am0.yahoodns.net,mta5.am0.yahoodns.net);
+    x-return-mx=pass smtp.domain=yahoo.com policy.is_org=yes
+      (MX Records found: mta5.am0.yahoodns.net,mta7.am0.yahoodns.net,mta6.am0.yahoodns.net);
+    x-tls=pass smtp.version=TLSv1.3 smtp.cipher=TLS_AES_256_GCM_SHA384
+      smtp.bits=256/256;
+    x-vs=clean score=10 state=0
+Authentication-Results: mx4.messagingengine.com;
+    x-csa=none;
+    x-me-sender=none;
+    x-ptr=pass smtp.helo=sonic303-31.consmr.mail.bf2.yahoo.com
+      policy.ptr=sonic303-31.consmr.mail.bf2.yahoo.com
+Authentication-Results: mx4.messagingengine.com;
+    bimi=none (No BIMI records found)
+Authentication-Results: mx4.messagingengine.com;
+    arc=none (no signatures found)
+Authentication-Results: mx4.messagingengine.com;
+    dkim=pass (2048-bit rsa key sha256) header.d=yahoo.com
+      header.i=@yahoo.com header.b=bxW6aLRN header.a=rsa-sha256
+      header.s=s2048 x-bits=2048;
+    dmarc=pass policy.published-domain-policy=reject
+      policy.applied-disposition=none policy.evaluated-disposition=none
+      (p=reject,d=none,d.eval=none) policy.policy-from=p
+      header.from=yahoo.com;
+    iprev=pass smtp.remote-ip=74.6.131.230
+      (sonic303-31.consmr.mail.bf2.yahoo.com);
+    spf=pass smtp.mailfrom=ms60710444266@yahoo.com
+      smtp.helo=sonic303-31.consmr.mail.bf2.yahoo.com
+X-ME-VSSU: VW5zdWI9aHR0cHM6Ly9iMmIuc3RhdGVmYXJtLmNvbS9iMmIvY29udGFjdHVzLmh0bWw
+X-ME-VSCause: gggruggvucftvghtrhhoucdtuddrgedvfedrfedtgdefkecutefuodetggdotefrodftvf
+    curfhrohhfihhlvgemucfhrghsthforghilhdpggftfghnshhusghstghrihgsvgdpuffr
+    tefokffrpgfnqfghnecuuegrihhlohhuthemuceftddtnecufghrlhcuvffnffculddqud
+    dtmdenoggjrghhohhoqddqteefieduqddtudculddvtddmnecujfgurheptgfkffggfgfu
+    fhfvhfgjofesrgdtreerreefjeenucfhrhhomhepuecuffdvtddvvdcuoehmsheitdejud
+    dtgeeggedvieeiseihrghhohhordgtohhmqeenucggtffrrghtthgvrhhnpeevgfegtdek
+    ffdvfeegvddvfedvtdffteejhfduueeggedvffehleekteeuvdeuieenucffohhmrghinh
+    epshhtrghtvghfrghrmhdrtghomhenucfkphepjeegrdeirddufedurddvfedtnecuvehl
+    uhhsthgvrhfuihiivgeptdenucfrrghrrghmpehinhgvthepjeegrdeirddufedurddvfe
+    dtpdhhvghlohepshhonhhitgeftdefqdefuddrtghonhhsmhhrrdhmrghilhdrsghfvddr
+    higrhhhoohdrtghomhdpmhgrihhlfhhrohhmpeeomhhsiedtjedutdeggeegvdeiieeshi
+    grhhhoohdrtghomheq
+X-ME-VSScore: 10
+X-ME-VSCategory: clean
+X-ME-CSA: none
+Received-SPF: pass
+    (yahoo.com ... _spf.mail.yahoo.com: 74.6.131.230 is authorized to use 'ms60710444266@yahoo.com' in 'mfrom' identity (mechanism 'ptr:yahoo.com' matched))
+    receiver=mx4.messagingengine.com;
+    identity=mailfrom;
+    envelope-from="ms60710444266@yahoo.com";
+    helo=sonic303-31.consmr.mail.bf2.yahoo.com;
+    client-ip=74.6.131.230
+Received: from sonic303-31.consmr.mail.bf2.yahoo.com (sonic303-31.consmr.mail.bf2.yahoo.com [74.6.131.230])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mx4.messagingengine.com (Postfix) with ESMTPS
+	for <COCKARENS@VOUCHERSRUS.ORG>; Wed,  4 May 2022 20:47:29 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651711648; bh=A/g2WwNNAtE0bdZq3bCf6p+7TnzcbZMFuv2OJrKC9h0=; h=Date:Subject:References:To:From:In-Reply-To:From:Subject:Reply-To; b=bxW6aLRNvTiqsDmGbIxGbvU94iSCusRR9+jtNsnMebf3HYgwrEGX6AqYmxhNAfUzdc0I3yAX2S1EVQGdRs1Qz6TNMJYLEYXX9hSod2jV+rZaXxbEazsgLz1WHaLZ3jbmggoFrgEK7fqIrXMGr4DMx5bGjxREaODVdvnsan1o+7ahdrxjikT5dZZPSFmOGHNwmDrkbXt6wDPWD3GOGCU6vckFzdBFLDpZMnJFtB1lT4j/lrR+dET5Ib1XvlI6wFjcjlqb6iiZGU2kiPZTEe6TlkNr7lGhj1ap3FUa7ImirSbp/46SH8UqEh7mVI/J2v6UcOy494qLC+NJCL++RPevpg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651711648; bh=wBmop1imKaWPGilUx5/naN2VaOjkyelUKqznyNxhBZ7=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=g3VlmFdDBUuIh1KT6A+neIWWa6eqBBPNQxDmMelwJ3q6cEQPy7CjOTVUNzig79PMkH5LggDXy1HcWriHjN20FUS5ZjL8mrJ9iBgwBX4SNuykxM5Ut1caTm8xBP54AD+8fRw23OEtlM6iAKVMqu4/fpte8yxdC8YgCZp0CdBxn5XIOUHhiFeepjlXl8mWmFfxmg7ZYK+joYG7wr8a1QIdMV0gO8pGxC8HGtwF1+wFtEYKjtNXyj1wLWmduMeol/JWuBTg1/s4HWwAI3w8ZFNcDLY2omVUF+OMqMMrnWtKc4NNOhBxJtoVHpas4m4JRuU1pxsLppJUNjcAmbVxOLSVag==
+X-YMail-OSG: wTGIkeIVM1m.C2yPD8gBbHL_syZ.eMsNoXWfbccqz1zKWBHeRKeSf2A5zoiijYD
+ lzSXNM3dQOZWN_iJtapv1z7SKRDGtLcCVKrb5S2GvTVOhj9u5XDTf_RGf62Ox1iWrXMxxzYVsUvT
+ FxdyqqZyH8Qvk8E15LiSNgCK6ckVQ3tvEaas4CnMn7bj_wPHlJ_4vatG_AdjUofC9O16tNtcSwk9
+ kuP4fAepQzTDHX6bydaflPDgAafc6N_.wSWSSCtDk4Xw.0Iua_fWOOroPF3tXU3hnPQHFJPcm.Sh
+ VNEOI6RkjRbeA3gDYmWGsn_Q.qFkZMeZOUMwFiErAAuDd1O0j1pIIMMEWcXSRzc6QDROejbaYbNH
+ BNJN1iQ2_zPMU2z1Qh3c8eySithNLd3Pdok2Kpp7OA4Szmx4otaBPNvb7wzeR0_zjyRDqta76UBo
+ 5H7YXgxrmihb.XkccZQOsKVxRzwAlaUeF55_vgDExE_3lwDaiFegyix1mTj1dKZabk8.gV8WIUWQ
+ fnUqzkUKH6c9V3fMZ.s6lvsqxDsFh.QGoQVE4E3MAdlYD7d2yQtCmB1HcNl89eXlb.Dbj3VD_hK8
+ oQvnbPZFrOHTCgBNJ7HovWg88XjvEveQsOqH9J8Ch.GKPQRwY.azWubtGNay87dVta23jdge9gM_
+ eKEiDwnixlJNNEPQGDXc.nA8fTIvb2TQXS_1h5J7ljNy02w1D9Mgaz7zLZAdAReRfK6IpH6dMHDC
+ HoC_UwrKUZuthuxtF7vhUwjjMtm6QaWBDX_a3.z4BGJ6gR_kyNWhk5.vwG02.bPRT2eafyXEAtNt
+ MlUyTkFN.V4Nhe8kfhA7IzUrlthJwUHzxwVKQ.lVJVGfo7kPgqPIWaL2xotkEnF.Em3n4ToMukP9
+ FVbfv3Oh78bFPbc05eO5TqkPtUovKgCCpduPHvE9JECP_F77nGafhVLBC5ZvzvnS6j0.NrIIpT8D
+ xLWJNIYkwhdiKEy1CU1.l7IjeZCjU4OmUG9dFJd8z7Jm0BOp0a9ecThyNRArkm5Uq.hgwSpDRRI1
+ 09Ca5iaSCf_vZAjUc_cq0etDA3gyeS0twxA_0FIG41D3U8BYTU7bsS4colxu8rfpPytLxnhlODYS
+ awNnMMdbLL8mTaZxV.SUmrIczTbQQ_c9rUiOYvCb3y306fVhjUTL3VI19cIAYa4HP77n2lUrF4BQ
+ cDdAphoXZ0vi.0RKFic0PfTbq0bgCsWBhJBrrF4pUTvJYVak9KGZ6ngNuG8A1Xmm1T82uBQJqZvZ
+ HwAySwn6epRmkYwjFb0gyyELpHEetzyYA5GoAP40bnp5qzgzeL7Uce2hvedmZWzmIWhFON9Somxl
+ G_OTn.Nge.crewwPp7KT5HIw2VeXnw2.nlXc9k6xt8yoRB2EiM5YJAzE7PWqSgvrYgCR0_EXay6J
+ iffmoMCIqOsB2C6RBntZX_GbhZ_Y16Yayf2XaPkH.F_8UX.wEMo.hH16EitXo57oxVumjDYbetLj
+ Rcfcd7eMC_YJ2SwwlzAcjiIyzA5gEEWKUrMOhyqF1mmlSYlOk0CH21FZHyd9WQgzp1xUYpztrkgc
+ L0IibM52h8BPTLLbwEjtq.lfaS8RzUkPqBp0pm905dFbA04spHLNwrQB6pPMYhU9LHmq5a2nplIm
+ sMbi9Sv7LjJ1W6hmOTDiUdV4O7BFQ3OrA0ZlfUWjoHIxaoGA2MDX0ugOBbcRCEfl21Ie1mVdNinT
+ j6p50T12NVDNZOJdogPoTeofIvSxN3l4ND_LWg2.n8wIXxINqbHdqohqJV0FArt0OXhbtgAt4U7k
+ NRxzkq2lVetStci5qQ99aRPcgtYis7DwFK55Ph9JIy_ZkgyI6Bf4O1YReKmkoWObc.ZMU4nfIzMX
+ y4AbHzfaLDNIdrDVAdlZi4PAeCv2K9scuQr2.2imFDjcJL5f__f2ATrJuOIiOT4rOie1WusHpq_l
+ Q756Zpnoh1HqiMO7dfStvehDx8hFl.JePL46.dYOw3oE_hl_61FYiBpXFi6WMRh0s3I2uah3axQT
+ hOMjoPKN2g2JytMuZkXg6XiBWzah_FiZdGXsoe9.wtVPVazhjK.92C2YfmtxwR6xAhm_JoSj8Z0h
+ 0.sdilLH_rIBiizMX8Jc.494dBGAOLNmR6k0GhW9SjaLgbZwCvjJh0mpL7Z2SQ4XWcYuvLUK9V.9
+ O3zYfrJP6mtbyru9nuMFLTrcPPi84IneTB8zSquY9T.iO.ZERxurSKwZTjKA6I9r.uyYGOIukd08
+ cLubl549KSP7GfyVOryDHfTl9lMcrLqMWltYP6F69WLvdrCDga7hO4JJfB.LeDA--
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.bf2.yahoo.com with HTTP; Thu, 5 May 2022 00:47:28 +0000
+Received: by hermes--canary-production-ne1-75b69fcf97-mx82w (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID bfc6771676abcfbda895a7e7fcbc2eb4;
+          Thu, 05 May 2022 00:45:26 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------YSpA0adQuiSbkVe1OBSSL7F4"
+Message-ID: <0c22af7c-b4b8-36fd-5f72-e1af7880f20b@yahoo.com>
+Date: Wed, 4 May 2022 19:45:13 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.6.1
+Subject: =?UTF-8?Q?Fwd=3a_Fwd=3a_Loan_dockets_and_Tax_receipts_=e2=80=94_=5b?=
+ =?UTF-8?Q?1-1082291260=5dsfitx?=
+References: <2D076690-677C-486E-BCC3-EF03D7E25E2D@icloud.com>
+Content-Language: en-US
+To: "info@manhattanbp.nyc.gov" <info@manhattanbp.nyc.gov>,
+ "speakerjohnson@counsil.nyc.gov" <speakerjohnson@counsil.nyc.gov>,
+ "levine@council.nyc.gov" <levine@council.nyc.gov>,
+ "kford@helpusa.org" <kford@helpusa.org>,
+ "odonned@assembly.state.ny.us" <odonned@assembly.state.ny.us>,
+ "jackson@nysenate.gov" <jackson@nysenate.gov>,
+ "jcarter@dss.nyc.gov" <jcarter@dss.nyc.gov>,
+ "irvinlei@dss.nyc.gov" <irvinlei@dss.nyc.gov>,
+ "stringer@comptroller.nyc.gov" <stringer@comptroller.nyc.gov>,
+ Sec News <webmaster@sec.gov>, texas@sec.gov,
+ "shareholderproposals@sec.gov" <shareholderproposals@sec.gov>,
+ Secretarys-Office@sec.gov, Rule-Comments <rule-comments@sec.gov>,
+ "publicinfo@sec.gov" <publicinfo@sec.gov>, philadelphia@sec.gov,
+ "Pamela Gibbs [SEC]" <OMWI@sec.gov>, Ombudsman@sec.gov,
+ "Carl Hoecker [SEC]" <OIG@sec.gov>, "oca@sec.gov" <oca@sec.gov>,
+ NYROBankruptcy@SEC.GOV, Newyork <newyork@sec.gov>, losangeles@sec.gov,
+ IMshareholderproposals <IMShareholderProposals@sec.gov>, foiapa@sec.gov,
+ "dfw@sec.gov" <dfw@sec.gov>, denver@sec.gov,
+ "dcaoletters@sec.gov" <dcaoletters@sec.gov>, cshugg@usinfosec.com,
+ CommissionerRoisman@sec.gov,
+ "CommissionerPeirce@sec.gov" <CommissionerPeirce@sec.gov>,
+ CommissionerLee@sec.gov, CommissionerCrenshaw@sec.gov,
+ "CHICAGO@SEC.GOV" <CHICAGO@SEC.GOV>, "CHAIR@SEC.GOV" <CHAIR@SEC.GOV>,
+ "boston@sec.gov" <boston@sec.gov>, atlanta@sec.gov
+From: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <2D076690-677C-486E-BCC3-EF03D7E25E2D@icloud.com>
+X-Forwarded-Message-Id: <2D076690-677C-486E-BCC3-EF03D7E25E2D@icloud.com>
+X-Mailer: WebService/1.1.20118 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+
+This is a multi-part message in MIME format.
+--------------YSpA0adQuiSbkVe1OBSSL7F4
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+
+
+-------- Forwarded Message --------
+Subject: 	Fwd: Loan dockets and Tax receipts — [1-1082291260]sfitx
+Date: 	Wed, 4 May 2022 19:49:50 -0400
+From: 	Bo Dincer <bdincer66@icloud.com>
+To: 	governor.hochul@exec.ny.gov
+CC: 	Newyork <newyork@sec.gov>, newyork@cravath.com, 
+inquiries@point72.com, info@kpmg.com, Tudor Info <info@tudor.com>
+
+
+
+GTG.
+
+/BD
+
+
+Begin forwarded message:
+
+> *From:* info@statefarm.com
+> *Date:* May 4, 2022 at 2:35:10 PM EDT
+> *To:* bdincer66@icloud.com
+> *Subject:* *RE: Loan dockets and Tax receipts — [1-1082291260]*
+> *Reply-To:* info@statefarm.com
+>
+> ﻿
+>
+> Thank you for your submission; please consider this message as your 
+> confirmation we have received your email. Our service goal is to 
+> respond to requests as quickly as possible. However, when message 
+> volumes increase, we commit to responding to emails within five (5) 
+> business days.
+>
+> If you are a */CUSTOMER /*in need of immediate assistance, please 
+> visit our Contact Us 
+> <https://www.statefarm.com/customer-care/contact-us> page or talk to a 
+> State Farm representative 24/7 at 800-STATE-FARM (800-782-8332).
+>
+> If you are a */VENDOR /*requesting to do business with State Farm, and 
+> your services are not needed at this time, you may not receive further 
+> contact. If you are a vendor in need of immediate assistance, please 
+> visit our Business-to-Business Contact Us 
+> <https://b2b.statefarm.com/b2b/contactus.html> page or talk to a B2B 
+> Help Desk representative 24/7 at 855-311-2681.
+>
+--------------YSpA0adQuiSbkVe1OBSSL7F4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body dir="auto" spellcheck="false" data-gramm="false">
+    <p><br>
+    </p>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Forwarded Message --------
+      <table class="moz-email-headers-table" cellspacing="0"
+        cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Subject:
+            </th>
+            <td>Fwd: Loan dockets and Tax receipts — [1-1082291260]sfitx</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Date: </th>
+            <td>Wed, 4 May 2022 19:49:50 -0400</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">From: </th>
+            <td>Bo Dincer <a class="moz-txt-link-rfc2396E" href="mailto:bdincer66@icloud.com">&lt;bdincer66@icloud.com&gt;</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">To: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:governor.hochul@exec.ny.gov">governor.hochul@exec.ny.gov</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">CC: </th>
+            <td>Newyork <a class="moz-txt-link-rfc2396E" href="mailto:newyork@sec.gov">&lt;newyork@sec.gov&gt;</a>, <a class="moz-txt-link-abbreviated" href="mailto:newyork@cravath.com">newyork@cravath.com</a>,
+              <a class="moz-txt-link-abbreviated" href="mailto:inquiries@point72.com">inquiries@point72.com</a>, <a class="moz-txt-link-abbreviated" href="mailto:info@kpmg.com">info@kpmg.com</a>, Tudor Info
+              <a class="moz-txt-link-rfc2396E" href="mailto:info@tudor.com">&lt;info@tudor.com&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      GTG. <br>
+      <br>
+      <div dir="ltr">/BD
+        <div><br>
+        </div>
+      </div>
+      <div dir="ltr"><br>
+        Begin forwarded message:<br>
+        <br>
+      </div>
+      <blockquote type="cite">
+        <div dir="ltr"><b>From:</b> <a class="moz-txt-link-abbreviated" href="mailto:info@statefarm.com">info@statefarm.com</a><br>
+          <b>Date:</b> May 4, 2022 at 2:35:10 PM EDT<br>
+          <b>To:</b> <a class="moz-txt-link-abbreviated" href="mailto:bdincer66@icloud.com">bdincer66@icloud.com</a><br>
+          <b>Subject:</b> <b>RE: Loan dockets and Tax receipts —
+            [1-1082291260]</b><br>
+          <b>Reply-To:</b> <a class="moz-txt-link-abbreviated" href="mailto:info@statefarm.com">info@statefarm.com</a><br>
+          <br>
+        </div>
+      </blockquote>
+      <blockquote type="cite">
+        <div dir="ltr">﻿
+          <p><span style="font-size: 12px;"><span style="font-family:
+                arial,helvetica,sans-serif;">Thank you for your
+                submission; please consider this message as your
+                confirmation we have received your email. Our service
+                goal is to respond to requests as quickly as possible. 
+                However, when message volumes increase, we commit to
+                responding to emails within five (5) business days. </span></span></p>
+          <p><span style="font-size: 12px;"><span style="font-family:
+                arial,helvetica,sans-serif;">If you are a <strong><em>CUSTOMER
+                  </em></strong>in need of immediate assistance, please
+                visit our <a
+                  href="https://www.statefarm.com/customer-care/contact-us"
+                  moz-do-not-send="true"><span style="color: black;"><span
+                      style="color: black;">Contact Us</span></span></a>
+                page or talk to a State Farm representative 24/7 at
+                800-STATE-FARM (800-782-8332).</span></span></p>
+          <p><span style="font-size: 12px;"><span style="font-family:
+                arial,helvetica,sans-serif;">If you are a <strong><em>VENDOR
+                  </em></strong>requesting to do business with State
+                Farm, and your services are not needed at this time, you
+                may not receive further contact. If you are a vendor in
+                need of immediate assistance, please visit our
+                Business-to-Business <a
+                  href="https://b2b.statefarm.com/b2b/contactus.html"
+                  moz-do-not-send="true"><span style="color: black;"><span
+                      style="color: black;">Contact Us</span></span></a>
+                page or talk to a B2B Help Desk representative 24/7 at
+                855-311-2681.</span></span></p>
+        </div>
+      </blockquote>
+    </div>
+  </body>
+</html>
+
+--------------YSpA0adQuiSbkVe1OBSSL7F4--

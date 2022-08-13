@@ -1,0 +1,326 @@
+From - Tue May  3 01:37:09 2022
+X-Account-Key: account1
+X-UIDL: AKITX9tUDcBYYnDD7Ak3YJphZD8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.81
+ by atlas114.free.mail.ne1.yahoo.com with HTTPS; Tue, 3 May 2022 05:55:55 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.69.32]
+Received-SPF: pass (domain of yahoo.com designates 98.137.69.32 as permitted sender)
+Authentication-Results: atlas114.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 3 May 2022 05:55:55 +0000
+X-YMailAVSC: zouQwN03bBtxcnmzfIK5RrqqGJnlCajQlPHLL3_vhdJYKAA
+ 1egGpTPcwsZjVyPqlBDOy.OzDChiQ8KK0_2tvRKDZxH3RkwY3ggH8_j26R66
+ wWYq4h9MirGO3SGJAT2UZNRu4fBGw24RqFOiX.gf_q.EAuRbaUkV6IYNzmGo
+ ZXEbBU_dtT_58Bl89saHkGuaDskReouF8fB4MvNO_xN_4WBWl17ZdvSGlaym
+ pvE1_iP4OXoa_gloNqC.p_jEr6s6HWByIiT3TuwBitlorG2iuxUN5xc8QikL
+ nqBGIkLOGDvcxdDHPKw3o24mYw01U1UX8T17Xn7Y_8BtRDhiG4H_D8F85R7r
+ Ucd0xa3nGlNKHKWuB6VzUPRs_jl9216A_LvbEfsXrR.NRBR124MdT25d.opO
+ eKAzgbEENGdYCTrLZYf9PgFl1yqX2t7sY0oCp4OyuxmqcZcwjzOTZgAkZ0nM
+ kyBNpxKdaReqBeOgWHezpiZ4Xmusve9ly0oLnDhzWgYsEfbVdo8Lhi.esf0.
+ ONwYbYbVkH_Dw1dGp9g--
+X-YMailISG: WWRk1RMWLDvxu14iN0QNrZgTT3TAyDolpBCp2OL1w1ZfsbhH
+ FK5.ATPZmUB6jbffuDuCHMJ1O1Dm2jvOtzqrypBqfQBhcK08B6goVDzP9415
+ rFPs91wTj4QrcYtJ.jfHG9Sa.duVePhOQfo8zApIRK9SOTcc5bXPynD3ak40
+ rEcQ_XTWY1RUYhXOv8axA_xRECs0jks.RKHZt84hQQj0eyToqYuGpg77IVCL
+ 22G7lxjJVNacvrz9OC3pf5LTW9d679IMG3SQsMs3CgtfBguvyb72XolLOCs1
+ qKZqRwRQRj6SvArLSPcA1aQzESU6_hLx7JLWUIomFlmfoOsEzDyDOMvPzlzl
+ Q618FgqCqJrL9Im80GxpQWfuUJqVPe9jGOimtU7yBvTJNlMeomoIpULPtMS0
+ jDlinUvDhOr_6med8ai0K_jJHnXREkoDOu8LvJu8OfH6RNjikz6BmWrrXMaT
+ 8vTjWXPa4.nQrVXX3Jz2fTO_E0hmCHTY_ZV6v0Pz1DhT8WkZ.1GwSMeDHa5S
+ N4m.u5yxptUnsGweOrSCGtxXG5UcgzFyMkjTXMcHt6P4ufZesVGjWsuTOMjk
+ HzbVC5oCwPxgkpBRPSTFHHPApFd0N9VhG6_tJhhaJMIPRKG_hv_KXw92Strm
+ w6kDBx3n0oRt80d8BoJCI_s8TIRXNXjEXCTKpQYeRFth.6OW5WrsYr8PLRgz
+ u.pk_XnkYkk1kzE3mTAvBhOz0N9uC7IaxdgmSjZqIED0kIWVPDpldkYeXwp0
+ 75LBOy1CyQuc3dekldPSK1nn3o3_Uh7_9XoUZSNomh4SY0VgEOGsRtZueU4R
+ QLhRaIDkxLmK3zcahm_Kdf9YZL_5pmlQghhEeq9hA4jpSAOWy99WJ202duwI
+ 1u41dshJnk1KxyX0TtQgGN.CSU4uJppIxiktx0WqOrapyrLWymO4wMvOHOyV
+ n5ajDvdFA50WJeZdISbDugW_cxJ27taCq9Vwg0qm2UdNhCZ8kwbd9d63eOOX
+ R.UxZ2mbx.A3o1jVzYjDmXjWc9Jm9fo6Q6YmrNSJ8b5IyQgs8iVsaDQVEftF
+ RsUF8_k50BHPH1q1WxkzaCYG3s85.YQZk8kc.ZyWP9hWk_TNgJv_aTRs7HEm
+ wCiH0C67hJjqje1Fm8Az_.q7GMiNY.9PB726UTKSZryxXYuBg2qODo6oQx7J
+ cENjIo6_G4jjoJ5Wnys-
+Received: from 98.137.69.32 (EHLO sonic316-8.consmr.mail.gq1.yahoo.com)
+ by 10.217.130.81 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 03 May 2022 05:55:55 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651557354; bh=fa6thAlP0DbLg80Py9R/DnBBylG8x0K626TmTnesGyo=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=Uoz9XHQb8Teo8Q5ac7Uej94FWEOidYh1flILXVcFXShGisPimYjgrP+UhjwSwN+V5+4xC6yOm/jSAIDeVzXJAwGePHwe7hScaoRNFtTvvWM8/xo8+uwnqkl45jEg1LX5cYaN+L85m/uZJocKRKi/F2FPKea5jLOIQlEyUkVkx5QBvStlJw1iad///Z/rI44vAoZTOlINEZfCa+jdWtAm0rZf/LctopBZjzEEmP9bCQ/n01RR9Kp0T96vY9Aq7ZsoA9LjhvE7P1oEyiyfPcL63FQFqHAwBObWTrNgv4jK3wnGGkuNt+QYV/DGaGzF8tr7L9WXKM+i0/hFvQ7BWIaZSQ==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651557354; bh=2qXY6wX72mBpj+Pw4l1jBLjcsODyR+bIAG34D8B59Qf=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=LvficM6Y0fY8V7r1yJJOKDvQ+bBxJML5i+9rHNIbzpGcci+Ka2+eqKGA6YUx1WXyo2hbxG94yGePtBvoAeH20iXv3zeveD16YtTBGp5NlphFG6+qxiS0511xha8nGOlsTlhpLyxCmWNCh1YTs4jQWKlnC/p1/3/F7Yf//SKLeaxOqFG/2ox+RZKtCuvpI+g10bQhyeiqkLHQBEJfnGw1be72XQ7R36Mkqv96lQggfgNoKpaH+CHRBSh5PPtNZxeA5D4nfmn3z7JBOHUYdn6dbbWVlir4UpRjw0Vk77N7+YXMLlD5QwOJ3U1W4jwddwqOLfUo4o66PmT6UZojj9jZLA==
+X-YMail-OSG: qGLp7v8VM1ldrilWV7tIsnQW2AM0ty7iVkFeY_eAV_J7lcHvRfb0kw0wK0DFRI_
+ 0g4pZgMyRdj.o1EWbhk.7VdTIkxOuYRew_jhr7PGVpih85Yx4wVmNmdk3O6vb4j3.wdg8OdWXSbv
+ yZUpBoheJb099vW0vzvqQZwBQgtNnGhzzlaUXSc6TBqgjHLiraRnWMpbFNTeuWttthefWppAIhi4
+ 5JXyWrMUmHx4oZdUBDfH_weZqd.J.G1xgkXYVtFQ7bBUNQOVRURRr9MK2MXxPVvHI_vo976YEJKO
+ 0rs93nKmSG2iTC.E27U9Kp8wjCQ0r9icVN.76e1uKDUwcqmhRoNpdtHi4heSKzy9__AVRU0bjJc_
+ LgsrdHLEYWl8JGmiTw4VjBBFS0k4bdiMaNoolHmgdjwCm2hymcpzUaDyw.rX5aQnSw6PdJOP3cJZ
+ 8Mly7MN5H_hgf1pGxXd7jcyNFX2en_KDhoFHKKpUWrWDddPAej4n6B5xnfhHgr.26YG9wjmKkKad
+ VdP5qbts4uK.y0yxSm0WMXj7Qhr9UARnRvaSSrlLOXu9rep58bjUrCAnVPwc.fcQQ_887jqQ3oMz
+ t86UHWmDUMMmEKtM.RmhI3tjM4xSE7Rqe5bvsQ20.dt0Mcr.Yf1cC.Bu.DLGf.vZp6EcTCtbMrGO
+ 5tVh_LoliN03YQ6Rc07d0U3leC.BFbFns2pegnWNO_c4JqP5b8xSK95kmFkQvuzHra2W7AMO3.v3
+ fw5OvFX6Y0suf0rHzDzpkolO4AezmSht.VewHpjkOqzCM4izeEj.qjZup8IjQ.zYpONajvehmgOC
+ C7sNZJqVfW5us.1xR7ELmt.OSrekL.anuDXS6RKWodMAxwslnz0Cjy.Iko9uqhEYZjzV0E4mtNk4
+ 1Ui.6D0KH3jMLerxfoQCj6YQ387RUn9kpCHYAqdBpu1yxKahFUrSlPFjQCJhqxlRKMC6RjbQfW_O
+ I7XjKRp3Sp.uCvq2RGRyWtsSOJrKPKNnF0.UOLGvDrE7BBN2Wv9iTNNNvSAi8DtNohbtxE2RPcv9
+ .Op3EA9Zm5ZZ_lYylNCo6GYH0S2ULgQxnVEm3aEw5z93nfdX1Lr0Qzx4A_5n_.TShzXoWZeDwuf9
+ giSp_xHpPBeJp8gLbn7t93RKGQj8Biondat3K.MbuivsQkZAAHNcfpuEw3Hrzuasd8KPbz1NWxtY
+ 0r3.MwwsXOSphQednGouoA8hROngHxm29R_OAqWx4Y72E46RFoRFnFkX8a35COwnC7ZagUwZJ.CC
+ dCzR6OW69h6UVW.4egpXaTXAy8hlm4htZSqfIQVFWZf4S0p9MOun.vqoY4UStvSvvARRp3Z6CuqT
+ 2VWYMkXrdU_5eRekyAyJJAGTuUuwXkDf7Up0m1DagZ65eyfpSGjaUNGZzI0Q_8UCBQtXNkX3VK4W
+ t42zysCD5bYO5tBKsiW5pwSh9KvMtV5XipYavUSK3PMNY1OuhNILC8O51k204XoaS0smpH.y3vQK
+ q1YANvoku4r5AsliynBed2dCwklBWPfO5Kj_denkQhi19aYFVPj686NOi_UC7uo..DDu6sQL8gbC
+ yD6GkF4.yFkHn6LF0bX.cfMnZn4C0dXzXHu25lR01GZhfzXD84tI3L349aRbA3gv1uLIdLNszmrz
+ oWz5l6NL6k4JZPJJZ0Ctmw1AVVONzjB9zG7auMdXgD8q_4EPt_8NnpLUyKzkfWUGK72sQEETt80y
+ sVSQiBeIVfIfoSbMvzRsqdmhjkCxgUA3RG43sPzlqcd61HAmfKTy2K6Fdo50VUbttgSfEXW.fC27
+ 7JtJOt.V39ALFPoMsv0YcfmYiBEhvi_.LMRX.xU2ThNAX1EKYZUU58JKyc9xf3lWsUQz5iBScKX1
+ UVthrFP5m.iP13thUiadY0erSyXuS5cwwGff2kuuXUQl472skbLtzc5c06PZUHCw1jfgRd6G0mFn
+ ZrZLHpzLGp90NRfxdKfkxEktc3TFlYYKPakyc66ZuqdgGD1gH4_VSd91aBWiahFpLV.TpNV8i38s
+ OyCwlE7TEwOQc61KQEk5pnu_uqP2e4rtLAjMgzEB2Y085c.lqtNiFTY0lRa5wbmxF6qtHzn7kJmw
+ PDcKVNvK89vl1i.R6URqCu6aM_j5NKLTNKkxAH9wMWTGU5_gqD5FGsfeXvwE5_nS.cq3uU7UzDKh
+ LXj_qDulBpzzhWr9Y7IU1EMzQ5Y_nQJe0qHzzMmPayDyBJusWKgoxQ_E7ccGgbY6J3M2TGCRbMm4
+ MrhNMF0CHjs4sTf2Y6VMhR3SfjOm1TeSRYqA1XqorwOCbgvUcLvR8PFoc36hRjRolBnPUVdRTENJ
+ tWqlH0NNM5uQsFx5Y.Fckd88sN5k7wAlD6GsRiYEx1wiJHEtq9aKoCO1sZl3nJs0NAkzcCDDoRuj
+ mCVckVc8H4IC.XtslUObdxnCTg4.X_b1MUsN6UHmiCLuj0qgqtRYo7yOqFMw-
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic316.consmr.mail.gq1.yahoo.com with HTTP; Tue, 3 May 2022 05:55:54 +0000
+Date: Tue, 3 May 2022 05:55:51 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: "lzucker@mskyline.com" <lzucker@mskyline.com>, 
+	"investor@annaly.com" <investor@annaly.com>, 
+	InvestmentNews Daily Pulse <investmentnews@editorial.investmentnews.com>, 
+	EY <info@ey.com>, Ingramllp Info <info@ingramllp.com>, 
+	FREEDOM OF INFORMATION ACT <foia@eeoc.gov>, 
+	Stephen O'Connell <sgo2107@adcu.columbia.edu>, 
+	"slaskowitz@mskyline.com" <slaskowitz@mskyline.com>, 
+	MIT Sloan | THINKING FORWARD <thinkingforward@mit.edu>, 
+	"iceglobalnetwork-info@ice.com" <iceglobalnetwork-info@ice.com>, 
+	"Bloomberg L.P." <bbrief@bloomberg.net>, 
+	"blawre@bloomberg.net" <blawre@bloomberg.net>, 
+	"Bloomberg L.P." <nlrt@bloomberg.net>, 
+	"mediarequests@fdic.gov" <mediarequests@fdic.gov>, 
+	"mediainquiries@brooklynnets.com" <mediainquiries@brooklynnets.com>, 
+	"media.relations@kcc.com" <media.relations@kcc.com>, 
+	"mdeutsch@jhdarbie.com" <mdeutsch@jhdarbie.com>, 
+	"media@chi.frb.org" <media@chi.frb.org>, 
+	Rule-Comments <rule-comments@sec.gov>, 
+	"compliance@jhdarbie.com" <compliance@jhdarbie.com>, 
+	"compliance@t3trading.com" <compliance@t3trading.com>, 
+	"comments@dfs.ny.gov" <comments@dfs.ny.gov>, 
+	"Bill.Terlesky@53.com" <bill.terlesky@53.com>, 
+	"isdaeurope@isda.org" <isdaeurope@isda.org>, 
+	"isda@isda.org" <isda@isda.org>, 
+	"JAMES GORMAN [MORGAN STANLEY]" <james.gorman@morganstanley.com>, 
+	"praghuram2@bloomberg.net" <praghuram2@bloomberg.net>, 
+	"MSHY15@MORGANSTANLEY.COM" <MSHY15@MORGANSTANLEY.COM>
+Cc: American Bar Association <abanews@americanbar.org>, 
+	"abari4@bloomberg.net" <abari4@bloomberg.net>, 
+	Josephine Vella <josephine.vella@finra.org>, 
+	Dow Jones <pronewsletter@dowjones.com>, 
+	**External IDI - Fixed Income <iceindices@ice.com>, 
+	Chicago Office Equipment & Supplies <chicago@sec.gov>, 
+	FINRA Corporate Notification <finracorporatenotification@finra.org>, 
+	"Bill Cassese (ICE BONDS SECURITIES)" <bcassese19@bloomberg.net>, 
+	Amy Hanrahan <amy.hanrahan@wilsonelser.com>, 
+	Alan Rubin <alan.rubin@wilsonelser.com>, 
+	"Pamela Gibbs [SEC]" <omwi@sec.gov>, 
+	"Ombudsman@sec.gov" <Ombudsman@sec.gov>, 
+	"ombudsman@tdcj.texas.gov" <ombudsman@tdcj.texas.gov>
+Message-ID: <2021518043.2969397.1651557351904@mail.yahoo.com>
+In-Reply-To: <80aeff8df04d4a6d85f33943d8cae48f@BLAPR09MB6275.namprd09.prod.outlook.com>
+References: <6270C10E.0361EA.04F4C@DEN158GIC074.caas.local> <176920048.2961580.1651557026496@mail.yahoo.com> <80aeff8df04d4a6d85f33943d8cae48f@BLAPR09MB6275.namprd09.prod.outlook.com>
+Subject: Fw: [EXTERNAL] RE: EX 69 --- DOCKET 385 --- 1.6662-2 Accurac
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2969396_47654318.1651557351901"
+X-Mailer: WebService/1.1.20118 YahooMailAndroidMobile
+Content-Length: 8820
+
+------=_Part_2969396_47654318.1651557351901
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/11
+=C2=A0=C2=A0=C2=A0=20
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=20
+Fw: 1212-58-58 RIKERS colors also. https://github.com/BSCPGROUPHOLDINGSLLC/=
+ELSER-AND-DICKER/pull/25
+
+
+Good for prison also, ttax evasion and child VIDEOGRAPHERS
+
+Sent from Yahoo Mail on Android=20
+=20
+   ----- Forwarded Message ----- From: "CCD1 Const-Safety (Buildings)" <ccd=
+1const-safety@buildings.nyc.gov> To: "Bo Dincer" <bo.dincer@yahoo.com> Cc: =
+ Sent: Tue, May 3, 2022 at 1:50 AM Subject: RE: [EXTERNAL] RE: EX 69 --- DO=
+CKET 385 --- 1.6662-2 Accurac  #yiv1137244204 #yiv1137244204 -- _filtered {=
+} _filtered {} _filtered {}#yiv1137244204 #yiv1137244204 p.yiv1137244204Mso=
+Normal, #yiv1137244204 li.yiv1137244204MsoNormal, #yiv1137244204 div.yiv113=
+7244204MsoNormal {margin:0in;margin-bottom:.0001pt;font-size:11.0pt;font-fa=
+mily:sans-serif;}#yiv1137244204 a:link, #yiv1137244204 span.yiv1137244204Ms=
+oHyperlink {color:blue;text-decoration:underline;}#yiv1137244204 a:visited,=
+ #yiv1137244204 span.yiv1137244204MsoHyperlinkFollowed {color:purple;text-d=
+ecoration:underline;}#yiv1137244204 p.yiv1137244204msonormal0, #yiv11372442=
+04 li.yiv1137244204msonormal0, #yiv1137244204 div.yiv1137244204msonormal0 {=
+margin-right:0in;margin-left:0in;font-size:11.0pt;font-family:sans-serif;}#=
+yiv1137244204 span.yiv1137244204EmailStyle18 {font-family:sans-serif;color:=
+windowtext;}#yiv1137244204 .yiv1137244204MsoChpDefault {font-size:10.0pt;} =
+_filtered {}#yiv1137244204 div.yiv1137244204WordSection1 {}#yiv1137244204=
+=20
+Your message has been received.
+=20
+=C2=A0
+=20
+Please note that our unit is currently short-staffed and we are making ever=
+y effort to review determination requests in a timely manner. Please allow =
+5 business days for review of initial requests and approximately 10 busines=
+s days for review of requests that have been placed on hold.
+=20
+ =C2=A0
+=20
+You will receive an email with the review result.
+=20
+=C2=A0
+=20
+For status requests and other inquiries, please allow 2 business days for a=
+ response. Be advised that only one person (either the applicant or the fil=
+ing representative) may inquire about the status as multiple contacts furth=
+er delay the process.
+=20
+=C2=A0=C2=A0
+=20
+Thank you for your patience and cooperation.
+=20
+=C2=A0
+=20
+Determination Processing
+=20
+Construction Safety Compliance
+=20
+NYC Department of Buildings
+=20
+280 Broadway, 3rd Floor
+=20
+New York, NY 10007
+=20
+ccd1const-safety@buildings.nyc.gov
+=20
+ =C2=A0
+  =20
+
+------=_Part_2969396_47654318.1651557351901
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr"><a href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND=
+-DICKER/pull/11">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/p=
+ull/11</a><br>
+&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+Fw: 1212-58-58 RIKERS colors also. <a href=3D"https://github.com/BSCPGROUPH=
+OLDINGSLLC/ELSER-AND-DICKER/pull/25">https://github.com/BSCPGROUPHOLDINGSLL=
+C/ELSER-AND-DICKER/pull/25</a><br></p>
+<p dir=3D"ltr" id=3D"yMail_cursorElementTracker_1651557185194">Good for pri=
+son also, ttax evasion and child VIDEOGRAPHERS</p><br><div id=3D"ymail_andr=
+oid_signature"><a id=3D"ymail_android_signature_link" href=3D"https://go.on=
+elink.me/107872968?pid=3DInProduct&amp;c=3DGlobal_Internal_YGrowth_AndroidE=
+mailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_sub1=3DInternal&amp;af_sub2=3DG=
+lobal_YGrowth&amp;af_sub3=3DEmailSignature">Sent from Yahoo Mail on Android=
+</a></div> <br> <blockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"pa=
+dding: 10px 0 0 20px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;">=
+ <div style=3D"font-family:Roboto, sans-serif; color:#6D00F6;"> <div>----- =
+Forwarded Message -----</div> <div><b>From:</b> "CCD1 Const-Safety (Buildin=
+gs)" &lt;ccd1const-safety@buildings.nyc.gov&gt;</div> <div><b>To:</b> "Bo D=
+incer" &lt;bo.dincer@yahoo.com&gt;</div> <div style=3D"display:none"><b>Cc:=
+</b> </div> <div><b>Sent:</b> Tue, May 3, 2022 at 1:50 AM</div> <div><b>Sub=
+ject:</b> RE: [EXTERNAL] RE: EX 69 --- DOCKET 385 --- 1.6662-2 Accurac</div=
+> </div>  <div id=3D"yiv1137244204"><style>#yiv1137244204 #yiv1137244204 --
+=20
+ _filtered {}
+ _filtered {}
+ _filtered {}
+#yiv1137244204 =20
+#yiv1137244204 p.yiv1137244204MsoNormal, #yiv1137244204 li.yiv1137244204Mso=
+Normal, #yiv1137244204 div.yiv1137244204MsoNormal
+=09{margin:0in;margin-bottom:.0001pt;font-size:11.0pt;font-family:sans-seri=
+f;}
+#yiv1137244204 a:link, #yiv1137244204 span.yiv1137244204MsoHyperlink
+=09{color:blue;text-decoration:underline;}
+#yiv1137244204 a:visited, #yiv1137244204 span.yiv1137244204MsoHyperlinkFoll=
+owed
+=09{color:purple;text-decoration:underline;}
+#yiv1137244204 p.yiv1137244204msonormal0, #yiv1137244204 li.yiv1137244204ms=
+onormal0, #yiv1137244204 div.yiv1137244204msonormal0
+=09{margin-right:0in;margin-left:0in;font-size:11.0pt;font-family:sans-seri=
+f;}
+#yiv1137244204 span.yiv1137244204EmailStyle18
+=09{font-family:sans-serif;color:windowtext;}
+#yiv1137244204 .yiv1137244204MsoChpDefault
+=09{font-size:10.0pt;}
+ _filtered {}
+#yiv1137244204 div.yiv1137244204WordSection1
+=09{}
+#yiv1137244204 </style><div>
+<div class=3D"yiv1137244204WordSection1">
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>Your message has been received.</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>&nbsp;</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>Please note that our unit is currently short-staffed and we are making eve=
+ry effort to review determination requests in a timely manner. Please allow=
+ 5 business days for review of initial
+ requests and approximately 10 business days for review of requests that ha=
+ve been placed on hold.
+</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+> &nbsp;</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>You will receive an email with the review result.</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>&nbsp;</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>For status requests and other inquiries, please allow 2 business days for =
+a response. Be advised that only one person (either the applicant or the fi=
+ling representative) may inquire
+ about the status as multiple contacts further delay the process.</span></p=
+>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>&nbsp;&nbsp;</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"color:black;"=
+>Thank you for your patience and cooperation.</span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"font-size:12.=
+0pt;">&nbsp;</span><span style=3D"font-size:10.0pt;font-family:sans-serif;"=
+></span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><b><span style=3D"font-size:=
+9.0pt;font-family:sans-serif;color:#004990;">Determination Processing</span=
+></b><span style=3D"font-size:10.0pt;font-family:sans-serif;"></span></p>=
+=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"font-size:9.0=
+pt;font-family:sans-serif;color:gray;">Construction Safety Compliance</span=
+><span style=3D"font-size:10.0pt;font-family:sans-serif;"></span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><b><span style=3D"font-size:=
+9.0pt;font-family:sans-serif;color:#004990;">NYC Department of Buildings</s=
+pan></b><span style=3D"font-size:10.0pt;font-family:sans-serif;"></span></p=
+>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"font-size:9.0=
+pt;font-family:sans-serif;color:gray;">280 Broadway, 3rd Floor</span><span =
+style=3D"font-size:10.0pt;font-family:sans-serif;"></span></p>=20
+<p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"font-size:9.0=
+pt;font-family:sans-serif;color:gray;">New York, NY 10007</span></p>=20
+<div id=3D"yiv1137244204yqtfd56359" class=3D"yiv1137244204yqt6853815982 yQT=
+DBase"><p style=3D"" class=3D"yiv1137244204MsoNormal"><span style=3D"font-s=
+ize:9.0pt;font-family:sans-serif;color:gray;"><a rel=3D"nofollow noopener n=
+oreferrer" shape=3D"rect" ymailto=3D"mailto:ccd1const-safety@buildings.nyc.=
+gov" target=3D"_blank" href=3D"mailto:ccd1const-safety@buildings.nyc.gov">c=
+cd1const-safety@buildings.nyc.gov</a></span></p>=20
+<p class=3D"yiv1137244204MsoNormal"> &nbsp;</p>=20
+</div></div><div id=3D"yiv1137244204yqtfd13455" class=3D"yiv1137244204yqt68=
+53815982 yQTDBase">
+</div></div></div> </div> </blockquote>
+------=_Part_2969396_47654318.1651557351901--

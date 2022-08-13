@@ -1,0 +1,1035 @@
+From - Fri Jun 10 16:45:07 2022
+X-Account-Key: account1
+X-UIDL: AKOgsPRyKpDTYqOr9w6t0LMy2Jk
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.173.215
+ by atlas308.free.mail.gq1.yahoo.com with HTTPS; Fri, 10 Jun 2022 20:39:19 +0000
+Return-Path: <bondstrt007@gmail.com>
+X-Originating-Ip: [209.85.166.171]
+Received-SPF: pass (domain of gmail.com designates 209.85.166.171 as permitted sender)
+Authentication-Results: atlas308.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 10 Jun 2022 20:39:19 +0000
+X-YMailAVSC: TxHadk83bBvtyzvp9ZPkdtUTu2MeTz.6O.GTu4XLXmzPAaU
+ Hi_rrCGJ9NwmWB67teUPobZUIz7yDFJEpi92nWgZJ.PFDhGGnL7swVKeEID1
+ LZy2kIPdECNU5tjwUByNnYYx.DAJVHO15TYa08C_XBpRXm99Qc4GyhuVdtBM
+ 3YntnQcPR.nrQlwhjnP1a5fFXheQZF0K0Qz.3qH7TFynd39KSbsMFsE2UV4V
+ R3.ObpeEANB3kDfcoRfyyUdb0ytu7sgdcAmINsQK0PfV9SZc8Od1o5dF6X0W
+ _aueFhHAx5l6Cnn_QubN1oOz7clJS9DkSxPBExpv0Q3zfp1IgPOv5u.2nNn7
+ 6TyGRldaVAm8hazBZeypKaCcZfgPOchkP7_Xo.2HZIj.1HfCNpgu_OvaoH5V
+ r9MQCOM8qPTvbIqbYzyAHQHzGgdfhCfo-
+X-YMailISG: iZsAOLsWLDu1r5efDNyuu4SqOcJOos7WM_7PYbG0fLLXyVnx
+ KWvSsyK9pnT6Y.32Bqoeqzq.z.wazCAHrEam6t.DV_lKS2aXsuIuVn2ABZFx
+ jABMEaWOj1.qa2jyodK5UBuksfh56y_6nnJDECmgwmrXaWyDad_hIRw731vl
+ uwZ8cLAXWdyZ2v3OZ9ziTlJozxT_CBPmB5lwMjH364BIUJ6DTdUfgclJhpwz
+ cXYjCn7Q_ULMuWEYPIC24dlzE962qLehMkccDcOWKKw3Ig3C4G1cuK43J38N
+ iDsV_Zji19eHEpYDUvdA4KDZfqSAbv0GhlMjQIt_mwnuMaJlkK1TB0.b8x86
+ zQ2qyx.75te7FyI9YoqrCUdo5TYkE1VMWT95MDnuTtK77wlS6sj.mITRfTmq
+ auuG959IpBMby0ig8E9Z7KbXmV8TSOnCpg8es25U674OgXqwqvSZ9DGksCw7
+ 7HcYIf2AVC_UF_AdCjw93jSFfrO_b6kYoycFrweNkscZfEyOniOwpELcTmZW
+ Jq6Qpw3Bo1csOFfKyhUzrdmAZ94Lm5hDXZsjiIONiNgSgwSb8_OSYYd2Jl.T
+ YoOF0w7r6apnhzQ6WfMBDs0iXaHuUeqP4qd7B1YO98m6_GESL0migYhFq9nC
+ 3WLyK62BckztLV8yQPp2zk9BgL6UV4viGm6D9E27pbDZoEDYLpd552MGPUgU
+ LNS1eTxZu3lz3dIrglhuFHZEOMElmqCDs0ZBWYOWnLtNPyd29jWC6mNcpp1z
+ _YZAZnrRT6TRgyZ43PF.gi3KGcLJOr9u4nvpwpkVM8BGFNOEQNc3NjaOWrm6
+ 9VJvCDotdYsu7Xq1XE7RHE.YeLwpEuEaSowKC.fU0VfhvWeGWuTK1pPaZBZU
+ bDWMW2cgzqBC0J89VRG68.z4TS7kV40f7fj7ixoYUojIO.pQmDNN_nqKffN5
+ Oj5hseU4Y.E4fV3uCrReHURHHShokfOMMIJ70H8bMzRfysWrOBwVuXjmtw8k
+ TVyCC2Dx7kDtOQu1KHntxxK4kAk6fI6CNwmdQ60SefDMpbAZh0zsG0xCUG28
+ KMt6EpPPzPvqu5aADwhHCQ0CgzJdUTILe_NK.UgGjiLrXbApEWivVtMFt.TK
+ G6F02uri65f4128dVoRwLTwIArdQ1HPZii2ZjzmK6u_Kx2IIWVt_Knc6.OBC
+ tNssmXuN9etScHYXiJNvuKcJY8Q8Om2xoXLqg_DD3CjOjgAd_Auigr5XxWY4
+ jSd4qKKXx6qN9B5W
+Received: from 209.85.166.171 (EHLO mail-il1-f171.google.com)
+ by 10.214.173.215 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Fri, 10 Jun 2022 20:39:19 +0000
+Received: by mail-il1-f171.google.com with SMTP id s1so214260ilj.0;
+        Fri, 10 Jun 2022 13:39:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=eXWo44cS0t/LA60fP3voInowzXYwFlQOMDUupWlNPzI=;
+        b=Hfbv0yfUhhjnAVcnENrzOBwcUr/v+4pLnPZPxbIZjo21Q32UgSL8sgosJ+lfMfzI6Z
+         ev0/OstHZzIGyau/5GAiNPHljfEFyqkq/iWJYUfW4JRx/Q63NyuYUvMLSf+QMwrGQjeV
+         xcQ4hG5Ss93AQdf/INeM5lYS6AkpDUzE0d3qr6XFdD593NGv0mcxdpyQGD7P3v4AZ+YI
+         SWkX6enMURK2I8fEHpzKx0gTSmdKCFXQHBATGN6ZIFnu+jeGdJNBYeJWNoJtwbWMgn73
+         6+eh0x0dtcS4aAxKUz73qwVn3qXI5rVrvvyjbLYpiyhDfjUqVZJgr3QR9syhYY0PofSD
+         EgCQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=eXWo44cS0t/LA60fP3voInowzXYwFlQOMDUupWlNPzI=;
+        b=19JBvcCSdEUz8pH2fzKYu4U98eDZ0zVr5rIcLaDg+aJMQcwIXV70E0fxmWoJGafOhL
+         h0qSflrgp2kTLLs+tAQzztNsTJkbkSxmchbd2CCirINmsw/abo25dYdOOIN1GUoS1bul
+         1WWieGpBS0mSEZXDPStsp7oTfEL5SzkW74qjJKMfhXdHvM5cCHZMrupckbh3lpp3LPuU
+         ZGPaxvUQm7/Uh/yVj+aXGwdtGRe42uV05BKlgLJ3bDYMqhtIIJVSFMPGeg8Va1oTzZSA
+         9eymcLabbOjR3B5VADjnBEht1oIVO4juEvc3K+Ucy8/M/zVL7XpsDh8IbpehMyrPWArz
+         tC3w==
+X-Gm-Message-State: AOAM530veIlde9BIGdRebLc0h2RwPIsyKp6P5Kprq2Yg07wyJza5c1T8
+	gDMMULKmyHD7RHV37UIE0edvCL24czeXzbpYqIo=
+X-Google-Smtp-Source: ABdhPJzA5bwdUrAiQmVgPL2DnD6kw5WbYAREyJx/73OQEnwZtFEgHKgeL2f5ZIkJa7PQhW9YIXkldh/AkWzXBelIo20=
+X-Received: by 2002:a05:6e02:1a8c:b0:2d1:efd6:c06 with SMTP id
+ k12-20020a056e021a8c00b002d1efd60c06mr26197749ilv.232.1654893558573; Fri, 10
+ Jun 2022 13:39:18 -0700 (PDT)
+MIME-Version: 1.0
+References: <630844FC-7355-4086-9145-ABDDE01F79EC@icloud.com>
+In-Reply-To: <630844FC-7355-4086-9145-ABDDE01F79EC@icloud.com>
+From: BO DINCER <bondstrt007@gmail.com>
+Date: Fri, 10 Jun 2022 16:39:06 -0400
+Message-ID: <CAOHu48_qfkEpUy9LtXckmw1qaCZT2XbxCV2ifGFRAForuxCuyA@mail.gmail.com>
+Subject: Re: Attached payment DFS TAX estimator.
+To: Bo Dincer <bdincer66@icloud.com>
+Cc: ksaperstein2@bloomberg.net, KATHY HOCHUL <governor.hochul@exec.ny.gov>, 
+	kerri.saperstein@morgansley.com, kivalena.starr@pwc.com, 
+	larissa.vonlockner@pwc.com, isda@isda.org, isdaeu@volker.eu, 
+	letters@nypost.com, lzucker@mskyline.com, news@penews.com, 
+	pinksheetswap@yahoo.com, "CHICAGO@SEC.GOV" <chicago@sec.gov>, espnfrontrow@espn.com, 
+	gpradocorrea@bloomberg.net, info@kpmg.com, info@statefarm.com, 
+	Amy Hanrahan <amy.hanrahan@wilsonelser.com>, BBO 121 <ms60710444266@yahoo.com>, 
+	Bill Cassese <bcassese19@bloomberg.net>, Bo Dincer <bo.dincer@yahoo.com>, 
+	SOHO HOUSE <MEMBERSHIP@sohohouse.com>, Shari Laskowitz <slaskowitz@ingramllp.com>, 
+	KEVIN ROCK <krock5@bloomberg.net>, Lee Bollinger <bollinger@columbia.edu>, 
+	Ricki Roer <ricki.roer@wilsonelser.com>, 
+	"Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, 
+	"Dean's Discipline - SCCS" <conduct-admin@columbia.edu>, 
+	MIT Sloan Executive Education <executive_education@mailsvc.sloan.mit.edu>, 
+	The New York Times <help@nytimes.com>, =?UTF-8?B?4oCLbmV3eW9ya0BTRUMuR09W?= <newyork@sec.gov>, 
+	PRIYA.RAGHURAM@morganstanley.com, icehelpdesk@ice.com, Chair <chair@sec.gov>, 
+	tips@insider.com, Brooklyn Tap House <tips@nypost.com>, james.gorman@morganstanley.com, 
+	colin.brooks@morganstanley.com, Paul Regan <legal@mskyline.com>, 
+	=?UTF-8?B?4oCLaWNlZ2xvYmFsbmV0d29yay1pbmZvQGljZS5jb20=?= <iceglobalnetwork-info@ice.com>, 
+	JPMCinvestorrelations@jpmchase.com, "Bloomberg L.P." <bbrief@bloomberg.net>
+Content-Type: multipart/alternative; boundary="000000000000b32ff905e11dee6a"
+Content-Length: 46929
+
+--000000000000b32ff905e11dee6a
+Content-Type: text/plain; charset="UTF-8"
+
+https://support.nysba.org/attachments/token/nyJdN4A4dvaR0IkBmWyZBIrCx/?name=November+22+-+2021-000-email+to+lzcuker+and+james.gorman%40morganstanley.com.pdf
+
+
+/S/ BO DINCER
+
+On Fri, Jun 10, 2022 at 2:10 PM, Bo Dincer
+<bo.dincer@yahoo.com> wrote:
+No attachement ???? Oh No !
+
+/S/ BO DINCER
+
+----- Forwarded Message -----
+*From:* "MAILER-DAEMON@yahoo.com" <MAILER-DAEMON@yahoo.com>
+*To:* "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+*Sent:* Fri, Jun 10, 2022 at 4:22 AM
+*Subject:* Failure Notice
+Sorry, we were unable to deliver your message to the following address.
+
+<texas@sec.gov>:
+550: #5.1.0 Address rejected.
+
+---------- Forwarded message ----------
+
+
+/S/ BO DINCER
+
+  On Fri, Jun 10, 2022 at 1:35 AM, B D2022<ms60710444266@yahoo.com> wrote:
+  On 5/9/2022 6:05 AM, B D2022 wrote:
+
+
+- SERIOUS QUESTION...
+    CAN I INSURE MY HANDS???
+/S/ BARIS DINCER.
+
+
+
+
+
+2019-12-27
+>>```40-17G```
+```January 1, 2020 to January 1, 2021```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312519324413/d847031d4017g.htm
+<br>
+2020-12-18
+>>```40-17G```
+```January 1, 2021 to January 1, 2022```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312520320913/d80254d4017g.htm
+
+2022-02-02
+>>```40-17G```
+```January 1, 2022 to January 1, 2023```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm
+
+
+
+
+
+
+
+LETTER OF CREDIT BETWEEN STATE FARM AND SULLIVAN PROPERTIES LP
+
+    AN OUTSIDE BUSINESS OF STATE FARM VP MANAGEMENT CORP.
+        CRD# 43036
+        1.        RANDALL HOUSTON HARBERT
+[2992788]individual_2992788-2022-05-06
+
+        2.        JOSEPH RILEY MONK
+[001357149]individual_1357149-2022-05-06
+
+        3.        PAUL JOSEPH SMITH
+[004971235]individual_4971235-2022-05-06
+
+        4.        TERRENCE MICHAEL LUDWIG
+[003231040]individual_4971235-2022-05-06
+
+
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003
+
+
+
+
+
+ALSO.. I DON'T THINK THEY ARE COVERED FOR THE OMISSIONS OF THE LOAN AND THE
+TAX CONSEQUENCES OF 15-YEARS OWED ON THE 6-PROPERTIES TRANSFERRED TO STATE
+FARM.
+
+    -- CERTIFIED SHAREHOLDER REPORT
+
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm
+    2021-09-30: REPORT DATE
+    2021-12-03: FILE DATE
+
+    -----PRICE WATERHOUSE COOPERS
+
+    -----Report of Independent Registered Public Accounting Firm
+
+        September 30, 2021
+        ADVISERS INVESTMENT TRUST, STATE FARM FUNDS
+
+
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm
+            "...Our procedures included confirmation of securities owned as
+of September 30,
+                2021 by correspondence with the custodian and brokers; when
+replies were not
+                received from brokers, we performed other auditing
+procedures. We believe that
+                our audits provide a reasonable basis for our opinions... "
+                November 22, 2021
+
+
+
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+    OMISSIONS:    Item B.11
+    "   any proceeding to which any director, officer or other affiliated
+person of the     "
+    "    Registrant is a party adverse to the Registrant or any of its
+subsidiaries; and     "
+    "    (3) any proceeding involving the revocation or suspension of the
+right of the         "
+    "    Registrant to sell securities.
+                    "
+
+
+FY 2020
+    8/9/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+    NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 9TH, 2020
+
+    8/8/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZOCFS3HH2UeHQe8j2tXJoQ==
+    NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 10TH, 2020
+
+
+
+
+
+
+    NYSCEF DOC. NO. 309
+                                 08-09-2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+
+    NYSCEF DOC. NO. 379
+                                 08-10-2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==
+
+
+
+    LEASES AND RENTS TRANSFERRED TO "STATE FARM"
+                 EXECUTED:         05-11-2020
+
+                 FILED:             05-15-2020
+    PARTY 1:   SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, NY,
+10019
+
+    PARTY 2:   STATE FARM REALTY MORTGAGE LLC, ONE STATE FARM PLAZA,
+BLOOMINGTON, IL, 61710
+
+
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+    OMISSIONS:    Item B.11
+    "   any proceeding to which any director, officer or other affiliated
+person of the     "
+    "    Registrant is a party adverse to the Registrant or any of its
+subsidiaries; and     "
+    "    (3) any proceeding involving the revocation or suspension of the
+right of the         "
+    "    Registrant to sell securities.
+                    "
+
+    OMISSIONS:    Item B.14
+    "   any (1) capital contribution, (2) purchase of a security from a
+Money Market         "
+    "   Fund in reliance on rule 17a-9 under the Act (17 CFR 270.17a-9),
+(3) purchase         "
+    "   of any defaulted or devalued security at fair value reasonably
+intended to             "
+    "   increase or stabilize the value or liquidity of the Registrant's
+portfolio,         "
+    "   (4) execution of letter of credit or letter of indemnity, (5)
+capital support         "
+    "   agreement (whether or not the Registrant ultimately received
+support), (6)             "
+    "   performance guarantee, or (7) other similar action reasonably
+intended to             "
+    "   increase or stabilize the value or liquidity of the Registrant's
+portfolio.         "
+    "   Provision of financial support does not include any (1) routine
+waiver of fees         "
+    "   or reimbursement of Registrant's expenses, (2) routine inter-fund
+lending,             "
+    "   (3) routine inter-fund purchases of Registrant's shares, or (4)
+action that         "
+    "   would qualify as financial support as defined above, that the board
+of directors     "
+    "   has otherwise determined not to be reasonably intended to increase
+or stabilize     "
+    "   the value or liquidity of the Registrant's portfolio.
+                    "
+
+
+
+
+
+PRIVACY VIOLATION
+ANNEXED BY THEIR OWN ATTORNEYS.
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=fXMaXgeyzvA85ViWMmvfAQ==
+
+    > CARRIES THE BURDEN OF "POTENTIAL" CARRY-OVER TO THE NEW "HOLDERS" OF
+THE LEASES AND RENTS...
+
+
+
+
+
+PER THE TERMS OF 255 AFFIDAVIT (LETTER OF CREDIT & LOAN) BETWEEN THE PARTIES
+
+TAX CONSEQUENCES ANNEXED IN THE MATTER OF NYSCEF 153974/2020
+
+AS WERE THE LOANS...
+
+
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ze6a1KA9akRV9TGfXXJT/g==
+  >
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==
+  >
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=wTG2YD2PqXuxmoKqFiESrw==
+  >
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=au8qh7Dn66hrVmJ9DX_PLUS_bdg==
+  >
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+<https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=/yhElCiKJ0BGv2DF/MOn4g==
+  >
+
+
+  -
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=gcMSDaFzm0ynPeXZKSHgLQ==
+
+
+- SERIOUS QUESTION...
+
+
+    CAN I INSURE MY HANDS???
+
+
+
+
+/S/ BARIS DINCER.
+
+
+
+
+
+2019-12-27
+>>```40-17G```
+```January 1, 2020 to January 1, 2021```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312519324413/d847031d4017g.htm
+<br>
+2020-12-18
+>>```40-17G```
+```January 1, 2021 to January 1, 2022```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312520320913/d80254d4017g.htm
+
+2022-02-02
+>>```40-17G```
+```January 1, 2022 to January 1, 2023```
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm
+
+
+
+
+
+
+
+LETTER OF CREDIT BETWEEN STATE FARM AND SULLIVAN PROPERTIES LP
+
+    AN OUTSIDE BUSINESS OF STATE FARM VP MANAGEMENT CORP.
+        CRD# 43036
+        1.        RANDALL HOUSTON HARBERT
+[2992788]individual_2992788-2022-05-06
+
+        2.        JOSEPH RILEY MONK
+[001357149]individual_1357149-2022-05-06
+
+        3.        PAUL JOSEPH SMITH
+[004971235]individual_4971235-2022-05-06
+
+        4.        TERRENCE MICHAEL LUDWIG
+[003231040]individual_4971235-2022-05-06
+
+
+https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=2020052000291003
+
+
+
+
+
+ALSO.. I DON'T THINK THEY ARE COVERED FOR THE OMISSIONS OF THE LOAN AND THE
+TAX CONSEQUENCES OF 15-YEARS OWED ON THE 6-PROPERTIES TRANSFERRED TO STATE
+FARM.
+
+    -- CERTIFIED SHAREHOLDER REPORT
+
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm
+    2021-09-30: REPORT DATE
+    2021-12-03: FILE DATE
+
+    -----PRICE WATERHOUSE COOPERS
+
+    -----Report of Independent Registered Public Accounting Firm
+
+        September 30, 2021
+        ADVISERS INVESTMENT TRUST, STATE FARM FUNDS
+
+
+https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm
+            "...Our procedures included confirmation of securities owned as
+of September 30,
+                2021 by correspondence with the custodian and brokers; when
+replies were not
+                received from brokers, we performed other auditing
+procedures. We believe that
+                our audits provide a reasonable basis for our opinions... "
+                November 22, 2021
+
+
+
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+    OMISSIONS:    Item B.11
+    "   any proceeding to which any director, officer or other affiliated
+person of the     "
+    "    Registrant is a party adverse to the Registrant or any of its
+subsidiaries; and     "
+    "    (3) any proceeding involving the revocation or suspension of the
+right of the         "
+    "    Registrant to sell securities.
+                    "
+
+
+FY 2020
+    8/9/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+    NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 9TH, 2020
+
+    8/8/2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=ZOCFS3HH2UeHQe8j2tXJoQ==
+    NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 10TH, 2020
+
+
+
+
+
+
+    NYSCEF DOC. NO. 309
+                                 08-09-2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=19MVPFXy0G0QvnmRLGpYIQ==
+
+    NYSCEF DOC. NO. 379
+                                 08-10-2020
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=572E8gahZUO1KFthrfiyFQ==
+
+
+
+    LEASES AND RENTS TRANSFERRED TO "STATE FARM"
+                 EXECUTED:         05-11-2020
+
+                 FILED:             05-15-2020
+    PARTY 1:   SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, NY,
+10019
+
+    PARTY 2:   STATE FARM REALTY MORTGAGE LLC, ONE STATE FARM PLAZA,
+BLOOMINGTON, IL, 61710
+
+
+https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml
+    OMISSIONS:    Item B.11
+    "   any proceeding to which any director, officer or other affiliated
+person of the     "
+    "    Registrant is a party adverse to the Registrant or any of its
+subsidiaries; and     "
+    "    (3) any proceeding involving the revocation or suspension of the
+right of the         "
+    "    Registrant to sell securities.
+                    "
+
+    OMISSIONS:    Item B.14
+    "   any (1) capital contribution, (2) purchase of a security from a
+Money Market         "
+    "   Fund in reliance on rule 17a-9 under the Act (17 CFR 270.17a-9),
+(3) purchase         "
+    "   of any defaulted or devalued security at fair value reasonably
+intended to             "
+    "   increase or stabilize the value or liquidity of the Registrant's
+portfolio,         "
+    "   (4) execution of letter of credit or letter of indemnity, (5)
+capital support         "
+    "   agreement (whether or not the Registrant ultimately received
+support), (6)             "
+    "   performance guarantee, or (7) other similar action reasonably
+intended to             "
+    "   increase or stabilize the value or liquidity of the Registrant's
+portfolio.         "
+    "   Provision of financial support does not include any (1) routine
+waiver of fees         "
+    "   or reimbursement of Registrant's expenses, (2) routine inter-fund
+lending,             "
+    "   (3) routine inter-fund purchases of Registrant's shares, or (4)
+action that         "
+    "   would qualify as financial support as defined above, that the board
+of directors     "
+    "   has otherwise determined not to be reasonably intended to increase
+or stabilize     "
+    "   the value or liquidity of the Registrant's portfolio.
+                    "
+
+
+
+
+
+PRIVACY VIOLATION
+ANNEXED BY THEIR OWN ATTORNEYS.
+    https://iapps.courts.state.ny.us/nyscef/ViewDoc
+[remainder of message body omitted; too large]
+
+
+On Thu, Jun 2, 2022, 11:50 PM Bo Dincer <bdincer66@icloud.com> wrote:
+
+> I sent you all the link as well, as referenced in the fraud invocation
+> attachment.
+>
+> Thanks Bill, stay off the Spam champ.
+>
+>
+>
+>
+>
+>
+> TCR5 INDEX and the implication of TAX liabilities owned by the policy
+> holders and investors of State Farm , attached Fraud Invocation notice.
+>
+> Received, and responded to where applicable.
+> /BD
+>
+>
+>
+
+--000000000000b32ff905e11dee6a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://support.nysba.org/attachments/token/ny=
+JdN4A4dvaR0IkBmWyZBIrCx/?name=3DNovember+22+-+2021-000-email+to+lzcuker+and=
++james.gorman%40morganstanley.com.pdf" style=3D"font-size:medium">https://s=
+upport.nysba.org/attachments/token/nyJdN4A4dvaR0IkBmWyZBIrCx/?name=3DNovemb=
+er+22+-+2021-000-email+to+lzcuker+and+james.gorman%40morganstanley.com.pdf<=
+/a><div style=3D"font-size:medium" dir=3D"auto"><br><br><div>/S/ BO DINCER<=
+/div><br><blockquote style=3D"margin:0px 0px 20px"><div style=3D"font-famil=
+y:&#39;roboto&#39;,sans-serif;color:rgb(109,0,246)"><div>On Fri, Jun 10, 20=
+22 at 2:10 PM, Bo Dincer</div><div>&lt;<a href=3D"mailto:bo.dincer@yahoo.co=
+m">bo.dincer@yahoo.com</a>&gt; wrote:</div></div><div style=3D"padding:10px=
+ 0px 0px 20px;margin:10px 0px 0px;border-left:1px solid rgb(109,0,246)">No =
+attachement ???? Oh No !<br><br><div>/S/ BO DINCER</div><br><blockquote sty=
+le=3D"margin:0px 0px 20px"><div style=3D"padding:10px 0px 0px 20px;margin:1=
+0px 0px 0px;border-left:1px solid rgb(109,0,246)"><div style=3D"font-family=
+:&#39;roboto&#39;,sans-serif;color:rgb(109,0,246)"><div>----- Forwarded Mes=
+sage -----</div><div><b>From:</b>=C2=A0&quot;<a href=3D"mailto:MAILER-DAEMO=
+N@yahoo.com">MAILER-DAEMON@yahoo.com</a>&quot; &lt;<a href=3D"mailto:MAILER=
+-DAEMON@yahoo.com">MAILER-DAEMON@yahoo.com</a>&gt;</div><div><b>To:</b>=C2=
+=A0&quot;<a href=3D"mailto:bo.dincer@yahoo.com">bo.dincer@yahoo.com</a>&quo=
+t; &lt;<a href=3D"mailto:bo.dincer@yahoo.com">bo.dincer@yahoo.com</a>&gt;</=
+div><div><b>Sent:</b>=C2=A0Fri, Jun 10, 2022 at 4:22 AM</div><div><b>Subjec=
+t:</b>=C2=A0Failure Notice</div></div><div dir=3D"ltr">Sorry, we were unabl=
+e to deliver your message to the following address.<br></div><div dir=3D"lt=
+r"><br></div><div dir=3D"ltr">&lt;<a href=3D"mailto:texas@sec.gov">texas@se=
+c.gov</a>&gt;:<br></div><div dir=3D"ltr">550: #5.1.0 Address rejected.<br><=
+/div><div dir=3D"ltr"><br></div><div dir=3D"ltr">---------- Forwarded messa=
+ge ----------<br></div><div><br><br>/S/ BO DINCER<br><br>=C2=A0 On Fri, Jun=
+ 10, 2022 at 1:35 AM, B D2022&lt;<a href=3D"mailto:ms60710444266@yahoo.com"=
+>ms60710444266@yahoo.com</a>&gt; wrote:=C2=A0 =C2=A0 On 5/9/2022 6:05 AM, B=
+ D2022 wrote:<br>=C2=A0<br><br>- SERIOUS QUESTION...<br>=C2=A0=C2=A0=C2=A0 =
+CAN I INSURE MY HANDS???<br>/S/ BARIS DINCER.<br><br><br><br><br><br>2019-1=
+2-27<br>&gt;&gt;```40-17G``` =C2=A0<br>```January 1, 2020 to January 1, 202=
+1```<br><a href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/00011=
+9312519324413/d847031d4017g.htm">https://www.sec.gov/Archives/edgar/data/00=
+01516523/000119312519324413/d847031d4017g.htm</a><br>&lt;br&gt;<br>2020-12-=
+18<br>&gt;&gt;```40-17G``` =C2=A0<br>```January 1, 2021 to January 1, 2022`=
+``<br><a href=3D"https://www.sec.gov/Archives/edgar/data/0001516523/0001193=
+12520320913/d80254d4017g.htm">https://www.sec.gov/Archives/edgar/data/00015=
+16523/000119312520320913/d80254d4017g.htm</a><br><br>2022-02-02<br>&gt;&gt;=
+```40-17G``` =C2=A0<br>```January 1, 2022 to January 1, 2023```<br><a href=
+=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d=
+207567d4017g.htm">https://www.sec.gov/Archives/edgar/data/0001516523/000119=
+312522025502/d207567d4017g.htm</a><br><br><br><br><br><br><br><br>LETTER OF=
+ CREDIT BETWEEN STATE FARM AND SULLIVAN PROPERTIES LP<br><br>=C2=A0=C2=A0=
+=C2=A0 AN OUTSIDE BUSINESS OF STATE FARM VP MANAGEMENT CORP.<br>=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0=C2=A0 CRD# 43036<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+=C2=A0 1.=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 RANDALL HOUSTON HARBERT=C2=
+=A0=C2=A0 [2992788]individual_2992788-2022-05-06<br><br>=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0=C2=A0 2.=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 JOSEPH RILEY MON=
+K =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 [001357149]individual_1357149-2022-=
+05-06<br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 3.=C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 PAUL JOSEPH SMITH=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0 =C2=A0=C2=
+=A0=C2=A0 [004971235]individual_4971235-2022-05-06<br><br>=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0=C2=A0 4.=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 TERRENCE MICH=
+AEL LUDWIG=C2=A0=C2=A0=C2=A0 [003231040]individual_4971235-2022-05-06<br><b=
+r>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://a836-acris.nyc.gov/DS/Document=
+Search/DocumentDetail?doc_id=3D2020052000291003">https://a836-acris.nyc.gov=
+/DS/DocumentSearch/DocumentDetail?doc_id=3D2020052000291003</a><br><br><br>=
+<br><br><br>ALSO.. I DON&#39;T THINK THEY ARE COVERED FOR THE OMISSIONS OF =
+THE LOAN AND THE TAX CONSEQUENCES OF 15-YEARS OWED ON THE 6-PROPERTIES TRAN=
+SFERRED TO STATE FARM.<br><br>=C2=A0=C2=A0=C2=A0 -- CERTIFIED SHAREHOLDER R=
+EPORT<br>=C2=A0=C2=A0 =C2=A0<a href=3D"https://www.sec.gov/Archives/edgar/d=
+ata/0001516523/000119312521347485/d221423dncsr.htm">https://www.sec.gov/Arc=
+hives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm</a><br>=C2=
+=A0=C2=A0 =C2=A02021-09-30: REPORT DATE<br>=C2=A0=C2=A0 =C2=A02021-12-03: F=
+ILE DATE<br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0-----PRICE WATERHOUSE=
+ COOPERS<br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0-----Report of Indepe=
+ndent Registered Public Accounting Firm<br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0=C2=A0 September 30, 2021<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 ADVIS=
+ERS INVESTMENT TRUST, STATE FARM FUNDS<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+=C2=A0<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://www=
+.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d221423dncsr.htm=
+">https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485/d22=
+1423dncsr.htm</a><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 &quot;...Our procedures included confirmation of securities owned as of=
+ September 30,<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 2021 by correspondence with the custodian and brokers; w=
+hen replies were not<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 received from brokers, we performed other auditin=
+g procedures. We believe that<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 our audits provide a reasonable basis fo=
+r our opinions... &quot;<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 November 22, 2021<br><br><br><br><br><br><br>=
+=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://www.sec.gov/Archives/edgar/data/=
+0000093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml">https://www=
+.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01=
+/primary_doc.xml</a><br>=C2=A0=C2=A0 =C2=A0OMISSIONS:=C2=A0=C2=A0=C2=A0 Ite=
+m B.11<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 any proceeding to which any=
+ director, officer or other affiliated person of the =C2=A0=C2=A0=C2=A0 &qu=
+ot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 Registrant is a party ad=
+verse to the Registrant or any of its subsidiaries; and =C2=A0=C2=A0=C2=A0 =
+&quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 (3) any proceeding in=
+volving the revocation or suspension of the right of the =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 R=
+egistrant to sell securities.=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot=
+;<br><br><br>FY 2020<br>=C2=A0=C2=A0 =C2=A08/9/2020<br>=C2=A0=C2=A0=C2=A0=
+=C2=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIn=
+dex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D">https://iapps.courts.state.ny.us/nyscef=
+/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D</a><br>=C2=A0=C2=A0 =
+=C2=A0NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 9TH, 2020<br>=C2=A0=C2=A0=
+ =C2=A0<br>=C2=A0=C2=A0 =C2=A08/8/2020<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=
+=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DZOCFS3H=
+H2UeHQe8j2tXJoQ=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument=
+?docIndex=3DZOCFS3HH2UeHQe8j2tXJoQ=3D=3D</a><br>=C2=A0=C2=A0 =C2=A0NO CERTI=
+FICATE OF OCCUPANCY FILED ON AUGUST 10TH, 2020<br><br><br><br><br>=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0<br>=C2=
+=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0NYSCEF DOC. NO. 309 =C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A008-09-2020<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://ia=
+pps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYI=
+Q=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19=
+MVPFXy0G0QvnmRLGpYIQ=3D=3D</a><br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=
+=A0NYSCEF DOC. NO. 379 =C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A008-10-2020<br>=C2=A0=
+=C2=A0=C2=A0=C2=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDo=
+cument?docIndex=3D572E8gahZUO1KFthrfiyFQ=3D=3D">https://iapps.courts.state.=
+ny.us/nyscef/ViewDocument?docIndex=3D572E8gahZUO1KFthrfiyFQ=3D=3D</a><br>=
+=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0 =C2=A0<b=
+r>=C2=A0=C2=A0 =C2=A0LEASES AND RENTS TRANSFERRED TO &quot;STATE FARM&quot;=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0EXECUTED:=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0 05-11-2020<br>=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0FILED:=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0 05-15-2020<br>=C2=A0=C2=A0 =C2=A0PARTY =
+1:=C2=A0=C2=A0 SULLIVAN PROPERTIES LP, 101 WEST 55TH STREET, NEW YORK, NY, =
+10019<br>=C2=A0<br>=C2=A0=C2=A0 =C2=A0PARTY 2:=C2=A0=C2=A0 STATE FARM REALT=
+Y MORTGAGE LLC, ONE STATE FARM PLAZA, BLOOMINGTON, IL, 61710<br><br>=C2=A0=
+=C2=A0=C2=A0=C2=A0<a href=3D"https://www.sec.gov/Archives/edgar/data/000009=
+3715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml">https://www.sec.g=
+ov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CEN_X01/prima=
+ry_doc.xml</a><br>=C2=A0=C2=A0 =C2=A0OMISSIONS:=C2=A0=C2=A0=C2=A0 Item B.11=
+<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 any proceeding to which any direc=
+tor, officer or other affiliated person of the =C2=A0=C2=A0=C2=A0 &quot;<br=
+>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 Registrant is a party adverse =
+to the Registrant or any of its subsidiaries; and =C2=A0=C2=A0=C2=A0 &quot;=
+<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 (3) any proceeding involvin=
+g the revocation or suspension of the right of the =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 Regis=
+trant to sell securities.=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br><=
+br>=C2=A0=C2=A0 =C2=A0OMISSIONS:=C2=A0=C2=A0=C2=A0 Item B.14<br>=C2=A0=C2=
+=A0 =C2=A0&quot;=C2=A0=C2=A0 any (1) capital contribution, (2) purchase of =
+a security from a Money Market =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;=
+<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 Fund in reliance on rule 17a-9 un=
+der the Act (17 CFR 270.17a-9), (3) purchase =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 of any defaulted =
+or devalued security at fair value reasonably intended to =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quo=
+t;=C2=A0=C2=A0 increase or stabilize the value or liquidity of the Registra=
+nt&#39;s portfolio, =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=
+=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 (4) execution of letter of credit or letter=
+ of indemnity, (5) capital support =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &q=
+uot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 agreement (whether or not the=
+ Registrant ultimately received support), (6) =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=
+=A0 performance guarantee, or (7) other similar action reasonably intended =
+to =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=
+=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 increase or stabilize the value or liqui=
+dity of the Registrant&#39;s portfolio. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 Provision of financial =
+support does not include any (1) routine waiver of fees =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 or reimb=
+ursement of Registrant&#39;s expenses, (2) routine inter-fund lending, =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=
+=A0 =C2=A0&quot;=C2=A0=C2=A0 (3) routine inter-fund purchases of Registrant=
+&#39;s shares, or (4) action that =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &qu=
+ot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 would qualify as financial sup=
+port as defined above, that the board of directors =C2=A0=C2=A0=C2=A0 &quot=
+;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 has otherwise determined not to =
+be reasonably intended to increase or stabilize =C2=A0=C2=A0=C2=A0 &quot;<b=
+r>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 the value or liquidity of the Regis=
+trant&#39;s portfolio. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br><br>=C2=A0<br>=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0=C2=A0<br><br><br>PRIVACY VIOLATION<br>ANNEXED BY THEIR OWN ATTORN=
+EYS.<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://iapps.courts.state.ny.us=
+/nyscef/ViewDocument?docIndex=3DfXMaXgeyzvA85ViWMmvfAQ=3D=3D">https://iapps=
+.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DfXMaXgeyzvA85ViWMmvfAQ=
+=3D=3D</a><br><br>=C2=A0=C2=A0 =C2=A0&gt; CARRIES THE BURDEN OF &quot;POTEN=
+TIAL&quot; CARRY-OVER TO THE NEW &quot;HOLDERS&quot; OF THE LEASES AND RENT=
+S...<br><br><br><br><br><br>PER THE TERMS OF 255 AFFIDAVIT (LETTER OF CREDI=
+T &amp; LOAN) BETWEEN THE PARTIES<br><br>TAX CONSEQUENCES ANNEXED IN THE MA=
+TTER OF NYSCEF 153974/2020<br><br>AS WERE THE LOANS...<br><br><br><br>=C2=
+=A0 =C2=A0<br>=C2=A0 - =C2=A0=C2=A0 =C2=A0<a href=3D"https://iapps.courts.s=
+tate.ny.us/nyscef/ViewDocument?docIndex=3Dze6a1KA9akRV9TGfXXJT/g=3D=3D=C2=
+=A0=C2=A0=C2=A0">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIn=
+dex=3Dze6a1KA9akRV9TGfXXJT/g=3D=3D=C2=A0=C2=A0=C2=A0=C2=A0</a>=C2=A0<br><br=
+>=C2=A0 - =C2=A0=C2=A0 =C2=A0<a href=3D"https://iapps.courts.state.ny.us/ny=
+scef/ViewDocument?docIndex=3DbVk8sIt7n3kGwHqebPg0fw=3D=3D=C2=A0=C2=A0=C2=A0=
+">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DbVk8sIt7n=
+3kGwHqebPg0fw=3D=3D=C2=A0=C2=A0=C2=A0=C2=A0</a>=C2=A0<br><br>=C2=A0 - =C2=
+=A0=C2=A0 =C2=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocu=
+ment?docIndex=3DwTG2YD2PqXuxmoKqFiESrw=3D=3D=C2=A0=C2=A0=C2=A0">https://iap=
+ps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DwTG2YD2PqXuxmoKqFiESrw=
+=3D=3D=C2=A0=C2=A0=C2=A0=C2=A0</a>=C2=A0<br><br>=C2=A0 - =C2=A0=C2=A0 =C2=
+=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
+=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=3D=C2=A0=C2=A0=C2=A0">https://iapps.court=
+s.state.ny.us/nyscef/ViewDocument?docIndex=3Dau8qh7Dn66hrVmJ9DX_PLUS_bdg=3D=
+=3D=C2=A0=C2=A0=C2=A0=C2=A0</a>=C2=A0<br><br>=C2=A0 - =C2=A0=C2=A0 =C2=A0<a=
+ href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D/y=
+hElCiKJ0BGv2DF/MOn4g=3D=3D=C2=A0=C2=A0=C2=A0">https://iapps.courts.state.ny=
+.us/nyscef/ViewDocument?docIndex=3D/yhElCiKJ0BGv2DF/MOn4g=3D=3D=C2=A0=C2=A0=
+=C2=A0=C2=A0</a>=C2=A0<br><br>=C2=A0 - =C2=A0=C2=A0 =C2=A0<a href=3D"https:=
+//iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DgcMSDaFzm0ynPeXZK=
+SHgLQ=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=
+=3DgcMSDaFzm0ynPeXZKSHgLQ=3D=3D</a><br><br>=C2=A0<br>- SERIOUS QUESTION...<=
+br><br><br>=C2=A0=C2=A0=C2=A0 CAN I INSURE MY HANDS???<br><br><br><br><br>/=
+S/ BARIS DINCER.<br><br><br><br><br><br>2019-12-27<br>&gt;&gt;```40-17G``` =
+=C2=A0<br>```January 1, 2020 to January 1, 2021```<br><a href=3D"https://ww=
+w.sec.gov/Archives/edgar/data/0001516523/000119312519324413/d847031d4017g.h=
+tm">https://www.sec.gov/Archives/edgar/data/0001516523/000119312519324413/d=
+847031d4017g.htm</a><br>&lt;br&gt;<br>2020-12-18<br>&gt;&gt;```40-17G``` =
+=C2=A0<br>```January 1, 2021 to January 1, 2022```<br><a href=3D"https://ww=
+w.sec.gov/Archives/edgar/data/0001516523/000119312520320913/d80254d4017g.ht=
+m">https://www.sec.gov/Archives/edgar/data/0001516523/000119312520320913/d8=
+0254d4017g.htm</a><br><br>2022-02-02<br>&gt;&gt;```40-17G``` =C2=A0<br>```J=
+anuary 1, 2022 to January 1, 2023```<br><a href=3D"https://www.sec.gov/Arch=
+ives/edgar/data/0001516523/000119312522025502/d207567d4017g.htm">https://ww=
+w.sec.gov/Archives/edgar/data/0001516523/000119312522025502/d207567d4017g.h=
+tm</a><br><br><br><br><br><br><br><br>LETTER OF CREDIT BETWEEN STATE FARM A=
+ND SULLIVAN PROPERTIES LP<br><br>=C2=A0=C2=A0=C2=A0 AN OUTSIDE BUSINESS OF =
+STATE FARM VP MANAGEMENT CORP.<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 CRD=
+# 43036<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 1.=C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 RANDALL HOUSTON HARBERT=C2=A0=C2=A0 [2992788]individual_299=
+2788-2022-05-06<br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 2.=C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 JOSEPH RILEY MONK =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 [001357149]individual_1357149-2022-05-06<br><br>=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0=C2=A0 3.=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 PAUL JOSEPH SMIT=
+H=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0 =C2=A0=C2=A0=C2=A0 [004971235]individual_=
+4971235-2022-05-06<br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 4.=C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 TERRENCE MICHAEL LUDWIG=C2=A0=C2=A0=C2=A0 [003=
+231040]individual_4971235-2022-05-06<br><br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=
+=3D"https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail?doc_id=3D20=
+20052000291003">https://a836-acris.nyc.gov/DS/DocumentSearch/DocumentDetail=
+?doc_id=3D2020052000291003</a><br><br><br><br><br><br>ALSO.. I DON&#39;T TH=
+INK THEY ARE COVERED FOR THE OMISSIONS OF THE LOAN AND THE TAX CONSEQUENCES=
+ OF 15-YEARS OWED ON THE 6-PROPERTIES TRANSFERRED TO STATE FARM.<br><br>=C2=
+=A0=C2=A0=C2=A0 -- CERTIFIED SHAREHOLDER REPORT<br>=C2=A0=C2=A0 =C2=A0<a hr=
+ef=3D"https://www.sec.gov/Archives/edgar/data/0001516523/000119312521347485=
+/d221423dncsr.htm">https://www.sec.gov/Archives/edgar/data/0001516523/00011=
+9312521347485/d221423dncsr.htm</a><br>=C2=A0=C2=A0 =C2=A02021-09-30: REPORT=
+ DATE<br>=C2=A0=C2=A0 =C2=A02021-12-03: FILE DATE<br>=C2=A0=C2=A0 =C2=A0<br=
+>=C2=A0=C2=A0 =C2=A0-----PRICE WATERHOUSE COOPERS<br>=C2=A0=C2=A0 =C2=A0<br=
+>=C2=A0=C2=A0 =C2=A0-----Report of Independent Registered Public Accounting=
+ Firm<br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 September 30, 2021<br>=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 ADVISERS INVESTMENT TRUST, STATE FARM=
+ FUNDS<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0<br>=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://www.sec.gov/Archives/edgar/data/000=
+1516523/000119312521347485/d221423dncsr.htm">https://www.sec.gov/Archives/e=
+dgar/data/0001516523/000119312521347485/d221423dncsr.htm</a><br>=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;...Our procedures inc=
+luded confirmation of securities owned as of September 30,<br>=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 2021 by corr=
+espondence with the custodian and brokers; when replies were not<br>=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 recei=
+ved from brokers, we performed other auditing procedures. We believe that<b=
+r>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 our audits provide a reasonable basis for our opinions... &quot;<br>=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 No=
+vember 22, 2021<br><br><br><br><br><br><br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=
+=3D"https://www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/x=
+slFormN-CEN_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/00=
+00093715/000114554922006149/xslFormN-CEN_X01/primary_doc.xml</a><br>=C2=A0=
+=C2=A0 =C2=A0OMISSIONS:=C2=A0=C2=A0=C2=A0 Item B.11<br>=C2=A0=C2=A0 =C2=A0&=
+quot;=C2=A0=C2=A0 any proceeding to which any director, officer or other af=
+filiated person of the =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quo=
+t;=C2=A0=C2=A0=C2=A0 Registrant is a party adverse to the Registrant or any=
+ of its subsidiaries; and =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&=
+quot;=C2=A0=C2=A0=C2=A0 (3) any proceeding involving the revocation or susp=
+ension of the right of the =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=
+=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 Registrant to sell securities.=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br><br><br>FY 2020<br>=C2=A0=
+=C2=A0 =C2=A08/9/2020<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://iapps.c=
+ourts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=
+=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPF=
+Xy0G0QvnmRLGpYIQ=3D=3D</a><br>=C2=A0=C2=A0 =C2=A0NO CERTIFICATE OF OCCUPANC=
+Y FILED ON AUGUST 9TH, 2020<br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A08/=
+8/2020<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://iapps.courts.state.ny.=
+us/nyscef/ViewDocument?docIndex=3DZOCFS3HH2UeHQe8j2tXJoQ=3D=3D">https://iap=
+ps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3DZOCFS3HH2UeHQe8j2tXJoQ=
+=3D=3D</a><br>=C2=A0=C2=A0 =C2=A0NO CERTIFICATE OF OCCUPANCY FILED ON AUGUS=
+T 10TH, 2020<br><br><br><br><br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0<br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =
+=C2=A0NYSCEF DOC. NO. 309 =C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A008-09-2020<br>=
+=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/=
+ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D">https://iapps.courts.=
+state.ny.us/nyscef/ViewDocument?docIndex=3D19MVPFXy0G0QvnmRLGpYIQ=3D=3D</a>=
+<br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0NYSCEF DOC. NO. 379 =C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A008-10-2020<br>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"h=
+ttps://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=3D572E8gahZUO1=
+KFthrfiyFQ=3D=3D">https://iapps.courts.state.ny.us/nyscef/ViewDocument?docI=
+ndex=3D572E8gahZUO1KFthrfiyFQ=3D=3D</a><br>=C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0 =C2=A0<br>=C2=A0=C2=A0 =C2=A0LEASES AND=
+ RENTS TRANSFERRED TO &quot;STATE FARM&quot;=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0EXECUTED:=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0 05-11-2020<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=
+ =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=
+=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0FILED:=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+=C2=A0 05-15-2020<br>=C2=A0=C2=A0 =C2=A0PARTY 1:=C2=A0=C2=A0 SULLIVAN PROPE=
+RTIES LP, 101 WEST 55TH STREET, NEW YORK, NY, 10019<br>=C2=A0<br>=C2=A0=C2=
+=A0 =C2=A0PARTY 2:=C2=A0=C2=A0 STATE FARM REALTY MORTGAGE LLC, ONE STATE FA=
+RM PLAZA, BLOOMINGTON, IL, 61710<br><br>=C2=A0=C2=A0=C2=A0<a href=3D"https:=
+//www.sec.gov/Archives/edgar/data/0000093715/000114554922006149/xslFormN-CE=
+N_X01/primary_doc.xml">https://www.sec.gov/Archives/edgar/data/0000093715/0=
+00114554922006149/xslFormN-CEN_X01/primary_doc.xml</a><br>=C2=A0=C2=A0 =C2=
+=A0OMISSIONS:=C2=A0=C2=A0=C2=A0 Item B.11<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=
+=A0=C2=A0 any proceeding to which any director, officer or other affiliated=
+ person of the =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=
+=C2=A0=C2=A0 Registrant is a party adverse to the Registrant or any of its =
+subsidiaries; and =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=
+=A0=C2=A0=C2=A0 (3) any proceeding involving the revocation or suspension o=
+f the right of the =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=
+=C2=A0 =C2=A0&quot;=C2=A0=C2=A0=C2=A0 Registrant to sell securities.=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br><br>=C2=A0=C2=A0 =C2=A0OMISSIO=
+NS:=C2=A0=C2=A0=C2=A0 Item B.14<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 an=
+y (1) capital contribution, (2) purchase of a security from a Money Market =
+=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=
+=C2=A0=C2=A0 Fund in reliance on rule 17a-9 under the Act (17 CFR 270.17a-9=
+), (3) purchase =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=
+=A0 =C2=A0&quot;=C2=A0=C2=A0 of any defaulted or devalued security at fair =
+value reasonably intended to =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=
+=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 increase or st=
+abilize the value or liquidity of the Registrant&#39;s portfolio, =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=
+=A0 (4) execution of letter of credit or letter of indemnity, (5) capital s=
+upport =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&=
+quot;=C2=A0=C2=A0 agreement (whether or not the Registrant ultimately recei=
+ved support), (6) =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =
+&quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 performance guarantee, or (=
+7) other similar action reasonably intended to =C2=A0=C2=A0=C2=A0 =C2=A0=C2=
+=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=
+=A0 increase or stabilize the value or liquidity of the Registrant&#39;s po=
+rtfolio. =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=
+=A0&quot;=C2=A0=C2=A0 Provision of financial support does not include any (=
+1) routine waiver of fees =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=
+=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 or reimbursement of Registrant&#39;s =
+expenses, (2) routine inter-fund lending, =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=
+=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=A0=C2=A0 (=
+3) routine inter-fund purchases of Registrant&#39;s shares, or (4) action t=
+hat =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quo=
+t;=C2=A0=C2=A0 would qualify as financial support as defined above, that th=
+e board of directors =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=
+=C2=A0=C2=A0 has otherwise determined not to be reasonably intended to incr=
+ease or stabilize =C2=A0=C2=A0=C2=A0 &quot;<br>=C2=A0=C2=A0 =C2=A0&quot;=C2=
+=A0=C2=A0 the value or liquidity of the Registrant&#39;s portfolio. =C2=A0=
+=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=
+=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &q=
+uot;<br><br>=C2=A0<br>=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0=C2=A0<br><br><br>PRIV=
+ACY VIOLATION<br>ANNEXED BY THEIR OWN ATTORNEYS.<br>=C2=A0=C2=A0=C2=A0=C2=
+=A0<a href=3D"https://iapps.courts.state.ny.us/nyscef/ViewDoc">https://iapp=
+s.courts.state.ny.us/nyscef/ViewDoc</a><br>[remainder of message body omitt=
+ed; too large]</div></div></blockquote></div></blockquote></div></div><br><=
+div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">On Thu, Jun=
+ 2, 2022, 11:50 PM Bo Dincer &lt;<a href=3D"mailto:bdincer66@icloud.com">bd=
+incer66@icloud.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><=
+div dir=3D"auto"><div>I sent you all the link as well, as referenced in the=
+ fraud invocation attachment.=C2=A0</div><div><br></div><div>Thanks Bill, s=
+tay off the Spam champ.=C2=A0</div><div><br></div></div><div dir=3D"auto" r=
+ole=3D"textbox" aria-label=3D"Message Body"><div><span style=3D"background-=
+color:rgb(254,254,254)"><br></span><div><div><span style=3D"background-colo=
+r:rgb(254,254,254)"></span></div></div></div></div><div dir=3D"auto" role=
+=3D"textbox" aria-label=3D"Message Body"><div><div><div><span style=3D"back=
+ground-color:rgb(254,254,254)"></span></div></div></div></div><div dir=3D"a=
+uto" role=3D"textbox" aria-label=3D"Message Body"><div><div><div><span styl=
+e=3D"background-color:rgb(254,254,254)"><br></span></div><div><span style=
+=3D"background-color:rgb(254,254,254)"><br></span></div><div><font color=3D=
+"#0a84ff"><span style=3D"background-color:rgb(254,254,254)"></span></font><=
+/div></div></div></div><div dir=3D"auto" role=3D"textbox" aria-label=3D"Mes=
+sage Body"><div><div><div><font color=3D"#0a84ff"><span style=3D"background=
+-color:rgb(254,254,254)"></span></font></div></div></div></div><div dir=3D"=
+auto"><div><div><div><font color=3D"#0a84ff"><span style=3D"background-colo=
+r:rgb(254,254,254)"><br></span></font></div><div><div dir=3D"ltr"><br></div=
+><div dir=3D"ltr">TCR5 INDEX and the implication of TAX liabilities owned b=
+y the policy holders and investors of State Farm , attached Fraud Invocatio=
+n notice.=C2=A0</div><div dir=3D"ltr"><br></div><div dir=3D"ltr">Received, =
+and responded to where applicable.=C2=A0</div><div dir=3D"ltr">/BD<div><br>=
+</div><div><br></div></div></div></div></div></div></blockquote></div>
+
+--000000000000b32ff905e11dee6a--

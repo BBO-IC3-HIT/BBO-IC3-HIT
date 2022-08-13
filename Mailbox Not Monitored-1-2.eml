@@ -1,0 +1,317 @@
+From - Mon Jun  6 16:17:17 2022
+X-Account-Key: account1
+X-UIDL: AEHxfsIgLnfeYp5tTg8XSFZ6L+Y
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.13
+ by atlas120.free.mail.ne1.yahoo.com with HTTPS; Mon, 6 Jun 2022 21:10:36 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas120.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=NONE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 6 Jun 2022 21:10:36 +0000
+X-YMailISG: O7.SOdAWLDvYGombx6pbMkJCGWPdzYBADEDjHUzc8UkbrHE1
+ Hzb76HfHSk29ozYcBHKz_TFr.m7Ve.4LCBtDgP4xmkmLrNLg8mF4Ewt0YaPw
+ khrY.GOSno8TnU.cwEO62H1PPW8BWrNRiHZLOM6IhX7n8ns5j9thjRYIphUq
+ ltffMZQnpV4_yjBBnaqPBDairnHJkmIrxkIQsyU_dEDdFBad3MDjG9GFW0_G
+ Hu1fJto9ZdBPCsvbcZUPmobR1aOVdJAns3AZv26KcDB7b4inTYC0FhohPC1o
+ 7e2r0XAY9Q2Sv.vJAKPh4mZB2.VXlF8ri2GdRITIIj_.LvRSaxDjekKgQi5B
+ 5ozDjlY7D8l0Sje6NVuvAKGkZKWByTE3WWNRRK1gGz0QrnuVVTj3SfzPQMu4
+ CZ5j5QhPnG_51EROSJdCsIZLfA.hvlnoqISthKLmcwknTv6QIBqeZfcR94dG
+ UIqhue.8bFKAa_00BAxac1bBhvgaP06hbRpandxDao8ro8TYJFyMx__4QnNY
+ w07fnetL_zEcEhF64SX_2AhoXiL_idPF6j686WY9ziBhd6QtgeDx1Bd8wquu
+ zMs0uXL6XvWJNW9FPC5iK8dQEI8TNiOIq8DBIMpprITDuXm6u388kZ84Gr67
+ gfmqenQsR07m1gYeg6nNTlV4rMRrBeSF5Ozm7yBypNRT01SEtRt2TzL3LIFP
+ Pvx6VQKRxCW1MzjvIilCaeW4Pb6KULl83OTR8qShWgwrGS3CaeiV68bhnz4Q
+ 0QksuEyUOh3_mI.7q4gZGDkRMGUpOgm8JsP.5IwCvNaNZ6JHfkrwK_P6lTsC
+ .RTSbugntR1jcEpv61j4QqbMJ.DTSiv8VZTwOijfones2K2B9mcldV5xRmOy
+ _WbPhqykEeAWxbUHb8Rs1KEXKCF9LcYOAW13P2gOoGjsGS_Ja5aXQfoBUlQ7
+ .TCboOnikF84mB9sqPLu_7UHM9cg4YghNndXo_dIQs5slhcTTPOieNb7l4Sl
+ WcPH
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.217.150.13 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 06 Jun 2022 21:10:36 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id B6395D2063
+	for <ms60710444266@yahoo.com>; Mon,  6 Jun 2022 17:10:32 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Mon, 06 Jun 2022 17:10:31 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26940.002
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26940.002
+X-TMASE-Result: 10--12.396200-10.000000
+X-TMASE-MatchedRID: hgYxtqWXZwMqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEqxi///JpaHQNr810DopbHLM3DXTzfdaKVKP2
+	C4UN53oQN051xDczCXEd2V2Wxs2hTTQNCTT9pJ/WNyH/G92IcfANTuIWZ3z/FLJ1WJf4R7UmjIz
+	fGpTwLYktnotccsB/athE+/7CP/svjNn0Okk5VXwEaayJtYZNtNQO+lFC5/FVxLGwMotcUD6jdp
+	Y+YFbbzVxWGlNzsF6KgfHz5rL2UAtQGnHQKZS9z5p1ddw6V4RuZEoWHC6Rh/ZXUHTssiKZd0biu
+	qUjSkzL4G0Niaio+loPbw023vELI/j/v76dM05LfSQNpZkETVJ03C0fPk8xKRFdcTcfs2Pal7HM
+	1r2ClZGYqTLE0Mx/iuDzuYP9x54ffX2sZfyOJoW9OepgphdNGj/T1af3UZUDbTHj+nmNjzaPFjJ
+	EFr+ol4E9s12Gvf509l7H+TFQgdc3FPozUD+OzK/oocMmkzi60HpVUS23TpSyu/4ag7tCSmJ+T8
+	d+RjzLlhfFWlc++ScKs+/H7jW56vRCwfcFMHoCXJMIR2zttEl6KrpxYw4JrQOfxOLg1Bcw=
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220606211032.B6395D2063@mail4.chamber.state.ny.us>
+Content-Length: 11969
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 3A4F2D2063
+	for <governor.hochul@exec.ny.gov>; Mon,  6 Jun 2022 17:10:31 -0400 (EDT)
+Received: from sonic307-2.consmr.mail.bf2.yahoo.com (sonic307-2.consmr.mail.bf2.yahoo.com [74.6.134.41])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Mon,  6 Jun 2022 17:10:31 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654549830; bh=h6uwbyIYR8utAdefbKQZOK+qRXN396+ZwNxKOlPfNcM=; h=Date:To:From:Subject:References:From:Subject:Reply-To; b=Qpkd+x32Cf5E0Mq7u0K5+iGJ3f/f6bqu9HXJY2Q2T12CEqpVhtWcq97XYAJprGm3szgBYUIEd56JgOrJ2dzeauzhGAGQAd3nrWR2+TI933z5Rg+KNXNn7ArT35vWFPz/JV2zvRp7VmcU4RdlDzyvYhT8vyf7OJu172eZzjjeG7LZ0171t3tq/BwwfmikeIVge6HumaST0Dqw5cyMwcvRO5YKgM3inF+VxwX0wWwEcoOKxVfzfHZPpadYTh9OebPwepVwPpHSv7slhCn0Z5sOaXEJr1ZPSEuROmhn8N8qil4cVq3svwgK/kIJlPxTy7H0BlKWd8prd0yVJWVm9SzWnw==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654549830; bh=rRQHibcldPMP+29Ln8M18dCx7pIXtivFJLvn6KdMO2S=; h=X-Sonic-MF:Date:To:From:Subject:From:Subject; b=qzyfDVThCmi/FIuWeToFFcanzVEDvtdh5uCB57IjZZEhl+8247GucpU8qn2JP0SmYNbdCuv60l7M66Z5Vfcno9SHmJPpp6MN4W2E7yKiYwWFswLjFEli5S954dTseRAQ2doo3yDaNUvPq7s7Fl0jmYFVYrok4XUT6bAGCU9vleC8mKeGfBQDquY/LPvh9b4fzmlzXmBWnR90+1xkNnK9rHiozprM/73vX9H4DCGxD9In/7B02hcrtS7Lh3qHY4gz4NIcMqtxuXxlF60zX4lPQvIJY2Vf8gl5ww/GqA7T8mINGdRfKeD+BMfklb2Y4IMLuhdi1dlS0uy23H4ZivR4/Q==
+X-YMail-OSG: cu44TJ4VM1kfO6hyj64R9dJ5aW3xRUQu.e52UdiDA4K7uSYApPdlDZdhrnX7SBN
+ qcg7y7cMaofk2nsneNiuvKcsKMwa5CRWvdLsy03vWqW_mz2njYAAxrbx7O2aBe9mlQOJYczDPf1v
+ HFrfXwXbkZfb8MYrwp8qtwKUhNJlUyZvXSLmo5d4PCMX_0WnMBihZyTlY6xssa9a2cqzFobRgyPf
+ CSXuJOh06uw3kkeTMRkmM0JF71YAUBlF209Wzs3sxi97u4wo43800nS7OKBAqyTG9tM0A6ioK7pJ
+ VwtO2Kc.uoysJDPoPKN.i9BOpBhHKpM3.muBuUP9OJHLZebL3bmoLxfzLF7Zrb4MHvuGbgM8DonH
+ 9P1xDXL5sWNLUkguFn0DDMQnznUHe0BetXG42mUgPz9lwN71MMCNFdSDmnfi_ZpPLqwRIn6Bg...
+ X5fFKQDNEs51LeMGauj85u37CusLw3DlwRjvUE6sjr.q2D8KtBKI30Z61LWmxWbHtlPFUCiLSqIT
+ ragEutl2uQmOv2nZ8uK7vYEwXGuSKWdOqqVX0rMX582qHvSptjL32JVmDV4tC4zgvrU6JLY.6DUX
+ zlhSAUMtDXoFHEIIF9gA6i7s08WR4fxh6WSrxA4yIPTwhV8ZUWvc.sLrimS2DjHrO9VBVV_j9Kui
+ HoIw6kgnKqcu2EHG42t0S119o4qei00F2_C_b4cklPmN4LR10ntHQd.TbVtLRnzUergY_.Hd9y9Z
+ wmlllXYbF4OLiZwQrCoFvDMU.oasBnph_tyXFD7Nulgqj.RcAtZxm_7zScrD353_gQuIZOSEag3I
+ 5KBBNnNnKSzFFSgqTQysxVosqNf7s_nkpGxfc2G5n0g7zdKyfDbLoPeXTn5TXzKzZhmDhqDu69mG
+ IMYrt3LFmId1jhRIWwbPFBwSx9ImbrDgqPerbRZ.8MGVYBr8ix4WxvCm2fDEHArra23TnR8kt_ix
+ ACKBRS0fC0.xjMCCsMd3ctib_8pynZjz3g98y5krSC7mcNki8nscqGA3HbqYO_8h.hcdukKFrcla
+ t6ywzp6yU4UO95T8IsuPWmADOtyIHy0y6PymU4qnJ3PoPuSwUEJbZv0dVy7RQNaVRRtu_1ywA7Eg
+ EHcD4xaT2w4E.4ZJl06RTaelZ42S.eIafOuWi0DMFYzpFdQVJi2_wl1EJ77QH0MQuXT8pDz6MPOM
+ SkNrbf6CZPBtPN7s4gPormxraYyrXsogUq8PY3XHVQDGHJVFW._rTmUGTaywS2vOYFCUWQTZa0o4
+ RSsaorJr0qzWfJtbhB7z2PHG0o.vKqeeDVROaVLF8jnJozggm8zcmSyonWoYa7GVVy7DAUnJX2Zj
+ zu8nhjuSGqC3UyUNGDIAlX1zhLW3Ntn_oALAm41qicFaC3HA7Q0CxsoRamjsC436Jy2V9fbTsG2E
+ K5m1OhHlq3OYZzSjcFCDa8mXL6TTs7S_3FtL_RN7FmAqBOzzNYzqGCXN1D16W.Kgx2YRjfi.d.ue
+ OqkhLigH72iYtRis1qY8gajIPtFy5BAz3upOW_3nWvMK_os_ImTs3t3y8TmYfY9nEA54dejE3VVe
+ UVnFssuWTz98uFTyWm3ZdweCUN8feVsxYqUCjwjcN8xxINNv7gm13l8rYU4ZRVs6jtaCspKXwqMS
+ 3mTMumji83HLJPY2DX9VxdDYOVRK1m3XHesyBHvO_CARbZ1wjq8j7PeTbPuc6x6h_zpALtYAzt19
+ EfKtyrlS361MKBS5M5tCkCxCCHUXf8wRjsg8WwVm_xOVjtGC3mOHFe332mexQCF18p6e1ABklI5X
+ WuiKo_iE6bMDDzpHNiI9MDJIeoGyLugGRL4QVpwZ9CUZ3VCKnz8qvPd8C0NYf1jjr0g3lp.5ujlW
+ BqbaHzjUgvAdNLuAMrKeoh2d7SzcYXu5BCZEZNeo3H2oOFmW1foQzGQoE_.fiBUJpb7LE0fiN1dP
+ U.W6lJeULWxb3sO9LaMm0kxKaS_DkNN7IcyaoI1Peo_syF9xpJX1_zQpIwKRLo6bOScyDuTCpNhh
+ 2qlw_mC3nXUU4CLkATw--
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic307.consmr.mail.bf2.yahoo.com with HTTP; Mon, 6 Jun 2022 21:10:30 +0000
+Received: by hermes--canary-production-ne1-799d7bd497-px24v (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 84aa24512c09b8f9e117edd19949cf7f;
+          Mon, 06 Jun 2022 21:10:25 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------ADnFG6sVJBHUwUBTcL1UzTow"
+Message-ID: <9152bc3a-686c-ce96-b42d-29528cd3ba2c@yahoo.com>
+Date: Mon, 6 Jun 2022 16:10:16 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.6.1
+Content-Language: en-US
+To: Doc Webmaster <webmaster@doc.gov>,
+ "tmprosecutordocs@uspto.gov" <tmprosecutordocs@uspto.gov>,
+ SARAH 00068govtIdx BARNHART <SarahB@doc.ks.gov>,
+ MICHAEL 00064govtIdx OSVER <mosver@doc.gov>,
+ "Karol.Sabodocha@nypd.org" <Karol.Sabodocha@nypd.org>,
+ "HREmployeeServices@doc.nyc.gov" <HREmployeeServices@doc.nyc.gov>,
+ doc@dc.gov, doc-del@libraries.cul.columbia.edu,
+ "Constituentservices@doc.nyc.gov" <Constituentservices@doc.nyc.gov>,
+ CHERYL 00068govtIdx CADUE <CherylCa@doc.ks.gov>, bdocs2019@gmail.com,
+ support@nicic.gov,
+ "NYM-PREAComplianceMgr-S@bop.gov" <NYM-PREAComplianceMgr-S@bop.gov>,
+ Bop Info <info@bop.gov>, "CNK-CCM@bop.gov" <CNK-CCM@bop.gov>,
+ "BRO-ExecAssistant-S@bop.gov" <BRO-ExecAssistant-S@bop.gov>,
+ "BOP-RSD-PREACOORDINATOR@bop.gov" <BOP-RSD-PREACOORDINATOR@bop.gov>,
+ "BOP-IPP-PublicAffairs@bop.gov" <BOP-IPP-PublicAffairs@bop.gov>,
+ acjic@alacop.gov, ANNETTE 00000govtIdx FORD <ANNETTE.R.FORD@USDOJ.GOV>,
+ CAROL 00000govtIdx BURGER <CAROL.S.BURGER@USDOJ.GOV>, dojfax@bops.gov,
+ "Randyc.wilson@usdoj.gov" <Randyc.wilson@usdoj.gov>,
+ "tina.jeffery@usdoj.gov" <tina.jeffery@usdoj.gov>,
+ "Victimassistance.fraud@usdoj.gov" <Victimassistance.fraud@usdoj.gov>,
+ "4audit@bloomberg.net" <4audit@bloomberg.net>,
+ CRC FTC REPORTS <CRCMESSAGES@ftc.gov>,
+ "crcomplaints@treasury.gov" <crcomplaints@treasury.gov>,
+ TheBronxBBJccl@gmail.com, QueensBBJccl@gmail.com, BrooklynBBJccl@gmail.com
+From: B D2022 <ms60710444266@yahoo.com>
+Subject: CROSS-REFERENCE ALSO.
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+References: <9152bc3a-686c-ce96-b42d-29528cd3ba2c.ref@yahoo.com>
+X-Mailer: WebService/1.1.20280 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+X-TM-AS-GCONF: 00
+
+This is a multi-part message in MIME format.
+--------------ADnFG6sVJBHUwUBTcL1UzTow
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+<https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b>
+
+The policy for recorded phone lines and records is in FACT three years
+at those FINRA regulated firms who DID participate in Securities Fraud,
+Unfair Dealings and an OBSTRUCTION OF JUSTICE, as I recall. Thus, time
+is of the essence for those hoping to avoid getting crossed in their
+phone conversations and lines, which we can review later as well.
+
+  > confirmation attached. .
+
+*"NOT COVERED" FOR OMISSIONS, and that ticker is not a PAR-ID, but is
+now SUB-PAR [STFGX]*
+
+*- losses registered: THE excess of 1.35 billion US dollars - not
+Monopoly money.*
+
+THE LINKS IN THIS ATTACHMENT ARE EASIER TO CLICK AND REVIEW AS WELL.*
+*
+
+*ALL REFERENCES ARE PRIMARILY **FILED IN THE MATTER OF NYSCEF
+153974/2020, AND ALSO WITH THE DEPT. OF BUILDINGS.**
+**- REGARDING THE UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM IN
+MAY OF 2020, WERE ALL ANNEXED IN THE OMISSIONS AS SEEN IN THOSE SEC
+FILINGS, WHERE APPLICABLE.**
+*
+
+*
+**/MY APOLOGIES FOR THE TYPOGRAPHICAL ERRORS AS WELL./*
+
+*/
+/*
+
+*MOST RESPECTFULLY,
+*
+
+/*
+/S/  BARIS DINCER
+      RESPONDENT IN THE MATTER OF NYSCEF 153974/2020*/
+
+*
+*
+
+*SEE ALSO: NOTICE THE CEO OF MORGAN STANLEY AND ON NOVEMBER OF 2021.
+      A GENTLEMAN I AM FAMILIAR WITH SINCE 2010.*
+
+
+THANK YOU GOVERNOR HOCHUL,
+
+      p.s. THE SMALLER FILE HAS LINKS THAT ARE EASIER TO HIT THAN PAR TWO
+AT AN EXECUTIVE 9.
+
+      - I haven't even had a printer for the last two years we can also
+discuss that later as well.
+
+**
+
+**
+
+**
+------------------------------------------------------------------------
+**/*<https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt>
+<https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf>
+<https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup
+
+--------------ADnFG6sVJBHUwUBTcL1UzTow
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body spellcheck="false" data-gramm="false">
+    <p>
+    </p>
+    <div class="moz-text-plain" wrap="true" style="font-family:
+      -moz-fixed; font-size: 14px;" lang="x-unicode">
+      <pre class="moz-quote-pre" wrap=""><a class="moz-txt-link-rfc2396E" href="https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b">&lt;https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/4bb2275cda9a71303eed6c4e1fbfc61f5039733b&gt;</a>
+
+The policy for recorded phone lines and records is in FACT three years 
+at those FINRA regulated firms who DID participate in Securities Fraud, 
+Unfair Dealings and an OBSTRUCTION OF JUSTICE, as I recall. Thus, time 
+is of the essence for those hoping to avoid getting crossed in their 
+phone conversations and lines, which we can review later as well.
+
+ &gt; confirmation attached. .
+
+*"NOT COVERED" FOR OMISSIONS, and that ticker is not a PAR-ID, but is 
+now SUB-PAR [STFGX]*
+
+*- losses registered: THE excess of 1.35 billion US dollars - not 
+Monopoly money.*
+
+THE LINKS IN THIS ATTACHMENT ARE EASIER TO CLICK AND REVIEW AS WELL.*
+*
+
+*ALL REFERENCES ARE PRIMARILY **FILED IN THE MATTER OF NYSCEF 
+153974/2020, AND ALSO WITH THE DEPT. OF BUILDINGS.**
+**- REGARDING THE UNLAWFUL RENTS AND LEASES TRANSFERRED TO STATE FARM IN 
+MAY OF 2020, WERE ALL ANNEXED IN THE OMISSIONS AS SEEN IN THOSE SEC 
+FILINGS, WHERE APPLICABLE.**
+*
+
+*
+**/MY APOLOGIES FOR THE TYPOGRAPHICAL ERRORS AS WELL./*
+
+*/
+/*
+
+*MOST RESPECTFULLY,
+*
+
+/*
+<i class="moz-txt-slash"><span class="moz-txt-tag">/</span>S<span class="moz-txt-tag">/</span></i> BARIS DINCER
+     RESPONDENT IN THE MATTER OF NYSCEF 153974/2020*/
+
+*
+*
+
+*SEE ALSO: NOTICE THE CEO OF MORGAN STANLEY AND ON NOVEMBER OF 2021.
+     A GENTLEMAN I AM FAMILIAR WITH SINCE 2010.*
+
+
+THANK YOU GOVERNOR HOCHUL,
+
+     p.s. THE SMALLER FILE HAS LINKS THAT ARE EASIER TO HIT THAN PAR TWO 
+AT AN EXECUTIVE 9.
+
+     - I haven't even had a printer for the last two years we can also 
+discuss that later as well.
+
+**
+
+**
+
+**
+------------------------------------------------------------------------
+**/*<a class="moz-txt-link-rfc2396E" href="https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt">&lt;https://www.dfs.ny.gov/system/files/documents/2020/05/inst_hist_list_20200520.txt&gt;</a>
+<a class="moz-txt-link-rfc2396E" href="https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf">&lt;https://saaze2311prdsra.blob.core.windows.net/clean/0363e59f23d6ec11a7b5000d3a1afadb/BB-117taxFiles.pdf&gt;</a>
+&lt;<a class="moz-txt-link-freetext" href="https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup">https://saaze2311prdsra.blob.core.windows.net/clean/598c8e2d1ed6ec11a7b5002248307aa9/2022-03-08-CertificateOfOccup</a></pre>
+    </div>
+  </body>
+</html>
+
+--------------ADnFG6sVJBHUwUBTcL1UzTow--
+
+--TMMSG_A39A1609_886E_39F7_8A27_75AA163879A4--
+

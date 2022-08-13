@@ -1,0 +1,333 @@
+From - Thu Jun  2 02:34:44 2022
+X-Account-Key: account1
+X-UIDL: ABI8wBENqbOVYphnfAMBiNkLTdo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.152
+ by atlas221.free.mail.gq1.yahoo.com with HTTPS; Thu, 2 Jun 2022 07:32:11 +0000
+Return-Path: <Governor.Hochul@exec.ny.gov>
+X-Originating-Ip: [161.11.121.124]
+Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
+Authentication-Results: atlas221.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=exec.ny.gov;
+ dmarc=pass(p=NONE) header.from=exec.ny.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 2 Jun 2022 07:32:11 +0000
+X-YMailAVSC: DsbgCo43bBsO3Yb4AnbMj5Jz3F3UMNtHX.oi1zuPQFhqM6b
+ 2aonYbf3s2jrS.D8INRcHHOJy_nABmpJ8jqO3PT_QrT8fVpCiqDf2RoabgEt
+ z23IjoJM2g6AtOLcaQo9r8iNV0EvUCKlXIocizvZNlxR3CjoORW.IX2NRYnf
+ 13Wnr1IdVo8k5xzfYiDk4AjrD8bXpg0Mgy.AGw1gfZPrvNDnxN3kmgV4MmKw
+ .yhJYOK7Q21LkLofn_sfUF2VPksEJBbAPegGlr7zsUQUkfaaFf6o0Q1TVEyi
+ mVXJKLIxhJDwYXph75XXwXFWKoFxcxXIeabGd7fx5I0Uoe1b.tF..JZc-
+X-YMailISG: 5SQ3rxcWLDsSRRaENlT5_0iHBfKoFAcVcKrf6UGHttg_qrab
+ lxtsYawsoaIqAmchxcmMnX8dtuUsPclYMy5iRAJqyFMmXyNUAYO7xFeARPfA
+ Sowga8SxkDIGhjBOUsQBR9KEyKIEDqGNb_9llwG3Oj.XnPoXTEqmAzPhp9R4
+ pjHu7ZDL_uh8CRMHyjmbE.Pcb5.hOWIDp8M_ibyOc6pyslZ2xqKX2WxJSa.C
+ _y1JKIa8zSX4uMGrIBaCrxJqQU4jsEw65G.huRgwCCYHgRC5WVglseHb5nVa
+ ZB8KXXLLS5aueBeu8qdLDCXhbm7Y0UEtBgCW1lzsMx9iwtS13bjkVZp1AuIa
+ 050Y3G6BCQMatygpinK5EZjZa2wUIxWB24.HJeT4R7hQTmIf5Z_rJ95ZK3AG
+ PWPEquA.vz7kyjD.k7DowPkvyDDwAOP7KNTbHNyBcas97dB7SdUyJ3zHWpwe
+ RJCvX8qXrW5N3qqqvONDok3YBFyCi7CczfDaFxarjaF0LKyNs4Orj7.4qJLQ
+ 1FolAoI67S4TWB6WlRq6uHksN9C8YFKNiRx5Kxde_Bpt8rxnT0gXVv.6VY.S
+ s1PxdXWr9qOVCG91enztpKW8WUiWAwU5ejkdw60yZBREZJOyfy6e0bu56y2X
+ 6LKpEX0hv.kT9xrM_T7Gyd1TER194APp_5qeYeMHU0NSrYUU7oxsu8Jc2sh5
+ Ff2ZokU4amBF63D9WV_.ugZhSJSa9MotHro5NNXWcyHk0AkGAgnhDagPAb15
+ k0LiPtvFOjUtZKdsOLl.xhwWa0XjLyCd6yraEcFTitmCcyPCSeUcVJCk.OB7
+ ZpS320DdwTJ68s5RORFXUH1wAM4uSd5Tl37aRvQ6MQ9PIpjd8tMDSAAOU_KT
+ .jH6CqHtEEGYxaqlYUwwRProSCu7NpzJcRQjvOXqSGQVE3LOpnCvKclOAO0N
+ E3Y.ycB_mlNs0YMSb9xdO86.d.AkBA6u0gdQWjZF5IvRJdjsd6XY5sgzTqDg
+ ED5RP3DqU91zmqHP3eU-
+Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
+ by 10.253.62.152 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 02 Jun 2022 07:32:11 +0000
+Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id D7686D2063
+	for <ms60710444266@yahoo.com>; Thu,  2 Jun 2022 03:32:09 -0400 (EDT)
+From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
+Content-Type: multipart/mixed;
+	charset="utf-8";
+	boundary="TMMSG_747B5522_5A56_1642_0B33_B1A5C9DE32DA"
+Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
+Date: Thu, 02 Jun 2022 03:32:07 -0400
+MIME-Version: 1.0
+To: <ms60710444266@yahoo.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26930.006
+X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26930.006
+X-TMASE-Result: 10--19.567500-10.000000
+X-TMASE-MatchedRID: G+dB0I1Lh+MqN25DxW3SmJ8PON9X9zVUVm3LNN8y4zhs9cISlHOdZtxw
+	zgPtU1Q0L3IFIm8K3JpY0EWH9d1jEewAaNLqXHEqxi///JpaHQNxCcahBdJAzm8gXz2vH0PRW+3
+	e86JezpjZIRCuYdtVNQzlVwCiwcT786X2DkgplZJVVazbdFKjcxcVoabqdIzyQaizph4jN8NIjL
+	5OBGtUk2A/2rL1nk7s4YS6FyG8vyjyUQNiagGSs9szWfm77NPrJScvOTX4jHMDLr9vPVWwiHLMR
+	Sx26gTiqh9drh/jR8JyAbyZdjOYoKNu8PHnuFgvg2tpowTD9VpZoriDkmUBVrV5fSMRD1zqhwbC
+	DJn5PXAotrVnR38urg+by2WWSlLYpbeu4XjpXOT/McoAQhls9BwMMtF4a3g9Pj+DBIy+IRQjL8W
+	DWZGeov4XllWM41JGnagtny7ZPcQfE8yM4pjsD9IFVVzYGjNKWQy9YC5qGvxnBZNfoR5xBSgzf7
+	BXjh3VSev2iti+zsGHiGwod0mrHCbiqNp/Uh2Ock4wYEuxT90=
+X-IMSS-DKIM-White-List: No
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
+Message-Id: <20220602073209.D7686D2063@mail4.chamber.state.ny.us>
+Content-Length: 15509
+
+This is a multi-part message in MIME format.
+
+
+--TMMSG_747B5522_5A56_1642_0B33_B1A5C9DE32DA
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
+b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
+dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
+Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
+cyBvZiB0aGUgR292ZXJub3Iu
+
+--TMMSG_747B5522_5A56_1642_0B33_B1A5C9DE32DA
+Content-Type: message/rfc822
+
+Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id B83C8D2063
+	for <governor.hochul@exec.ny.gov>; Thu,  2 Jun 2022 03:32:07 -0400 (EDT)
+Received: from sonic305-29.consmr.mail.bf2.yahoo.com (sonic305-29.consmr.mail.bf2.yahoo.com [74.6.133.228])
+	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
+	for <governor.hochul@exec.ny.gov>; Thu,  2 Jun 2022 03:32:07 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654155127; bh=WDGLowD5Y0fUC95exEaa35/7CVrNCbJkJf120ZJxpeE=; h=Date:From:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=ag53fNbNZe2nfHltH9dOaSJnPnblYxUpvUTRHk7RBTGXm8tjn3Ub7CAr4bg+jxTiQETb+hoZlqNoYKQsmvdk3BZDfPkAU11UnAUqB7hRj5ILHBrVULEMblCXhlS0Pvr0qLy5UJVKNwFlO5CtIi7m3WyZ+hKS9mKCO0il4phjasd9HvlzjNhbLP0iocYsFFhyBNwwyS1pCSfe4YI1E/CHYInAM6Mle89GFn7MBKGkmrtavOMmW0vDdgrFpg4g2cFnxdrED5hmj2fQpsJYtFKW8BMzUe6rSnexKqE7nhKXzVcEwRkRdsrdqs/xBISdqWUA+l87Z/OtJdBMfbqxC8leOA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1654155127; bh=7hM2gq3q9KP7cRKUpIqgJAss5QmyJGLiPhk+IxCg4id=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=O81Be0EMc66O4zE7ffs81yKZ09Hc0vALJsGXHpFmF14pHQwzSELPVinUfPv5+uxvFboEhck7sNjZANJzWsIn11drIvIQlCIW34s1kBJj/C8cYjOIWB1I9LusCIPPhDmghGHM9oYEVKDWagzFME93yn+n0tmb7t1LZvehYnrKtwo+ThY2s9ZVTrnjgAPmq+Prw0Y9SGGGJ1Mx/S6HbyDP2EzhxQr+phOg9xZLOQhFEKoimN3yUzknYZcbpEKhYtBhtV2EJR9BLUnd4Tjia7z27kfgBAwXPf/0beZcMH54qNVhbAhkg07AveWPJJEepNguS2TY9VCR9rblb+7F3Rmigw==
+X-YMail-OSG: q_oTQRsVM1mX7._QPRUTlfCvY.0u2oKDsmYCXv.YSVHcQCONKM9.iDtZUOB34oA
+ Jsnh0AWKrIeWbPtLHSnvc0OU.9NdYnDiJYm0xcoD67YTDD10vxyJ_suQXMSEyZKn0TUipX5HSqkB
+ dg25QMVmItZFQM4Sj9yOKK_ZnU6FRXZMLv9xk.veZ.Z02pZATuvwBwqpPqbJsCiTg8E8XVyGj69g
+ tOsgSW5MsFxPW_k_vNpud5gBXk4qbWhGLt1Ui3ZaHXZTL0svQN6nemXipIX9YPSMGVvPkteNhqBL
+ peDGFbDblCNHlIpZwFrDOK.yYuXR3WAq6gP_KsO4H.5DKZFCApgitSTdgYc4nTQNGrxuxFZKo0L0
+ r_XzUveVC7CbSAIKjcyjMWTibEBVDygxr6vBP_5wVJjLGElFGbrkZsTn7KQ.gTFcvzV.W63PmqOX
+ SWDWo9_a5arI.ptWDjrkcs9iwqetoDSp7e7WpKTYt0Ptn7FoPo4Y.eHLEoWieSwm1sF2hzoLViTC
+ f.Kpd1W9l1eDCx25tZXurmO5i3QX7mYOBHkl8VF3Qr6MQLLmgXGDlKoMmWr7zpgEdWumUTeay4dB
+ ddOGddsOFITbYwbxbchnMihMa6dvS8vx4n5dxIDqvvNfoutpt7UkQHmJl5IaLlce3dPi962I4wOI
+ jXWF0jsYJlwejSuiSYla5j8tIpFFp9g4XKKJX231cUmZb1JJv6Dbq_P3k1z9JloRtIJ39T5jpSDz
+ 9IzZdk16L0Nvh0Kh7nS24AQX63xD_FVmNNUSLjg3gwbzTkg2Ks0N0svmxe8YmfKjWzPIIRw6w7V_
+ Sc3dl3aNTUs3OYMeFVJZzNge.V6AmgOKiIuLYHmYEQTHjM7_c1eNvXuTVDxzJhA2NOkL4AjCiVZ1
+ LYabsWa3bj7tqs0.DxdyL.h6jdvcmdrCncy_uAahg2j1Cvo1wMLacSiM1ZOcHNE0X7C4ujVGC8H4
+ EUbt20ifyGJRknAzXcNgYtOr7r.0UwTepoJkBKFbfQiZEbht_DXj0Q3veBkf0xX1o9oFzoad1NHB
+ 6zIrTlrkKuUJHnIBeDL6xyyClALAjZ4iV8NykU0GILCLWeJiucm54lTL0dfP4qhyM8biFhxfnaIw
+ 5LVSxTmd3AW1vvKM7Lr4xaIrSpIjQMoZHq36l.5XU9lSLM261fIDF.21cxjlsMr2eqamyHwOa0U2
+ Zb17hkpx22NQRVQ3NR.B_hYj_XWB2TLZeLjrps_Z9chNx7JaGvrh2Zax_hE1ts2z6Exk2NCn6cw.
+ oUiLdalGp1OoD_p.C_fZ4KqZffUXEfPYkmrpRPWpL.wAmeph3xYL6SuR0N.W524fRFWUrcQ6btUs
+ qVU4Z_RN7l.te6sk4788ysDy85IZGcvtofYuCB8Aj9LIZ7rGCHupabWu4zKNBZr9w9b8PH1YRXHA
+ UB3nzY5jNLoqrW42ElWo.C4j_F2Xaiu3J4Lbbt027fNbAzjHK8DmgSqvI7MWBGTyxu9vbO9dRNHa
+ b4GCiZMJl11867rWHg9y53X.ej6GlPa7sSh2fMP0ix1Aez57uylCmzaD6MxgpKNTWPUzpegMXgVf
+ GoLMyQ4bCKWzcWzuiucYN7uLh84Eu4wTX6R1tCH2a1A..B9tCIUr4SCv70wKpHVCnMT4O.zSHzo4
+ xc9LuhO6nmMVhIE4ay4lKx5262.uH0I5Y7Q92J9BqL4CMKDACRKv.Ig7pBAJ8DX508EAlPLpz230
+ ifDbZvWbpEj4oUfk8tqvA8_Lpll62f3mm_iwV.j4CaxgFPPw6d1CKF7ZoZLfR2M6jQ33X_3jG0ka
+ KZ4jVbvDGiwOa_TPT93ty1y.WNAB6ss5aCneoEqBADjzeTmbI9qcxLBgPJe44qJgkFcJGkn_V0fD
+ botlbzHFmnOPBNo_ve49Y8jXa0PWTWha6o8D4Yg_i8jhibljqvN2QPbt1XowjXRRaLdJyplGzSGo
+ .mKvYumyff5.yuit5IfTJIDUTYFvkllcA40EfWfR9wmYCgbkAheLtusdQSmZRHo8TEa0el7qIRX5
+ OMDNiPvLUSCCI5HpZSdWMV30sjYN.No1g042MdgIkzEAOb6IhFl20hZq6ucUFc8e1wvhCQMrmAkr
+ 7TY1Ln8fYbn35k2o5YThFcm40P0dID3kq4nHwaxbJckqO0AQMz7GPOX2k07p68kNtfwPprhOcx77
+ TK_lWXREMd4ImM9Dqai_vQBJ.mpSeU_2MGKJB4Sy5UH6.6TaOFLA6o3Ztea6K3JQwJMkHovTwOP1
+ s5VMZ
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic305.consmr.mail.bf2.yahoo.com with HTTP; Thu, 2 Jun 2022 07:32:07 +0000
+Date: Thu, 2 Jun 2022 07:30:06 +0000 (UTC)
+From: MILTON MCKENZIE <ms60710444266@yahoo.com>
+To: B D2022 <ms60710444266@yahoo.com>, 
+	"Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, 
+	Ricki Roer <ricki.roer@wilsonelser.com>, 
+	"60710 BD. 153974" <bdincer66@icloud.com>, 
+	"Jennifer M. Provost" <jennifer.provost@wilsonelser.com>, 
+	"Kathleen A. Mullins" <kathleen.mullins@wilsonelser.com>, 
+	"Lauren M. Zink" <lauren.zink@wilsonelser.com>, 
+	Ellyn Wilder <ellyn.wilder@wilsonelser.com>, 
+	Governor Hochul <governor.hochul@exec.ny.gov>, 
+	Shari Laskowitz <slaskowitz@ingramllp.com>
+Message-ID: <2128114888.3394692.1654155006227@mail.yahoo.com>
+In-Reply-To: <16c5b0b4-4bf2-13c1-49e9-3fa6d346c993@yahoo.com>
+References: <b7a8c129-d99e-0e8e-92be-f33d5923b925.ref@yahoo.com> <b7a8c129-d99e-0e8e-92be-f33d5923b925@yahoo.com> <985644288.4725738.1654154309247@mail.yahoo.com> <16c5b0b4-4bf2-13c1-49e9-3fa6d346c993@yahoo.com>
+Subject: Fw: 16537-714-487-492, OMISSIONS, OBSTRUCTION, FITNESS, ETC.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3394691_1865611496.1654155006225"
+X-Mailer: WebService/1.1.20225 YMailNorrin
+X-TM-AS-GCONF: 00
+
+------=_Part_3394691_1865611496.1654155006225
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e=
+7858ddd8141fb86ebe43dceb017f6a?diff=3Dunified
+
+
+
+   ----- Forwarded Message ----- From: B D2022 <ms60710444266@yahoo.com>To:=
+ bo.dincer@yahoo.com <bo.dincer@yahoo.com>; ms60710444266@yahoo.com <ms6071=
+0444266@yahoo.com>; Yana Siegel <yana.siegel@wilsonelser.com>; WILLIAM BEHR=
+ <william.behr@wilsonelser.com>; Urvashi Sinha <urvashi.sinha@wilsonelser.c=
+om>; Thomas R. Manisero <thomas.manisero@wilsonelser.com>; Suzanne S. Swans=
+on <suzanne.swanson@wilsonelser.com>; Stephen J. Barrett <stephen.barrett@w=
+ilsonelser.com>; Stacey L. Seltzer <stacey.seltzer@wilsonelser.com>; Sean W=
+agner <sean.wagner@wilsonelser.com>; Roger R. Gottilla <roger.gottilla@wils=
+onelser.com>; Ricki Roer <ricki.roer@wilsonelser.com>; Ricki Roer <ricki.ro=
+er@wilsonanddicker.com>; ricki.raared@wilsonsdickers.com <ricki.raared@wils=
+onsdickers.com>; "patricia.wik@wilsonelser.com" <patricia.wik@wilsonelser.c=
+om>; "meghan.rigney@wilsonelser.com" <meghan.rigney@wilsonelser.com>; Lori =
+Semlies <lori.semlies@wilsonelser.com>; Lois K. Ottombrino <lois.ottombrino=
+@wilsonelser.com>; Lauren M. Zink <lauren.zink@wilsonelser.com>; Kathleen A=
+. Mullins <kathleen.mullins@wilsonelser.com>; "judy.selmeci@wilsonelser.com=
+" <judy.selmeci@wilsonelser.com>; Jennifer L. Sciales <jennifer.sciales@wil=
+sonelser.com>; Jennifer M. Provost <jennifer.provost@wilsonelser.com>; "inf=
+o@wilsonelser.com" <info@wilsonelser.com>; "hannah.king@wilsonelser.com" <h=
+annah.king@wilsonelser.com>; "grace.song@wilsonelser.com" <grace.song@wilso=
+nelser.com>; "erin.zecca@wilsonelser.com" <erin.zecca@wilsonelser.com>; "el=
+lyn.wilder@wilsonelser.com" <ellyn.wilder@wilsonelser.com>; "elizabeth.scod=
+itti@wilsonelser.com" <elizabeth.scoditti@wilsonelser.com>; Debra Tama <deb=
+ra.tama@wilsonelser.com>; Daniel F. Flores <daniel.flores@wilsonelser.com>;=
+ "curt.schlom@wilsonelser.com" <curt.schlom@wilsonelser.com>; "craig.hunter=
+@wilsonelser.com" <craig.hunter@wilsonelser.com>; "craig.brinker@wilsonelse=
+r.com" <craig.brinker@wilsonelser.com>; Corrine Shea <corrine.shea@wilsonel=
+ser.com>; "carole.nimaroff@wilsonelser.com" <carole.nimaroff@wilsonelser.co=
+m>; "aviva.stein@wilsonelser.com" <aviva.stein@wilsonelser.com>; Ashley V. =
+Humphries <ashley.humphries@wilsonelser.com>; Angelique Sabia-Candero <ange=
+lique.sabia-candero@wilsonelser.com>; "angel.vitiello@wilsonelser.com" <ang=
+el.vitiello@wilsonelser.com>; Andrea Shiffman <andrea.shiffman@wilsonelser.=
+com>; Amy Hanrahan <amy.hanrahan@wilsonelser.com>; "alex.kress@wilsonelser.=
+com" <alex.kress@wilsonelser.com>; ALDEN 00066govtIdx WILSON <alden.wilson@=
+maine.gov>; Alan Rubin <alan.rubin@wilsonelser.com>Sent: Thursday, June 2, =
+2022, 02:22:13 AM GMT-5Subject: Re: 16537-714-487-492, OMISSIONS, OBSTRUCTI=
+ON, FITNESS, ETC.
+ =20
+
+=20
+ On 6/2/2022 2:18 AM, Bo Dincer wrote:
+ =20
+=20
+
+=20
+ /S/ BO DINCER=20
+=20
+  On Thu, Jun 2, 2022 at 3:17 AM, B D2022 <ms60710444266@yahoo.com> wrote: =
+   =20
+state farm individuals FILED CRD =C2=A0=C2=A0=20
+=20
+=20
+
+=20
+=20
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7=
+858ddd8141fb86ebe43dceb017f6a?diff=3Dunified
+=20
+
+
+
+   =20
+  =20
+------=_Part_3394691_1865611496.1654155006225
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div class=3D"ydp1a84819ayahoo-style-wrap" style=
+=3D"font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px=
+;"><div></div>
+        <div dir=3D"ltr" data-setdir=3D"false"><a href=3D"https://github.co=
+m/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe=
+43dceb017f6a?diff=3Dunified" rel=3D"nofollow" target=3D"_blank">https://git=
+hub.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141f=
+b86ebe43dceb017f6a?diff=3Dunified</a><br></div><div dir=3D"ltr" data-setdir=
+=3D"false"><br></div><div dir=3D"ltr" data-setdir=3D"false"><br></div><div>=
+<br></div>
+       =20
+        </div><div id=3D"ydpb9be6bf3yahoo_quoted_4956958897" class=3D"ydpb9=
+be6bf3yahoo_quoted">
+            <div style=3D"font-family:'Helvetica Neue', Helvetica, Arial, s=
+ans-serif;font-size:13px;color:#26282a;">
+                <div>----- Forwarded Message -----</div>
+                <div><b>From:</b> B D2022 &lt;ms60710444266@yahoo.com&gt;</=
+div><div><b>To:</b> bo.dincer@yahoo.com &lt;bo.dincer@yahoo.com&gt;; ms6071=
+0444266@yahoo.com &lt;ms60710444266@yahoo.com&gt;; Yana Siegel &lt;yana.sie=
+gel@wilsonelser.com&gt;; WILLIAM BEHR &lt;william.behr@wilsonelser.com&gt;;=
+ Urvashi Sinha &lt;urvashi.sinha@wilsonelser.com&gt;; Thomas R. Manisero &l=
+t;thomas.manisero@wilsonelser.com&gt;; Suzanne S. Swanson &lt;suzanne.swans=
+on@wilsonelser.com&gt;; Stephen J. Barrett &lt;stephen.barrett@wilsonelser.=
+com&gt;; Stacey L. Seltzer &lt;stacey.seltzer@wilsonelser.com&gt;; Sean Wag=
+ner &lt;sean.wagner@wilsonelser.com&gt;; Roger R. Gottilla &lt;roger.gottil=
+la@wilsonelser.com&gt;; Ricki Roer &lt;ricki.roer@wilsonelser.com&gt;; Rick=
+i Roer &lt;ricki.roer@wilsonanddicker.com&gt;; ricki.raared@wilsonsdickers.=
+com &lt;ricki.raared@wilsonsdickers.com&gt;; "patricia.wik@wilsonelser.com"=
+ &lt;patricia.wik@wilsonelser.com&gt;; "meghan.rigney@wilsonelser.com" &lt;=
+meghan.rigney@wilsonelser.com&gt;; Lori Semlies &lt;lori.semlies@wilsonelse=
+r.com&gt;; Lois K. Ottombrino &lt;lois.ottombrino@wilsonelser.com&gt;; Laur=
+en M. Zink &lt;lauren.zink@wilsonelser.com&gt;; Kathleen A. Mullins &lt;kat=
+hleen.mullins@wilsonelser.com&gt;; "judy.selmeci@wilsonelser.com" &lt;judy.=
+selmeci@wilsonelser.com&gt;; Jennifer L. Sciales &lt;jennifer.sciales@wilso=
+nelser.com&gt;; Jennifer M. Provost &lt;jennifer.provost@wilsonelser.com&gt=
+;; "info@wilsonelser.com" &lt;info@wilsonelser.com&gt;; "hannah.king@wilson=
+elser.com" &lt;hannah.king@wilsonelser.com&gt;; "grace.song@wilsonelser.com=
+" &lt;grace.song@wilsonelser.com&gt;; "erin.zecca@wilsonelser.com" &lt;erin=
+.zecca@wilsonelser.com&gt;; "ellyn.wilder@wilsonelser.com" &lt;ellyn.wilder=
+@wilsonelser.com&gt;; "elizabeth.scoditti@wilsonelser.com" &lt;elizabeth.sc=
+oditti@wilsonelser.com&gt;; Debra Tama &lt;debra.tama@wilsonelser.com&gt;; =
+Daniel F. Flores &lt;daniel.flores@wilsonelser.com&gt;; "curt.schlom@wilson=
+elser.com" &lt;curt.schlom@wilsonelser.com&gt;; "craig.hunter@wilsonelser.c=
+om" &lt;craig.hunter@wilsonelser.com&gt;; "craig.brinker@wilsonelser.com" &=
+lt;craig.brinker@wilsonelser.com&gt;; Corrine Shea &lt;corrine.shea@wilsone=
+lser.com&gt;; "carole.nimaroff@wilsonelser.com" &lt;carole.nimaroff@wilsone=
+lser.com&gt;; "aviva.stein@wilsonelser.com" &lt;aviva.stein@wilsonelser.com=
+&gt;; Ashley V. Humphries &lt;ashley.humphries@wilsonelser.com&gt;; Angeliq=
+ue Sabia-Candero &lt;angelique.sabia-candero@wilsonelser.com&gt;; "angel.vi=
+tiello@wilsonelser.com" &lt;angel.vitiello@wilsonelser.com&gt;; Andrea Shif=
+fman &lt;andrea.shiffman@wilsonelser.com&gt;; Amy Hanrahan &lt;amy.hanrahan=
+@wilsonelser.com&gt;; "alex.kress@wilsonelser.com" &lt;alex.kress@wilsonels=
+er.com&gt;; ALDEN 00066govtIdx WILSON &lt;alden.wilson@maine.gov&gt;; Alan =
+Rubin &lt;alan.rubin@wilsonelser.com&gt;</div><div><b>Sent:</b> Thursday, J=
+une 2, 2022, 02:22:13 AM GMT-5</div><div><b>Subject:</b> Re: 16537-714-487-=
+492, OMISSIONS, OBSTRUCTION, FITNESS, ETC.</div><div><br></div>
+                <div><div id=3D"ydpb9be6bf3yiv2125830780"><div>
+    <p><br clear=3D"none">
+    </p>
+    <div id=3D"ydpb9be6bf3yiv2125830780yqt50816" class=3D"ydpb9be6bf3yiv212=
+5830780yqt0441268436"><div class=3D"ydpb9be6bf3yiv2125830780moz-cite-prefix=
+">On 6/2/2022 2:18 AM, Bo Dincer wrote:<br clear=3D"none">
+    </div>
+    <blockquote type=3D"cite">
+      </blockquote></div></div><div id=3D"ydpb9be6bf3yiv2125830780yqt71370"=
+ class=3D"ydpb9be6bf3yiv2125830780yqt0441268436"><div><br clear=3D"none">
+      <br clear=3D"none">
+      <div id=3D"ydpb9be6bf3yiv2125830780ymail_android_signature">/S/ BO DI=
+NCER</div>
+      <br clear=3D"none">
+      <blockquote style=3D"margin:0 0 20px 0;">
+        <div style=3D"font-family:Roboto, sans-serif;color:#6D00F6;">
+          <div>On Thu, Jun 2, 2022 at 3:17 AM, B D2022</div>
+          <div><a shape=3D"rect" href=3D"mailto:ms60710444266@yahoo.com" cl=
+ass=3D"ydpb9be6bf3yiv2125830780moz-txt-link-rfc2396E" rel=3D"nofollow" targ=
+et=3D"_blank">&lt;ms60710444266@yahoo.com&gt;</a> wrote:</div>
+        </div>
+        <div style=3D"padding:10px 0 0 20px;margin:10px 0 0 0;border-left:1=
+px solid #6D00F6;">
+          <div id=3D"ydpb9be6bf3yiv2125830780">
+            <div>
+              <p><font size=3D"2"><font face=3D"Helvetica, Arial,          =
+           sans-serif">state farm individuals FILED CRD &nbsp;&nbsp; <br cl=
+ear=3D"none">
+                  </font></font></p>
+              <p><font size=3D"2"><font face=3D"Helvetica, Arial,          =
+           sans-serif"><br clear=3D"none">
+                  </font></font></p>
+              <p><a shape=3D"rect" href=3D"https://github.com/BSCPGROUPHOLD=
+INGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86ebe43dceb017f6a?di=
+ff=3Dunified" rel=3D"nofollow" target=3D"_blank" class=3D"">https://github.=
+com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/commit/35b3050f3e7858ddd8141fb86e=
+be43dceb017f6a?diff=3Dunified</a><br clear=3D"none">
+              </p><div><br></div><div><br></div><div><br></div>
+            </div>
+          </div>
+        </div>
+      </blockquote>
+   =20
+  </div></div></div></div>
+            </div>
+        </div></body></html>
+------=_Part_3394691_1865611496.1654155006225--
+
+--TMMSG_747B5522_5A56_1642_0B33_B1A5C9DE32DA--
+

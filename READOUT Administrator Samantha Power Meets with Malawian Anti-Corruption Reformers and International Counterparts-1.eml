@@ -1,0 +1,625 @@
+From - Fri Aug 12 16:42:06 2022
+X-Account-Key: account1
+X-UIDL: AADdGZl4X9oeYva2UASfmLE/VEs
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.35.8
+ by atlas201.free.mail.bf1.yahoo.com with HTTPS; Fri, 12 Aug 2022 20:21:36 +0000
+Return-Path: <messages@subscribe.usaid.gov>
+X-Originating-Ip: [69.5.86.114]
+Received-SPF: pass (domain of subscribe.usaid.gov designates 69.5.86.114 as permitted sender)
+Authentication-Results: atlas201.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@subscribe.usaid.gov header.s=22q1;
+ spf=pass smtp.mailfrom=subscribe.usaid.gov;
+ dmarc=pass(p=REJECT) header.from=subscribe.usaid.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 12 Aug 2022 20:21:36 +0000
+X-YMailAVSC: LRSP63I3bBvu0MMY9rq1ouqNMXqtg7fg9KJbkBNnXPLKKgf
+ k2B6OzV6OOw1ygwsz6_GwThgP0FOPoo9hdex3gkCSER7jCpjNCNwPz_t3ddU
+ 3VWacwKzu6vPwzXDuKiSxHmEvVN.VNakEr5zBOWbMiVVtkVkRypUzVSXsrYo
+ D1lgi0yGCU8bY.PWS3ibrZr4V735c5Vs9UzGZe7olvUWQlxiDb8QKOVowN1B
+ O4JIIj8TJaCzjhh.losPVpIO1acyFII5lDMk4N24xCHWXFWazIZ0HJyZnHkh
+ ed5QXBkbW3ik50XJjxxQf3UkJJ1zBkp0VvlOWyt5uTxYAIcuwbB4WGpZReSo
+ fTiSZOR1xSdHK3W6I3ooaPX.hKt8M6oSwZ29_FSN7gOv3M26uwSxnw7VH7ZL
+ wF_02fokLWb..Wna2nABfdcAWhHo55sebDVjS1Cj646UhWwfSy8HEIgFd7zC
+ pgD9mAtcpyqhI7ivU5Y4fnsNQxXgMSubclz43.5saZcLvk1oThRAwi1ufeQc
+ v.e7QiaO.CjfxDg87MwHL1QPVKYxMJGWg.4PXcl4.02z9CnED9wH_0vzgqWB
+ MZyAhhLQ_GySRJ49yq2WD.2xtGCm7CkpVdKlFO0Juf.LW7dWjv6DhTzKYyxu
+ fHkVEAAK4rFUfRtt5sf_yVrGk7O9kYxtOyvCyPIaf17BLycy58NiTeUoidyz
+ 1kXul0Yhg4izwMcPHImj9G0RTbV.BXGUWEWZvJnKLBseZTBTGZ7dtLKP0JPO
+ qdvQooIIFkfHvO4rsxYl4nMO2bJbI_tP5.MT2pz3Pq4lxSSEnu.Wt5MabzSJ
+ x_.GVNpBIpL.vHmJjqoeG60PDLxbNEv_fOzqdRt2eHqy2WWKqSA31CdqtxJu
+ AXZEkK6QjgsG9Ml8xaW1bxLAgSczKjb7jhZowVIzjbbftBnIWR4ICMreu29s
+ zY553o9TJ7QcIs5_zNVDQvhCt1IaHh4QvVAi51fChyyKNcUrSxE1hZlJS8_b
+ fpzjpSFL_wW.BPBQIhn4gluA9VFadybjhW7xacXzjKh5E.B5MerA6lAKU13N
+ 6h6cZXeKIYB2CeFjgRagL8uBTRal8z9gfo5ewbJBQAUFV_AZAp1MHrC9U3Bz
+ zgUfJUEik61jnqiQfXgIgcbNRdQr70EGsEL6GRL8Mlls5VQpULISGCAfirt1
+ .wYMh3HuJb6hrIkqmDq5sYxwbNVrmTr_P87mfyyVXi__uztt5VE7PnkEFfuy
+ qJUjp7nF2SzWwY7PkyrkiKI0YfvYBG1uaT_.yHw21B7BSXoBM5ItnF4T4YX4
+ TU_VHf2junF7.4tAsil5l19EdZjLwAPWiibDoJZmQybiqd6DjmQau57WMIYb
+ sSNENnUUCexLe9h4IYBGLayw7jNZdeuXwtoGUBB4awiWu6jOgRkY3g.IO64Y
+ ePzyDoa_GS76Ua09yOprKv0CZT9vw4OO_AmeQsLEk5LYPkaiTRYaRoqd1Dmc
+ B0iwgBAC31XTTO53J9oaLBHKStVnF3hbeNTgf_QJPUDcw0HW_kcCnB8FHefy
+ Z5ZGnh12e
+X-YMailISG: qMAUmL8WLDuC_c59oaKmL4UWqcdTC4vm8zgs0KVOlFdi3jhl
+ RS35zewD4c_tzWk82.6RC0_TCh01TgK6ZPsgW1R4A25Z8aiuKQwdLBWWoPG3
+ lH08emaUcuG6E16.vojs8QmAD6rJEPeYnfykA_z8GdGMPRbGs7_od4IwqbGc
+ JrANoiEE549cj.TtZ9q.DFj2wWULI8S.KCAQ7G7I8sbb7LGhR3jFBTw7Fhaa
+ RE4TNrtb0IUR99VOMtXaZedWKz00ux51MM55GCc4rNXF.dJ27EqpqtNnV2NN
+ .USUUuCdKHEuA1_Mdhm5qvGmXEOVZGW2Me.BkNsBeNDPuZ2o0Ksn2QKpu3KN
+ OcbUx0gXuwzRu_zpoSAuYiEVB.cToKMyuzGGOBGjW9rB_Za6v9SbpxO8hxHU
+ FAZKFuZC9sZ75WeFEYi5_qGpYGFsntcyNnQ0JPGdA.Om3jNzcM.rNlMeg29S
+ o.2gKn6ai5EjCYKjEqvjwC8uRlsgJg_6oN73BvWu.a6C2D.5GvK3MQXRtUa8
+ Xf66aLg3bRiTVC_kAlbMfBFc8gkJnvcI4yHaKq.Z89k_IruL2cb4DuWhOkyf
+ bSoQafrpuq8Cgdc6h5T9WhYosOBMssY2I2qsQXDEKkelaOIglrVAraWXsi2F
+ NZNQAcGIbprXO8JyZwh5XCKhpDVSgNiIuOdtD.W1X18FLfZ11MZezDnIm4Y8
+ 66BO2wECyp.r7pCQ47FsNRSHuicJx8zMIdf5974VHGiw56ZpHZwECxaKvweC
+ 39M5RejDnWmw4ElUJ2nSy5jiPQlyJfF2WvqfA93DKbTYz0_uMJ21FXnsyCX8
+ SsCdznebBt9Ud8npxkgC7gXWC51LGDuNrIabr35LoF6HKReh8DlhohECJM5j
+ wfgzP0U7PxLhd_MzQUEBE5x_9YR5zJ2mY7zUv6Mla5zK9JdMwuyDtAtJnNPs
+ qkR7yRXGKOIjq8JazZXQQi9bP9QvUTE3tEQ1w0Obu_gVadmmEupJ29agLcXz
+ Xz3L3iF94EOMca2ppjkbq_zaBYUPKOtrwfCzPDiSzcMWPHPvzOW_2GxQG2uN
+ V.qyiMnfgt9Il4G36W7yXPl3uIFyIojPlSuzROgrffsMV5J0OgiSXffg_BVn
+ XM.KZfitLP3pxhWDvCEEfhIQJ3w4dSNoqDCMsh78uteQDCTGY1AoCU4pgs5E
+ QWubq2ofISLh.x9gpu9L59SXPrUIAEDKqyLXg.w-
+Received: from 69.5.86.114 (EHLO mailer086114.service.govdelivery.com)
+ by 10.197.35.8 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 12 Aug 2022 20:21:36 +0000
+Received: from gasdp-smeds3-3.systems.dc.gdi ([10.1.36.28])
+	by mailer086114.service.govdelivery.com (-); Fri, 12 Aug 2022 20:21:33 +0000
+X-VirtualServer: VSG002, mailer086114.service.govdelivery.com, 10.1.37.177
+X-VirtualServerGroup: VSG002
+X-MailingID: 16842334::20220812.62194981::1001::MDB-PRD-BUL-20220812.62194981::MS60710444266@YAHOO.COM::17378_0_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: MS60710444266@YAHOO.COM
+X-SMFBL: TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=subscribe.usaid.gov; s=22q1; i=@subscribe.usaid.gov; h=Content-Transfer-Encoding:
+	Content-Type:x-subscriber:X-Accountcode:List-Unsubscribe:
+	Errors-To:MIME-Version:Message-ID:X-ReportingKey:Subject:Date:To:
+	Reply-To:From; bh=hMIlFIZvdxtUN3Dw2dgthgP9aeDjzdCpdKQnRX0IbVI=;
+	b=kHLTzbfIYkIl7cNVXf7KrDhWRh+j5XgpNKWF9+ssTZeugPImIgSkexyorqy50j
+	zWMzHRNqY/abE5qUEF/+AJ2A11eHUzTXtwOmbRXEc98ulNixlFTQZKiBQCD3Lc50
+	O3fNi4GRFRgWfjAuIWas7whfWHrFs5puG6b9xqACP5FQ3nuZ0TB38esXKy/PfodD
+	oQbm7Fla2xoPgqdnre6p+9Ub/h86DuLYqKMDacZZoQjBAaixajyVyqkS4vbs9fMv
+	sLQgC0JxDvQ5Ox6hRx43t4bkNGgLLn9QVdX3AEYl4r+Ge7BzOx2yDo+VZTDnMTKx
+	MK9iLnMVymqSmiTL7xT/4VeA==
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_3A9_CB03_2A3DC235.03CAB05C"
+x-subscriber: 3.PCYCak/cTYjD7lWvUHeA+Q39waWQ11UWKiXo429hOSHiTyvuW9gMEwG59uL67KSrXMl1s0BjvaGNrA/8z+ry+s1gZV6xb4L0oT+5lW4wD9tFZ5MaMItx+Cg6AY0EeXLefL3MSaU/TqixEVBzKmXXpcsEjyVTIlX8UWLMCZSH/+0=
+X-Accountcode: USAIDHQ
+List-Unsubscribe: <https://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsubscribe?verification=5.74f3717e68ed4d7575b3b74776410aa6&destination=MS60710444266%40YAHOO.COM>
+Errors-To: messages@subscribe.usaid.gov
+MIME-Version: 1.0
+Message-ID: <16842334.17378@subscribe.usaid.gov>
+X-ReportingKey: MJJJ2EWJK997OJJ2A2VJJJ::MS60710444266@YAHOO.COM::MS60710444266@YAHOO.COM
+Subject: =?US-ASCII?Q?READOUT:_Administrator_Samantha_Power_Meets_with_Malawian?= =?US-ASCII?Q?_Anti-Corruption_Reformers_and_International_Counterparts?=
+Date: Fri, 12 Aug 2022 20:21:33 +0000
+To: MS60710444266@YAHOO.COM
+Reply-To: USAID-Press-Office@subscribe.usaid.gov
+From: "=?US-ASCII?Q?USAID_Press_Office?=" <USAID-Press-Office@subscribe.usaid.gov>
+Content-Length: 23547
+
+
+------=_NextPart_3A9_CB03_2A3DC235.03CAB05C
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+United States Agency for International Development USAID - from the Ameri=
+can People=20
+=20
+=20
+=20
+=20
+
+UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT
+Office of Press Relations
+________________________________________________________________________
+
+*For Immediate Release*
+*August 12, 2022*
+
+*READOUT*
+
+*Administrator Samantha Power Meets with **Malawian Anti-Corruption Refor=
+mers and International Counterparts*
+
+The below is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E=
+
+
+Today, Administrator Samantha Power hosted Malawian government anti-corru=
+ption reformers, Indian anti-corruption champions from Mazdoor Kisan Shak=
+ti Sangathan (MKKS), and a representative from the Open Government Partne=
+rship (OGP) to discuss anti-corruption best practices and priorities.=C2=A0=
+
+
+The meeting, which follows conversations that Administrator Power had wit=
+h anti-corruption reformers during her July trip to Malawi as well as sep=
+arate meetings with MKKS and OGP, included attendees Martha Chizuma, Head=
+ of Malawi=E2=80=99s Anti-Corruption Board and Dr. Jean Priminta, Directo=
+r General of Malawi=E2=80=99s Financial Intelligence Authority. Administr=
+ator Power underscored the importance of sharing global lessons to curb c=
+orruption and reiterated the United States=E2=80=99 commitment to support=
+ing transparency and accountability efforts.=C2=A0
+
+###
+
+=20
+=20
+=20
+=20
+ =20
+=20
+
+Stay Connected with USAID [ https://www.usaid.gov/stayconnected?utm_mediu=
+m=3Demail&utm_source=3Dgovdelivery ] Facebook [ https://www.facebook.com/=
+USAID?utm_medium=3Demail&utm_source=3Dgovdelivery ] =C2=A0 Twitter [ http=
+s://twitter.com/usaid?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=
+ =C2=A0LinkedIn [ https://www.linkedin.com/company/usaid?utm_medium=3Dema=
+il&utm_source=3Dgovdelivery ]=C2=A0 =C2=A0YouTube [ https://www.youtube.c=
+om/c/fwd?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=C2=A0Instagr=
+am [ https://www.instagram.com/usaid?utm_medium=3Demail&utm_source=3Dgovd=
+elivery ] [ http://www.granicus.com?utm_medium=3Demail&utm_source=3Dgovde=
+livery ]  SUBSCRIBER SERVICES:
+Manage Subscriptions [ https://public.govdelivery.com/accounts/USAIDHQ/su=
+bscriber/edit?preferences=3Dtrue#tab1 ] =C2=A0|=C2=A0 Unsubscribe All [ h=
+ttps://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsub=
+scribe?verification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS=
+60710444266%40YAHOO.COM ] =C2=A0|=C2=A0 Help [ https://subscriberhelp.gov=
+delivery.com/ ] =20
+=20
+=20
+
+________________________________________________________________________
+
+ This email was sent to MS60710444266@YAHOO.COM using govDelivery Communi=
+cations Cloud on behalf of: United States Agency for International Develo=
+pment =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 Washington, DC=C2=
+=A0=C2=B7 20004 GovDelivery logo  [ https://subscriberhelp.granicus.com/?=
+utm_medium=3Demail&utm_source=3Dgovdelivery ]=20
+=20
+body .abe-column-block {min-height: 5px;}
+=0A
+------=_NextPart_3A9_CB03_2A3DC235.03CAB05C
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">=
+
+<head>
+<title>    READOUT: Administrator Samantha Power Meets with Malawian Anti=
+-Corruption Reformers and International Counterparts
+</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+      table {border-collapse: collapse;}
+  </style>
+  <![endif]-->
+<style type=3D"text/css">
+  /* Make columns expand to 100% on small screens */
+  @media only screen and (max-width: 480px) {
+    .abe-column-block {
+      min-width: 100%;
+    }
+  }
+  /* Disables Apple clients adding blue color and underline to links and =
+other text */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+</style>
+
+
+</head>
+<body style=3D"margin:0;padding:0;margin:0;padding:0;width:100% !importan=
+t;">
+
+
+<!--[if (gte mso 9)|(IE)]>
+  <table style=3D"display:none"><tr><td><a name=3D"gd_top" id=3D"gd_top">=
+</a></td></tr></table>
+<![endif]-->
+<a name=3D"gd_top" id=3D"gd_top"></a>
+
+ =20
+
+
+
+ =20
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"gd_tbl_wrap"><tr><td style=3D"background-color:=
+ #EEEEEE; margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#EEEE=
+EE">
+<table id=3D"flexible-abe-main-table" width=3D"100%" align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; padding-top: 20px; padding-bottom: 20px=
+;">
+  <tr>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+    <!-- centered column -->
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"76932335">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-12f86e7d-4a69-43d5-afd4-9ce39d72223c" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-5e55bc5b-760a-4=
+f0c-b978-a3505d3b50ac-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-5e55bc5b-760a-4f0c-b978-a3505d3b50ac" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+76932336" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-5e55b=
+c5b-760a-4f0c-b978-a3505d3b50ac-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;"><table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;"><tr><td align=3D"center" style=3D"-webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;"><img class=3D"govd_template_image" src=3D"https://content.govdelive=
+ry.com/attachments/fancy_images/USAIDHQ/2021/11/5147570/logo_original.png=
+" style=3D"width: 189px; height: auto; -ms-interpolation-mode: bicubic; l=
+ine-height: 1; outline: none; text-decoration: none; max-width: 100%; bor=
+der: none;" alt=3D"United States Agency for International Development USA=
+ID - from the American People" width=3D"189" height=3D"59"></td></tr></ta=
+ble></td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"76932378">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-a452e389-6429-48af-b56d-b92cba84d146" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-478dafc0-95d3-4=
+c40-a183-ed622d1c18a5-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-478dafc0-95d3-4c40-a183-ed622d1c18a5" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+76932379" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-478da=
+fc0-95d3-4c40-a183-ed622d1c18a5-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;">
+<h1 style=3D'text-align: center; line-height: 1.2; font-family: "times ne=
+w roman", times; font-size: 15px; color: #000000; margin: 0 0 5px;' align=
+=3D"center">UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT<br>Office =
+of Press Relations</h1>
+<div class=3D"govd_hr"><div class=3D"govd_hr_inner"><hr></div></div>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 1em 0 15px;' align=3D"left"><st=
+rong>For Immediate Release</strong><br><strong>August 12, 2022</strong></=
+p>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center"><=
+strong>READOUT</strong></p>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center"><=
+strong>Administrator Samantha Power Meets with </strong><strong>Malawian =
+Anti-Corruption Reformers and International Counterparts</strong></p>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">The b=
+elow is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E</p=
+>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">Today=
+, Administrator Samantha Power hosted Malawian government anti-corruption=
+ reformers, Indian anti-corruption champions from Mazdoor Kisan Shakti Sa=
+ngathan (MKKS), and a representative from the Open Government Partnership=
+ (OGP) to discuss anti-corruption best practices and priorities.=C2=A0</p=
+>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">The m=
+eeting, which follows conversations that Administrator Power had with ant=
+i-corruption reformers during her July trip to Malawi as well as separate=
+ meetings with MKKS and OGP, included attendees Martha Chizuma, Head of M=
+alawi=E2=80=99s Anti-Corruption Board and Dr. Jean Priminta, Director Gen=
+eral of Malawi=E2=80=99s Financial Intelligence Authority. Administrator =
+Power underscored the importance of sharing global lessons to curb corrup=
+tion and reiterated the United States=E2=80=99 commitment to supporting t=
+ransparency and accountability efforts.=C2=A0</p>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center">&=
+#35;&#35;#</p>
+</td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</td>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+  </tr>
+</table>
+</td></tr></table>
+ =20
+
+
+<div id=3D"mail_footer">
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"ce=
+nter">
+<tbody>
+<tr>
+<td align=3D"center" width=3D"100%">
+<!--[if mso]>
+<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style=3D"margin: 0 auto; max-width: 600px; width: 100%;">
+<table style=3D"background: #FFFFFF;" width=3D"100%" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"font-size: 13px; text-align: center; padding: 20px 0px 10px;=
+ font-family: arial, helvetica, sans-serif !important;" align=3D"center">=
+<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2l=
+kIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNjIxOTQ5=
+ODEiLCJ1cmwiOiJodHRwczovL3d3dy51c2FpZC5nb3Yvc3RheWNvbm5lY3RlZD91dG1fbWVka=
+XVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.yVbWOol42VGwMxByYqz7jTJGxHv=
+IEzYhGcfsB1B_lzk/s/2591266048/br/142535135325-l" target=3D"_blank" rel=3D=
+"noopener"><font face=3D"arial,helvetica,sans-serif">Stay Connected with =
+USAID</font></a></td>
+</tr>
+<tr>
+<td style=3D"padding: 10px;" align=3D"center">
+<font face=3D"arial,helvetica,sans-serif"><font face=3D"arial,helvetica,s=
+ans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRp=
+bl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4M=
+TIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vVVNBSUQ_dXRtX2=
+1lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.qPzKPgftPklgc19U_DUqOmO=
+oZUGRiiKDkq5CCJWj32s/s/2591266048/br/142535135325-l" target=3D"_blank" re=
+l=3D"noopener"><img src=3D"https://content.govdelivery.com/attachments/fa=
+ncy_images/implementation/2016/02/754187/facebook_original.png" alt=3D"Fa=
+cebook" width=3D"25" height=3D"25"></a> =C2=A0 <a href=3D"https://lnks.gd=
+/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjb=
+GljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3=
+R3aXR0ZXIuY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1nb3ZkZWxpdmV=
+yeSJ9.FGa7I4NfJAIR-addjDOzPxfZD2QRNNbP-fSfOMgkwQQ/s/2591266048/br/1425351=
+35325-l" target=3D"_blank" rel=3D"noopener"><img src=3D"https://content.g=
+ovdelivery.com/attachments/fancy_images/implementation/2016/02/754151/twi=
+tter_original.png" alt=3D"Twitter" width=3D"25" height=3D"25"></a>=C2=A0 =
+=C2=A0<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9sa=
+W5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNj=
+IxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS91c2FpZD9=
+1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.pIgJRd4hre-bOrve5=
+MtaAcOQXsFI9eLfOugTN2eYlIk/s/2591266048/br/142535135325-l" target=3D"_bla=
+nk" rel=3D"noopener"><img src=3D"https://content.govdelivery.com/attachme=
+nts/fancy_images/implementation/2016/02/754194/linkedin_original.png" alt=
+=3D"LinkedIn" width=3D"25" height=3D"25"></a>=C2=A0 =C2=A0<a href=3D"http=
+s://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaS=
+I6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJ=
+odHRwczovL3d3dy55b3V0dWJlLmNvbS9jL2Z3ZD91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3Vy=
+Y2U9Z292ZGVsaXZlcnkifQ.BNvbsCDS3MvZCHFTbx7GXCpRIlvZNCEW-uPdncX9Tao/s/2591=
+266048/br/142535135325-l" target=3D"_blank" rel=3D"noopener"><img src=3D"=
+https://service.govdelivery.com/banners/GOVDELIVERY/youtube.gif" alt=3D"Y=
+ouTube" width=3D"25" height=3D"25"></a>=C2=A0=C2=A0<a href=3D"https://lnk=
+s.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwM=
+jpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwcz=
+ovL3d3dy5pbnN0YWdyYW0uY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1=
+nb3ZkZWxpdmVyeSJ9.lMO5WzU40ynfsYfTMb3Hig8HfS3VfHHLDlqDx6nwl2g/s/259126604=
+8/br/142535135325-l" target=3D"_blank" title=3D"Instagram" rel=3D"noopene=
+r"><img src=3D"https://public.govdelivery.com/attachments/fancy_images/GO=
+VDELIVERY/2021/03/4237093/instagram-logo_original.png" alt=3D"Instagram" =
+width=3D"25" height=3D"25"></a></font></font><font face=3D"arial,helvetic=
+a,sans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZ=
+XRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMj=
+A4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwOi8vd3d3LmdyYW5pY3VzLmNvbT91dG1fbWVkaXV=
+tPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.f9KVu7-MB6Fw3Zgc4MMO_0AurC2uN=
+bngeDscWV6geSY/s/2591266048/br/142535135325-l" target=3D"_blank" rel=3D"n=
+oopener"></a></font>
+</td>
+</tr>
+<tr>
+<td style=3D"text-align: center; font-family: arial, helvetica, sans-seri=
+f; font-size: 13px; padding: 10px 0px 20px;">
+<font face=3D"arial,helvetica,sans-serif">SUBSCRIBER SERVICES:</font><br>=
+<font face=3D"arial,helvetica,sans-serif"><a href=3D"https://lnks.gd/l/ey=
+JhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDcsInVyaSI6ImJwMjpjbGljay=
+IsImJ1bGxldGluX2lkIjoiMjAyMjA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3B1Ymx=
+pYy5nb3ZkZWxpdmVyeS5jb20vYWNjb3VudHMvVVNBSURIUS9zdWJzY3JpYmVyL2VkaXQ_cHJl=
+ZmVyZW5jZXM9dHJ1ZSN0YWIxIn0.Tn0SeaZUn7znmkVobiKx6j0QcRhsWlv9szgjddmvA8Y/s=
+/2591266048/br/142535135325-l" title=3D"Manage Subscriptions">Manage Subs=
+criptions</a> =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1=
+NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInF1ZXJ5X3BhcmFtcyI6WyJ2ZXJpZmljYXRp=
+b24iLCJkZXN0aW5hdGlvbiJdLCJ1cmkiOiJicDI6Y2xpY2siLCJidWxsZXRpbl9pZCI6IjIwM=
+jIwODEyLjYyMTk0OTgxIiwidXJsIjoiaHR0cHM6Ly9wdWJsaWMuZ292ZGVsaXZlcnkuY29tL2=
+FjY291bnRzL1VTQUlESFEvc3Vic2NyaWJlci9vbmVfY2xpY2tfdW5zdWJzY3JpYmUifQ.Wksg=
+tYi14NiXIMQfHM0TC5Kt81IdxLds406A2zUo88M/s/2591266048/br/142535135325-l?ve=
+rification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS607104442=
+66%40YAHOO.COM" title=3D"Unsubscribe from All Topics">Unsubscribe All</a>=
+ =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxs=
+ZXRpbl9saW5rX2lkIjoxMDksInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyM=
+jA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdvdmRlbGl2ZX=
+J5LmNvbS8ifQ.iUI2h018cdqgDjfkEFt8a9aomtyV06FkJlavd5fIkiA/s/2591266048/br/=
+142535135325-l">Help</a></font>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<div id=3D"tagline">
+    <table style=3D"border-collapse: collapse; margin: 0px auto; width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding: 0 10px 0 10px;" valign=3D"top">
+<table class=3D"mobile-tagline" style=3D"border-collapse: collapse; margi=
+n: 0px auto; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"right">
+<tbody>
+<tr>
+<td style=3D"padding: 10px 0 0 0;" colspan=3D"2" valign=3D"top"><hr></td>=
+
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 0;" align=3D"left" valign=3D"top"><sp=
+an style=3D"color: #757575; font-size: 10px; font-family: arial, helvetic=
+a, sans-serif;">This email was sent to MS60710444266@YAHOO.COM using govD=
+elivery Communications Cloud on behalf of: United States Agency for Inter=
+national Development =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 =
+Washington, DC=C2=A0=C2=B7 20004</span></td>
+<td style=3D"width: 95px; padding-top: 10px;" align=3D"right" valign=3D"t=
+op" width=3D"95"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidW=
+xsZXRpbl9saW5rX2lkIjoxMTAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjA=
+yMjA4MTIuNjIxOTQ5ODEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdyYW5pY3Vz=
+LmNvbS8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.m16eZ8Y6t=
+8U9tNYFGwrDE2dU4LxpxdGIh3JkvyMVF-4/s/2591266048/br/142535135325-l" target=
+=3D"_blank" rel=3D"noopener"> <img src=3D"https://content.govdelivery.com=
+/images/govd-logo-dark.png" border=3D"0" alt=3D"GovDelivery logo" width=3D=
+"95" height=3D"27" align=3D"right"> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<style type=3D"text/css">body .abe-column-block {min-height: 5px;}</style=
+>
+
+</div>
+
+<IMG SRC=3D"https://links.govdelivery.com/track?enid=3DZWFzPTEmYnVsbGV0aW=
+5yZWNpcGllbnRpZD0xNDI1MzUxMzUzMjUtbCZzdWJzY3JpYmVyaWQ9MjU5MTI2NjA0OCZtc2l=
+kPSZhdWlkPSZtYWlsaW5naWQ9MjAyMjA4MTIuNjIxOTQ5ODEmbWVzc2FnZWlkPU1EQi1QUkQt=
+QlVMLTIwMjIwODEyLjYyMTk0OTgxJmRhdGFiYXNlaWQ9MTAwMSZ0eXBlPW9wZW4mc2VyaWFsP=
+TE2ODQyMzM0JmVtYWlsaWQ9TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00mdXNlcmlkPU1TNjA3MT=
+A0NDQyNjZAWUFIT08uQ09NJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm" WIDTH=3D"=
+1" HEIGHT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/>=
+</body>
+</html>
+=0A
+------=_NextPart_3A9_CB03_2A3DC235.03CAB05C--
+
