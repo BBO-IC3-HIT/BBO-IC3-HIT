@@ -1,0 +1,90 @@
+From - Sun Apr 17 11:33:56 2022
+X-Account-Key: account1
+X-UIDL: AIpj20x0bnmxYkJ4EwXzcHZSTbE
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.170
+ by atlas321.free.mail.gq1.yahoo.com with HTTPS; Tue, 29 Mar 2022 03:08:03 +0000
+Return-Path: <boboschickenandpoker@gmail.com>
+X-Originating-Ip: [209.85.161.51]
+Received-SPF: pass (domain of gmail.com designates 209.85.161.51 as permitted sender)
+Authentication-Results: atlas321.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 29 Mar 2022 03:08:03 +0000
+X-YMailISG: lseazFoWLDtpa51mcA8MlYis7XEBFAVc4lne0MVy2qhcXTtS
+ rwNQuUBBhLajRmjB8zRP_5itr9lA8e2On7cljk010NLIHNNCzh_wb5_gywtu
+ dHjDMBAmmwuW6LJRpEOoHfA7ry1UIeexawQw9oLSsr..HqJKQnxEpueHc7ZR
+ dxb8FOhIgsCgolkZjVmtH9U3L2FqyzinopzK5MDqaFkk..LOeiF5slNh277f
+ DqLO2_klcgoP_dLoRd.NZslHuu7D2N7lU3dIC3P8dHSsWvYrxdZTdaJqtcN2
+ hsbMg4DIggKvxy9LYTTqDUwOANiwvgK6BKldSBmegfbOgToo8Wt6kVvQieTL
+ juRTasTZLxdWV_yRrmXkWikl7gIifmi1ZQv7AxRlHxLxvCWC97_RWc5BakQB
+ Xg3MgYrfVrMAu3bRum0gLvmzMYUszuoWQ5M1y0ijcaYpY2ZDQhRWabSd3We9
+ S.IRKc.tsVHv9JAAvTs3R3LUfRYoQ0gXeltnz9gw8g.OYdsjD6IzN1x8h7SJ
+ 4lG9aJhKI62bwCK7WW_RiXsCKGvx8SbCDsKaynT5o8fBLkho.n6rm_QFGZlr
+ sKKWQjjmdW6pnaJXdkSsE_egPXG8jlv1vzN2kwJDW_djlIhI0ODKcv8VGVL4
+ KF5HvMXbGEobU4.WRFyJ9MaRAk6S0GwKBBepIgmybnAKVNH5MF4oQBoeaOZ9
+ Q0cK1qcvd4eUdF8ge1cEfozjrK1bEb64mCE70wjHpJS4ZVqdEPJA0sNOQMDl
+ rYzKnHlDhx_t.m40tBuyVTUbkaZ6ymE7xkUODFSgoqA5ncndOE4FW8vYWFEL
+ wRvx1m2ClyhZrscm4P3wpLIrqJ9CnYFw4gJl0nFrdSbVEm.yMW5rtv9AGBSV
+ Tn5FwVaKUwp2Ac8RShghd_0KZPYz8y68j6TPlNKf2j9KfoDp3X5qvDrB7Mql
+ NeeVoaZjDtxYTFhGkz6bFW0ox6JqpIN1I56gwTp3vxuYqgs43wcq7GwCTEZU
+ 2COzzxNvRjlFf7rdUaQKvCD59wfNIhrH3nXFSzIcnl8MqQXoTQ--
+Received: from 209.85.161.51 (EHLO mail-oo1-f51.google.com)
+ by 10.253.62.170 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Mar 2022 03:08:03 +0000
+Received: by mail-oo1-f51.google.com with SMTP id i8-20020a4a6f48000000b00324ada4b9d9so2890259oof.11
+        for <ms60710444266@yahoo.com>; Mon, 28 Mar 2022 20:08:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=xHeWk1hF0fuH6sSpkpV2c/2/1xepdE0hwaqv7rgKEyg=;
+        b=cXAZfxCMaioagg4saLY9Zt0qwF93vU5OLM+hauclXJicUa7PupW6SyzVM2jVYlJ3ky
+         ZRpYRMWqFcd3eMhRtAodeNRZf3yiM2Y4nghM8KzE8EpmHfn2VHoLNZc3zTdaFMdpDNHc
+         ZNnX/2OoCMpiafLuPzsg6weop6KKFR0WxylnUdLohNGdyToMchZnCubMsgOS4ufJEv6C
+         tUeWcQpupPwyY5UKSEYa2pwWKtrfBftA3herkLIeR3Mw/FTPFPu8llNiFMCLD85sFMaJ
+         vTmbh7QiAUz9grE8dX4G5Nh0T5n4AGiCO/nm0/0P6tcdvGBFEyMOLFxaUm9rbDpxILTc
+         jaIw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=xHeWk1hF0fuH6sSpkpV2c/2/1xepdE0hwaqv7rgKEyg=;
+        b=VtPEMPP9k9+rgQvwoawtarD+JhIwPFwMZ4XtdKLl2w+OTIHr08U/HGU3VRmc7EFmE/
+         I3rOAB+y589Jqtn4KbCykIfPY9jGkfg99Trur8vIFScIV1DCwylEIvID86YFCFn2Q6rB
+         PpRTQ3f+bhxdlBKRbe6DIj6DAGL1beeKzik3qhf6c1mqt5abcQCW8AM0dknokQGJGclp
+         a8EWoOFRiCJ/+L/gDf1bBtcScQlP8taE1IRdV0XU0UkxL/eKEbRTq7svUxRWmygp1qzC
+         uU1szT52VSrGZJSfzbOOyq/QTNteM18G3w4k+sdhw3L1GHtrWaEntYbi5zVthcvIGsFq
+         4CHg==
+X-Gm-Message-State: AOAM530kkuFlhSuTbzBIFug4CKREsLNgZsqbkY8j5kC4mT/La7+Lxmrg
+	uOTGqIgnruVWlEp5e0nu9Cqeu+eWqbX1EekzhB9uMddP
+X-Google-Smtp-Source: ABdhPJyvA/lexSHSnIA4mnDuKA1NY+p+Y6VBcqC2AUkshFFeGdG/9V6a1L/daxBJ8UDuBboIVovv0/U3CAw7BhsYZ/A=
+X-Received: by 2002:a4a:e1c4:0:b0:321:20f6:c4d with SMTP id
+ n4-20020a4ae1c4000000b0032120f60c4dmr243997oot.88.1648523281596; Mon, 28 Mar
+ 2022 20:08:01 -0700 (PDT)
+MIME-Version: 1.0
+From: B B <boboschickenandpoker@gmail.com>
+Date: Mon, 28 Mar 2022 23:07:52 -0400
+Message-ID: <CAHFkkL1hy33UWGBhdgy5Mn4UQpEFiP+NTfS5MjDbiUzRSughgg@mail.gmail.com>
+Subject: William Scott Lawler and Natalie Bannister (Release No. LR-25175;
+ Aug. 19, 2021)
+To: ms60710444266@yahoo.com
+Content-Type: multipart/alternative; boundary="0000000000009a836e05db52bc8d"
+Content-Length: 456
+
+--0000000000009a836e05db52bc8d
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.sec.gov/litigation/litreleases/2021/lr25175.htm
+
+--0000000000009a836e05db52bc8d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.sec.gov/litigation/litreleases/202=
+1/lr25175.htm">https://www.sec.gov/litigation/litreleases/2021/lr25175.htm<=
+/a>=C2=A0</div>
+
+--0000000000009a836e05db52bc8d--

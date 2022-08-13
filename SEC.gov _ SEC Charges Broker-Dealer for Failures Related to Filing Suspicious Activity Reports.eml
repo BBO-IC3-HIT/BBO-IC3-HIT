@@ -1,0 +1,90 @@
+From - Sun Apr 17 11:33:54 2022
+X-Account-Key: account1
+X-UIDL: AD3hltFw9iqdYkJzjQLmMNBxgIQ
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.167
+ by atlas304.free.mail.bf1.yahoo.com with HTTPS; Tue, 29 Mar 2022 02:49:19 +0000
+Return-Path: <boboschickenandpoker@gmail.com>
+X-Originating-Ip: [209.85.160.41]
+Received-SPF: pass (domain of gmail.com designates 209.85.160.41 as permitted sender)
+Authentication-Results: atlas304.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 29 Mar 2022 02:49:19 +0000
+X-YMailISG: xFdPtAQWLDumfzLg3lXKLrf6HDl4jaxYQS0Cz.sQzfRjAVG2
+ J4iAOuglpUQf6f2XnEwT0bwHcl_4YW9zGwZID8vzKxpoc30DA6CDQZIgtv7i
+ s4xNHWsdG8_Tz2KklUADfLgAUAxlJTuHgy7jI4GOff2zR5oNIjwZcc._nxLV
+ dXw2xgLVMrnh7EnvN1UrpY1jfm5xi6E5h8x6c3vl8.yJJlYf1kVQhFUQgsOR
+ xj8cRJ_nHQIIgcY3QpEBkReq92A4d7Upfmgn6nNV20szpFFUN9Xkz.R6DKdn
+ eNZoFWLhs4p0WmnznViE0lPKnlwlBU.8Escy77sMWdSadFU5ojdwgtD1cggN
+ q5DwXc4fxAjlnU_XUO9AevXGMlCd4LMsQOIhK4ikJcL_BemBMRaX1ZCTg9XB
+ vPStQuv3xOY7elStruk_WqMhth56sEkuEt9U6PrQwpypRgzYlK_asIpdXgAC
+ iogAtmWl0XDIuKU61ca4zyI3RbH1pDz.ixthBaVxlnUnjfZtPziOeODJ2Qw_
+ 2zI_TUxDCP.5RuSipP7sqnmUTcmxSCmfJtTcLbjk4lYKgsKFiZ1Imf64q98v
+ 6n0vggw.wW7QuDexvPYSACv71YuilaCKAr52j0qPsoKuinSAciGI9qNgpA_w
+ uxzUSEHuUdX5vWXFasg7pujHBZZbgSua1FGW0Q5gRCDkl11cNMxpp3i_jFtF
+ decR7otZLRnbFlFFLuwt_isnlM87y4j2x_XUhvbFdpM.PrywNdtyMifUvVpA
+ j9A4pr3WFZDjmPuY9Rhuk14Q50stwwuKbcMbylrHcxiu835J95Lk5BMOf90G
+ WEagExMH2Nobvoi4ZnNtUE9ABls9t0gpZfxHRqQOReF0ZlFDUREHV.P9VTQj
+ as8mAPcoJEFx4OJ6OoDWN91R61OxySKjXn1g4GUtN2WZLmpG9kctkSDZ5Gmy
+ iIYOT4z59iVg6HR5uqsAxtkkMjLLpCiQrIRdDWrBboEiGIkDpAjOt1B5gGTt
+ E5Wkfgwcour7Yjz1CYt1r6UP7qFd0zqaPEKeBEyrBeP68OK61GuSwZ7d7W_T
+ pgmEsyYiAfCYb_PLEG.nU799iQ--
+Received: from 209.85.160.41 (EHLO mail-oa1-f41.google.com)
+ by 10.197.40.167 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Mar 2022 02:49:19 +0000
+Received: by mail-oa1-f41.google.com with SMTP id 586e51a60fabf-df22f50e0cso68268fac.3
+        for <ms60710444266@yahoo.com>; Mon, 28 Mar 2022 19:49:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=GV6XsBkoSaeTEW/8EN3b9kJCnM1HIQggh2CKn2DrkfE=;
+        b=iysikRs+zls2xUIzMzJnkOO3x/6LnjRrzgQxuqx7XEDsMgO981g3Ns8ZMGjBzjuTLT
+         sfTc+Wdv54cqT2tVoqXe093OZbT/5VGq72WCrMp5dk3fWpoAnbCWKjFh9NCE/QKv9p6D
+         9/aL0IyCmDjY47qDoN916M0Ucn3PgkqGUr06G4tGXS89/1ThP16oYNH1Lfefs+rm8guR
+         dx9ZxbgNRgqFlFS8mS3dSY1WTvmc+vFcP8lPAq8lo7adwIDOTMtrs7hPxlVgNq7lkCqs
+         KcH3hLEUS15d/F74LhQnWQaap1pw/AnM66mcbjXlW5EZNDnxXOot/hXTmEOzdxu/5UKg
+         EzHA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=GV6XsBkoSaeTEW/8EN3b9kJCnM1HIQggh2CKn2DrkfE=;
+        b=s8g4P6ZqxwB6uvODMDW3BMzxOYUVaQy3hmhbuzeVIUmZhQV9cV/evDK4rG+B/cmh/N
+         37j8guVH56uISbOp1yRJfMjCTWfpOwyWtCVc422UKkVpFbLb8jQy9iq7l8WS1ErTRSrO
+         STgBfs+mxX4ePXRNQlbAjL7Fp43eXDWw4BnfV1eBJ2WiMcD4WkLXtm6fKGO+zVjAcK4x
+         Sw6iIdDHKDpzt2MJXe71CWx7Jcyq17NlfzFywBLTgWAbQGGv/AhyuNPLUnNEvCsl/zVc
+         quzYKPE0jk6JA/cRRzCpPjn6MWcC+DgVs2nuI3tnBWrY1S1pTAxyNrETsaDmkBc81KZw
+         TOnQ==
+X-Gm-Message-State: AOAM532REkLmBHD+YZD8sFjtKsiL5PhGLSEtjTYynGiN/r2NI33ceZje
+	Y7O8Yo3H4+OIk6pdLWNM/VAIfFs9W2Cqc6OCrgAoNKdG
+X-Google-Smtp-Source: ABdhPJwcUzbZ3rYls6aF6uR9E9NOHi1Qex0CJ7D7KW3xGOwyYG0uzJrCo1BIdmvTiuhzJtcosbVCZ/EJD7NSxmMtKzQ=
+X-Received: by 2002:a05:6871:a5:b0:d4:41d7:d341 with SMTP id
+ u37-20020a05687100a500b000d441d7d341mr1176614oaa.6.1648522158805; Mon, 28 Mar
+ 2022 19:49:18 -0700 (PDT)
+MIME-Version: 1.0
+From: B B <boboschickenandpoker@gmail.com>
+Date: Mon, 28 Mar 2022 22:49:09 -0400
+Message-ID: <CAHFkkL1obVxjyZoD-_s6hFyH=W8ph4MQX+CYu4aKbFyPmr6yng@mail.gmail.com>
+Subject: SEC.gov | SEC Charges Broker-Dealer for Failures Related to Filing
+ Suspicious Activity Reports
+To: ms60710444266@yahoo.com
+Content-Type: multipart/alternative; boundary="000000000000ae185005db52794e"
+Content-Length: 415
+
+--000000000000ae185005db52794e
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.sec.gov/news/press-release/2021-82
+
+--000000000000ae185005db52794e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.sec.gov/news/press-release/2021-82=
+">https://www.sec.gov/news/press-release/2021-82</a>=C2=A0</div>
+
+--000000000000ae185005db52794e--

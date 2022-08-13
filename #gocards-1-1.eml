@@ -1,0 +1,96 @@
+From - Wed Apr 27 11:57:08 2022
+X-Account-Key: account1
+X-UIDL: AJvZPEU+ve+qYmixeg4ZYJVncuA
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.152.8
+ by atlas205.free.mail.ne1.yahoo.com with HTTPS; Wed, 27 Apr 2022 02:59:06 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.4]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.4 as permitted sender)
+Authentication-Results: atlas205.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 27 Apr 2022 02:59:06 +0000
+X-YMailAVSC: h8iWPIw3bBtUlP.YWSt07Jq9iq8M4WRYopbj.MoHmBqIeLY
+ PBSHSbPJ_Aql1t_BR4ZLRkUOI5zzL7qY8dNK7luV43k.T4nWNt8kzEw3ElFT
+ DellSKmU4Nzt23l2J7kw5AbZBJErherAlB9Rb80MwTYieL7cDbxjCqYyqyme
+ hoOyby3xe4pSYKThZHp.7iEZQC6ln9UcvOH2iFBSi.JiML4tJZre1XEyNiWu
+ BL1Sk_D0rkTAYZzcL9f.Wxfd_D39eqM0uyqOZ6wmfs4mSav0RqQX8tfEoaZF
+ 1FvvV1ofTkvY1ZTIDcf8BMJ_JkPwpR5GgBbPisxcq2vyXNzxh8I1bTNp04GH
+ vQMwhgfOh5EaP0wl1GNkCQQDhUDN6wju4M18-
+X-YMailISG: Q1RBN1sWLDtn2IuA2I_kdSo_wXmissJcr9oLLZ7IjOv.eRG9
+ fn6PrP7D_SlMqqKpgF7Zb6u8jKrR5jrouYYP0MACwtFb7Li6hpT5Js5hB1Fh
+ tkOke4_kBJMkZNTXZAIM5h8f6PwbIz.B1f296x3LSDspJOw3k_uwlUzQQhpG
+ Vgov8x28fdv269wGnkud9VYjsp.xWy24bT62n5_HxA6ycCwpFe_YR105KVFz
+ vD5FqBJj5FPaADoHs5B1lcIGKYLgK19rHY7nv0NQOIttECv_VO958tLGeJPN
+ BigWyqkVgdCHVq4uqcS4LvVtFVfqdhQ.YQ5by0pk_ysKSNfEpH9cWYL98rRQ
+ QMymevNdqXRpSDrk0R3g.6MVnJeYTJ9xTch.rM.u70k4h8o8UQvE5oUBDK9r
+ MF.4SfIgKjZf9gS9.Nqk94tOFlNvKeZ9LYQGrxt6mniwiQuKfWQmQZSLcdAf
+ tG_q8xEx7LxYaUx5ZVQ5fyVLs8JVTF4tn8419cf6J6ZbIiwPgCwQ9B5bdmuF
+ f1GS07021BBVHgtZ4u_smHKEXqZnUIlDAS696zsitrt6VvA3.6rErK3rkBWg
+ QEWjMeE1HFX5VGExiiPfqpPusxX4hwKn8K2qUNDgxYgb.FjasAGO87Idc0Qm
+ Ko.Y_YFKSQGkI0Rwi6wK9ONbln864Kph8.gIDAxCPgg8AltGPMuvTzQ7OMNE
+ zPudiWWLdech2_uUgujq.vb9meOAVg8ps8HT_8Cyowd65PZbUd8TJH_tfeoJ
+ vDb3qDQLZqaow6TbgXoUOt.eUvrpYNGF9M03kR8URw4qtRklzfOypeoa7n4c
+ AgON7252Yl0sz_TdqnW64yWLhLrkwmnmexzQk0ryM4ImK3i1GqC_WmIZVFKW
+ AhJN8Jv4kArvOGJjssVC4uUvtpnTjTB6CCZ06bfJPn_kr1IfKunJuSl.TrQU
+ kxQzh0J7JmA9UFqREfQsl6qBw5VOewoLWq69F6YO5KwF1pGi3hmbzeXJ9lQE
+ UnUeO_BgiTKZKjmkdv0d4oZbj5robwk9moF3.LjywNDpyS7nQdrnDtTaXq4O
+ cUX0Z34Zcfxk1cSxIElNXGtfvD996FZPuK.sN4jqmFkl9h2kzKnlbovC1ZBo
+ siURJaTG1Nw9hcnKiUzQ29lV8oqdYsUkLMZAGK7tZ1pFk3hQ3liJ01gj0BQ0
+ JnZLQ66dyUSKpdlztr1RA75YT3HNNGPXZQLDapHh8OLu2neYTSwLlDVafnJ9
+ a_SyvRmPc_ol3FRi
+Received: from 166.216.149.4 (EHLO alpemg-mtmta01.wnsnet.attws.com)
+ by 10.217.152.8 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 27 Apr 2022 02:59:06 +0000
+Received: from ZALL1BMMSC01NFE002.wnsnet.attws.com ([107.78.102.29])
+	by bizsmtp with ESMTP
+	id jXsfntymQOQVtjXtSnecLM; Tue, 26 Apr 2022 22:59:06 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651028346;
+	bh=20Ck6Meihj+5skvPyBgLW45xU1CgYRSZ3eyX0YT4QDs=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=FyWdIYKzSSk3e1uuOetXwV/jA3kmWh/OMwIxWkoZo2tRkCspvz0cDJeK1aNISlqsr
+	 DGHq0pEih5DK8s3S+Rdomd+Kk9SrQ5SpJ4NLlnvnkAvWGeONGaki8VMFQQdlu6VeeN
+	 pgnwPK3/qmSX2YAn7/MEvfxbc6hath37Xj2p4OdY9Bc9ksu7HMvlZHpdDSqz9ZZPS7
+	 Ks0p+KnrNtHNjz7na6uNjPiiqULFcQVXgvpW7ELkFhe6UmnMHFTM7BOZBnTQTEKYxc
+	 BwhikrNnPkfLIel5bxWR8a+40+Md6vDGnL26Mx1ieb86Su4Oj0zkympsixFc8UGT4F
+	 ye50FjJRM0zTw==
+Message-ID: <jXsfntymQOQVtjXtSnecLM@txt.att.net>
+In-Reply-To: 1729124209.6840605.1651028346023.JavaMail.nems@ZALL1BMMSC01NFE002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651028338-167
+X-Mms-MMS-Version: 1.2
+To: tmc-corps@bloomberg.net, bcassese19@bloomberg.net, 
+	mediainquiries@point72.com, mshy2@bloomberg.net, 
+	mshy15@morganstanley.com, mstanley321@bloomberg.net, 
+	mshy1@bloomberg.net, info@kpmg.com, kerri.saperstein@morgansley.com, 
+	media@chi.frb.org, gs@gs.com, mediarelations@ap.org, 
+	bbrief@bloomberg.net, info@ey.com, tracedataservices@finra.org, 
+	bofamarkets@bofa.com, electronicfilings@ftc.gov, 
+	ms60710444266@yahoo.com
+Subject: #gocards
+From: 6462563609@mms.att.net
+Date: Wed, 27 Apr 2022 02:59:06 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_6840604_1649357067.1651028346023"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfDyTs1KsikDbLZz16eGSXL8FummiLFb50zzMRAjfLkueV7OeoZhrKPPYrWeLbNB59j7KhWK3/3FPIKt6Eq31s81gJSmGKFOQCh7a6fbtgRJup9DYvOEi
+ FgHkykN7eb75cR6CRQrjFUFBWL4VwNolttd2n8XtPU/wVNGO5xwPOvcg2gugpCQ/9/j1jbue+Kx6CGP5N4CokMirY3yEdXXxboRjpjgGVrP5FDGyi/R+3Faf
+Content-Length: 390
+
+------=_Part_6840604_1649357067.1651028346023
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3RyYWNrLzJaT3oyR3BCMUxPRVpUT1VKazhBM1Y/c2k9
+NG1NaHZUUGdUR21tcGxhRjd1QXNWQQ==
+------=_Part_6840604_1649357067.1651028346023--

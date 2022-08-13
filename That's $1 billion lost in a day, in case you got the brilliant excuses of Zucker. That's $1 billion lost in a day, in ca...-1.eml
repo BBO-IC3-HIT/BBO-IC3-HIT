@@ -1,0 +1,95 @@
+From - Sat Jun 25 10:48:24 2022
+X-Account-Key: account1
+X-UIDL: AAF0kdskPffkYrYw7QCkEFY6sOE
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.95
+ by atlas317.free.mail.gq1.yahoo.com with HTTPS; Fri, 24 Jun 2022 21:47:24 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.152.38]
+Received-SPF: pass (domain of mms.att.net designates 166.216.152.38 as permitted sender)
+Authentication-Results: atlas317.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 24 Jun 2022 21:47:24 +0000
+X-YMailAVSC: MxSd48s3bBtU8HLpwhaJTFNy9SVxip4GqhGC.fdhyJ_5IQj
+ elueW1RnXs91VfDoluOlj1VpIPr_BHDeNxbliNmwB9dyt1LFJBghi_yTPnwf
+ brPYaz_qsezcC93NxZBNklujUq988A.eIdMD7XmexT3.8Qp_KnwsI6mTisL_
+ epBijU7Lla4d0WNkDaEj5t9vvDX.qLBhN6.9Qx4eIslKAvHrC7GyR952YVnq
+ PmbGp9g8bhR6X3DOPS328EuOF_4EsAkBhOWj87UqbtKW0xOylpc1dnHJA5ot
+ wGVYgyOwRdc19yi2pCF8Wg_Fvd_UxEGA_VqHXBwJmJRCB0K67T0PHAaFyGG4
+ .
+X-YMailISG: AMj1mwkWLDvZMemK7QaUyArVqbzk8pn9keHbVzH2EOyLu14L
+ YEgnKU8i4PLlLE8xhceVoXY3LRneTgGm5qJA8Cgcab.id2RULZ899OKUSbOY
+ GIsa5IdfN0Wt6g6FK8O07DNftkrKgetRnkt3Fv3NGg18o8SkZHdxMihlFWr0
+ .F7LC6eb8llWbU0IjN.ZRLFhaFM6sSinaUeDcGnnnnf8ptMZTD95NUxmn71H
+ JGjmTsWHvIc..9ctG7u4pQfk6yOV.wOBfSLLAQmwU4VuPW7_DTQ85nqHdYqg
+ J.uTeGAeY9_8H_TJp3Xr2wJR3psnFhXCr8K2bYlUgvoVSw9rZvP67Q7S2TXE
+ 28VPu2Jcf67xWMOS0n3IN6gQE2Bu3M490n3aTtGdDBpO1ZU06HcQqDDaldfp
+ Jc91EWgjCrV0P61DML6BH7NquhB.IDWayQsnJRSBHhK14MXFWCOTZ.ynhooR
+ T9qSU6m_TVV0QsmDkVZ8wgq.5IjAjFJ.Icxl3crGfiUnjJe6hQFpFeGFE.zW
+ Pdl2bGDiqm0sO4RQ28iXiGsw9LffD7tqQcASz6qFHhXrmW0Nb4fdGEDy8ex6
+ V89DNrNbJi5zCHO444euPQsGHQOwOVtq2QCKOvET.urX49brM7hEVb2bLsag
+ l3J3iLr9cwJvq1LY9Z96th9Vwyr1ujoTsGfm1vkJ8WTArC0EuORuYkFmJxUL
+ Reb.E28XT8SeqYAGOZ9WnJPsJ049KGPQt_lHCVvUwdC._bXq.aggkouMCAcF
+ 5VIAojhmEReGttvXAy_nl8C_y211ET66BFM2bAWzrUkNiKRqW_kCL13vGFn3
+ kZ1IIx3hYmApEioVFlb32m17Ox4MsQsL65nkMk.dgNwLXMAlM.YrYHuASKkO
+ pYv7VrISFebV3rIOPCfNt3UA7Q5U8sb5ebsFS3eaHxKr68ZtnbhIy0unkoyQ
+ 3xAHrD.P0iDb32fvhMv_viVJpq7gLaAWdXtHmfEp65R9I_ClNuWHSqh0aBus
+ JaNfZKnOg3LhCih8xrLsXDC2wSM3o78D4pAmYcZ7UBWC7gjipans7WV.V5aq
+ ROcU7WMY9Ee0HHhWOTUL_rAJmD9ffl1hiyvIFbs1JuIRA7Y3YIdOi2_xe5zG
+ wUkHeltgDv7ZCcAb
+Received: from 166.216.152.38 (EHLO stcceg-mtmta02.wnsnet.attws.com)
+ by 10.253.31.95 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 24 Jun 2022 21:47:24 +0000
+Received: from zbot2ammsc01nfe002.wnsnet.bot2a.tci.att.com ([107.79.70.24])
+	by bizsmtp with ESMTP
+	id 4pGCo08mNVp324r99o4Np5; Fri, 24 Jun 2022 16:47:23 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1656107243;
+	bh=YYbXo26D/7whRfUY33uRtmzAVilXvc4Dd/HmquQpkRs=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=igf/RpIKybpIYuPG3wR00HiwwD8qMLNP+urBSam12u2cFzbP0Jz7oviMCBDZY+5E2
+	 MFekQBPmiGUwS/29v+Mt4uE7pvHI78XmaWKIp63e6tMBUn6EHcPtWgofrJXvn+eLcb
+	 4VIc6ZSFwGJOdNYsD5UMDynD5G5PfTaR85T1VglFyDeEMfTyvWdarQmvqHvKc9s9T6
+	 63SKIDBo8hwswlkwg1tt5GpewCpOZbcrfaDUilrdSwjHDKZYm4FL1MAAT0KX7IBY7/
+	 u3k1CkWsbWFXHdvy2np/4+Wr58GfPzd037ulOMz2+j38LdcJJUFwLwxZLW99T+BQqF
+	 utekEeC0nIQgg==
+Message-ID: <4pGCo08mNVp324r99o4Np5@txt.att.net>
+In-Reply-To: 743329490.202661182.1656107243146.JavaMail.nems@zbot2ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1656107235-11
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, publicinfo@fdic.gov, oighotline@fdicoig.gov, 
+	asbpolicy@fdic.gov, assessments@fdic.gov, assetmarketing@fdic.gov, 
+	careers@fdic.gov, Depositorservices@fdic.gov, efoia@fdic.gov, 
+	mlowe@fdic.gov, OCMgmtGrp@fdic.gov, realestateforsale@fdic.gov, 
+	Regs@fdic.gov, supervision@fdic.gov, astubbs@feddirect.com, 
+	ricki.roer@wilsonelser.com, ashley.humphries@wilsonelser.com
+Subject: That's $1 billion lost in a day, in case you got the brilliant
+ excuses of Zucker.  That's $1 billion lost in a day, in case you got the
+ brilliant excuses of Zucker.
+From: 6462563609@mms.att.net
+Date: Fri, 24 Jun 2022 21:47:23 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_202661181_372941430.1656107243146"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfIF+Ge3iMlO4i4ruR936EZctx2VRCELDgCX/PFblgw6RCOe9O8effwWYhkHppqfJk+IptnTB9I4UD2V+ZfuOsQFJAaOzq/G+C9e8zymOR4SGvI7bBELn
+ fgesHsrrLguNQwRsS+01mfwpUaTqeWbqZg0A4BmMigklG/M/fIIfnH80LCXuUGegu5jNXXNOXn2RCxIEOYvbPhv6NGiGNF+XmKocoXyHGh2EPAcARwY9iM1Y
+Content-Length: 505
+
+------=_Part_202661181_372941430.1656107243146
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+VGhhdCdzICQxIGJpbGxpb24gbG9zdCBpbiBhIGRheSwgaW4gY2FzZSB5b3UgZ290IHRoZSBicmls
+bGlhbnQgZXhjdXNlcyBvZiBadWNrZXIuIApUaGF0J3MgJDEgYmlsbGlvbiBsb3N0IGluIGEgZGF5
+LCBpbiBjYXNlIHlvdSBnb3QgdGhlIGJyaWxsaWFudCBleGN1c2VzIG9mIFp1Y2tlci4g
+------=_Part_202661181_372941430.1656107243146--

@@ -1,0 +1,91 @@
+From - Sat May  7 14:19:14 2022
+X-Account-Key: account1
+X-UIDL: AMPehwhiCA6uYnaPugsIOAKbpLg
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.88
+ by atlas210.free.mail.gq1.yahoo.com with HTTPS; Sat, 7 May 2022 15:26:50 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas210.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 7 May 2022 15:26:50 +0000
+X-YMailAVSC: ulHCvtw3bBuozDsuHO7YGOtbME0AAgIvLV92IRItIhv.HZF
+ YhSS1_7nVWO3oEo1lplpwuUw.S3LxbgfMIWC.3eUZ6qcEKt8OVbvoS60JC9b
+ KX4NWGrzLJ.4clCBQB50kyI0D4zpy9.IHepGNjI5tAXtqZFiRQfHUqTgIBK_
+ Mb3xtBLSVkTyA_w9t0nFEfyJe_DHtbIjCZMM6tshior8X1W1pSFYVGLPnWAP
+ dRty13xEK1thxB.ONfCHbNEHNTjGyOL1B1TaTCj1uIFRUrqB9qbZ4JGECp9e
+ 8ybTihIUp.j31x.5MAXH0IFg22o.pkGBAsKbIX8wogp15ef6MSYnxPpd2hof
+ lSWzHukvqmsqyMy9fJ_1FdB0mqotJ38QjVDw-
+X-YMailISG: SPnYGLYWLDtU4mLt4xN8DMuHzvLp41xY5p0frwlSAmHJINX_
+ wGLvCj.07hB9S8UFfva3Qnx9hQl.MWdAZTAq_usSB5.wvoqPIXqiAPyTyfAZ
+ TycVgBbXsqLarRcjvT.gnnDxEE3Xdzg7zbnyR5EEwpNKCU0lYMfTdHEDOl5r
+ ryxIc9nnSw2U1FZap0.0plz63j7BTS9ucy2nKzaWVGIwjEXf_oUuXbklgvAW
+ YmLZ.DzKI5Mr8N.P2ap_bm3tsBwog3Yf7Q7VVntWLNLKu5SqqhqvkUM9OOn3
+ WL0XpLyFY93_03RpvzJW8ocGH81rPJwBEmPUtOsrvNKNeousx5dksxO.Glw4
+ .WvLL2J_drCTWZzCF1YpxhYqKiNuh819W8zyAIiRAUvbHgG1hBYjdVJtWu0t
+ XLWAcrP.b_KseS9zzuAGoibtmsa1eyh9nyuwCNLDEQrPolBtt00wb5BJ4.sL
+ 8ECTN1X1xEiuBfe8RYxOgXccCp9vz4dJ3Gdiotz6DFn.6iDwXO2Xmv47.UjG
+ wP1iUnMbMmC0IMe3ctWsZbp0EKt0izmNNIY2Uq2aw4P.aOP7EnkU4i_Rgccz
+ yN5vUYPvz2qZ7pc0JWqJed.GhXgVRHElqK46isnbiPu5RDX4Nl5bjarBR83q
+ ZixccROmv4.qQlK0XWpLyRAIFzDCg5mPiaaSvXmKrE7uZxvyrDOR46RgPQik
+ 8qbK3atiSj_qmYAGKiQDlo4Wa24XS6T0TJtfWFFBiTOvQhhfqwNu2bcQRTzG
+ s_kDwE5hlGKWtzs4tzftyMwN2_KN6TuI.YDWS9By4nYtCE5PW1EiCo3jc66p
+ 3VD_YHdMFFDNEr4WfdH7Of99Kg2bM4FgpgfqR2__2UGqDETtueyBFeACdOqm
+ aHRWZFovGc8c..1LRr.mVXS4xwPJx84uy4U1Ey0zpRHHc0KXNbjPZpyd5K6k
+ o_Lf3g6kgj.WVwpB2JwU6TDiWV36kV248K6gQ.ZE2iJ6oCOsZiveV8OzAQYt
+ AaTnnBr4gwQyGyHHZuJmBluIv1ioay03ztU_WHanldlSJJZ5YUusgG9Hm_N.
+ G8e8z7adl_FuElFgAmZ1E1tDnikQi0ovXOKk7nAFJ.kH.CsPqOf5deoaY2WP
+ URQ-
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.253.31.88 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 07 May 2022 15:26:50 +0000
+Received: from zwhp1ammsc01nfe002.wnsnet.whp1a.tci.att.com ([107.78.102.27])
+	by bizsmtp with ESMTP
+	id nMEcn2chkBkeSnMKXnhOB5; Sat, 07 May 2022 11:26:49 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651937209;
+	bh=R4SUyIZjNyNdew6jQ6GVtiV3kSk23zLtd3lVyC1LVQE=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=g9s5+1VOw10STtnIQvxvfV5z/LXy5e0lgRnfd4AicckjlF4zKZMslO1CLU0aqeLps
+	 O1ApyvAxc4FRR8NZS+AL6yF/YGMkzuGgol0NeUBgKMK/LXeHYbrk/1LYjrdmT1sZ01
+	 qWR5b4pUZBwUA86vSfSAPg3dczyxsXqmpmCGPK3oB089ARGrZMME989AGB380UhPZo
+	 C4qiJF9NM7pdd+iXx3ts9ZgJFh+8RZXnGARzg+vhfjvJvCdVugMNlU9RSPG70Ztn5v
+	 1i7Y5eCYlZVYKGMQrV2kVslcyqR0YW+S+8HeAgxw9oU9CRuzoTsGe6pvxLkQGPixSA
+	 tCOjyu4CGtRUA==
+Message-ID: <nMEcn2chkBkeSnMKXnhOB5@txt.att.net>
+In-Reply-To: 1441139480.112230712.1651937209458.JavaMail.nems@zwhp1ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651937208-53
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, newyork@sec.gov, bbrief@bloomberg.net, 
+	tips@nypost.com, tips@latimes.com, pronewsletter@dowjones.com, 
+	wsjprosupport@dowjones.com, iceglobalnetwork-info@ice.com, 
+	bcassese19@bloomberg.net, praghuram2@bloomberg.net, 
+	inquiries@point72.com, tips@nytimes.com, premerger@ftc.gov
+Subject: https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV
+From: 6462563609@mms.att.net
+Date: Sat, 7 May 2022 15:26:49 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_112230711_1444432670.1651937209458"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfEIj4mtHUvyFKbvIHGlkjhnCeWKZmTNcLAhDnwn0Ls9BjHB9qcsuqVACH03YO34RJw44YYyX/+DVPkTkMrc6tIh38le45SHpUgxnc2107GN54IjeJ3fA
+ Woh9oq3Kr2RM+5cB9vAajcJjvn36XCVx/T+C3O8BitJtZPnRCIHxAKUgkd0GmBvvI2kENu0f+2B6OahLn6mISrCba6dOifMp2/ln/jhwzQUIZqc7DyXSwM4+
+Content-Length: 386
+
+------=_Part_112230711_1444432670.1651937209458
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9naXRodWIuY29tL0JTQ1BHUk9VUEhPTERJTkdTTExDL1dJTFNPTi1FTFNFUi1ESUNL
+RVItTEFTS09XSVRaLU1PVg==
+------=_Part_112230711_1444432670.1651937209458--

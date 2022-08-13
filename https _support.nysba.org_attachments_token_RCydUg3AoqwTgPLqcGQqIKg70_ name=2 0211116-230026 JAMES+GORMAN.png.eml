@@ -1,0 +1,95 @@
+From - Fri Jun 10 16:39:42 2022
+X-Account-Key: account1
+X-UIDL: ALX75isTs3AwYqNmjQWRyA4XLwg
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.206.155.40
+ by atlas110.free.mail.gq1.yahoo.com with HTTPS; Fri, 10 Jun 2022 15:43:08 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas110.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 10 Jun 2022 15:43:09 +0000
+X-YMailAVSC: 2nvUwfs3bBvWwlV49nZhsFLp4ZWhdXnig4a7iUJdhZTB1HI
+ I9hkmJnsflg.ILeyQKpzNGlS_gqGcDobViw7EKSEMg4f2_lVRP1dSXd6zRG.
+ kbJAH_v2NPHaqrtMvN1Vb8WrrVZuB8I7gsUhKNxzRAgbGnIH2Kg_xea_FtDq
+ gjoE8yOs_bAb21STrS3F1hAj9AFI4_gRN.kCpy8ZBDeHzVcZLw9KU0jmJs5f
+ 5uKlN0ZpvJggL9LcmFxch4zfTemi2EG2CzGgr7Z_5mjutLTbgfbfLj7VnuMc
+ Ds8etB2RwI93g0oheVOjLgi_DK4TIZd.bgoajZfEmNM0CJU4nvI9cG31fG20
+ BrfTlfyB6tYFyWD6hGZtTy4N_S9qNehN_jiIuEg--
+X-YMailISG: ifY8pq0WLDvoexBOmQp9Tx2MneHIvy3k3mTFwlS9XRHyLZS.
+ w4GaRdfKPM7jVABWU7HGAt.p5hEJVF5J_Z2RiybFYUZxuh2Md1V6SO7ORDt.
+ OBugs8RfnVTjo6PlC0IaYywZQmO7OetH7n7a0qASDRCOoKTRIUYIBw4b97Sw
+ GZk8qeGr4OBwe0Ui0qpawzssN12aw1oMEm0hijBFgMCU9zfblD5XB9btudhi
+ pqbrgamc4bKTzMKeDcb0EQSi_vuBk3q7Zaqa._RniM1Kh3HGrgjRjt.3F6tz
+ Aj8zKSHbks6p0ACBGAI3LOUddiH1QPc_VgOYhX87ciwP_osBfc38TYmu71LM
+ HM6guYK2nml7bJK.ZGje.Yn_7.SZ2LxpYu67bp9wxAXBPC73dNG3dKS06ofF
+ xDOBAOHc1.BAvn7fhVjiSqVwKHMGCUI2GIYXp5HU3JRn2kpA_a6wjiP8oCaN
+ ..yTiJJ15OhrXDw1O7sI8k1z6p0L5Hm_lsGaTv78TvdOa._AKw6NpwQJ.kot
+ l2kZprc9G9N6S5N1yOOp03D7okRJxehY6maf3iQRImDP4hxgIqUzdF_uL8DF
+ z9tLTV8m55nD3Hv9zzd1Z0BpdAljgY.17dlb6vlT1Sw0XBszd.bdxBHUqAbw
+ pBmpS8FNSr5kKI9Innlgff7zRGx2QM7BFdIe8MnBvcvz3tRBDJj1xq_76e3S
+ 3EfCc4tsmwH5Y9bSdPQXaXZGkqppO.Mlau8EfdxgGCE3yfSzg21rCudb_18d
+ DEcf.FxtR987To8BoXy5bt_Xb2E1_EJDBac_zBBhAqoDrL.DRCvZ4bnM.SN0
+ 6N7rcNvmnWJJ8mN3EwizZ3TWEqTHiyg_pxkJZyOW2LCAPPvcMQ_X7JYJH.8w
+ HXE0lXIGaojHFR4wi5UGVVnWRcoK4TiFwEZtyt8LNGcOkk_AhRwFnRq_HTEo
+ 2UwwB5EGE3xSbKFI9NC2Vcqamie6pPKh7SiTD.a0318Sq0MK_9ARx_uxkmT8
+ X0i.NpU4pMfJzEU5l_XlzIVWg8q9fYBzbPQFphZtnU0Nz5b14otQL_W7cxhg
+ K1nJy75oiD4d2TjA.zUsy4WRZsFacKo6DtKe3uImIbLEVYWsj5VO8xp.4wtw
+ im2jwg--
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.206.155.40 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 10 Jun 2022 15:43:08 +0000
+Received: from zdll2ammsc01nfe002.wnsnet.dll2a.tci.att.com ([107.78.102.27])
+	by bizsmtp with ESMTP
+	id zeskn4IJMBkeSzgmynrqPO; Fri, 10 Jun 2022 11:43:08 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1654875788;
+	bh=72GQF8YTnfdyqAeBXhhUpTXQRwukZJWWLAzh2WjbF5w=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=c1IAEX2LjEojM5zwgy2PgTrZQeDRKcDbpMhsLBpdFF9AC4SmjjA7nmZNBTA96qBPj
+	 SxU29mmrH4e9KaHkg3/6MsVO8Vhw9W/A0YipKfHdPbQZAZJl8XFPPgdwnOfMuKtU1I
+	 Knai4Rz/N1SE5ZFwVmgwRApGi5F6RjEPdCcRg6LrZabqu6oPwXCQIvYDOIER41lP0c
+	 8sPHbMsBmQDOKfHE3tRMUEv6akYL6kgPwTiaWqo0dyxDaoLcz3VA8k8UjHhYt7uScv
+	 knY7tvS1yUD7HNB1WQWX5/spUxjt40Vaj9/V7p7cRJqBB3IU0drlOg0aKzCB6jRcUI
+	 ys2GvVCk/fE1g==
+Message-ID: <zeskn4IJMBkeSzgmynrqPO@txt.att.net>
+In-Reply-To: 633582631.174730140.1654875788021.JavaMail.nems@zdll2ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1654875779-555
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, newyork@sec.gov, chicago@sec.gov, 
+	bbrief@bloomberg.net, tips@nypost.com, tips@latimes.com, 
+	newsletters@latimes.com, pronewsletter@dowjones.com, 
+	wsjprosupport@dowjones.com, iceglobalnetwork-info@ice.com, 
+	bcassese19@bloomberg.net, praghuram2@bloomberg.net, 
+	inquiries@point72.com, jpminvestorrelations@jpmchase.com, 
+	tips@nytimes.com, newsoffice@mit.edu, news@penews.com, 
+	premerger@ftc.gov, ldobbs@isda.org, info@bressler.com
+Subject: https://support.nysba.org/attachments/token/RCydUg3AoqwTgPLqcGQqIKg70/?name=2
+ 0211116-230026 JAMES+GORMAN.png
+From: 6462563609@mms.att.net
+Date: Fri, 10 Jun 2022 15:43:08 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_174730139_1032849640.1654875788021"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfOwhkSAVNasjO+i4I+bLAXEVc5hXXnh3TxrY2vyUuRkTdexDn/4XE521BrVV2o85tQo+XKHcYUiz+7NMWdj34FMVThpp1YpJ3wO8nJC6RNs99cK+jYU2
+ XZyo12NhSrjZC+gBJ6Hc62pUhD9hApcZDRm1nzJ0rjQS5/wG8xaqd39Hjv+mFN5cbC1S2GCUV8GKknb25zvl2IZlekajdiNfaohvgdWWrGnBpygoRAGaYlQ0
+Content-Length: 430
+
+------=_Part_174730139_1032849640.1654875788021
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9zdXBwb3J0Lm55c2JhLm9yZy9hdHRhY2htZW50cy90b2tlbi9SQ3lkVWczQW9xd1Rn
+UExxY0dRcUlLZzcwLz9uYW1lPTIwMjExMTE2LTIzMDAyNl9KQU1FUytHT1JNQU4ucG5n
+------=_Part_174730139_1032849640.1654875788021--

@@ -1,0 +1,89 @@
+From - Sun Apr 17 11:33:55 2022
+X-Account-Key: account1
+X-UIDL: AC3Cj55OwWJyYkJ35AkrqFS6vZY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.153
+ by atlas112.free.mail.gq1.yahoo.com with HTTPS; Tue, 29 Mar 2022 03:07:15 +0000
+Return-Path: <boboschickenandpoker@gmail.com>
+X-Originating-Ip: [209.85.167.176]
+Received-SPF: pass (domain of gmail.com designates 209.85.167.176 as permitted sender)
+Authentication-Results: atlas112.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 29 Mar 2022 03:07:16 +0000
+X-YMailISG: 6BaJpX0WLDu5180chEeQIXd5OkkhIJNNdjWLYbjfv_K8avlb
+ AHnO02FmHdc5v8m9jhe.YzBBQldzsXY3RuEtluXmNRvcAuEAQsAhQijjoMOE
+ 8KbVgAU6J1ZJ7gcPm2EL3tsbH3CD6vueZtkp7QJ5KbIvZX8gpEvGALi94aNJ
+ pDGtFTQ0j5CA36.BwCdPdJgbsuAvQhVHTcLQ91rq.jYV8ZyLsbaARISDpVQF
+ SmE2L1GhNIPpBfRlJ_gl9poVPdFggoD98LzYuEgF.oyMP1ivitt_vVm90nLv
+ CqafDB.xorpNPYCiWpQFCubkwf17IW1zYB8QcjQtLT5zIGxr0_DbJu0rq7._
+ RFVQbl38VDwl46CmO.sKtHKXf7zoh3522YFk9k1B_U6M6NEOQSgaEP_9OVxa
+ jJJUetIHJkx6vdBnz1hfR1aVGDLHME54vWwlCmqg0NA3S.ZxBj1EvFqbYg24
+ jLRX9mz95wyKHe9FdRzVMpye47PkOnI4oLKCMYS.Jl85PK9uYAuR7zfQPyw9
+ tolW1_LmfAkhDvbWt85FDlcIxZ685dkz.CVg654z6akDcz4M7LNV621PTK77
+ LYdD0nK8XfWnkpSzvwymtOedibg.wSfj4BQdgKgCHqe2UiOjFsb4Orm1DCaJ
+ 5A5zPpMmaWIeIufY2ScHglC28QGjMRPloDCyWjg6tRt3B3CGLGgZN4IUt_co
+ JSAAxaActsBybYbwcaf4nW8xDmVLWih7fCgj6R6P20X82U5TLSc7f9h49hCo
+ CRpOlVxFU0.KFTR4YaThHfbrmMcAexGTIpRlsyWT5ouqD9spzuYNJ8eKo6v1
+ Xd6g9PBxe2A6hZlAq6Fdwt58NqD.9zHxY5QBOE6a_xiZ3qFa1ZfR5Godtf8a
+ bqqYQ_QqieZzQqZtBFeLHpXIN6khun1nbOfMvXxT_1S4Swjn3t772WkIE9uK
+ _w41AEFukDhCrLuQ5QTHB2A4mGVrFep29eGEfUeBWrZZWV4yLoBFwVnKbeuL
+ mv9Khl4K_giO3ShgA3DyaZ3QoEgguD2K.QbWrrNWfm6M91FZRRuBv2v4oCcm
+ 9179m8nuJcoudX3412fpqy9L2tKULe3RgWw-
+Received: from 209.85.167.176 (EHLO mail-oi1-f176.google.com)
+ by 10.253.62.153 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Mar 2022 03:07:15 +0000
+Received: by mail-oi1-f176.google.com with SMTP id q129so17797391oif.4
+        for <ms60710444266@yahoo.com>; Mon, 28 Mar 2022 20:07:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Lrl2Wvut2etl5D3G+E3l6ykAiZrnxjQbPJcVS4iFiLA=;
+        b=Mqy5kqHRqZFqc0CU070ywABoH1cJA9wR35nIpWi/0feqUycmuNYolBLaBggnwtSi1h
+         oTiTE6lpkOXPdVjoDAOQnes+TudKQ75AYppuhWoj36bauICvx3R6gu71XPwN0LEWZt7R
+         eXyKdhIEJmL4avNf4pwaRlMpkOFZEJVbQvUdc2WzCLJdbO57CPng5FHCw1gtWWAErVbG
+         t5W+o/IMgXTMkf0/Qw3NfDqC6Lh7HCesV+Tz1rbJmuF2fsiRBY01fmnRgbJtf/it4afz
+         gSK4WNhkSHFFwQzYzAmmxmMVLSZWsRM1+/fifBiS+2eUen17tUqcrRJ77QBIUvkIjHXY
+         cGNw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Lrl2Wvut2etl5D3G+E3l6ykAiZrnxjQbPJcVS4iFiLA=;
+        b=RbQeuxEZAGp7rIezxEEouT1FZDxFjqYwm3QAE/XWcCxtraKdmvDp8uC4ZaSjAaQINL
+         MFZXJr2vPdRc6Lk8YcMJ4Prt16t+JuFk8fMAwpLOwYHwjo+dFZ0OemaWglVxzn79Ci5k
+         S+q9hLcxe5Ma2YL+Qx2BA220pKUP7OUdpoN4mas3whR/5yNMvrKXRezEq56P30mnjA5s
+         Oy6xoIvY98fsL3ebKl3IcxxRfoTFmgGykXa42W7zvP/cjSYv183QqV/p251g2XRbdUDc
+         VnfkPfrI9S7Pn53gav29EUH/8tkeDw84xNp211qDLQ8V3gkERPCstNW3VBACtPQwCmw0
+         7epg==
+X-Gm-Message-State: AOAM532Pq/yy8rrWXAPCFfaijqUxSVQAxFw4yxBPbbwiShAlHdyosu93
+	v+z3uMR/CLVwY/SKttrVHlTnb/p+I2TgB85Tboc0CfEw
+X-Google-Smtp-Source: ABdhPJyRoe54A9b4NeGm/C1TweizvBGOwCw5ENHzZCOqja6YlovG63Y+6P9Y+uNAesLSYaoSC/RRn2lNj8vIRoP/pWI=
+X-Received: by 2002:a05:6808:d51:b0:2f7:38c8:9b04 with SMTP id
+ w17-20020a0568080d5100b002f738c89b04mr1228084oik.6.1648523235004; Mon, 28 Mar
+ 2022 20:07:15 -0700 (PDT)
+MIME-Version: 1.0
+From: B B <boboschickenandpoker@gmail.com>
+Date: Mon, 28 Mar 2022 23:07:05 -0400
+Message-ID: <CAHFkkL3+P+6ZhmVWPHupMBSOofsHRFCnPgBuwPrBTH9Fn=2XXQ@mail.gmail.com>
+Subject: SEC.gov | SEC Orders BlueCrest to Pay $170 Million to Harmed Fund Investors
+To: ms60710444266@yahoo.com
+Content-Type: multipart/alternative; boundary="000000000000d393a105db52b98e"
+Content-Length: 418
+
+--000000000000d393a105db52b98e
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.sec.gov/news/press-release/2020-308
+
+--000000000000d393a105db52b98e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.sec.gov/news/press-release/2020-30=
+8">https://www.sec.gov/news/press-release/2020-308</a>=C2=A0</div>
+
+--000000000000d393a105db52b98e--

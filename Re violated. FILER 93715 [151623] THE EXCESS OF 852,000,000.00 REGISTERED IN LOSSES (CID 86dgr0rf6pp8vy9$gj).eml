@@ -1,0 +1,96 @@
+From - Thu Apr 21 18:36:08 2022
+X-Account-Key: account1
+X-UIDL: AIivu+0XFnglYmHpPQm0YJwQ4Xg
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.136.93
+ by atlas308.free.mail.ne1.yahoo.com with HTTPS; Thu, 21 Apr 2022 23:31:09 +0000
+Return-Path: <noreply@dowjones.com>
+X-Originating-Ip: [205.203.136.134]
+Received-SPF: pass (domain of dowjones.com designates 205.203.136.134 as permitted sender)
+Authentication-Results: atlas308.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=dowjones.com;
+ dmarc=pass(p=NONE,sp=REJECT) header.from=dowjones.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 21 Apr 2022 23:31:09 +0000
+X-YMailISG: vLFRwhIWLDv6ztlBbLNXSc8jMuuZepTPhVWfAx25VB._pA0V
+ 2U2QoYx6irgWYn0OTW52AVcdS1rrzSHExs0WpjCFHAolmhtN8xM1Fq29fuV6
+ i7AFjAsh5t5VIGJEGrkbQ2uPC41Uyh3OF4Gc8SWET04g3xpghwtI_PLBUXtC
+ zGi0boMTfThlyEOt9V_71MUdI6K21vczkm.2e5jQhu23FrryM6gf8XkQn4wk
+ tTUT.HxUOjE5h.BfBntMmvSkSOdxyzLIRFVbPiU3GYWl2SvQ0iJT6xiVT0ye
+ u7_D6uC2dAnkz4FddPNee2o06RlJiud0LHf5Ns5pr1vw_ZLq3imyR_bsgjPs
+ y98PX0Ny10kRcIg4ApvCy6Ruu.N8IQFD9yOhP2Hvpu2EAOXhKsBdPpx0mVAT
+ hzMKza0pTC5AI58fsQVW.WX2zaDwQcd66LZTAvT5MPYLgpk1qrQ4xn62Rm1.
+ cgig1lPYb7OsESFEMNXNyajGZ3YxzlIgp6BDCvuNul7AlRGqJQnAFObqZ.mt
+ L3683Yp5Wns7O8vWsR0xtCjqeq_EUN7WT17cqajbYd1rsKukvKwPVnaa5fNL
+ PCZE_8GMC9mhXWEVe7kI2YowZK67d5uJrrngpdaQRMQbliF4TVl4tMp_vQW7
+ Cp_l9C4aqGUvMGNCB4DT41hpoUA2s_deagFU0J4uSgDWgoYkQemeQWzgz7u5
+ GHCMriCfURFe7aQ34Amqwy._TP5Tw4vjACyZPhiXhH8.eSFYYgYmGHXuBN3k
+ wz8RhSpFGvT6KytMNZGO_vQeVaGOu4gDFVDIf2_tRdCk88q0m3QQc2Wor_Z8
+ OpINXtF96Pn5fbntW0DEa3wQ_sywH0OM_9Od9Yqm97yUEewm1EsYfwkbqtsu
+ yCGXc_ycppGomTBuO.zL8d2Fa23H5PdOhrDXp7JaYuQWYSDtmPTdr917WTvV
+ erOuyxLyOqo5P0sXFLc3JtYy2AHQm3Bdc1fTcyoVxhiO4F9BtdXIuH9B37X2
+ yzbqk5LAEtMg1vnhurrcLdEOgrsxzYJ7lJ04u7NrRx9Yut3SpkFiWSO.hMfb
+ MITemWxZxGCcMShGx24A4VaoRwIjD1dfC0NSjvojPwB0FCijU69j6vs319uD
+ ctFSnZpJjGDd9gMvHA--
+Received: from 205.203.136.134 (EHLO secinmr02.dowjones.com)
+ by 10.217.136.93 with SMTP;
+ Thu, 21 Apr 2022 23:31:09 +0000
+Received: from unknown (HELO DEN158GIC074) ([104.251.193.145])
+  by secinmr02.dowjones.net with ESMTP; 21 Apr 2022 19:31:08 -0400
+Date: Thu, 21 Apr 2022 19:31:08 -0400
+Content-Type: multipart/alternative;
+ boundary="------------Boundary-00=_WNQPn7V0BFqiE$y97fug"
+From: "noreply@dowjones.com" <noreply@dowjones.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: RE: *** violated. FILER 93715 [151623] THE EXCESS OF 852,000,000.00
+ REGISTERED IN LOSSES (CID:86dgr0rf6pp8vy9$gj)
+Importance: Normal
+X-Priority: 3 (Normal)
+Priority: Normal
+Message-ID: <6261E93C.02EDC1.0077C@DEN158GIC074.caas.local>
+mime-version: 1.0
+Content-Length: 2257
+
+This is a multi-part message in MIME format.
+
+--------------Boundary-00=_WNQPn7V0BFqiE$y97fug
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+4oCL4oCLVGhhbmsgeW91IGZvciBjb250YWN0aW5nIERvdyBKb25lcy4gIEEgbWVtYmVyIG9m
+IHRoZSBDdXN0b21lciBTZXJ2aWNlIHRlYW0gd2lsbCByZXNwb25kIHRvIHlvdXIgaW5xdWly
+eSBhcyBzb29uIGFzIHBvc3NpYmxlLiAgRHVlIHRvIGhpZ2ggdm9sdW1lLCBwbGVhc2UgZXhw
+ZWN0IGEgbG9uZ2VyIHRoYW4gdXN1YWwgcmVzcG9uc2UgdGltZS4g4oCLDQoNCg0KSWYgeW91
+IGFyZSBjb250YWN0aW5nIHVzIHRvIGNhbmNlbCB5b3VyIHN1YnNjcmlwdGlvbiBwbGVhc2Ug
+Y2FsbCArNDQoMCkgMjAgMzQyNiAxMzEzIHRvIGNhbmNlbCB5b3VyIGFjY291bnQgYnkgcGhv
+bmUuIE91ciBob3VycyBvZiBvcGVyYXRpb24gYXJlOiBNb25kYXkgLSBGcmlkYXk6IDlhbSB0
+byA1OjMwcG0gQ0VULiANCg0KDQpSZWdhcmRzLA0KRG93IEpvbmVzIEN1c3RvbWVyIFNlcnZp
+Y2UNCg0KVGhpcyBlLW1haWwgbWVzc2FnZSB3YXMgc2VudCBmcm9tIGEgbm90aWZpY2F0aW9u
+LW9ubHkgYWRkcmVzcyB0aGF0IGNhbm5vdCBhY2NlcHQgaW5jb21pbmcgZS1tYWlsLiBQbGVh
+c2UgZG8gbm90IHJlcGx5IHRvIHRoaXMgbWVzc2FnZS4=
+
+--------------Boundary-00=_WNQPn7V0BFqiE$y97fug
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGh0bWwgZGF0YS1sdC1pbnN0YWxsZWQ9InRydWUiPg0KICA8aGVhZD4NCiAgICA8bWV0YSBo
+dHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1V
+VEYtOCI+DQogIDwvaGVhZD4NCiAgDQo8Ym9keSBzcGVsbGNoZWNrPSJmYWxzZSIgZGF0YS1n
+cmFtbT0iZmFsc2UiPg0KDQo8UCBjbGFzcz1Nc29Ob3JtYWw+4oCL4oCLVGhhbmsgeW91IGZv
+ciBjb250YWN0aW5nIERvdyBKb25lcy4gIEEgbWVtYmVyIG9mIHRoZSBDdXN0b21lciBTZXJ2
+aWNlIHRlYW0gd2lsbCByZXNwb25kIHRvIHlvdXIgaW5xdWlyeSBhcyBzb29uIGFzIHBvc3Np
+YmxlLiAgRHVlIHRvIGhpZ2ggdm9sdW1lLCBwbGVhc2UgZXhwZWN0IGEgbG9uZ2VyIHRoYW4g
+dXN1YWwgcmVzcG9uc2UgdGltZS4g4oCLPGJyPg0KSWYgeW91IGFyZSBjb250YWN0aW5nIHVz
+IHRvIGNhbmNlbCB5b3VyIHN1YnNjcmlwdGlvbiBwbGVhc2UgY2FsbCArNDQoMCkgMjAgMzQy
+NiAxMzEzIHRvIGNhbmNlbCB5b3VyIGFjY291bnQgYnkgcGhvbmUuIE91ciBob3VycyBvZiBv
+cGVyYXRpb24gYXJlOiBNb25kYXkgLSBGcmlkYXk6IDlhbSB0byA1OjMwcG0gQ0VULiA8YnI+
+DQpSZWdhcmRzLDxicj4NCkRvdyBKb25lcyBDdXN0b21lciBTZXJ2aWNlPGJyPg0KVGhpcyBl
+LW1haWwgbWVzc2FnZSB3YXMgc2VudCBmcm9tIGEgbm90aWZpY2F0aW9uLW9ubHkgYWRkcmVz
+cyB0aGF0IGNhbm5vdCBhY2NlcHQgaW5jb21pbmcgZS1tYWlsLiBQbGVhc2UgZG8gbm90IHJl
+cGx5IHRvIHRoaXMgbWVzc2FnZS48L3A+DQoNCjwvYm9keT4NCjwvaHRtbD4=
+
+--------------Boundary-00=_WNQPn7V0BFqiE$y97fug--

@@ -1,0 +1,94 @@
+From - Sat May  7 14:19:12 2022
+X-Account-Key: account1
+X-UIDL: ANtBZMV/cczKYnaOaQ2YeLHU1s0
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.134.140
+ by atlas216.free.mail.ne1.yahoo.com with HTTPS; Sat, 7 May 2022 15:21:13 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas216.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 7 May 2022 15:21:13 +0000
+X-YMailAVSC: jFjXYAI3bBvL.pg_QHi9Vjock_QQRGdFKVfYsGU2.hxR7JG
+ JnGW5YicOzyuo0_dncEufX3F5J7G1opVOPNlPq93ZL6M6x5eWkzCn84hjf9f
+ WnbNxXKH5.YWt3muvkcdFf0qAHvFhweLfNDS5_7CqzH8KbHL4O9RQAxnaExo
+ vtOZwLUfac5ll_W1TuzizEMpMWx54lozCpRQZ3QmIW3Wfdaaykns4lQ5afXk
+ JhGlVV4q3KPYE7xiFb5UGopUirnND2nOntpTts1JWeJ2spPJ.6W8b0gsWqyo
+ kWYWAz6d.3QNu11R69rI6TrsswQLmOCPmDFVgx8WXYJ8Ll9BJNFhcgIm0w06
+ nJFfqtv_ddIwJDw6yzw0lQNboeQ9dD7EZJCI-
+X-YMailISG: iEeRpL0WLDtNn7P1RKjVflvahMV4vHlSLQe5944uDjuEGNcS
+ 9B9rikHNxOgddLNeavJVlgO5dQvwbgc0QJBlwq.8n06eiQB1y6D5Gdc1Gnmd
+ QKfpslylOdNTXhhBKrHQ74XcrYi2q0WYWdSqYWC0RUoTzP58049veUUjQ.4m
+ abJeXaJph_7lloZbqEJDFW1UEgHs8bZVdhlaI9RzVh5XitEt.vjH32mu6aJI
+ RCxu19DcLw8delwOpP1.RanM5BtNSEuorz1jQfYzGDC206lziB7p_f_AuA8T
+ dXUNNgV.YXGr6iqe1csXGCvsrjqgQ4pX975FtHBFy9WGCx0N0xv3LYQv6hY_
+ D_hGqM42rv5klM8TMTxOlOeugexfaUkidhitjPzfCb85xceW1TCrsOBp.PHS
+ 2R_vmHjM.dXz_yF72r8Kn_tzwKi2K1mvKkqYEuGdPTg_VEm_gtyYStsnWeDE
+ yBRY3od2pm_Vx5WEIdfJb4s1.U7DWwz02uaHEdVZ198l_azYzA7GyM1yz7.8
+ QSf5luBU7g.vzcoTf.7G04oYXHD9EYS55.JMHfYqdL2BQ3cuYL44PJfAQUN8
+ klxadswj_bHaBLliEh7vfGCKqJ4OSnUX.xzMp69WhIBOp6qpp6f06FbxQIjy
+ 1IYn5f_g1z_3EUaxnb4RhgSEFGwaY1ljvboFwC4QNlqdbZJGhZ8ZIYDDCzmX
+ 0LkPUZ7rHL_jZmOC.d0Bs2zKC2G6zJVIcFYEzvR.Ok6N7DKYu0x2JbkyC1e6
+ nBqiiUHPytogOtqwpU4jgqikQb9n3cFr4uR_zFDf0UHjEdUsLwYU9Yl5nGnE
+ eA3Q9X.nAMq22Lrj8I95YTrjPUDs8y2sLig0udMxcEdU7r__hGeYtqWqqjL0
+ 2SieAouQQLMqHJFVqzZ8alAYKno0v6DLyLQulj9wgfQPvwlAsIOGiZGg_uqy
+ FW7PeP5LV18JvhvEaR9NPttJEzPxuCOrSqjpJ41OEINGSS7TOXNCOAvRYcJ8
+ dPaFnmkUJDdeETPAor_y_6_K.z.ihzeWSccuJWgC_iud_JOr7Uq5LxPmfGef
+ 5.ktY2SUDw.GaKscnvV9H4_bySUnjO8A1FFAO0fk8kGg3fNcrK2mLW.Wxw3R
+ Nd8PvTz503Mt
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.217.134.140 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 07 May 2022 15:21:13 +0000
+Received: from ZALL1BMMSC01NFE002.wnsnet.attws.com ([107.78.102.27])
+	by bizsmtp with ESMTP
+	id nMDDn2bLUBkeSnMF7nhDmr; Sat, 07 May 2022 11:21:13 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651936873;
+	bh=feFMeuJa5oDsAgEtHERpJbcEYBK0rDb7+BMBeQ333uI=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=IsfJH/kqHciwjS7VZcyYVlnX4VwZJ2bsxnWwAsaoZ3vyuxsR+93n2ewTLlosr0CLN
+	 N+5cjE1QwXqvaokmnNJ/Xx2kur9ZeIpkEH1YVgxTveRprjw53XdHLLfM9WgNX6aJ4X
+	 EWXjcI/DhnIJHN0QJBTNA2yT6J+r8CfNa7A+xDewpxbrhfHu2dqGY6rc4CulNROZ/T
+	 ebb18sr06YGEWDlk2ZAP/+c8Vw10XSSKY3FWIMmiZIdqysGvpe8rCdpyCptJVgaJqA
+	 sjKowdY1r/2g3mD36gdTgbd/L1tgtnmZQfNHGeM6PzlqlQePgMB0mHm2zj8xhNx9Ya
+	 VYLmdqSW0pp5w==
+Message-ID: <nMDDn2bLUBkeSnMF7nhDmr@txt.att.net>
+In-Reply-To: 1869258184.9185696.1651936873025.JavaMail.nems@ZALL1BMMSC01NFE002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651936868-17
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, cfaimali@isda.org, isda@isda.org, 
+	isdaeurope@isda.org, jclark@isda.org, ldobbs@isda.org, nlu@isda.org, 
+	nsawyer@isda.org, akeller106@bloomberg.net, akorb1@bloomberg.net, 
+	amccrary@bloomberg.net, amead11@bloomberg.net, 
+	asmith1151@bloomberg.net, awalker231@bloomberg.net, 
+	ckirk21@bloomberg.net, csgursky@bloomberg.net, dian.zhu@finra.org, 
+	finracorporatenotification@finra.org, 
+	finraproductmanagement@finra.org, finrawebmaster@finra.org
+Subject: https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV
+From: 6462563609@mms.att.net
+Date: Sat, 7 May 2022 15:21:13 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_9185695_729119700.1651936873025"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfINqe9TFzQuhCqt2oRjvNbgcwRpQZiJsv/i8LEU3v98ci1kbhQ03PBIesGenKDNEt21zW+gheO3Q3ipkUsKRWYL/ZS5TMTQ0qMaMPddMJ7oEE24OzZIM
+ xE1yGcY9YbjtOn9R6OM8jh2rnC+53jPMjoTqd+O6qG8r6rrVONkZXX7FlnpMiGpdZ0bCc0hNQZvcYulrtTgqxkuZhgATLwqfNYesqZHCM0qmZVWKT1f6BDwn
+Content-Length: 380
+
+------=_Part_9185695_729119700.1651936873025
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9naXRodWIuY29tL0JTQ1BHUk9VUEhPTERJTkdTTExDL1dJTFNPTi1FTFNFUi1ESUNL
+RVItTEFTS09XSVRaLU1PVg==
+------=_Part_9185695_729119700.1651936873025--

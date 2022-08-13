@@ -1,0 +1,90 @@
+From - Sun Apr 17 11:33:55 2022
+X-Account-Key: account1
+X-UIDL: ACouz8AZdSodYkJ0awfjiFaObkc
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.76
+ by atlas121.free.mail.bf1.yahoo.com with HTTPS; Tue, 29 Mar 2022 02:52:27 +0000
+Return-Path: <boboschickenandpoker@gmail.com>
+X-Originating-Ip: [209.85.210.47]
+Received-SPF: pass (domain of gmail.com designates 209.85.210.47 as permitted sender)
+Authentication-Results: atlas121.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 29 Mar 2022 02:52:27 +0000
+X-YMailISG: jgqdabsWLDuYRCZN.A5XRy19GTAH4DrV2ffB86uwm4s5imXB
+ rl.ARWgdRTAwJZs_h8v5G8WEKS92pHmodQAozwZGgQ3qXMDBDWMAEvZjSJjw
+ gk7bPKkYXPlI0wzpNb.FmsegWIIF5n8lhxmAIKEKUOGiI4QxY.yUUjMRKvGV
+ ozgb7Nhr11fTHLuGbnLsi_kajWpc2ITWhLJIFK5IqbDyrD7jeG59MEqZCwYU
+ PBkLYYRcGz1e_3CLKOfCqzutmf2MxwwkOpKswjATWsp_DmTbcFvVataO0M7P
+ gCxO_FGqc7mxFO2dL0cqiTBaiiEcYLDBfIw2QD15zYPSBU_s2x2IxK7zn719
+ PQ4cH2EPsxLM1f1vILcevxvu4Ma5zsSa9w94nmHv.BlFvnSE0QhYVxHVsTBa
+ N9lLy2WKt7cKZ61EXpiW2VyUheqFv2zmk0MyEUMo_cFS4ew.Fv4WPN.7I0bK
+ .yXufM5TVjhbar1YxGoHXAc4pAdRS1EUzCUVgf.CQYCxNUpsd8bbtQecjf7z
+ qB.Rsq8bhu2gbhOeeI2UlZ1XjRywOqF_c3c2JIOjrZw.VAz.xqbsRozEThSS
+ miceIDoFA3RC95bfESBSV0rRA2tJrmxE7N4PPw3e1QIkfafmoKDU5W2x2QYE
+ re3z38yAQUzk4iCVvmc48fiAbHzyttyH_FkNJ9w8vcB3.1oc2ofkNcRsg7i0
+ zrNwH6XV1x15oifZj7d_BieI0jGYGk6S_GT_7lg6oT1PhUX1wA0Ot2QLFKl6
+ XaKUUwu4RLTT0XfjYDwB2y4pzfBR0XKIKnSBFqNa8dBZeFaXZ7PZqQFlfsiV
+ iTutE2US6E9dPwtX2t7nChnIfgF0XWAmAGbGri4ENsIdGGztb8wY1QY_yYBM
+ EwdkQCQD8vE2oE4WUmuP4w5t50WXB0uIDWRgcosrPtELnMTYu618xJDTCcFP
+ fPrXDW5fLkmsXmFjC3hO2yeIv_6pS1KHfVE2XM7vYxyeAAPnu5wmoEOkKB_y
+ B8F0kn8e5VU0d2FnoqVgulFXlff7rfxxCoDwEVaXQmnd5ptbk4mRln_A9u8f
+ yB42tIMv5JpuFhbRbELwdaKeScZD
+Received: from 209.85.210.47 (EHLO mail-ot1-f47.google.com)
+ by 10.197.39.76 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Mar 2022 02:52:27 +0000
+Received: by mail-ot1-f47.google.com with SMTP id i11-20020a9d4a8b000000b005cda3b9754aso11950583otf.12
+        for <ms60710444266@yahoo.com>; Mon, 28 Mar 2022 19:52:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=t8Elcn32h/9QrT59jo05ucONg9pb4YOu9OU1/nGIxHc=;
+        b=qMFnqbUJOxTDtHXkmmQfZdp7Tt8TIVs+/Eqvx2KpMzPvkFnUG8CyZ/KnDpt8aSuwZ9
+         LDxU0uD27GN67MihSvSXMcV5Du4Yd1WOVk/vB+l1gorbEiKIPe9soib5A8JdXWyOY/Va
+         /JlQm7K3rbX87sYf4DerrDWWqa6sN9PqqhygvWIVSMKwLsYMX0uba1CmFOfS8HIKrP5E
+         ivlWtWn4mDIDeByZfSM5ONUUEyXrQQXCzVvKEhjOZ5yQE6/2r11naufI9CDY65HbDRsd
+         hHzNWVhEEmHaqazHcHhqg9Qt64/90MG3iP5SRXTXQuyflMCix8JXcKmHCWvAhuv+zQTD
+         WyFg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=t8Elcn32h/9QrT59jo05ucONg9pb4YOu9OU1/nGIxHc=;
+        b=rlZyreNAeWHBDkGuX95EkZsaNf0P/ZdEyyw5G22iAh2AHZVACDpjLN4QwKZLR68K7c
+         Zh/tGy0P317Hi8t4i4ludPk68X6CzRrmcAV+SppSA5Jp7c3WsDHdFaKv7mK0BWnG+yQe
+         Elw3ZJhc3HvLtZB7g0X1fnwytz4PuzeZQVsx+/+PB4sHbA/TjsPcu3To+/aLQmT6vXC9
+         zrYK0Ku5DRNl+T7q9VU72vUSVltModTtVG+p39VrcRQ3e+b04ejscuO1HNosu1/czTfk
+         kE5sgb/8RUc9Gy3K0WtMkQB4iQTpq6vJ80vYiXM8DVUSoY40vUWLSPJ9EQpAhlyt8fDL
+         35Ag==
+X-Gm-Message-State: AOAM530od2XNx7W0NfvZjX/6pm9IlIahEmUBuGfzp4dZMxLWCeUu2ink
+	IwQxxdMv6g4bEfvWHx/9ic7CLcgSv5pLV8RCSZyJAymF
+X-Google-Smtp-Source: ABdhPJz19/5IK9D6d+x+jhw+vQOZyEjU2lzeFaMZvo7BXkB21FaYGXAeA8+83lcMSNsekd5UmlUTgytxWbCb/quaurE=
+X-Received: by 2002:a9d:426:0:b0:5cb:5837:bfc0 with SMTP id
+ 35-20020a9d0426000000b005cb5837bfc0mr236220otc.305.1648522346701; Mon, 28 Mar
+ 2022 19:52:26 -0700 (PDT)
+MIME-Version: 1.0
+From: B B <boboschickenandpoker@gmail.com>
+Date: Mon, 28 Mar 2022 22:52:16 -0400
+Message-ID: <CAHFkkL3TMCWOXK__wEBTmAs+muemSMAy7e1-pJfG6j8VLSbgvA@mail.gmail.com>
+Subject: SEC.gov | SEC Charges S&P Dow Jones Indices for Failures Relating to
+ Volatility-Related Index
+To: ms60710444266@yahoo.com
+Content-Type: multipart/alternative; boundary="000000000000e126d105db528418"
+Content-Length: 415
+
+--000000000000e126d105db528418
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.sec.gov/news/press-release/2021-84
+
+--000000000000e126d105db528418
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.sec.gov/news/press-release/2021-84=
+">https://www.sec.gov/news/press-release/2021-84</a>=C2=A0</div>
+
+--000000000000e126d105db528418--

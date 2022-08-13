@@ -1,0 +1,90 @@
+From - Sun Apr 17 11:33:55 2022
+X-Account-Key: account1
+X-UIDL: AASPDPNg8/WRYkJ2WwQuUN1v9XA
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.137.18
+ by atlas119.free.mail.ne1.yahoo.com with HTTPS; Tue, 29 Mar 2022 03:00:53 +0000
+Return-Path: <boboschickenandpoker@gmail.com>
+X-Originating-Ip: [209.85.167.175]
+Received-SPF: pass (domain of gmail.com designates 209.85.167.175 as permitted sender)
+Authentication-Results: atlas119.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 29 Mar 2022 03:00:53 +0000
+X-YMailISG: U4upaMQWLDsR2vOQq7naRkf0oaOZe1jKavg8CZOft8WNQ7FQ
+ HrlDGx__us2m03QQ1M.H7Bb8Hayxh..RxZbnjYl4GWh2Lrsxs5uz.oB4Fdjj
+ o.ODqU5hfk5TPtsVQ69g4SYEm3j5rB.Nis1Lv8AyH0NdUJcjMfcr4i1OeDc.
+ ga9H9GKgAYfRh76TIq6mfSMUOtBUO87d9fPkChk6O5CS_GjrWze1S.cw2grq
+ hldBM_xcA1NJg73ndvuF1FTZJDXaYO9wylQi9vpQXlc3ZKNls4.KCDBvoWsS
+ qGQb.JKbrOeJkAOVKHFQvcgWFzWiHodFimKTZPuuw0mAQPaE0jZiWvFEbVyT
+ vO.07TakEQ_KNVoAjoDbIY_uvpYBbk3jZybVo.Q1wU5Vhu.nllHvqX.aVr6h
+ bMjFhLlEheVnj8gW3UMEsODG9d4daoCywTELNsTGjz4Gs9K632nbH.bhgnJz
+ yzGmqfc4_MmpItun6qJChKGgFAd7Tk2PNtsJRjVbw9LHQXFfxlKFnNrw5Q_8
+ atEFQEb_l_JvVipc_T2c_LycZhVstkRW6gac.hRKJnBcPBQy9l1_NKOGEmMV
+ Kyrih2Zhxyx8oNUy28wDvUMClnZ3D25AU._Fw0Qdnwa3evwl0Irx0pbp_sKj
+ WNpsEtByOdloNUwrMP2tjtjjpPOF_Xu69yTuNca1xGFSe.0u2Ci4EUddSK3B
+ JFqjS7QVla.7IYd9sJ5tPvnGSnLIkeetR.WSQADfASLhhJQWe6eATgGtr0pS
+ PMEK275i0fcE1xDZEU7BvFIaSIkUPD3glj9eLJXXJRrnAschKMubWUzq5b29
+ r.C6RBkwg5LN0sjaeOn62OldgAzXKZUnke6wVndZZDPA5_jIb2iPoqOVlNY1
+ mit6TVNJ48mdb5QEBzGUgXZuYySpqIbv2eBVA50MmTU12zCZXCnVWRjAYz2x
+ J6PYY6pFsgX8qQYlkNUeuEKD5qkOMreX3OaXiC96lRdyJIIuiPowDsMdhU1g
+ OE_tvB5IVKYvrPGQfAyKF26wpqYtfx7vjmz1QWRellOXbQxtt671A7aY7kJ.
+ t5.qnWdPKbDqrnLri9ABsX_PCxi4
+Received: from 209.85.167.175 (EHLO mail-oi1-f175.google.com)
+ by 10.217.137.18 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Mar 2022 03:00:53 +0000
+Received: by mail-oi1-f175.google.com with SMTP id z8so17762056oix.3
+        for <ms60710444266@yahoo.com>; Mon, 28 Mar 2022 20:00:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=wR6VZbNWt4sFPGXEJpJDxP9zaQ6AwnWHxpEGEFDNGAE=;
+        b=K/wk4IhMwi8vvSW/owX0turqDSWaA0EKetzPBjstTeCvRruh2T8zCntq9VVnKKmkKf
+         3hzNT8pOa5AflIWOkhWbEnvElGE+8ZT0FnV3RArl1wD9pSgxA2r1Ntk+LnVHYAPsqo2c
+         Usvb/g/y/YrRFjXSfUagWK14Zhepm+65YSXKuM5msf6Mo+X2jry16loq2UvA/w85+OyP
+         pnWd6LKOdJ2RVusMBhPWY2aFy1GtvdLF1toe+k835HEDX3QMjKg4gl7xqrfLu53La+bv
+         9VvWTTBcPwKEdF+eM0m+hVo8gAO35rpGl2E/WqAOMdJT3c5NrLiTbjLE25pPQSmPmmni
+         q/Qw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=wR6VZbNWt4sFPGXEJpJDxP9zaQ6AwnWHxpEGEFDNGAE=;
+        b=SbsLQIgGvPFU9X6YqsysA1vdNIXy2HQNdyMEjDli6MV967kf/cvyqCMJL173Iqmou9
+         ekah4LWBZwsXZyKPJ7dbnIhlkASjkgVOEy1DNWgi7RaT48Z+Nn91zrliBOITWdkzPAib
+         6Cztt2VII3YqQHFpY1az46AomFDQmUSIbQADP7YN0wpNlwxKvfY8d46rz/3TF6JbU2An
+         zm6WoefYxhxhYkRmlKNbWAiZwavdNmKAVUiXckd1M9y9TRAnJ4utGUx2yhTPcZCHfhI2
+         A5xIW8HGCvwcTFHvdF0dOh+LFdffkxZO9A6zTDHP5MwtS1LC9V0unDgE6xmAYlCG+zOy
+         ZmPg==
+X-Gm-Message-State: AOAM531EhHGv6yFdv0doWAqsAplFEjXvjMJMdzs7d8+fGTubhlOdpK9t
+	K2BhhlHGY+eHvNycLe8/qEpGxkeYSzHLPHk/ep7bhNcH
+X-Google-Smtp-Source: ABdhPJz9DsQWLZBa5PyjWVyYAkp4DAJ/f1rRhHW0i0omtQKQlX+bS9AgDOT+noy/clnJrgU3lkoq3pUVqcNbNPmKw3U=
+X-Received: by 2002:a54:438e:0:b0:2ec:ddab:c219 with SMTP id
+ u14-20020a54438e000000b002ecddabc219mr285353oiv.180.1648522852856; Mon, 28
+ Mar 2022 20:00:52 -0700 (PDT)
+MIME-Version: 1.0
+From: B B <boboschickenandpoker@gmail.com>
+Date: Mon, 28 Mar 2022 23:00:42 -0400
+Message-ID: <CAHFkkL2FfE9AyM7d08yc1ZoTorfNK3OOBomaaCdpTcFuk+05ww@mail.gmail.com>
+Subject: SEC.gov | SEC Charges Broker-Dealer for Violating Whistleblower
+ Protection Rule
+To: ms60710444266@yahoo.com
+Content-Type: multipart/alternative; boundary="0000000000000c780705db52a307"
+Content-Length: 391
+
+--0000000000000c780705db52a307
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.sec.gov/enforce/34-92237-s
+
+--0000000000000c780705db52a307
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.sec.gov/enforce/34-92237-s">https:=
+//www.sec.gov/enforce/34-92237-s</a>=C2=A0</div>
+
+--0000000000000c780705db52a307--

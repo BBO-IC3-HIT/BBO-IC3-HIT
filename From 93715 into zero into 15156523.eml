@@ -1,0 +1,94 @@
+From - Wed May  4 16:19:19 2022
+X-Account-Key: account1
+X-UIDL: AKN1YfMih2+qYnFXEg5X4HTQFzw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.8
+ by atlas216.free.mail.bf1.yahoo.com with HTTPS; Tue, 3 May 2022 16:23:46 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.152.39]
+Received-SPF: pass (domain of mms.att.net designates 166.216.152.39 as permitted sender)
+Authentication-Results: atlas216.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 3 May 2022 16:23:46 +0000
+X-YMailAVSC: 8BF2ODU3bBvMSfGOeCXYq.FitykKf2XqIU2Kktv6JfDen8U
+ oavahJnLDXE7CeqvqouXVhrypvxV4gAzrM7ZwVN8HaKJww6nh_euXP5efLRa
+ brqLUO9NwEBM0iQjjmMUbBHWDX3Bj.jNobDs1E7jRuuSXtt.GeT4IDpd0gPg
+ kaTAH1GIwvpu08e7MFd54ngoaOKooF5FF4XNh4wylwbAPVeuXA4AIrqNcXJl
+ gJSNeS9dJlB1r.doi8b9TKY9fUPo_8mooZ3UbRGt_MsVLw.PlulMqLxKEVL6
+ f0yafVvUkra0tLHVNUGgwK13W.18j_ywoJTQdlKERNQUuDesdkuFXJ5i_su8
+ I
+X-YMailISG: tmYwDgwWLDsrR3wtnrg7t2selVYQ0Z.cHm.Sf61FFl4xx_LV
+ 6BiWuIc3WmTtWFdobKnMmrlTGPVzaMEjTAg5nw3pfqDwFdIFBstSngBiptrN
+ 1e1qxqxReWPobMslluOuaVciDXbXI1Ikq04knHfS.QeRD_YAN5ZDgf4FyUqp
+ zotq.1cY6LzmvM1G4_wanilFEkLHeWcSF7IZ9Tey8QYwI7CW7CsbOs721c77
+ bHEoE491cmHk9nPXZYiNN.dB.sGBLA9oR8XuL7LGp3xeFgO0K6AooNA.vwAD
+ m_lstEuAdUtON2b9Rvt1v.hJk1YNMBespE1a.MhhPFsUgZmSkCmY4sJjTa_i
+ g_l_E1e2JL3mpYCQ6.911D3O0peqV5L3g8oLhKxiZsBr_duAYKvaYxhdhpFT
+ B2C16RcxvODDbwq6q_Nm_8.RbvW24Bd6Efcc46PtFIbCrUc.2tkPaq4I5YdC
+ V9nGlu4bId5.RAtYGG8FdF._TK.prQXglFOg6w9hILCUzO7qMAEYHnQzB5.a
+ m1Pv9Ed_Thn1YXlEWnntyvoNRlctI5nDWP7FSQ69fLJhAFymgDpPfkniJ5.q
+ O2g2OVflwMSI4BK60dk4mZsqPBBCXsG4CLXdmhtYZgvhFZfupQZ082woX08.
+ KjcdTR5HXFA7XVZzmEoO9hv0wzbptoPzToAMj5ei362qgvWBhHRjY8.VhKNN
+ irPSsTmdt6Sy2GTCImg1pm4eQbnwnZDRklS3iPcdPDgc4v_A7dLGvgckQQx_
+ tCT.v5iisE0gTRAf2M6jKaLEM5ayfQAtQnB9V7icDE04W2imHUYphza9RMfA
+ BOfaIsjKLxq88Ef18bMflUaRvNDnZrg_3sgCvt_AGd3a4YKHKOAW8m4VyKNM
+ 95h.gbklelzvg6d.CJ1BYJJEeNtC8K0mRRg0C6k5zaEw5z485JsnyqjR44jF
+ gR_lQ1LtGi_zD9Ma5AgLB.NDnIia50Zwf9PMNV2wB36ibucUYX9mvr9esOdW
+ MXmwRx.AroUv5rjhMGO2hhc3EjuP2.lVTT.d0pQsNEkKFxzF75nkucA0NgPU
+ TfY1OkvhieVl8Rp9b42shsxedZHjhbJGhvLZcxOMpV70jjhboZ5ibg53GIFE
+ RAk7hrKWj0giWBbAi4LWOOBaCWGYbAJjPuAU15Z2EmDQ3jAZSxqqGgGUfK_P
+ XA9TKeFxc5s_V299DeO9nXSrhb93Zi0FLG30Zjf3Wv6caAx.CR3iTo1Wo_ap
+ N8K3VquNWN18F7jLNufhJdSXtIG.
+Received: from 166.216.152.39 (EHLO stcceg-mtmta03.wnsnet.attws.com)
+ by 10.197.32.8 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 03 May 2022 16:23:46 +0000
+Received: from zbot1bmmsc01nfe001.wnsnet.attws.com ([107.79.70.25])
+	by bizsmtp with ESMTP
+	id lrzjnufveXR7AlvJSnuVfz; Tue, 03 May 2022 11:23:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651595026;
+	bh=3UvKAaJv0ZSm701jqCZnNwjrsC8wtU1SPKxvJ8I8WEc=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=QtJKBeqwaCr0jKDJExn8PF+QNwiQG+YFBQFapAzGERQz0A/x+E8CxOmMDmV75/VQm
+	 WKNmB/ID+EXSsuoQsrgCkZlYSHl8XaDLyloUaeJpe+MGUeEiY9lRF3HPCDHKwT9lNS
+	 8nodXkso4YZf5Ghjvw8GcdLXLexrg7u31XOKvfD3McbjD+i4isl/ma3G3ndbLB5Si/
+	 +pENEpQxDH61+/7Jobf+5kUNd43njvcGOGQt/VttBzImE/gLsBqEKW+iX3488qjaH4
+	 wyux+z8IR2B+ZbFJuoXBLM7Yvgo3F6BQYnNiloHf8FplDv8Uu97gA7UEItoHQxUedc
+	 02VfsoGvM5o3w==
+Message-ID: <lrzjnufveXR7AlvJSnuVfz@txt.att.net>
+In-Reply-To: 1450159885.99916764.1651595026018.JavaMail.nems@zbot1bmmsc01nfe001
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651595018-392
+X-Mms-MMS-Version: 1.2
+To: josephine.vella@finra.org, comments@dfs.ny.gov, ir-operations-team@tudor.com, 
+	media@chi.frb.org, nlrt@bloomberg.net, bbrief@bloomberg.net, 
+	abanews@americanbar.com, mutualfunds@statefarm.com, 
+	cohenassistant@point72.com, finraproductmanagement@finra.org, 
+	finrawebmaster@finra.org, jpminvestorrelations@jpmchase.com, 
+	info@statefarm.com, chicago@sec.gov, newsletters@latimes.com, 
+	news@penews.com, ms60710444266@yahoo.com, inquiries@point72.com
+Subject: From 93715 into zero into 15156523
+From: 6462563609@mms.att.net
+Date: Tue, 3 May 2022 16:23:46 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_99916763_660771317.1651595026018"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfCiAi6N3HiFS5jQJHS6TkDB5mJnV8PfsQsqnfCPS6TqeNnSmgj3JWYEIA/IPRT0Yla6g0qrlihRmJwzK3AKdvm6CscqP1H/yfSyFypKJVxqUlc7phQzd
+ nFMEaZsQ7vTpiBGGprFPF5aeC5FV0r0nhVE5bH2LEriKwAkjS4mGi+R8mZBzH/v+Ag18O0yfYpXMyhw6JYXf6rAjqhBbjDdt5sqvuwUNLd9fezdWeXl7MLs+
+Content-Length: 353
+
+------=_Part_99916763_660771317.1651595026018
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+VGFrZSBjYXJlIGFuZCBlbmpveSBkZWFsaW5nIHdpdGggdGhlIFpVQ0tFUlMgYXMgd2VsbC4g
+------=_Part_99916763_660771317.1651595026018--

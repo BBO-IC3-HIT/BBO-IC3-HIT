@@ -1,0 +1,90 @@
+From - Sat May 14 20:11:03 2022
+X-Account-Key: account1
+X-UIDL: AIZ9TvMbRWRQYn+6UgV2cHtu0b4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.112
+ by atlas122.free.mail.gq1.yahoo.com with HTTPS; Sat, 14 May 2022 14:18:57 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas122.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 14 May 2022 14:18:58 +0000
+X-YMailAVSC: .hEVuJA3bBuarAPws73Q3XKvVvkDp.lrlic9R06nZsZ2vey
+ TWqWpzUrEadd6FtPDE6.E7d6DpB4bpDp5okHMu61esWb.7xpXB9WxTBPLk9.
+ 7F3k19O3QjPy4ZR96eeAIOxY1xje1aUHZMlNS.PrmpwqrrdSBr7rXzXVBJ.0
+ I99AjI3Nom_um7oV_HMUzdqva4wMuY0t3Sbnw7g39Zfs3AgkDeRkNKGWdUQZ
+ ikyYiemAb9dqZagCUa3_96HGdyRw6eV4MQ4TzLAXfkQJQaFVAHFuB6X1DHxS
+ uxskm2ythUJQbSeRjYc.ueDm7TvgpjkHiOjykg0Y1qoQ86KWKfHEl0CwCW8M
+ 6hAg.EweyAORw6WnQjEGTp.fFE9qfd..BeeDEa5DLVTrRijdQhtdiHwQwapQ
+ jgP2Tf8F02Q--
+X-YMailISG: hC4clCAWLDvtGcjyotqo.jMzk857KcfDebPue_Jjt7GB8zfA
+ KHZO_OS42GndUmSB8aGdv6hn3CgtCf49sD8SXJXs5Nh2XULSk9KGkI.rV0B7
+ 4.6EnC7JDlN9M3NNT1mcNR6MYoDfZrZnd..Yuc2V381q7EdQvczAMglBqOXN
+ 9xF.8B_Edfn9KIRYpgMrXZ74E6UVUO6jJw158SD.VS0opiQTxMr8auKNOZ9W
+ SXirdJ4rZbwBTS1.COcMel1vhsgH5UJ35sYr_6DlszDbG7frNEKlUNnDnW6U
+ uy73E_GalW1IYFJuTGZ9fhygyEmmKXLkX7TAAwD1g6lVVtfX7_azpzyfSnzy
+ oYcvaUuw9U3PF_GP8zlLGl5JquH3pTtall9tKZPAhlW8E5np.9emlmbEiGvD
+ DQ2gQLgYPo1F5mTjPlOwhDC_LyInSpuUqCBpr.3c5SS22NiuH9iHO8e61xgF
+ nnTEM.8QzuLftZjOfRnLxtCI7IyasPw2lrjP09W4N4dxqnmngSvtNyKUN8hL
+ rQxT4F_DBZelN0OBC862z15vpZ9uEbVd12jHiMuHou5DZXy5H8Qnb1xZU2EW
+ 1ZRRi.2uVPYmvVQGTmOBnKe_guZorm.PRratTF06f97cgVJryaKoeF3MCcD3
+ dcpx1fkV2FhuZJSy4X0iIIOvgu0G_dJ_UcTDdUIcgmMbVUSGcx182gezNkO4
+ _4Kx02IXuBNuCjR3BaVDXDh5K17nJVg5jyikIxfyCFIwgrRWF8rKZpGTmLMd
+ gJJaHADO3zjlb8eOs39Wd8oMiyLLaKWxfvoLyljccM4NzaTiqLkiiv6HPwxV
+ 0u5vLofKbWYt8BN.0k5Y552LUmH7UPDrmBoomLw2mmOjl89RPgAhXyS6N6sf
+ 2BZMWlHVLsj6D23LvMTjJhMoYSCGaRiTektOfIiXHfxCKcXRAG5fq2n.ZUBM
+ 0Y9c.Z3YCtZ3Egnvfv.KMl3gSL1Z7pxY1vIwDjVdMDbsiq5MLrRH5J1OpdRw
+ 9Bb9q9mPRMJX_opoBMMZ10sfi6nEqMKYTKf0.CRXeiEwY8uw2RFWZjTlAUWm
+ EYrZbX_PfYopcc.kjUp0xtr1kK3TLzxmPFL6PdWAB_SDXMOSxg--
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.253.31.112 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 14 May 2022 14:18:57 +0000
+Received: from zdll2bmmsc01nfe001.wnsnet.dll2b.tci.att.com ([107.78.102.29])
+	by bizsmtp with ESMTP
+	id prrsnYT1PBkeSpsbhnF25y; Sat, 14 May 2022 10:18:57 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1652537937;
+	bh=AfzuHowDY80OAHf1MvRWk7yoJDqNokbRAAYoegKKdXo=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=j9P1q8mbaEglA9RVcB1LWpy+DD/phy9qnGlR9NB/4vVA+Wygp62rDnKmBjY3D7El5
+	 G0sMwdJgCCgG06J0hRye4hGmZTptyx4eTdoTUlOVLPYf6IF/eBas375/L9Ji0DwOb6
+	 3hNpDlJnDa/S90NtWio5tTDif6kSxVnq0WZJJcwuwBiycswUUdzRYL/6CZpQvW0YkQ
+	 Wj9PEOgxaitWQ/xDFhtfnGRHWL92HZSo1gpToVxoC7bpFAN3Ruj5atUMHvh5dd8iDV
+	 uh9MsNaAjIlk9FYochT7+D9iehuf5XCB3mdsXfXvS9pflogd3SceCyE7ic5pE2XiaX
+	 rIfZRbHvywLFg==
+Message-ID: <prrsnYT1PBkeSpsbhnF25y@txt.att.net>
+In-Reply-To: 147030345.119608217.1652537937070.JavaMail.nems@zdll2bmmsc01nfe001
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1652537932-111
+X-Mms-MMS-Version: 1.2
+To: texasable@cpa.texas.gov, slaskowitz@ingramllp.com, isdaeurope@isda.org, 
+	ldobbs@isda.org, isda@isda.org, nlu@isda.org, cfaimali@isda.org, 
+	nsawyer@isda.org, jclark@isda.org, ms60710444266@yahoo.com
+Subject: https://portal.311.nyc.gov/sr-details/?id=4296b0c3-c4a2-ec11-826d-0003ff86900
+ c
+From: 6462563609@mms.att.net
+Date: Sat, 14 May 2022 14:18:57 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_119608216_1433059122.1652537937070"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfD/lJX2Ara8ObSlsEwRApL7y6FbNBXMtTAxsClU4Cp604Xmb6NpFs/B/Dbt1xVEotE0W3GDgNePTV2GaBAfReLhtD/hcLkYz4UvtaJGRhgoH4GBxz72F
+ 0e7aShfKJH5s2H+8YaFYKq1F7rdM1ckmkM0oo4IZyKgp8ygJA/dyXFDBeQB8dR9FfYhMW/lHkNmO5Jyg3rJVL2r8ymDgNofqbZM5sKLkpmvQLkowD7GlJlAT
+Content-Length: 390
+
+------=_Part_119608216_1433059122.1652537937070
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9wb3J0YWwuMzExLm55Yy5nb3Yvc3ItZGV0YWlscy8/aWQ9NDI5NmIwYzMtYzRhMi1l
+YzExLTgyNmQtMDAwM2ZmODY5MDBj
+------=_Part_119608216_1433059122.1652537937070--
