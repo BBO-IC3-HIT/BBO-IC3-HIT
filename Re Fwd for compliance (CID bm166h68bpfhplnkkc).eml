@@ -1,0 +1,87 @@
+From - Tue May  3 01:54:51 2022
+X-Account-Key: account1
+X-UIDL: AFE/4lBH6hF8YnDQ6wwKCIhtyuk
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.248.165
+ by atlas317.free.mail.ne1.yahoo.com with HTTPS; Tue, 3 May 2022 06:51:23 +0000
+Return-Path: <noreply@dowjones.com>
+X-Originating-Ip: [205.203.136.134]
+Received-SPF: pass (domain of dowjones.com designates 205.203.136.134 as permitted sender)
+Authentication-Results: atlas317.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=dowjones.com;
+ dmarc=pass(p=NONE,sp=REJECT) header.from=dowjones.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 3 May 2022 06:51:23 +0000
+X-YMailISG: mp40eCsWLDvYxrJLHFfdcG9uQIKoXkiigy7uPcVzTgHJTuXY
+ sxDSkwX3dnYuaQdJylVfqv3lxxrtq3JyRXaF6ZCpxo14ZP5VCPQKs6qqRhLo
+ wir7cfcYypoxvwKgrzQe.Cp7VPtqLK98dbX_kgYP2QkWDbo3zWZTW4Unx0le
+ 5h08r6NZqSTIou4B.ZMHv6Fn3hLk..6ijxOc.UtY2Y.oZ2uFeT6PHWc4fy8u
+ IW8Jc2ygdXj_5XzMn97czq3WjNoeMla2Yv3KZK5kZfc4Bz1KH7Qptd6jyIN6
+ cCzQjHyiibhg_M1cMgLvKMgPUG39gAqbeXUgKzcMaHvA81C0grHBTagQ6Wfk
+ JX8cF6YildolsD8KEEOloP114KJdC_ACaIIeWNW2bsN.kK68ESZODOBXkIPG
+ KXiqwPGi8Y7hcpLj4rppUBVjN3DDgg6BcU9j2cD4MGxdy0J0PGp50X0m6F_G
+ myVFzcbmBu6.hN_cmaLKhOTCDCm3Lz96RfzLHvX87idfeMo5kede6QuIl8As
+ SD9dOAHHAzfrKNgex1QVo_YRaZ7IvCkZVMWRUzF6v9th1T2uZcA_SHzbfRE2
+ 1qeQmuQ8eYC7DM6k66RK5ddFQTCj.1ceVzwMuNlKLCTmxNcu4xuN7QD4bxzq
+ WigEe738TxmNIa5QZZwgFZD2_I6BlT2OKo328UA.uGfneBIh3bQtMMnwlW3Y
+ hnE3WngVyEaKSWfQod_7XSZcipRXiYHAkLhyFUOPHnsqOq8a8RC8.nM511nU
+ C11jS.P7TnTH0Xe91eYqq60vrvz5.iBNmvOR_BECRuJt64vOUj4T5RjMQUNP
+ rMl2.BotYobqknSRJaJu1nKHPPwVrwLEWi0lzXecveL0hrfwP6BEDK1XC45t
+ rZEpUF8uD81blpg61rlpGcQcMLYDip9gMMyM8lf4im7P3PTWCi7Z8rd00tfY
+ eKUHfIyiChuytXHTD7P82T8mxZXb7vYc..GgA.iolwLO8sK9J0xctT.gmHSz
+ htfQwLW1yYCiFLhKDU4eT7.Iwg2xb7okOrqQsDwdr7mIP6dPpuKgl7cRachA
+ t.DKWJ5A4i21l7cwuPaU2yT4uj8ValfbNL_XPDoRjX8xH63OMVoirlsVwRCM
+ A4Jb99uh
+Received: from 205.203.136.134 (EHLO secinmr02.dowjones.com)
+ by 10.223.248.165 with SMTP;
+ Tue, 03 May 2022 06:51:23 +0000
+Received: from unknown (HELO DEN158GIC074) ([104.251.193.145])
+  by secinmr02.dowjones.net with ESMTP; 03 May 2022 02:51:22 -0400
+Date: Tue, 3 May 2022 02:51:21 -0400
+Content-Type: multipart/alternative;
+ boundary="------------Boundary-00=_LDOAOwrLVBs0yP4KWVvG"
+From: "noreply@dowjones.com" <noreply@dowjones.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: RE: Fwd: for compliance (CID:bm166h68bpfhplnkkc)
+Importance: Normal
+X-Priority: 3 (Normal)
+Priority: Normal
+Message-ID: <6270D0E9.036244.041BC@DEN158GIC074.caas.local>
+mime-version: 1.0
+Content-Length: 1641
+
+This is a multi-part message in MIME format.
+
+--------------Boundary-00=_LDOAOwrLVBs0yP4KWVvG
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+VGhhbmsgeW91IGZvciBjb250YWN0aW5nIHRoZSBEb3cgSm9uZXMgQ3VzdG9tZXIgU2Vydmlj
+ZSBUZWFtLiBXZSBoYXZlIHJlY2VpdmVkIHlvdXIgZW1haWwuIEEgbWVtYmVyIG9mIHRoZSB0
+ZWFtIHdpbGwgcmVzcG9uZCB0byB5b3VyIGlucXVpcnkgYXMgc29vbiBhcyBwb3NzaWJsZS4g
+IA0KDQpSZWdhcmRzLA0KRG93IEpvbmVzIEN1c3RvbWVyIFNlcnZpY2UNCg0KDQpUaGlzIGUt
+bWFpbCBtZXNzYWdlIHdhcyBzZW50IGZyb20gYSBub3RpZmljYXRpb24tb25seSBhZGRyZXNz
+IHRoYXQgY2Fubm90IGFjY2VwdCBpbmNvbWluZyBlLW1haWwuIFBsZWFzZSBkbyBub3QgcmVw
+bHkgdG8gdGhpcyBtZXNzYWdlLg==
+
+--------------Boundary-00=_LDOAOwrLVBs0yP4KWVvG
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGh0bWwgZGF0YS1sdC1pbnN0YWxsZWQ9InRydWUiPg0KICA8aGVhZD4NCiAgICA8bWV0YSBo
+dHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1V
+VEYtOCI+DQogIDwvaGVhZD4NCiAgDQo8Ym9keSBkYXRhLWdyYW1tPSJmYWxzZSIgc3BlbGxj
+aGVjaz0iZmFsc2UiPg0KDQo8UCBjbGFzcz1Nc29Ob3JtYWw+VGhhbmsgeW91IGZvciBjb250
+YWN0aW5nIHRoZSBEb3cgSm9uZXMgQ3VzdG9tZXIgU2VydmljZSBUZWFtLiBXZSBoYXZlIHJl
+Y2VpdmVkIHlvdXIgZW1haWwuIEEgbWVtYmVyIG9mIHRoZSB0ZWFtIHdpbGwgcmVzcG9uZCB0
+byB5b3VyIGlucXVpcnkgYXMgc29vbiBhcyBwb3NzaWJsZS4gIDxicj4NClJlZ2FyZHMsPGJy
+Pg0KRG93IEpvbmVzIEN1c3RvbWVyIFNlcnZpY2U8YnI+DQpUaGlzIGUtbWFpbCBtZXNzYWdl
+IHdhcyBzZW50IGZyb20gYSBub3RpZmljYXRpb24tb25seSBhZGRyZXNzIHRoYXQgY2Fubm90
+IGFjY2VwdCBpbmNvbWluZyBlLW1haWwuIFBsZWFzZSBkbyBub3QgcmVwbHkgdG8gdGhpcyBt
+ZXNzYWdlLjwvcD4NCg0KPC9ib2R5Pg0KPC9odG1sPg==
+
+--------------Boundary-00=_LDOAOwrLVBs0yP4KWVvG--

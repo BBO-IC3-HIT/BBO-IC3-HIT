@@ -1,0 +1,87 @@
+From - Thu May 19 18:27:01 2022
+X-Account-Key: account1
+X-UIDL: AGL63LFNI/d7Yoa/VwMJWEfDhaE
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.152.8
+ by atlas124.free.mail.ne1.yahoo.com with HTTPS; Thu, 19 May 2022 22:08:27 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.156.20]
+Received-SPF: pass (domain of icloud.com designates 17.57.156.20 as permitted sender)
+Authentication-Results: atlas124.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 19 May 2022 22:08:27 +0000
+X-YMailISG: dEbWjvEWLDtWNyOrG_Qzz8JGPggIdOxjHLSLpaIiFqDyeJ9i
+ OZbnLYjjVILYBHbf5TEqW7.eZBJ8Nh0ZqSR3kTTZbULhFQOo4OIY8HhNMtXN
+ ZvPFShMYY9qOQ7yVOkDW0a06Xoaelx2Me1mW3uCG6NUR9zftm3v0L0Qi9Ae3
+ F52aHs9zN_GW.88MwN9d1.ii1R6eAHtcIzmBVqrHwmUpitEz.0rKHOAR6lIq
+ SHOCTYDzpEytSxw4i1KKH2tVP0OCLMUxOHlG9.zsAaXYJYdeETPY4vZ.7pAi
+ gBTeEgyKbg3jrCuC3qZNY6MsCWcdf1ODnlujmkvYHk_Emf7OHcmkXQ4JTaBE
+ uj..XVgPxn0gIl0B4IYnXZ27pRZPbkfXOaAq6C0zBjFFwonic85E6ukdSBpv
+ 2_q7KspAWmyqLRGmSyE2JJaWBJzcLtgkbeSbLW29QrreGhbhQE.qv0Qx3.Vz
+ MsJW.FAOCX2HdABBeSQxpOwtyB1sevKBS8jx3WDTzxt2uc.LwUyF0F_1TI_.
+ 5Om0Lg6FLRdHOOYYLuSMqpbWugOMOHIoqmUGt9YH8YTCRwKzQY2rKPbXlmOD
+ KbPaQ6VUmMzJq3zIcmQ39vrBjn89iR3YteqGAlMs_ds4gnkWdLBXvcPbITPC
+ e4ARtKrgpzgJT94_B6obzQ0wpLAiRO67rZgmjO5sLQmMBDvcNm15JUznS5qz
+ eoIknwBaPUlOQtBlW5Uucz_iUIRhAZg6ejXbCls_0KF9ytA.cklVRH7XViPV
+ T8Jp4dKSHFBinreZsstJXDDHLMh1kNfGJBWhMDaVdbVvPyTNKf89OsKbgbNR
+ bpxsKUNadQKG3DeyW1ATj5cVmI2ZHipbu.cE4c7dmnUtvSZ6swAmBxoaedJy
+ Fr_v3LNUKQ866hyB3nNjxACcb_o3nDjQ2AO2xrQNpa5RSejJ22WRRITyyDPV
+ jmjOL8MDTKpYssUZlN4DYE1OEkbG35NSdZc.VBXQIuffMDjDazghrwCRhLg8
+ lMWf0jSBldro.Nn1aN7d2w5yaIuBn.s7mATEkkBug.sOLD53ym96w9BZfGru
+ rXf2UlbQQDlSGT4QCsX2lpoH9ZfMrjvKCLYqEkVPR.KWZVvN7xEGchBYxlFm
+ CcqLBvYOXOOHbD2M
+Received: from 17.57.156.20 (EHLO ci74p00im-qukt09090301.me.com)
+ by 10.217.152.8 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Thu, 19 May 2022 22:08:27 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652998107;
+	bh=vSI7/RKmXZXJoiJaKwvpdx3ByzrwJSUNRxm71y6fPzI=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=Px2BLaKrcZw5nqcOLUbAL6txuaVj7QROu11TvzBG8kdtuTm5sM57tnmXo2FldnBQz
+	 Q6nyv330HabL6IfD4P/Zcqf/tW7NVqVPIkYDIBpMZ7IqXsYNgWCQsJNK8CgeB5ZEeN
+	 J5a3uV/h1Do2SHbmw4xwUqDBEaTgMsu7sBFpF777d7Y/v/gY3t1twsL23bjnrdD2hD
+	 /VVaVKmiP/FsIPJPlUQVCW/8njzbVRtbiOBvAFsaiduYy83I0HufUNvxkDTbs6/W5V
+	 cx8qyuyuBIA6lxbvNNuT1CLwDEL+e6nbGxUFisbFDWKbKJsn06Y5oHb5cGSAG6iM0G
+	 x9ApwRZIdhl0g==
+Received: from smtpclient.apple (ci77p00im-dlb-asmtp-mailmevip.me.com [17.57.156.26])
+	by ci74p00im-qukt09090301.me.com (Postfix) with ESMTPSA id 3360E11209C3;
+	Thu, 19 May 2022 22:08:26 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Thu, 19 May 2022 18:08:25 -0400
+Subject: https://saaze2311prdsra.blob.core.windows.net/clean/f0fe07ffbfd7ec11a7b5002248307b90/05-10-2022%20-%20117AssessmentReceipts%202022-05-16%20at%203.50.29%20PM.pdf
+Message-Id: <E40651EF-3CF1-4CFD-A56B-30918ABFD635@icloud.com>
+Cc: "governor.hochul@exec.ny.gov" <governor.hochul@exec.ny.gov>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: Jurn2HM3Ec7pso37bzCoS8mAGe_ePLrC
+X-Proofpoint-ORIG-GUID: Jurn2HM3Ec7pso37bzCoS8mAGe_ePLrC
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.790,17.11.62.513.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-12=5F03:2020-02-14=5F02,2022-01-12=5F03,2021-12-02?=
+ =?UTF-8?Q?=5F01_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlxlogscore=403 phishscore=0
+ spamscore=0 clxscore=1015 bulkscore=0 suspectscore=0 adultscore=0
+ malwarescore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205190119
+Content-Length: 177
+
+
+https://saaze2311prdsra.blob.core.windows.net/clean/f0fe07ffbfd7ec11a7b50022=
+48307b90/05-10-2022%20-%20117AssessmentReceipts%202022-05-16%20at%203.50.29%=
+20PM.pdf
+
+
+
+
+
+
+/BD
+

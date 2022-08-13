@@ -1,0 +1,88 @@
+From - Sat May 28 16:47:51 2022
+X-Account-Key: account1
+X-UIDL: AE/PVR4dOJ9bYpKYgwkYIDmyE2k
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.216.85
+ by atlas103.free.mail.bf1.yahoo.com with HTTPS; Sat, 28 May 2022 21:47:47 +0000
+Return-Path: <support@faxzero.com>
+X-Originating-Ip: [67.227.156.183]
+Received-SPF: pass (domain of faxzero.com designates 67.227.156.183 as permitted sender)
+Authentication-Results: atlas103.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=faxzero.com;
+ dmarc=unknown header.from=faxzero.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 21:47:47 +0000
+X-YMailAVSC: SAZnP0s3bBvKtkcgHiq9mky_GwXb2l8Cpe6IT3a.iMIKbLj
+ 8C45DiSYTyLGTwB8D9mWUQtsK6WIDK6k3CB0Bzwp211hE_LnlhHNU0MJlghz
+ o.2mQLENTONvLVcnK9pYmAeBEvP05gfXmjPV6CYbiWtnN84Nulr7yDvyx7eW
+ s0UrDnMzhFnqj4Gczza0aRf9_tRt9B_Ef8xwTjp_rHWwDxrBqa6Z3RMPICfg
+ v_5r5mjF6LRUW5kuASlpbIABMg9GagO7iHzcEMw7zGx9LxgoOXEwCRa9Dv48
+ -
+X-YMailISG: XGMDkgoWLDtYw3EAGOAVXGDZsV6O1NyP8aepNbsrWtg2Cjkl
+ R0X5QbALSivJ6XE6YOhsH6HJ2aL2sgzujZEx2TPssI8xWfXEB2NBIaiCHtjn
+ G8L7vl8PI1VB0PUjxvGXTFzVFgwNrEyE7FBP5oA232.H3G8kFdO4dg18.Og6
+ 9lIn1zTaL4bN0BhiVvHSwgrC.l2MSUROsAg4QuEldUyhDSqc118DSXgpreCh
+ pIrVHNTzZF0fR5SK36f15uqa9f5BYLDiON06X5wlmqtWeY4B2bFHfVGlhI6T
+ b8ifjacNY18njI5nBvAJHpnAZTF6.5pmnJ7CLR.2ayZWqvFZT3YaGpjoEUxI
+ jMM9f.VnYso48ngkEZR4cwIwRQPf9MmLeaGnB8qWG9rQKhLkbu123cTiMIQq
+ KT3fPu4l7K3bftZEOqMXOjiyiq5Bkxsb2Wbna.2lv72pswc.tDWE0W7esSjw
+ LCamBUT93pmqBRj49WiyyFWbmufzYnpUxIJDngXria2VkPPyVLknwOMuUj5M
+ uxn.uebOO4c8gCL2kOrz618YhzZ9LK1ZhV1A21Wxg4vjF8voEIsr2N6EiHUr
+ Q4qAu7xm4BaHGbnxbk6.mIdHen1ankYq3Bh7HMI27T0TUEo9bsBNeO3nNOoz
+ MUwV0px49fBsuNS3q3JKY5kOFXZ5idebHbfhoZ1InEzNgWXouxaeOuVMaIlB
+ AEoCEeDiFLQOu.Ol5jgGfe3YFk4i8ynrG.cKFEy_6EtKMVLxQZQNP52Z3AHL
+ BonD.kbCyUMY0tDbpXa3AJiwyhew4k6uxvh0deI.Ef8fxUA31GYSiSp8LVHF
+ 5rPEXV1qw2onjmMyk3pv3iA_WMCXe7bio0u.o9OomGXHrSjRTXaazMsQcaJ6
+ cXFm3CFXDCAiMOwcO3CMZknKhD5eg2VZyypJSMPi4uqwky3U13EhT5YsryDX
+ LfoGwa3WFl_O4o89cS.ZcxCL7fBRpj5C5TiU8sta2qfyGZwIdO_lHP8bFcLh
+ vyQKarZi4ydq8HS5G7bfci2GAPpjRVE07GQEGOMDjijUq.hcsJ3qdxtvKOIS
+ VX6TBGI6uHk-
+Received: from 67.227.156.183 (EHLO hostess.faxzero.com)
+ by 10.196.216.85 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 21:47:47 +0000
+Received: from nobody by hostess.faxzero.com with local (Exim 4.95)
+	(envelope-from <support@faxzero.com>)
+	id 1nv4Hj-0000tJ-3Q
+	for MS60710444266@YAHOO.COM;
+	Sat, 28 May 2022 17:47:47 -0400
+To: BARIS DINCER <MS60710444266@YAHOO.COM>
+Subject: FaxZero.com Action Required - Please Confirm Your Fax
+X-PHP-Script: faxzero.com/index.php for 50.74.77.2, 50.74.77.2, 18.205.67.177
+X-PHP-Originating-Script: 1001:index.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+X-IADB-IP: 67.227.156.183
+X-IADB-IP-REVERSE: faxzero.com
+X-IADB-URL: http://www.isipp.com/iadb.php
+From: FaxZero.com <support@faxzero.com>
+Message-Id: <E1nv4Hj-0000tJ-3Q@hostess.faxzero.com>
+Date: Sat, 28 May 2022 17:47:47 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostess.faxzero.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - faxzero.com
+X-Get-Message-Sender-Via: hostess.faxzero.com: uid via acl_c_vhost_owner from authenticated_id: nobody from /only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: hostess.faxzero.com: nobody
+Content-Length: 787
+
+<html>
+<body>
+<p>Dear BARIS DINCER,</p>
+
+<p>Please click on the URL below to send your fax with 1 document to
+<b>JOE MONK</b> at <b>8164714832</b>.</p>
+
+<p><a href="https://faxzero.com/confirm/31178172/1653774467">https://faxzero.com/confirm/31178172/1653774467</a></p>
+
+<p>Your fax will not be delivered until you do so.</p>
+
+<p>By clicking the URL, you agree to FaxZero.com's <a href="https://faxzero.com/terms_of_use.php">terms of use</a>.
+Do not use FaxZero to send advertisements, spam, abusive, harassing, defamatory, hateful or offensive material.</p>
+
+<p>While you're waiting for your document to be faxed, check out <a href="https://www.FreePrintableBusinessCards.net">Free Printable Business Cards</a> that you can download, customize, and print instantly.</p>
+</body>
+</html>
