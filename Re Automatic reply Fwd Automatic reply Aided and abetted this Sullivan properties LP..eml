@@ -1,0 +1,152 @@
+From - Sun Apr 17 12:07:54 2022
+X-Account-Key: account1
+X-UIDL: AE4xO7FihGzhYldWkAKQQGhA6os
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.95
+ by atlas221.free.mail.gq1.yahoo.com with HTTPS; Wed, 13 Apr 2022 23:02:39 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.58.63.167]
+Received-SPF: pass (domain of icloud.com designates 17.58.63.167 as permitted sender)
+Authentication-Results: atlas221.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 13 Apr 2022 23:02:39 +0000
+X-YMailISG: 4dVLCwkWLDu2oQQW7h6TVJDAteOzSFgmJ4JLGUrMvFN9HcUD
+ DuXqfYK2v9G9NEOHEgWMIK56LBuS8dzp6sDO49_MCQqRgkTNCr_67cybKFN5
+ glqGP.8IdrVTNmpJH0Vu2rgqqvjsaztvMoPJOCPRlpFEjMDQFUtMMzwqBnWJ
+ KidLJWbgxsLJg_i8XYVMGfdFxa.1gBelbGvvKEESU.ueQ.At4V0Sm8IGebU.
+ UjdwZrdThY54FOdCpxBozEJ8zDFCuDIPhk3R7fhNmih.Pitd_vPFClgt7jjR
+ L9Bi_CGfeNuQN.gexPgMEykeXf_QEVnK3qRna_gXA_abZv1wtZ4axZ9x.r4_
+ AIl9rvqvYpssTSOMmOX0qXpw4pgtVgyhDOZ6Ji4sxLdU188SsZf.cNU7qLMY
+ l17qX_BdWTrMjPVir8vhMfHsDWSG6Y.zHS.QEWnHWbiffjGd3yHBQmuOKpws
+ mTeY8BM2j8yKLEdpAmJtbbfV..9uh4Fof8hrUxIyWqoJ1lZjKEQUiwh91bYH
+ aMbOFghwGuyVOsLSoOa_o_Dx08q5pY4lSy34klLT4_DwY6xSZoLaHPvVPZ5L
+ kUxEkRO3RFK92Y5UbpNf_9lTggHHKX8bOzi1hpXB0d.V9.61oDlIAWF624M0
+ 1OcAGkfN9ke4U7VUKBms3fIRR4eDvUxeU3F6gU494_ocGgp0BODl.EbMyffu
+ OTVgSxOQjELsKxRB1FNGCf1aWaL3GqQMlcXU0mVa7G3yf6zYolOH5J51BbII
+ 1.6QMFDlEvYUMOnpziz5lN4tt5aWqO.obROChq6ZoVd6zP2jELCSaJ3z47ZW
+ dwV5ZZqZcwFRYVx_I.IO87QgI8bXpsfgs_2v6dO5sttknEo9gVWQGlvY7SRB
+ ft2x_ZWTyrTehD9o7kWhfVPfhNGoJaKi.ahZFbRoK_DO.UqEbNWlNklMRQbH
+ MK6ddMTQcSeXYucUevZnBLtZPROIyDkOL7L4t13OPBaEZCkdmlC_OnYnEyC7
+ SxRxK5dki0LsxJc7MHRJudKMYooYEEwiNC.zpleZ7hN4H0SI5q0I.12Uix22
+ NqY4jsXI7bWTbAicXKCfRUUdtrvsGs60f.4IZsfR39vznx2TcjguKQwKYukp
+ C75e21wh8PBBpK1SZ61eW7EVWdgIijn73zf9Hqbi1VNV1mGDPFybXDOrJ5yi
+ Zhc8.3rKtJvMSg.iA8Pya0cIpzGNRI0vzTskGOxA7AxzGnmduZ0vQcrXwLke
+Received: from 17.58.63.167 (EHLO st43p00im-zteg10072001.me.com)
+ by 10.253.31.95 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 13 Apr 2022 23:02:39 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1649890958;
+	bh=mtnKP9Udm+CM29Es+AOXNPW32YBOkYo/dMonYhvOXK8=;
+	h=Content-Type:From:Mime-Version:Subject:Date:Message-Id:To;
+	b=aXKjkw17pCILrYxhDXB7qIeusOMw1WIk4U1g0kEnIbU5rP3tKi1gBAREaAhshfSqU
+	 4XcSYNGKfhHd1pVGkvY6UM9v0eTSntKvjgupK3a82JNGVyIBpzqx2Wmr2R8njaWB6i
+	 whUQ/EcFWopSh+XjhfD/kqABerNx7hU4PwOLvyAHgd9IBuOjB66poKtdPCyLrcEDIR
+	 WQP6o6v6KWwigd2dW4i+uIegc5+cG49LlybPTvQ9ZdzOE+g2kIO+w4o3/9j+ukNhPI
+	 CbSB1sqC3fIz9e/3zFvgQSUtwHtZJ0fwwLV3uDbVL4/5KPZZgAcKIAP3n6y93AAswS
+	 nefKXpWxiOn2g==
+Received: from smtpclient.apple (st43p00im-dlb-asmtp-mailmevip.me.com [17.42.251.41])
+	by st43p00im-zteg10072001.me.com (Postfix) with ESMTPSA id 7B32FB40D2B;
+	Wed, 13 Apr 2022 23:02:38 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=Apple-Mail-77041691-0E8F-4BF5-911C-342E47809C53
+Content-Transfer-Encoding: 7bit
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Automatic reply: Fwd: Automatic reply: Aided and abetted this Sullivan properties LP.
+Date: Wed, 13 Apr 2022 19:02:38 -0400
+Message-Id: <A4A5C0CC-C9BF-43C7-8CB5-77467A29E386@icloud.com>
+References: <20220413230111.D19A79C4F5A@mr11p00im-smtpin011.me.com>
+Cc: BBO 121 <ms60710444266@yahoo.com>, credit_risk_management@chi.frb.org
+In-Reply-To: <20220413230111.D19A79C4F5A@mr11p00im-smtpin011.me.com>
+To: "Liskey, Erica" <Erica.Liskey@chi.frb.org>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.486,18.0.858
+ definitions=2022-04-13_04:2022-04-13,2022-04-13 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1031 mlxscore=0
+ mlxlogscore=844 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2009150000 definitions=main-2204130109
+Content-Length: 2130
+
+
+--Apple-Mail-77041691-0E8F-4BF5-911C-342E47809C53
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you.=20
+
+/BD
+
+
+> On Apr 13, 2022, at 7:01 PM, Liskey, Erica <Erica.Liskey@chi.frb.org> wrot=
+e:
+>=20
+> =EF=BB=BF
+> I am currently off work and will be returning Tuesday, April 19.   Please c=
+all 800-380-3760 or email credit_risk_management@chi.frb.org in my absence. =
+=20
+>=20
+> Thank you,
+> Erica
+
+--Apple-Mail-77041691-0E8F-4BF5-911C-342E47809C53
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Thank you.&nbsp;<br><br><div dir=3D"ltr">/B=
+D<div><br></div></div><div dir=3D"ltr"><br><blockquote type=3D"cite">On Apr 1=
+3, 2022, at 7:01 PM, Liskey, Erica &lt;Erica.Liskey@chi.frb.org&gt; wrote:<b=
+r><br></blockquote></div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF=
+
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii">=
+
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+
+
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"text-autospace:none">I am currently off work=
+ and will be returning Tuesday, April 19.&nbsp;&nbsp; Please call 800-380-37=
+60 or email credit_risk_management@chi.frb.org in my absence.&nbsp;
+<br>
+<br>
+Thank you,<br>
+Erica<o:p></o:p></p>
+</div>
+
+
+</div></blockquote></body></html>=
+
+--Apple-Mail-77041691-0E8F-4BF5-911C-342E47809C53--

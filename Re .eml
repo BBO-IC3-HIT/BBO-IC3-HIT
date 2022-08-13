@@ -1,0 +1,133 @@
+From - Mon Apr 25 15:36:28 2022
+X-Account-Key: account1
+X-UIDL: ADoXum5QoY3DYmIkYgZ0WBfRvJw
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.146
+ by atlas217.free.mail.ne1.yahoo.com with HTTPS; Fri, 22 Apr 2022 03:43:29 +0000
+Return-Path: <bondstrt007@gmail.com>
+X-Originating-Ip: [209.85.166.172]
+Received-SPF: pass (domain of gmail.com designates 209.85.166.172 as permitted sender)
+Authentication-Results: atlas217.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 22 Apr 2022 03:43:30 +0000
+X-YMailISG: B7i3Q4IWLDsFKm8evzRWVzxdXvGJ.o4p5LxfQgbiU_jFWf5z
+ a4_NOCl6UWlAW8f0CiGaOePPFFDff5MypppizUeNERoBnK_y5Pe79bhDOYQC
+ W6U4ui9bvTgvWgP6sGUrLrQgGFk5SojrVZ17iQfvE0RNEZ2Qa0yTM4nCOJir
+ ZZTSjPXbVagNUs6a2LZLyGlfyNi26ML_5sjyDN3XIpt2aVyhyP2u6pT0.8Y9
+ gZHVpg6DMV7lx4McNOC9xy35.8PZt8vII9q5bBqBq3nWPmq86HUQtFhHGp3N
+ rKDU8GYyNHWTTKbFh7IpkkoC1kuTArbJ_DYpFhgjjSbl2MBRCBSIEw.hSJjM
+ M3ZtP1aXf6hVCe17scC2.DQfmY_gH2wsl2bEfmMV7Jyx_HbUqnbmQD8X9b8J
+ 0huPbBbPfJWg6NcO2VuXeBxpYMvmPyvJX73YmOA50GOgdR8QjkjrYbkdF12K
+ 7usPb8RxRjA8stcvRDzGgXRhFPbB_4lpmwLtlTJhsYWu4oASawbdyBl9UUE.
+ I.meoce6FxJLBGKufsKA_tz_1m_xk006kEufpFD6uQCHIcQQWbp1D4BBl2hJ
+ 2o0rXsiuttD53lhoY6f6Zfg_KGlLllQt51HpzxNeKgfsI2EFIJ7lsMl3uhU6
+ IJFHAORObzYTkUwZrs.i517QIEwvW0pjTR5Y_OlRcr6XaAyeyfGF8dQUDzlb
+ pNhj3HKiOFXx0FddaMfxOfhC1gb0hErdZlwSaYRwZnfaxtnLo40BFvMnzHdg
+ fZazjG71mfUoD6U00nRF6.HMlhb6bfiQjse.sgTf2.Fqkow0sA6ccm_zVnPJ
+ XMV4l4YjRajrFk35yVqbi0Mc7wbhhFznGP5RLQd2PThgMZnV7QC4baEr9rbA
+ L7o85ZKEAHwzlk5fGhzMr752uaJBFlaG3o3yiiajcp0PY3vZZPPeX9Ri7Zo8
+ Hv4UTWkCS43n9Z2uK0DBFjVKRNEYfCbjJ1hR73A7Nvl4SSRLfi0QMQX8esnb
+ uQgQnHKugSgUVIPcUofBRBqIbA5MdR.1X8WuCO6f9sv1zjD.H10ysQOysEmM
+ PKbAmCbVCu4jx34xu26HiLNu3kPPQj.w5IocIwnwViqU5PRGYDkqfIrgNcbf
+ QBUz7NhKRxT4dbSDFYGmj4qah28LF1Mq4TmMiqL0m515aN35QpL0ExhG_sxM
+ nklAIqf9LMlkP1falqGcczTu._5FW8ECJnenbyXKkvm7eOAEdf8pR6tX_z3y
+ Ldb5ohYAmLrGeUGePmG.hUELM43P2UA2u.vd1pNh9tQf0DGJpvltya4XiPR6
+ H_yG0tnDzj8IRAYB_7jVBOKvveAk47NDh7BZ6IVPY0wxJ_VsUDOB7R5ZkKus
+ 2x3mz8nfyRl783hXuiFefZHDYx1zCRKYBVGV522rZd9y8cnDjLzPdxC8PVML
+ 1HTK
+Received: from 209.85.166.172 (EHLO mail-il1-f172.google.com)
+ by 10.217.130.146 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Fri, 22 Apr 2022 03:43:29 +0000
+Received: by mail-il1-f172.google.com with SMTP id f5so4297024ilj.13
+        for <ms60710444266@yahoo.com>; Thu, 21 Apr 2022 20:43:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=roNI59+GiAc6Jh1CTacDU9LvWJJL/2wrMlNhRKpAsgI=;
+        b=YvF7SaPCBAaBoCoNN5NIl5fxfTAs6s7tz0DocUt/51F4x83sk2J2d1yyZTLdcQGHLH
+         WWgT5+BIjq9orYzBk/Zmyr2QaCd1YAop9Kp5Zif250UCKL8VaJXfTV8xNI59hQGp4Du7
+         G8rB8KJpp1WXQXRERO5YPXieh6mnS1l7aSA+1InfTIuHkhwSZhBwPwrACJ8tEqMdplZG
+         XGpeLoaaAIxBqKi3r1stCI/lYs8VJq2Qm0L7Isd3Wwh5Iah237QnD5pGFHtm87i2943P
+         9N9VWjT7tgqbBcP7jM/4nNdCnPCaSXerP7vP6/3ttl0yjUCu0qCchvi++eNoIUW1pTKy
+         Y/aw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=roNI59+GiAc6Jh1CTacDU9LvWJJL/2wrMlNhRKpAsgI=;
+        b=DPJsJ+zs96QA99YZSsfAr2UFghjNPKoVibL2abAfD9uhL+oKsGLi/d4u0DFqnncbWD
+         6XsTCFdV2/5mnS+KKSY6n/wCicMaM28WqnRoqmAr2YOFLGP7ctdKHJf70kkjaqji2z2u
+         WhrZo3MD+pCKiQh7eh4o9kDpe6OWHiGXwbtRC3AUSzp5ZXbbbWqQRxI0Zgu2dlkuBoR+
+         z20mVAmmvCXs0ATI5sb+pszdkHlDpP9M/4AbgymOwyUkveNMQLnO6dTdaavB0U1EbCK1
+         ttNyLM72IYLMK29Mk7FPB3h32bBjURoAOXujMKuq5J4Ywi7QBhCoEUW7wzcNvi/4a8Ih
+         Smlw==
+X-Gm-Message-State: AOAM53127zArE2Op4TTuNL1/qIg2DYHVezlB99BrDVmQmLE/XbquRjp9
+	lT4Soy8Zkwl/tFm0giaiabn86/48ME5a39yZd0g=
+X-Google-Smtp-Source: ABdhPJzcazpc/ZfUq3BhgpxyhE0kKFRoMXyyFEe/qCN2hMcD5fNDhNjP3sxmafaXzst3xUNf7w2NFTV/O5Ery661NNk=
+X-Received: by 2002:a05:6e02:1a82:b0:2cc:21f4:277b with SMTP id
+ k2-20020a056e021a8200b002cc21f4277bmr1185054ilv.232.1650599009731; Thu, 21
+ Apr 2022 20:43:29 -0700 (PDT)
+MIME-Version: 1.0
+References: <heVqn0ZrDs6Y8hgR4nCAJk@txt.att.net>
+In-Reply-To: <heVqn0ZrDs6Y8hgR4nCAJk@txt.att.net>
+From: BO DINCER <bondstrt007@gmail.com>
+Date: Thu, 21 Apr 2022 23:43:18 -0400
+Message-ID: <CAOHu488amxXaQ8HOGS4LKrkDK9ChaYmEm1WC7fp6ya5Nze5j6Q@mail.gmail.com>
+Subject: Re:
+To: 6462563609@mms.att.net
+Cc: mshy15@morganstanley.com, kerri.saperstein@morgansley.com, 
+	press@barrons.com, pronewsletter@dowjones.com, 
+	jpminvestorrelations@jpmchase.com, james.gorman@morganstanley.com, 
+	mediainquiries@point72.com, mutualfunds@statefarm.com, bofamarkets@bofa.com, 
+	stationservices@cbs2ny.com, gs@gs.com, info@kpmg.com, info@ey.com, 
+	colin.brooks@morganstanley.com, BBO 121 <ms60710444266@yahoo.com>, into@tudor.com, 
+	investor@annaly.com, inquiries@point72.com, espnfrontrow@espn.com
+Content-Type: multipart/alternative; boundary="000000000000a448ee05dd360767"
+Content-Length: 1023
+
+--000000000000a448ee05dd360767
+Content-Type: text/plain; charset="UTF-8"
+
+Damn .
+
+852,029,489.38 later, another card?
+
+
+On Thu, Apr 21, 2022, 7:42 PM <6462563609@mms.att.net> wrote:
+
+>
+
+--000000000000a448ee05dd360767
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div dir=3D"auto"></div>Damn .<div dir=3D"auto"><br></div=
+><div dir=3D"auto">852,029,489.38 later, another card?</div><div dir=3D"aut=
+o"><br></div><div dir=3D"auto"><br><div class=3D"gmail_quote" dir=3D"auto">=
+<div dir=3D"ltr" class=3D"gmail_attr">On Thu, Apr 21, 2022, 7:42 PM  &lt;<a=
+ href=3D"mailto:6462563609@mms.att.net" target=3D"_blank" rel=3D"noreferrer=
+">6462563609@mms.att.net</a>&gt; wrote:<br></div><blockquote class=3D"gmail=
+_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:=
+1ex">
+=09
+	=09
+	=09
+=09
+	<div>
+          =20
+           =20
+          =20
+           =20
+        =20
+     </div>
+
+
+</blockquote></div></div></div>
+
+--000000000000a448ee05dd360767--

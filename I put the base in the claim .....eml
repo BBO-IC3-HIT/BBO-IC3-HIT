@@ -1,0 +1,114 @@
+From - Wed Apr 27 11:54:19 2022
+X-Account-Key: account1
+X-UIDL: AGTpNdghmmL7YmgaIwYK4At02jY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.234.150
+ by atlas314.free.mail.gq1.yahoo.com with HTTPS; Tue, 26 Apr 2022 16:13:22 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.6]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.6 as permitted sender)
+Authentication-Results: atlas314.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 26 Apr 2022 16:13:23 +0000
+X-YMailAVSC: tTTcjec3bBsdFMcK58kJ7YHNzGomiLNshD5ids4lGzW9Flg
+ gfovnZaW_1AhYZKecutkhKn53y_wYGez0tnAQ4SeGz_H03x89wf0jB6xNkh0
+ Pg0W2LGZQWJEbCApAO2GV2DjrElRv8NxGbvvpBhp9h7EnFbrwJKlKeZOeusm
+ zDNf5iSsgVblBZX.noExxO2jxItE6dJqGwLyiAYMx1D_trZu59FXasR_7c8S
+ GE3dEbcg8tjjdzjj5vANtjOvxmgs29t2_.xwAX19QVWn5N7UVUczVazushLp
+ zjgHtulq2Lz22UOCS16kpZcrc9MmZtVtOCdX0y6mUZ_UpZ1QWBhBdxvc5gk3
+ NrxWXQKVG_Xs.8QG8TQSI8A.CgyVCEoYsSd0LtusKgIToS4yM9NQtFzxxLPT
+ vqXtJfWuum_JSUuxGcT7jP.ojKNTD7mP_8jkkuUESV6Wevp6cHMMOUo.nY0C
+ eXir40Q--
+X-YMailISG: hvBLSF0WLDt8Lkvv4QcOyIDA.0NtszBGzZDKJcrG68uhhEzo
+ Nq9.W3ZmI6dkeQI6VXrELoicJjGX1vHFe9AQk4SS2bP6Qvm3b.q0_wumeG8z
+ OT_Sk0aP96KzmS38UERFOP659EP1pYXTZhG_XHn9RBbGXQA0.W_xZPVu74ha
+ 5u8.25w0reBceDfR1x.OAjHHrh5LAGb3A0KmWI72qEnzRipj0cz.PJO61v0y
+ ZYj2uUjdwDqVAqpKWXkM3DKY1ZtT3eIbD.kd1JkC4Su03T7_6VB0nm4zwbOe
+ xdO0B4aGW3waTWSWoBfhSaZigI4XOM2fb_0dyRjl2zQSVS394rQ6y_gkTHMx
+ QIEdCk94HhMHgvntWkG6nspLIZ2njpejnfpGk_VaWcRxelEkrvKvq6nQ1_A3
+ F0.fpRy__KZtIu7FzCjaYKd31AS2VnwxsYrSoaRZrXdZHdcW6thDwAZ.i0ls
+ fHefKKD45OZ7kQdgXUGDPdIbNqAv7yGMXL0.U7oCw1IeLrJEmjqlJBtTY.WK
+ PwfgXynlCgotMSdcN_SiBeKuuh1HgQUEsfVLAfjFdGFhnJTI_EXhGRneiOkI
+ 0mJ8V5VJWUkkcPl2.eB0dhGv1NwZ.Ag9EXc7zkWqaAPd6Fr_z3JjHiiwkgmd
+ l.U5n1pxG1UfFaJHcbGvyAj_NzViZuVXs3xXV8d5h32JatJE0SHLf2hEBX.5
+ plf4R.mWAdBivJySa0POGtM31OB4bCO.YKiPTnDVS4u3iFSs8XgrvVVGiNnM
+ GUxdxfkhs9GXJT077xVWfvyMfx8VGfYrfPNExN6KTUPgMC86Nke2b2rWKLLW
+ GKF6P6LsC2V3krRCC7w3gVRL.jrITkZrHPCH.BMCnWbhlSM6P6OG15_fLhP1
+ f_58x5RTGJ4Sok2knJBXgaN0W2VBj_U1fgy0NfY5DO0LUkYseMgwvE_hKK0x
+ _ib99c7jbM1.MMlBTHGTCuMvyyC72Ttybfccy8pwx52.81GJWv_ce0RoHVS4
+ VvV0LjaE4JkjgIvIPpolqWYoXeDDJ1KGmzaMcyIhJVUeQkA1A1VzHveSBYBL
+ RS7zZDCMiEI95TFuR2sM6raJ3rs6o_oKdjH_Ow8WWtXbYkwHmJY1EDE.cK7p
+ YWlhIjmqdaDXF3DcvW7q232vNqy5.IIun9cfpFTf4.inoAvb0DfcJpE4ZJZj
+ QTlVJDffy_cP4jMTMZNrFs891E5PRGS39qqwqM1H6jdHAjP5akEf0rfN2SHI
+ 9kkPopijYcgjdTQ1FY7iVq9IyFgdrAP43jgDqgB6tfl8D2TC3KpKznYo4MFW
+ oy5SFHHc5WbXrLGnBDqZqpMJaGcjllhPK9sJd60-
+Received: from 166.216.149.6 (EHLO alpemg-mtmta03.wnsnet.attws.com)
+ by 10.253.234.150 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 26 Apr 2022 16:13:22 +0000
+Received: from zdll2ammsc01nfe002.wnsnet.dll2a.tci.att.com ([107.78.102.27])
+	by bizsmtp with ESMTP
+	id jLfqntyF1WHVbjNoYnYbdx; Tue, 26 Apr 2022 12:13:22 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1650989602;
+	bh=bDRpXUozUay+kCN/lq/W1qp1cg65a9UxjC88rM8clHM=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=GDDgHT+L3XDbqXjtOT4ttccsI7PyDK7GgNcyQ2uUQ0PK4hydW9j8x4BFJpj9pYXUQ
+	 uB8RXgpGVoJ9Q+/aQYEd/W8Wcwg1X6kXcaUTqVv5g8Y+WyHFBpfcA63E2slzZWweSr
+	 dobyJGRhE3Z2Ym/fm/MRZGQ7c2LU607VlqeGIQlml109A24Z5Qel2xqqGQ7yC2zTgx
+	 RXD49ZaZs5irlDTrTfWYePE71KK6KWVv2fS2Sl6aqSGlaDf5OI/m5L2PuFV6/E8HLW
+	 QosbwLVIb+erVncvKErVtqSKv8k5yvci7t4svFbgLx0L9VcFI9tI/8XV4wUFcQnWI5
+	 abgDX6KwPHbig==
+Message-ID: <jLfqntyF1WHVbjNoYnYbdx@txt.att.net>
+In-Reply-To: 94339276.99739443.1650989602029.JavaMail.nems@zdll2ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1650989595-67
+X-Mms-MMS-Version: 1.2
+To: tmc-corps@bloomberg.net, bcassese19@bloomberg.net, 
+	mediainquiries@point72.com, mshy2@bloomberg.net, 
+	mshy15@morganstanley.com, mstanley321@bloomberg.net, 
+	mshy1@bloomberg.net, info@kpmg.com, kerri.saperstein@morgansley.com, 
+	media@chi.frb.org, gs@gs.com, mediarelations@ap.org, 
+	bbrief@bloomberg.net, info@ey.com, tracedataservices@finra.org, 
+	bofamarkets@bofa.com, electronicfilings@ftc.gov, 
+	ms60710444266@yahoo.com
+Subject: I put the base in the claim ....
+From: 6462563609@mms.att.net
+Date: Tue, 26 Apr 2022 16:13:22 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_99739442_697243978.1650989602029"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfBjqPqJ009lMcBrQZTI8XK/UyknzzGidgwBrxbEYcek+veLf2GqfP23OoSA7+NZ5mL6NVky5qextqCNtmuS/vGLa7uxTxdv9oRlZNnNqvYL4fKvpkL1r
+ KKfwDLFuN+uk++DxAwELgmXeWewBZPxXD8wmJyZ1zqWcg1LzMwKxpUUPblSJR61LdNga4LYq59MtQo8JGyhMjspnyDv1bW3ZxOk8Vfuvp+YIkOXTNAk/Hk22
+Content-Length: 1545
+
+------=_Part_99739442_697243978.1650989602029
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+VGhlIFJpY2tleSBIZW5kZXJzb24geG1hcyBhbGJ1bQpGb3IgdGhlIEtlZWJsZXIgaG91c2Ugb2Yg
+ZWx2ZXMsIGFuZCBwcmlvciB0byB4bWFzPz8/CgoKaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3Bs
+YXlsaXN0LzFEMFU3cjA2QTFhdXpaQ09nVVVpUVk/c2k9Y2JGUUh2RjBTM2VSR0N3ei13RTRCdwpF
+dmVuIGEgcGxheWxpc3QgZnJvbSBKb2UgSm9lLiAKCmh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS9w
+bGF5bGlzdC8xRDBVN3IwNkExYXV6WkNPZ1VVaVFZP3NpPWNiRlFIdkYwUzNlUkdDd3otd0U0QncK
+CkluY2x1c2l2ZSBvZiB0aGUgMzExIGNvbXBsYWludCwgcHJlc2VudGx5IGhvc3RlZCBvbiB0aGUg
+RE9CIHdlYi1wb3J0YWwuIAoKaHR0cHM6Ly9zYWF6ZTIzMTFwcmRzcmEuYmxvYi5jb3JlLndpbmRv
+d3MubmV0L2NsZWFuL2UyZmU4MmMxYzZhMmVjMTFiNDAwMDAyMjQ4MzE2MzgzLzE1Mzk3NF8yMDIw
+X1N1bGxpdmFuX1Byb3BlcnRpZXNfTF9QX3ZfQmFyaXNfRGluY2VyX0VYSElCSVRfU19fMjMxJTIw
+LSUyMDQlMjBhdWd1c3QlMjAyMDIwJTIwLSUyMG5vJTIwY2VydGlmaWNhdGUlMjAtLSUyMHNlZSUy
+MGFsc28lMjBieWxhd3MlMjBhbmQlMjBkZWFkbGluZXMucGRmCgpGaWxlZCBOWVNDRUYgMTUzOTc0
+XzIwMjAuIAogIEFib3V0IHRob3NlIGxlYXNlcyBhbmQgcmVudHMgdHJhbnNmZXJyZWQgdG8gU3Rh
+dGUgRmFybSAodW5sYXdmdWwgcGVyIEZESUMpLiAKCk5PVEU6IEN1cnJlbnRseSBzZWxmIGN1c3Rv
+ZGllZCBhbW9uZyB0aHJlZSBhdWRpdCBmaXJtcyBpbiBDSUsgMTUxNjUyMyA+IDkzNzE1LiAKCkp1
+c3QgbGlrZSBTaGFyaSA8IFdpbHNvbiBbc21vb3RoZV0KCgoKaHR0cHM6Ly9vcGVuLnNwb3RpZnku
+Y29tL3BsYXlsaXN0LzFEMFU3cjA2QTFhdXpaQ09nVVVpUVk/c2k9Y2JGUUh2RjBTM2VSR0N3ei13
+RTRCdwoKCldoYXR0dHR0dHR0dHR0LiA=
+------=_Part_99739442_697243978.1650989602029--

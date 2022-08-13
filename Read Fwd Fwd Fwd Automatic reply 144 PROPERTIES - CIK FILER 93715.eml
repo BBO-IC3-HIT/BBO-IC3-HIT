@@ -1,0 +1,191 @@
+From - Thu Aug 11 11:51:02 2022
+X-Account-Key: account1
+X-UIDL: AEEkciFz22f8YvSI5w8DwHNuAQs
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.151.200
+ by atlas315.free.mail.ne1.yahoo.com with HTTPS; Thu, 11 Aug 2022 04:43:19 +0000
+Return-Path: <ROBERT.PASSERO@nypd.org>
+X-Originating-Ip: [40.107.89.118]
+Received-SPF: pass (domain of nypd.org designates 40.107.89.118 as permitted sender)
+Authentication-Results: atlas315.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 11 Aug 2022 04:43:19 +0000
+X-YMailISG: jyXkok0WLDtMC1machHJTVct2uqCXIsh6j.QViX2ar87jPiT
+ HyH8aG5u1tUtjTnQ7SB6FpUG1i53EPPSSrq9JYPwAxcsTvqYVUCf1Y9SKVmE
+ DFKkE6SF8EK9WhjoeIbON4PDJIXJ8QIU41HtRhpCmM65ey1469nk66MNp1Xm
+ LiQtAJu5jY0p04e84pNx4s4MCI8s5PfApw04JsG3enkv3_DMcnK6Lqo.W_gw
+ stDDUD_0vTtQMuywL9CrFyPz6bst8JO2uZ0N7a6ubZ24UvB.JYD8OgZkTx2Q
+ QaURLxs_oBPJPjEt3Grzg5O9sNlHcMbSHukC92ajhK2S03XbDWOifKkKVPhc
+ cZdKXLEIyfRkMrjAu6tCLaa1WwSklXtx6G8BGo9aTev30HMrOPjH_ckXvv28
+ 9.DEfmWsoaCwhX.t6QeNbZ2BMNhwgcuC0wqzWpYsSClKt0CqALGf9GBmFFaZ
+ 9beDd_7ZXkBjtvrkYSdRv0jk7XvBut5FzVT1IZaywDEzIe8rdmNq3QEG7a0G
+ JRVyEgzNY_kpIF.6FNhanZ8Q0f4WPZgZ32LJh98OQC4pnGf2mdYG8Srtk4A2
+ mUzSd._FhkjRUOKfInCT1UxRazT5lw56ynXnv01wWxNEhWqemnCls.rzlLhW
+ MhnjxAajFYqPF1n77cXvPY4o34ub2i3GKxL_n0LR7PNEenXpJWqvm8UOa2vr
+ a5UwEwMzA6mbbmEdW9zlLZ_vkqpffH.DX_HBo9fcRHtB1eqb4yZ8Cxl_oVPU
+ 5_6XTYlC_4Dkvm9_XlGDkfPaZWabJioMbc4xzRZsEiGt.bzjcVCjZE2p85Nj
+ udhjSAjkq7yVLcfDBLZrQGoVzulCvO.SP5wKEwMXectG.AC7CHscAOGs3fio
+ TthZr9tA5bDIy5b_aWz2XdTuM5q7FPvG2Y_SP8seum4tqn_5k8g_9oYOgGZO
+ NpAbez7bJM_axgABBKIU8ku.HsYFooHi.1PE5272oPJKbrT2oKAKCagYEZqe
+ r_sUBfF2c9MPZnDRa5q3Szl8IYignOHKrSYIhS1VpYcbZUyKQWuY_whuD9US
+ kDhO.qXcfrWFCwv0MIXSVfBUrfyxs8JngI7OtR9PQa89xTC.UQhevvVJYvgZ
+ j7c6IEQTlsVOr3MPofgagSvO7tSTSKaFzY.x4iwuDmAAWXQSIZc__FJ185tk
+ 4id_XBtFHMXhleXNx8uO2VLYKdd_C_aiLN.x5tlPwpnSpybnvI6IST8LDles
+ GEIKiwcrOGrlMmy9tn0LFywE_ew9wCc8MOSMiCqUbSR4kTIH3Tud6B7jU_ct
+ U0tmsM4o0ecVTbFZmewBaNttkP2i3NmkHspTY7bhhuC2xB6.4JLBYK8JqRs4
+ X_P_aVNDsA--
+Received: from 40.107.89.118 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.217.151.200 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 11 Aug 2022 04:43:19 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Pl0g4XFygGdTKbbui6ChzuH/Y5kEcH+Zo7CVKnWnR3Hc6TD3hMTQCglMYz756we+M3ryx8j4wqyRyvxJbkX48pAJiuUZHlyWwdYH+gcPxb+VsbNYVNYdSK5d+KXF9gRnxLsDAvMsj4nhw8FD8Nd52sVqpe4qPDGgHs2gWykIMgfUw49shMHVqE2F5cz61JX0HIS+PDy36HyQePEj1q0KwtSTADFmBNadqlXAPiIhTWrTM0byZ4AGeSdtHPRwYDK/It9u7aSHHUloJMyCB1CrU56FkIMM8ILxCJXLwEOO7ZV+46eAIgIGXVqa9YaKtEcQoe4WWePqXL+263qoaeH2uw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ODkO7gXaPc+AMJlyHnHcep3peq4+A+c/1qcwgPxLqD0=;
+ b=A9TGx0+K4lp2MvOtHdBRKHCO9PH31V0B4+lxxqYPzJTisFFQwlozTyMOwwWDagiloU7MzmqpziVt/RO8ATcGXHYIjuofmf6U10+UwLBjD8GkFboD8wFzxuKu2//+aJuWztIJkP0nQn+ehWaMgnuXdueJJ6rJGlhbrsQP/Vhq7GbuzuPsuuSkrxM7+yTRCTxm7xiYaovtVX2M90RIYwhXLWCEObUW0HN3OqC3lyytmY0sTM5SDYDqpSylXU2dVRSnQ5isi3PczdAe9Ga4K9rjtduER6nxc4ELZ6WowgkUsze5mp9RQdqSnsiMPihCgpdOpklf6ThKwFRvNE9GBUs0JQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ODkO7gXaPc+AMJlyHnHcep3peq4+A+c/1qcwgPxLqD0=;
+ b=Eqj0VcQZcBQWMS/BYOEfgwcYtCiu5WeP1gpgvayJHJeyWlFAtPdIPvnKUkhxyFEyt8oQlt4hPdua54aeteYc1JRDEZ5bqKELabWLDAi69m6qlQBLx7AATbtPgKrQJrgkJyVCqhTwIScUXQVexx5rTb2qgyrCGYrTyHP1ibrmEU0=
+Received: from DM8PR09MB6504.namprd09.prod.outlook.com (2603:10b6:5:2e0::20)
+ by SJ0PR09MB7102.namprd09.prod.outlook.com (2603:10b6:a03:25b::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5525.11; Thu, 11 Aug
+ 2022 04:43:18 +0000
+Received: from DM8PR09MB6504.namprd09.prod.outlook.com
+ ([fe80::25bf:43b4:d24e:3c22]) by DM8PR09MB6504.namprd09.prod.outlook.com
+ ([fe80::25bf:43b4:d24e:3c22%9]) with mapi id 15.20.5525.011; Thu, 11 Aug 2022
+ 04:43:18 +0000
+From: "PASSERO, ROBERT" <ROBERT.PASSERO@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: Fwd: Automatic reply: 144 PROPERTIES - CIK FILER
+ 93715
+Thread-Topic: Fwd: Fwd: Automatic reply: 144 PROPERTIES - CIK FILER 93715
+Thread-Index: AQHYmTe4tNJVJvUjXU+oWJPc4gC3Fq2BPUKA
+Date: Thu, 11 Aug 2022 04:43:18 +0000
+Message-ID: <7d04e982f0d54cc0af57e5c1d1f9ecd6@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: b3d69042-34ef-4397-ee6f-08da7b5402ef
+x-ms-traffictypediagnostic: SJ0PR09MB7102:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ n1A3/+XO2AI8LqJ6AmRMGycOUhwlYVWc5h1VHQbzf6KBMPiIidanu73M0Dd6fEat+cywUt0k1IlnjatjjOJ7afklHrfNlb0rHUVo8hOIw7fjD26T/6ztY/R2uGjatP9bxAX9fvR/iSGNbwrm1/rK8897XIhP6U6C3AR+uE41ZjWi3ApyeJ51X5G2iFE0yrOEppXH/2IUJ1tZ9hRPEBn8+bVjXjDCVcO4cfqcS0Rv8HVP/D6oBV3UV9PZ7MOXGF7ckxXblnOm6C99syRoEjmqHChm4ZySZEika2mFUTTt1duKR0oK4TEk78tqbPp5ZwUZ2dnQeutTIua5TYdew8vvF1UWrnpT8BIqjYOF7nou/ii6bg90BLvguz+NpbPplswiT6aF92WSJOXgu5ZpxwazpKyXmF5cW3Rt2N3acQKuNf79SCGBpYawNCt9tasHryo5TFeyzY9Yx6eCYQqSVWfrqcIZ5OLGPmciiJyy4shfbNo=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM8PR09MB6504.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(6486002)(498600001)(71200400001)(82960400001)(36756003)(86362001)(108616005)(6506007)(88996005)(2616005)(24736004)(4270600006)(186003)(6512007)(621065003)(73894004)(6916009)(66946007)(66446008)(8676002)(64756008)(66556008)(66476007)(2906002)(8936002)(122000001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?BVueQjFqbKVa4RuY0Y1ir32rJhmtMktKBRq0Yt9lF2vIX/l+bg6FVaklDhIO?=
+ =?us-ascii?Q?e9Fz0ODEp8Is+zSUS/XMmFYw76jEfii6cJdgGCGtvewm24aSRXz5IogoefD/?=
+ =?us-ascii?Q?dWyjNYGiK5b+X4L07r83NTUo2v09H02iSRCFO31p3x4c0hO3maHxVyBpG6q/?=
+ =?us-ascii?Q?lPuk7g3pC3AtQXBRNSV+5Twf1E8cGXlFtV/xZyok8lOusD6mVxeSB0az6xqQ?=
+ =?us-ascii?Q?hWBSRNLi/nNExSqkgNEFzgqHP8Sjt2bDxK9vmC3c5kg9DHVuBm7sRVAOuglx?=
+ =?us-ascii?Q?sIL3KIqONGtm5BZgR+jUE9B5maXTAyyC6Zs/WRMdQtLr3pjsz5ofyWGHAn1w?=
+ =?us-ascii?Q?giwsHodQPoEo4jZnOiQKkKWoUK+su6ojoSR1zAHpKNh6JDBhTcPJLmj3Rd3x?=
+ =?us-ascii?Q?IIaOsHpblUokU9hFsEGYayGGZwqeD7chi3MU/wMxK0g1z9xlawhdUKoOnW8I?=
+ =?us-ascii?Q?wFw1F/job4B6jJJydQvKc/rSwtk9UJlVU4AuFtuCiInqaPqAi51dLL1koXk0?=
+ =?us-ascii?Q?uKS6FwpPG/6suSa2rpGcg5fkiIR57Rv+9cjdkGqlmYr+ylSQbbB7tQvkqflU?=
+ =?us-ascii?Q?tIVHPOOmhhag1vwfKimqplTJM1ew71+F4CfiUpyr4AxvzBh4uko96aKTCuUx?=
+ =?us-ascii?Q?XSoAaElRNczi16mjFG7yQt/zB4iFfTDH7YdX+ocxAvai3QREqV3ttfoLkZvc?=
+ =?us-ascii?Q?7ZaJuZU2Plk7dkOVzd4LnOsiDhRN9ZLNqkBbv/8LgPlsRaTH00Hn8tqG+erj?=
+ =?us-ascii?Q?h5F9jnu/cwSTXUm8NSfoDcnS+yi6QbLzdY936p0ZfyvN6ayD9pqIYZdYIagG?=
+ =?us-ascii?Q?ixVojy5AAsXT9ZAOdQ5Ct5lRTEbHY8zbEHq6pU3MFep2uwrCDgsN29lvHeEO?=
+ =?us-ascii?Q?j4pC0piNR9IAYQOG9/oL8kq8PoKW5Jftk6GH7noF+k/BD6qRU21gABbfH9d7?=
+ =?us-ascii?Q?2kY6wENhKNg8zhFCABBXfmBhSD9oJ8TVzA4qHV7+hb38OG32S9qZXpO8dtmO?=
+ =?us-ascii?Q?KioryvVkS58OKPu3YwXnvoW3MgJmO8synYf4WVfuaehBBFf+MXxXvleRkBSJ?=
+ =?us-ascii?Q?+y2m3/fw1RwvOCTCJc+Cuq+rAGRgL5W0S0n5QTW56cGUoIXZEeo+7zQ5mfls?=
+ =?us-ascii?Q?XPDJadnlAsrOQ5Iyt6R6jlB0ac0xsHp4n0nBtpLRaN0mie0Ktgd4uCC1/33s?=
+ =?us-ascii?Q?ARxD1MqE9mlnUntj8F1iEt0tBrLPSYaoJq/cuci30Y5GchChFDUxRm1wKKhw?=
+ =?us-ascii?Q?Msjf6RL9oEdws0CX59VRJmmT+vgIADaVo1bIF2wnPz003+sApajzS8ubUhAB?=
+ =?us-ascii?Q?RlRN25/K1a8Mccdi1Z25Ynfb2bIY5zkgNYVRvYCG69lyn4kvm3NQk/l+Gnwa?=
+ =?us-ascii?Q?SX1MdWPYJknfnrAGJ3O3k2T6eo4TRLTh2OXUsnB2OStJU7yyid/k0DdNz+Cw?=
+ =?us-ascii?Q?vLd3kFv6gE5FpPTQKiSVZaGcsD07ow3j9vTb8j+XD/yJYEArasKkKg=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM8PR09MB6504.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: b3d69042-34ef-4397-ee6f-08da7b5402ef
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 Aug 2022 04:43:18.2469
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR09MB7102
+Content-Length: 1967
+
+--_000_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_"
+
+--_002_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: PASSERO, ROBERT
+   Subject: Fwd: Fwd: Fwd: Automatic reply: 144 PROPERTIES - CIK FILER 9371=
+5
+   Sent: Saturday, July 16, 2022 1:16:55 PM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Thursday, August 11, 2022 12:43:18 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: PASSERO, ROBERT<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: Fwd: Automatic reply: 144 PROPERTIES - CIK =
+FILER 93715<br>
+&nbsp;&nbsp; Sent: Saturday, July 16, 2022 1:16:55 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, August 11, 2022 12:43:18 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_--
+
+--_000_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; ROBERT.PASSERO@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: yfautDDWPU+vcNSOf44wPA==
+Original-Message-ID: <e0b3f41a-cdef-5d5b-5cb1-efa57677d213@yahoo.com>
+X-Display-Name: PASSERO, ROBERT
+
+
+--_000_7d04e982f0d54cc0af57e5c1d1f9ecd6nypdorg_--

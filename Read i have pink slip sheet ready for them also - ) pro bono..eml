@@ -1,0 +1,189 @@
+From - Thu Aug 11 11:51:02 2022
+X-Account-Key: account1
+X-UIDL: ACJ66nxnt4yQYvSI6A1CiOe8C9s
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.151.200
+ by atlas124.free.mail.ne1.yahoo.com with HTTPS; Thu, 11 Aug 2022 04:43:20 +0000
+Return-Path: <ROBERT.PASSERO@nypd.org>
+X-Originating-Ip: [40.107.89.118]
+Received-SPF: pass (domain of nypd.org designates 40.107.89.118 as permitted sender)
+Authentication-Results: atlas124.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 11 Aug 2022 04:43:20 +0000
+X-YMailISG: 8UV70BwWLDsGA1Mk7ZAiCS1h1p.A.PCiyMNyFuW8tEcKk3kL
+ hKRShPUy6ltA0sHNu3VogXmK7ltvRPY2iF.hQOuz7J9pRa5tokdURCp8zEo0
+ NHQn9uFC7MtjSR.Tx30kCWsFvOLwgU6y8iGb6vc3tdjDFe3ZwPvEx9jKSEpJ
+ lVC98.eatNJASA81AZnFycKlEfWkllmOYI0Z9d63xHyAdpmbJc7MPzk64k_M
+ 6PE50ogTmAYZ4XHTuG9u3_q2f1Jgsyf221ziOJUvFd3uArHIM5gH2.JSuDn4
+ NXLJrPLRXKYdVvJwW3mf0X8qJ8iPYp5bZnWDeFVNFCA_CGDBtyh_eR.y9hUk
+ _gJ_z_3BiIHb9njvNUEPN05A8ff.gxmNEirMo_K0GCN.ehpy9yojmpBj7Qap
+ iq2DFQyxZDP27wKEpOBM_OEFJbexeVOsB0tteMmwgtfES4fmUqD3bMMGc5cl
+ rQgmV4XeJHMXqCDbVQ.bJDxhYO3QggYSaRIrbkTeMRWAeEMcQExP8QVlQQL6
+ 3JTLDP04X6tyYRqLMzNko97UdyOPgK2vWYzE9YCo.qV3d_YB_sloPy4lZOsh
+ Pf461OYKhPcw3of0uzAJuhXK.zzVwY6TmnmRo6BngHchMcCZ8g6UmkGbrMGu
+ OLZ4QHaW2Gt5QyuxxJ.Nclh0LIR9Lwols9uPO06sj.8MRJ0H.866ky9Xxfqs
+ 4wXGqBdB3qiSReG8OnJdPIFzLRnqIDIsnk3T6Q8mCc9v6j0qNoVutEj7_4QE
+ l_k8m9xlD32IYi.Ba4jyWR9lO6VxY3zSyyZKP_CYgfRGeKXIlNgC.CH4GvjU
+ SyFn_oXCIFZNUvk80XEl_6QhAPcq9A8BYpz3sYWddSsbV6fjav29MrwXKAH7
+ CcYh6q3wBDZAYh_fikur8mYhE2x_IIZ.UOqVXjjBwqv_2PQUJIY.IsVJZs_8
+ uJIuqQFeftsf9xmChnqJAfpNWkAV.3sYnCvpgYGVH3HZBzUSqYsg7J8DeG55
+ 6CniXc6DgIzF0j4dLXVt3lqoqgXrvlqQd3hPW0jp.lr5L23pXz2yJA4NUde5
+ OiLShI2AZE6Jl8B.8VsJXUOQdJ6GcaZ8nhvVOxL7jqfUIxdABCUJiwi69Y.6
+ 9H_Vhipgp_F6EQxIMoRap.4WG4l04dR67oSfFWCjeOYflgFW0jj6gBeypMEp
+ Rsu4THzPtnZCupYiV_AGHbSsfYYSfwavhBsVO9oGLQbnHxTj_CGr__042pMd
+ E24sS609lxzYwlo3Ek5hhXc7JqBPQPd6mDcKovERrMMiUi2iRpKE43FtnVx4
+ LdimMw9te5up8oK00TtTSN9fAYPYJz2NxzOa68lLMcvigFw3Titx2cwA.4BS
+ cX1ORE6rJwm8
+Received: from 40.107.89.118 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.217.151.200 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 11 Aug 2022 04:43:20 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=enuZnq+Jrs/CjsCsxn9vTazL7TgN/Psfcd8GUu3OjzF7hr7kWqR7lpYP2hY4fFmTL0aDVcwWYnPOQ+H+g6YFWouLmWeKdAZaquPnKre04PQl9h4evJEIvW5vt27vSCwhTswIJD7Z6BUSACxvYPsyfqfQgHV6fw+nal9P7qyyaBjamzrR7wZhtCrJLxXHuJRsVbf+lH32nVCg77Lt5knMw6XIE3YHrPreRcsw/tkKjsJF3+mivczYcYEu/0j6pkkfXPPvX4Q5GlgemAhdn55cHRgKokHkTLPoM9gLrMu3Zh+hUY9mdspzL1yC5a91X0bw+GAuC5c1BfPE2h2He0U5eg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=2hKyHTRvnpYm3x/CXPkxNHEC+EMUz7SdS8RAX5oZuXA=;
+ b=M5OfZ0jLsw/FtGLMLCIE90pHJ9DaAHbmF2i30q50cMKPOYKkoBRo3D6hULWr+HZXaDveluAkdFYt26jEWn8cGnrUknxlXuFdo3SXJRYfNE3zclq5qI4s+UIf57jPhC2RhK+SYfWLMf2r4drEe8tmwc0VwGgY0qbQucHHgCT20hKheXRMf6Ume7qv0nquYEReOZbymHG0tKzaR+unpT6ObVPTl8NDjoFNQ/ZnNgtW6hrSa4eeFNyExdTVbb0ds55Yx8vIw7nUVTHnpn+oqOKTqYgepFJWvZJzs0PDsRV5qFNU32/VKxXwmKjum8BzdmBa++4vTtXqnuYB6MJfEibNeg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=2hKyHTRvnpYm3x/CXPkxNHEC+EMUz7SdS8RAX5oZuXA=;
+ b=PK/KlbJ6mPOSRV68j7+JP2QGzwqhfXp6svKTaUtZIo8UoM7vFXxTHPpppE7/zpwNNeGTGaVh2LsdjOg9YaflpMrq6/QaXf5Ins6h7ObXPCOL2R2OGHvYP/nWiHVPkVPFlBGn4dvwfzz4PLFsuvaOntC7xW0SZVF8KvAMmCAHaV0=
+Received: from DM8PR09MB6504.namprd09.prod.outlook.com (2603:10b6:5:2e0::20)
+ by SJ0PR09MB7102.namprd09.prod.outlook.com (2603:10b6:a03:25b::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5525.11; Thu, 11 Aug
+ 2022 04:43:19 +0000
+Received: from DM8PR09MB6504.namprd09.prod.outlook.com
+ ([fe80::25bf:43b4:d24e:3c22]) by DM8PR09MB6504.namprd09.prod.outlook.com
+ ([fe80::25bf:43b4:d24e:3c22%9]) with mapi id 15.20.5525.011; Thu, 11 Aug 2022
+ 04:43:19 +0000
+From: "PASSERO, ROBERT" <ROBERT.PASSERO@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: i have pink slip sheet ready for them also - > pro bono.
+Thread-Topic: i have pink slip sheet ready for them also - > pro bono.
+Thread-Index: AQHYlm5QJ3k27X+UBkKa5msXWOGElw==
+Date: Thu, 11 Aug 2022 04:43:19 +0000
+Message-ID: <a5b93ba8d5dd43acb34cefb1a660730f@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 2196786f-6a28-40da-6bcd-08da7b540375
+x-ms-traffictypediagnostic: SJ0PR09MB7102:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ XVZIbJWC7uTwJOP1LG5g72BYuif3USQ2kgQC51lhqj4+iRqz9hqYyi61OjBH2av9V9VVJXpQjTLTfVkIcrxktkbUV7IBAFMsSa0oxz4X03YfN6ePWmbqu5A/i29LV+nSs9RtJSf8tA5f4SsSxBvlwOWcrbP/dxHmrygsfuAEGOJu1heax7h8yY5+2xrvcF67fw94QwNVPKHTwlEnKB4E5eTDJdF+qwi69qNgX+5Sj1BgyKSnP/XuVx9DTRO63tcfIhD6oVWX39XHgLaJU0T+rtlAw1ACEFx8hwWublbJBHWGY3Z0o3BNlq6fb9jTjBNqoqMDfVbilg6gawfAWmGFFRWHolzx2duifDCDXTRoUhjbLrcAESGoulGsE6gQAKmaeIv1kuhRSC3AUwiNHghLadZfNqxgUdaC/91qofER7U5RPuIuTPSQfxHblO9ZZ3XdXyDz7pjO6uoueDhylGQtL0w/3OP4v+K4Bt9EYmX5WeY=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM8PR09MB6504.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(6486002)(498600001)(71200400001)(82960400001)(36756003)(86362001)(108616005)(6506007)(88996005)(2616005)(24736004)(4270600006)(186003)(6512007)(621065003)(73894004)(6916009)(66946007)(66446008)(8676002)(64756008)(66556008)(66476007)(2906002)(8936002)(122000001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?+Y/siF5z5tJa+WAuoN9dzV5joD+MLxZgxeno2K3VWyZaXfV8GXZ+5C40T3Hw?=
+ =?us-ascii?Q?u4GO1dQHp7dHN3PRPwioAVDXjChoLnk8CTv6HVMIit/YkZ9wmdTJzOHB/y5M?=
+ =?us-ascii?Q?3bmbmQSSiyTnP61UmgC0NfosmrSR+hULFmF+OKHBGlZCJtCkmN+MV9u7vHge?=
+ =?us-ascii?Q?MwA98YeS977nvAhdO95OAlCEl5VomMlz/caRltRgU5bW+QgW6miqbpdkqEh5?=
+ =?us-ascii?Q?217oRMySnUCYQLZBcqOdVKes2w3tjatguBd/3xI/aifQuY6fQtp9giSONT09?=
+ =?us-ascii?Q?D+kgyzU6deRvvczUd5vMv+Nj7kP/0Hs0MOwAlQavSiP2qWHQJtS9/A72PXuz?=
+ =?us-ascii?Q?AXaUDBcRNzeBMA4iVh+9rCff9sACYzOpfoU6UKDlzGnNkEu4JgCz7l+gPFi4?=
+ =?us-ascii?Q?7qJhB5EWwEfxKDnBDP50UQdon/Xxo+YeFHckle4Kvr02futZUQBbI10vSqc5?=
+ =?us-ascii?Q?JnhawviIldtRtUe4hho7XWunVZuz/b0bZ42nhlm71tmqdc/QgcCR2am5BxFk?=
+ =?us-ascii?Q?kLedgzbXk1NycW6LLvNwCrGha0rYto6vp41qZ/bUy8od3xDC9Iu6uBaGr2+i?=
+ =?us-ascii?Q?uGU0Art4TH4vLp3kvgfpnDrR2rDSR40xTuU7CQEOQ45iADGFImNDXSGamizl?=
+ =?us-ascii?Q?Ht2KkAA5dNqsvUVuLeJeVNTu63n72adErgsuF88y1y46eYW2tQrTPzmWifhE?=
+ =?us-ascii?Q?ak5onZzZma4gMYq26agodvCTkqb611D+XE0a0IQvfimdpeD/eVu8HSj+1bVC?=
+ =?us-ascii?Q?RpsImwy9uVzkMcynTQZKWqkFdNG4dj0cb/+ILGbM1sPuF9/gPd9hcHaxnFqh?=
+ =?us-ascii?Q?70aoqA/AbVwT/+wOod6kVTNvD3LYtREIKWaYXdgsnue55YNyUbDxcxE7MZHd?=
+ =?us-ascii?Q?lc8AZxhrb/WS7S9Z8f8JTeOoigtabF8UFAWoVlaN1RM0zw6CpV816QylYNEU?=
+ =?us-ascii?Q?RiE1D7tnPUFnz9WV33b5T5U900IKlNTW3hWHpTifoHjKK/khcttJss2rRs5Q?=
+ =?us-ascii?Q?a2PUmltYe6rQUGiH3Ae1kFje22OObnwdecshRYWGYdZi6Vl+nNUuQ+Ra/HAe?=
+ =?us-ascii?Q?na1EZ6t623P6ozYfFKj0Flos/umKkqgjKX1Ys7aHwtw9sUXkmIdsy7LqbbhV?=
+ =?us-ascii?Q?ivkaXP0rSZ+2pxQQPaFB2f60uqU92JCjsFi/dmVU+/E+Xz69zyVFgjjgomFa?=
+ =?us-ascii?Q?v2Bb2gN4wbo/c2vFBkMlR8booXZ3xZb8gJ4TImcq6EWLAwnKmIAJgJpTzRXP?=
+ =?us-ascii?Q?gl/Wt8rO4EiSgU+lBgIbHamw3400XxRPEIuuh6kqACIdt65qb8c9xqBnxmue?=
+ =?us-ascii?Q?UVsd4WOM9kQ3H2hu2SieTUdhfSBsc9syij5MeRaTzYxe4oP6sN/kJETD8yLo?=
+ =?us-ascii?Q?wQmutuJfQDsesWc6RlJfJ/RB2zNE2weKr5Y0MADijQ1Lm/ZAIEqyTwrg3zmm?=
+ =?us-ascii?Q?XUr1wbuozgyjCjRS4LCDfqcRLm9xumrvsOER7q1XlQVKe4+FXqKr3g=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM8PR09MB6504.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2196786f-6a28-40da-6bcd-08da7b540375
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 Aug 2022 04:43:19.1686
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR09MB7102
+Content-Length: 1956
+
+--_000_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_"
+
+--_002_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: PASSERO, ROBERT
+   Subject: i have pink slip sheet ready for them also - > pro bono.
+   Sent: Wednesday, July 13, 2022 12:06:32 AM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Thursday, August 11, 2022 12:43:19 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: PASSERO, ROBERT<br>
+&nbsp;&nbsp; Subject: i have pink slip sheet ready for them also - &gt; pro=
+ bono.<br>
+&nbsp;&nbsp; Sent: Wednesday, July 13, 2022 12:06:32 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, August 11, 2022 12:43:19 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_--
+
+--_000_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; ROBERT.PASSERO@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: u/v8jsguD0a0S277Phra3Q==
+Original-Message-ID: <fff9081a-22c7-d846-35c4-f51aa7816c3e@yahoo.com>
+X-Display-Name: PASSERO, ROBERT
+
+
+--_000_a5b93ba8d5dd43acb34cefb1a660730fnypdorg_--

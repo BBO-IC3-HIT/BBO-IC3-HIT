@@ -1,0 +1,212 @@
+From - Fri Aug 12 02:06:40 2022
+X-Account-Key: account1
+X-UIDL: AHLlo+Eai/+UYvX74AcgOLpwGZU
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Fri, 12 Aug 2022 07:06:07 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.204]
+Received-SPF: pass (domain of github.com designates 192.30.252.204 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 12 Aug 2022 07:06:08 +0000
+X-YMailAVSC: 0gDkFrk3bBu1g1QXlVdkPEj4PDO3B4uutJGstql5HPHqX1R
+ WJba9e3hRpnE3.SU1IcGXwWcJDMQNf0bBVVWfRuFMcptoZGcVsK2Rn9qXdSq
+ cx..5xy5m75GQOGYw5PrJe7V4D_ear5TJYPzj77eeCP4Sealz2VjUtOLyK4N
+ L3D3g2Z0Rd7ulC3V0f32JGOE1bi6QAqF8kd_ISYV5a2OsDuNxa.E93ZnQkBW
+ DCb1ix4DmOtNIU9OLDYZ62_Iwo5r5KlN8U3cd9Ko1FOAFrqUhrhsLm8f87AU
+ bqXcwMNiBxQitQn1xn.7_F_4RaMZ4OM_S.aPrFyjpENQP9ILLV2vNO3phel5
+ ZxBgHb3PAWdP7j7Y.3bkO6CxL5Mu8j9ggTwu8iuALyt2IzDRODQ7hFbnJ.Z.
+ x19xnMkKH8CyRkES7gfIWADoRC_m4yi0FG8iZ.8SDadM500lCc2i2xh8Kd.j
+ 2il3No6rLQdf1eEJ00pXeOr0jmAU5mSezE_Rqu52u4T7SKfe3A0DdRPkMNMP
+ OCtgHQtUo9jA0CfpC0Qn3ZwDxYO_oFA_Dt0htYGvpKAXeu.TQ.myIPaN6U5B
+ .RF.qu9eaHQoNmDbuRiZn8MxptwS7CTgAJ4oW0Hi3.sZGlWszQS.pt0KT_9F
+ htPJHD439SsQyXGSkLN2f2.Nol5IpqCfsFIB.VC65mpD.ZXS2bXAlueOag8D
+ 605iYcQboFgb6M.NlfEzAJRZXEd9j.rM85nDsV.aksHCiiQrzz9mqD1BCitd
+ qXC3bd_IBV0Ry9G5qcySU6fkJJ0nfCWKTipJQ8ZkdJWjnnD.2L5hzMaDns8X
+ MmDpF8f50qJFOIUuQtYmLrgBUWJovSs5Sdu1FrhQH.vhDZBo8ckoaxsWRcYB
+ t_ZQIH2Iv2NANnpgzHm5_eA2n_jY42ODRiDs3g29wLyhbwDtQKe4MXGIWIvp
+ VnpWJryAuMgzYZKRGR0VBOa1XPPK3uQODBwZ6YM33UcS7bnboTPIZpvjDZl3
+ uJb_sP.Y14yWbsKXhHB8sklS4ipCDFII-
+X-YMailISG: 69F37O0WLDuebShl.P4VcxbpejYQJudBjqCMyS2leTFe_F4p
+ VqNJbF72fm6keXjXerJjNNXvmax_RHej60YyDyUrRUV.eBiMJ4bb7AyH0875
+ AhHOtDQMEefqRqIFjf1k4iqaFWaJ6MxIMu4DKFKYPwkH7LiZHbsZkIODmhGX
+ mYJ7Ql9m2Sa_mRt_dahVUJVed_wUORX8tPxtuTqYbHQ8dEun__1I7YH8aKpJ
+ BlQTcnj9n4qgsBSP61zHdrovGJL8VO2ECeOK2kCSA2VFTA_jBxLUaqRbKC7.
+ .NmLCKUJHM6IlJssK59TAMdkVE5b4ITWbrJMKNBTdv3weQ9cThear6M3MagM
+ g4.WzVoHv_x9n1R3V5.FYXVno3wuoIBHqPuT4jsPJCQAgq3CRK3YhPC0wPUH
+ U4RR0_mepoGshQ.1B4xgW89SQuhqIjpooTnKHpr8LfluPgZI0BecG5LuQZLt
+ PC3M9lvyvMhvDGw0SxWScmr8xFcd91paIBeEUDDAET0cjETOC2Fk4jE6uIFm
+ TQnk2bgFUDhoeTsRUi3mzxPr05J2wTCWKcOpXczfKfinQOiNPHqWIszVDdpc
+ 7XTDg8XpwXkRYe68t.PhCp82B_3iu85yzVeRprVqUclFO2kI36QkWY1N5Y0W
+ gPhDyhVe2Y5tMvC1bnmGKdx893uNuDi0W3wACdeUeBF8e8wXawMr8TPUPEKI
+ d2gwMaG9__HFnnPB5ti3Vwn4PrfNW_DL4U5PlT7cjcEU013UrpqJzIRpD3h8
+ wqWUn8r4nPK9Z1wqXECzRrgDKuk.thW22HTT4gELRV0ZYWnbm7D1CxW9uzMJ
+ nNjZUwxNWul5rfVM6t4X8m_U9uegrTLzgUxj2ptWedKpL8DB9PbcgpDEdJ6C
+ djlMY1cJnt6AQRpRi0JfWexPmWea8pclVFYvcVR39SBG5fFCQKpvGnSMTfI5
+ gZHYr3GK9vtnsRcJGwOWe768vqgnfZTU52dkdNCaAPOK9OX7B2YwVRiZeDQs
+ CdCyLMJde0hLbFnH3Pout1Zbm4Ia5KDfN5indne8cjeaHZHJ824m3zv8IrcZ
+ 6rp.MPOXs7pcF1gv63hzim55nhu4hbYRS2mgz7UaCwK_QyqR4UmEl0V1U2Tm
+ 6jgJnLgwGBn_GmI52qpmQoN8FYTbKv3AdcHNo6aHE5jvDDangq9rf4_wtLjG
+ ckUfU4rER6PnMNztSU5efmi6cw--
+Received: from 192.30.252.204 (EHLO smtp.github.com)
+ by 10.214.155.146 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 12 Aug 2022 07:06:07 +0000
+Received: from github.com (hubbernetes-node-c6248ee.ac4-iad.github.net [10.52.202.78])
+	by smtp.github.com (Postfix) with ESMTPA id 32CFD5202E2;
+	Fri, 12 Aug 2022 00:06:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1660287967;
+	bh=cw+TIXqIPDILKUxJ8jolxoi5IysGYSszITeAdr0Bfg4=;
+	h=Date:From:To:Subject:From;
+	b=yYEsp8/iygcJhZELlAKd02oZb951qiwHqjhvq3KWXM9881m5f/W3fAwu44cH6J3oK
+	 K1a/W37uZQL0LcXOmNg3Hgwe8nmrESkQ1TUJZgqlY9oCMcc7l8XxARriMyYDc4xZXU
+	 YBp3srUGjSzbNuYeW1qWJ+LKFVdoepYIjJDeyOQg=
+Date: Fri, 12 Aug 2022 00:06:07 -0700
+From: 1212-5858 <noreply@github.com>
+To: helpdesk@listserv.leo.gov, 
+ ms60710444266@yahoo.com
+Message-ID: <BSCPGROUPHOLDINGSLLC/RELATIVES/push/refs/heads/main/774679-e4a38c@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/RELATIVES] e4a38c: @COLUMBIA DOMAIN READ
+ RECEIPTS
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Approved: AIDED AND ABETTED BY LEWISOHN LOAN 50074 #90849565
+X-GitHub-Recipient-Address: helpdesk@listserv.leo.gov,ms60710444266@yahoo.com
+X-Auto-Response-Suppress: All
+Content-Length: 6130
+
+  Branch: refs/heads/main=0D
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES=0D
+  Commit: e4a38c6ec535df890dd923fdfc750b112f6c87b4=0D
+      https://github.com/BSCPGROUPHOLDINGSLLC/RELATIVES/commit/e4a38c6ec5=
+35df890dd923fdfc750b112f6c87b4=0D
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.c=
+om>=0D
+  Date:   2022-08-12 (Fri, 12 Aug 2022)=0D
+=0D
+  Changed paths:=0D
+    A Read - FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO ' CEASE TO =
+EXIST '(br) lol.....eml=0D
+    M Read 1608 EST FILES [ LOAN 50074 EST ] Violation of Privacy, Bank F=
+raud, Securities Fraud..eml=0D
+    M Read 18 U.S. Code =C2=A7 1512 (1)influence, delay, or prevent the t=
+estimony of any person in an official proceeding;.eml=0D
+    A Read Fwd 18 U.S. Code =C2=A7 1512 - Tampering with a witness, victi=
+m, or an informant-1.eml=0D
+    M Read Fwd 18 U.S. Code =C2=A7 1512 - Tampering with a witness, victi=
+m, or an informant.eml=0D
+    M Read Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=
+=0D
+    M Read Fwd GFY.eml=0D
+    M Read Fwd Out of Office until Tuesday, 7_5 Re Fw CASE 400842_ 2020, =
+Filed 09 _23_ 2020 _ video.mov.eml=0D
+    A Read Fwd Read Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC,=
+ JPM..eml=0D
+    M Read Fwd clear=E2=80=9401413744 [ 50074 EST ++ ] Violation of Priva=
+cy papers.eml=0D
+    M Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, B=
+ank Fraud, Securities Fraud.-1.eml=0D
+    M Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, B=
+ank Fraud, Securities Fraud.-2.eml=0D
+    M Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, B=
+ank Fraud, Securities Fraud.-3.eml=0D
+    M Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, B=
+ank Fraud, Securities Fraud..eml=0D
+    M Read GFY.eml=0D
+    A Read Re 251295_2021 thru 251334_2021.eml=0D
+    A Read Re Fwd Violations, Forfeit $1.256 Billion in Deferred Prosecut=
+ion Agreement _ OPA _ Department of Justice..eml=0D
+    A Read Re Read Fwd obtained an unlawful Loan for $6,000,000.00 in NYS=
+CEF 153974_2020 as filed to confirm violations....eml=0D
+    M Read TAX ASSESSMENT - for 144 properties, by their representatives.=
+.eml=0D
+    M Read USC TITLE 18.2, 18.3, 18.4, 18.21, 18.215, 18.225 - Counselors=
+ of Sullivan Properties LP.eml=0D
+    M Read VIDEO.MOV and Other issues at stonehearst asylum.-1.eml=0D
+    M Read VIDEO.MOV and Other issues at stonehearst asylum..eml=0D
+    A Read [EXTERNAL] 18 U.S. Code =C2=A7 1512 (1)influence, delay, or pr=
+event the testimony of any person in an official proceeding;.eml=0D
+    A Read [EXTERNAL] LOCATION.eml=0D
+    A Read [EXTERNAL] Re 251295_2021 thru 251334_2021.eml=0D
+    A Read [EXTERNAL] Re Fwd Violations, Forfeit $1.256 Billion in Deferr=
+ed Prosecution Agreement _ OPA _ Department of Just....eml=0D
+    A Read [EXTERNAL] VIDEO.MOV and Other issues at stonehearst asylum.-1=
+.eml=0D
+    A Read [EXTERNAL] [New York State Bar Association] Re 251295_2021 thr=
+u 251334_2021.eml=0D
+    M Read [New York State Bar Association] Re 251295_2021 thru 251334_20=
+21.eml=0D
+    M Read cleared-- 251295 _2021 thru 251334 _2021 __.eml=0D
+    M Read thank you..eml=0D
+    M Read =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank =
+Fraud, Securities Fraud..eml=0D
+=0D
+  Log Message:=0D
+  -----------=0D
+  @COLUMBIA DOMAIN READ RECEIPTS=0D
+=0D
+Read Fwd Out of Office until Tuesday, 7_5 Re Fw CASE 400842_ 2020, Filed =
+09 _23_ 2020 _ video.mov.eml=0D
+Read TAX ASSESSMENT - for 144 properties, by their representatives..eml=0D=
+
+Read Fwd 18 U.S. Code =C2=A7 1512 - Tampering with a witness, victim, or =
+an informant.eml=0D
+Read Fwd 18 U.S. Code =C2=A7 1512 - Tampering with a witness, victim, or =
+an informant-1.eml=0D
+Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fr=
+aud, Securities Fraud..eml=0D
+Read Fwd GFY.eml=0D
+Read Fwd clear=E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy pap=
+ers.eml=0D
+Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fr=
+aud, Securities Fraud.-1.eml=0D
+Read thank you..eml=0D
+Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fr=
+aud, Securities Fraud.-2.eml=0D
+Read Fwd =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fr=
+aud, Securities Fraud.-3.eml=0D
+Read 1608 EST FILES [ LOAN 50074 EST ] Violation of Privacy, Bank Fraud, =
+Securities Fraud..eml=0D
+Read GFY.eml=0D
+Read =E2=80=9401413744 [ 50074 EST ++ ] Violation of Privacy, Bank Fraud,=
+ Securities Fraud..eml=0D
+Read cleared-- 251295 _2021 thru 251334 _2021 __.eml=0D
+Read Fwd 251295_2021 thru 251334_2021.eml=0D
+Read 18 U.S. Code =C2=A7 1512 (1)influence, delay, or prevent the testimo=
+ny of any person in an official proceeding;.eml=0D
+Read [New York State Bar Association] Re 251295_2021 thru 251334_2021.eml=
+=0D
+Read Re 251295_2021 thru 251334_2021.eml=0D
+Read Re Fwd Violations, Forfeit $1.256 Billion in Deferred Prosecution Ag=
+reement _ OPA _ Department of Justice..eml=0D
+Read [EXTERNAL] [New York State Bar Association] Re 251295_2021 thru 2513=
+34_2021.eml=0D
+Read [EXTERNAL] 18 U.S. Code =C2=A7 1512 (1)influence, delay, or prevent =
+the testimony of any person in an official proceeding;.eml=0D
+Read [EXTERNAL] Re 251295_2021 thru 251334_2021.eml=0D
+Read [EXTERNAL] Re Fwd Violations, Forfeit $1.256 Billion in Deferred Pro=
+secution Agreement _ OPA _ Department of Just....eml=0D
+Read USC TITLE 18.2, 18.3, 18.4, 18.21, 18.215, 18.225 - Counselors of Su=
+llivan Properties LP.eml=0D
+Read - FILER 93715 - AFTER 27 YEARS RANDOMLY DECIDED TO ' CEASE TO EXIST =
+'(br) lol.....eml=0D
+Read Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC, JPM..eml=0D
+Read VIDEO.MOV and Other issues at stonehearst asylum..eml=0D
+Read VIDEO.MOV and Other issues at stonehearst asylum.-1.eml=0D
+Read [EXTERNAL] VIDEO.MOV and Other issues at stonehearst asylum.-1.eml=0D=
+
+Read [EXTERNAL] LOCATION.eml=0D
+Read Fwd Read Fwd Automatic reply FEDERAL BANK INVESTIGATION, HSBC, JPM..=
+eml=0D
+Read Re Read Fwd obtained an unlawful Loan for $6,000,000.00 in NYSCEF 15=
+3974_2020 as filed to confirm violations....eml=0D
+=0D
+=0D

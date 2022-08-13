@@ -1,0 +1,150 @@
+From - Sun May  1 23:12:54 2022
+X-Account-Key: account1
+X-UIDL: AI8MSE5rn2IAYm9EhwB5GLfltWg
+X-Mozilla-Status: 1011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.231.22
+ by atlas303.free.mail.gq1.yahoo.com with HTTPS; Mon, 2 May 2022 02:40:06 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.66.83]
+Received-SPF: pass (domain of yahoo.com designates 98.137.66.83 as permitted sender)
+Authentication-Results: atlas303.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 2 May 2022 02:40:06 +0000
+X-YMailAVSC: 4CARA6A3bBvsv_9BrqdWQw33K81QqcSZKvOXozi8b2m7pKq
+ 0J5osRuQIrPFNxncBZuwLOKf04cLlWMJFdG4LYblCIOLWWE0I186kvnFwl4V
+ n7O45hnehL.EjsyN6kpmq9Iv_dvbduke8mT1I6.XWNWQ0vpEXo9bdpX0kNru
+ b_xNJSoSsoriY5yq41vYoF9clVoW0a_bIPypEfuy_hWDIMxGtwy8jcZnIBTG
+ KZvJO.hCnvz9upebGyzmwMXJEjkMopOilRlArbj.tFWcCCk7YmBbdZw8QtJ8
+ ez7oGXdABW7z4CJQLtkntxwqnGVJwR4V8ivAHAo0DLlXX1amB.it0pA3APZs
+ D.khipxMLLSNNjqriICVJXoFkmQpPamDDS6Gwcf5.mR2lZZhqAOg-
+X-YMailISG: JQcH8x4WLDtwNcryejgdYe3raKGkZpBqOmWdqmiIBOb3uUuh
+ WwGc1MoD5aOivO.QdxBwrnyx.BoAuZ823p.FwS2SClfQpGfvPuOHlPloniCN
+ 0AqAINnjGpZ4tzEWg3u7pisfKS3GuF8znZH2olobcNQMoy0EkHq04uasozh.
+ nL8zJwXkNWyVTa_2IXk6tBhwuiy7Dfqrn2RRBhFUXNubNrB_LVh6XYvsQFLJ
+ Scm8qTZ7_tdVxVcaDTbewa_lV13SJSW.GI5YwGYwlIooUrlECC5_9v8mOrna
+ KEar_JKUyDxUmvAfhl7OZYE1HKXLEC1j6iHUgh.CyRHjRPisf7Mo_pe2rQd0
+ azc9O45H7Ch.gRnIW.98xK_lVs0p.i2AxTg1_wrVPIj3raZ4vkGkV8.TNvG0
+ kUudItoCUhQkA5vT2y.wHs3gYzgMZepQqfzuL.tFpMEzFmBSOz11PjwmX9YW
+ AK1GIWZtyPRTHn5AOHjIqnCeY5oD5PKaUb.yqIjpnL73PUCWP9lMoPQKzkOf
+ GRXvsz534_C9ZG.k.8J5QLJdGek6CxNVHCyYfTFpzpRoI3MD838eEQf1c3Oi
+ zMNIQ99CgkaOPK535d92RKw6Y6zexr_tfhw1bEdbb1Pc3BkI6lc0oi8.j1i8
+ n6e1hXZfBgqBpLwrlId5s7tUopZandAf3cyAvBnT6kUqRJNsCfhxUZfjOcY_
+ 7E8ux3FA68wKDiEfXzHBdugLM6_nF6eJVNw4v1YdIoPr5KKmAV5M2GTMTxGY
+ TABYdukQFatfhlHbCiWOJpVEYud06Pdhfd9T7EHs7ywaWUMjOSdXnufACTX9
+ QidgB_Em5HU1oJDmHMgjNwavOW2rli_wD9DixguPcHQnmvq7EZjuLcDkcWlp
+ a5izT7qqF6Qt7.BoQU2A9Qavs_M_2kar6PXXhxMVLXpSGVm64Z5IMpOMh0Ec
+ bd6IPunrjKOqaTCYQKneAqReqgbVRlhNWum.bs1iSo9NDkpgrnrZB0qrxBs3
+ Vflw2rZeeDLHwkZ1kpKckGT1YQgXTsy4tcOws_y6Jus3gCtMsCpw_kmvixFi
+ Hes9dC3y2Sz0ofc2oL2rmFKGx1XdEQphW_CPJJ94oh.AYBWIyNLmxxtOoOOc
+ 3tdm4IMNeVY9nvBmQyF8XbFRaX02qNLMwoyJUDDm3gbP1ormlzDLiU2FN13e
+Received: from 98.137.66.83 (EHLO sonic321-20.consmr.mail.gq1.yahoo.com)
+ by 10.253.231.22 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 02 May 2022 02:40:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651459206; bh=OHfnYYR5EbudrpRYxOLASzIkQgErrgH0yTC6pVCXZt0=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject:Reply-To; b=s8kdbKNG40Kwkx5w+o1eTKGDi7ZQjvFvo+/DT7uYLGDGl7Kb/4emHHdoy9Kpz0Kq7dVM0kw8eCIzwjHquVRKYK240a2qz8sYIER5KPZth93wCr9Pb+jVAdvVhbil7JKa5PKukYsTjS1clLZrQWTummLbzysVRc5b3JqGjZC5Wzn+LORVcedileYW2OrComp+Ukoq1rMgU0vY5szKVCkJQoIdw1d80PtZ65OI5ARewJSYgScyIa3jHdGeShkk5asnPtX0gAKTqySDCQI4JXUtwBMQAeDlUBAvzLn/ID3Ula3SC+vTNepH/5YfgsSi4EIENjCkbscBJ+8MOzRTCzsH7w==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1651459206; bh=XyfQSc5E/FIy4xKLXu/ehXafu+1WuOCm4hxdQVW1yWk=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=ZggQQ8ydjqa+cf6lFqqj3hyfZ1UsRTXIFDaTn2xA9LaxjOFdpDeZ+RJzWqT128l1ewSsKxD06NHTVq5luzcKNupv5Hv7PWkeBW2ZADTjIP+c/yq1Hu8s/CCCEzRr9dudpZ3H+8LXeA3JRUEbU/CNmrgMqDHqbuczaPrN5zdwyU2jDc4s+fmCBpCaHKi4uEFp5s6SKoSPx4mh26HSH8gpkKQaQnlOAvVQqpHAEHJqAhZ1Uoj8rYxWd9IxGsTW1cOwnMRxi+G4zI2pEP14BuQa2iu6/Hk1aZzgziThLPHaSIINvGPMR2Sl2ra/8QHeQLHbBStgjbGYYYbl02rqJGpSgg==
+X-YMail-OSG: 6INdwWwVM1lrUggyxaomkg1PGDyAd2JxS69KSppcaIy_UKvHcW0tUDNaf15Rk0a
+ OGj1XhTnzkFt.DR17fs5gnsTQZCxf3mmBmryZydPpzNB1Hbtsc0LFNmXPBH8xc4mdRD7kP_XfSn4
+ 8HJaooAZQQhPw0hwMFynTuB8lmlrwqPZjADK6Qvb_oH1D3IuF9IFFG5XG1y2C1Z15B9mUBC3AXlm
+ yu5lDbWTgdXumIc5YhBdMJ6di9jXeuVYnqDvvT2Q0.nLEY6Ko5lqLDkmJwTItejQAf3jAIBPqKUT
+ CW14IuJs9_5el.uH7O_YaXH6U60o1M8IQrAODHeSbI1mQebVPLns5pVFTOIWH3E05_VtOBZPfl.e
+ rxtcdLgAZTU1Gjm5pPNE5rNhPja24QsqGR.io25YvN3dGWg7souNxnJusffA3AoXHCKcECX7gwo4
+ S.AEwCZ_3atslfFjbA9ybtCKykM9QNt7qv_r5DBLz7P6Derut8VuKpbsxQjRu92lVXILFTS88vwK
+ O4CNRKaxw8y1tQGiC9zrN1PeWuZrPLZ1ad_VJFdOz2RqAdn.PMXwcoufxe.ypQeBzUWQtNpj2EwX
+ vbhUV2IVh.M4clrfKlsWAmIdRCNvKX1ypBoKfOZ45qDTXAnKsDWZy_FsSDc6I3ioOjasGGR61QM9
+ kIuSlecPSdVaFWMR9MSM2fU8KJOkuPG1MBVKmMjR4gzy69fkSqeWkkf0n3RuK4IQ8A8mSQV6OFGe
+ kiixEZ4runauyAzRsb8SB8giK7ueXyzV7ZJT9rEcd0to_3isGlgse2mKdblA15Wa4fvsjhY8tjZ0
+ f_FZYSDv01c6DYRe.ox9..38yPLcMjHv2YYC2zgjFU01ySTf6_xlGZqvhgcVthr98kzzYAykedyJ
+ F4sfgMzrCWILCbLEs_OciI._VyIq2VlDbyFhsqC1uaeUFRZbJCsX93Aa87YfoYGUeJ7rnb0319kt
+ HnCzJ8xk2zJv9Hl.s8tFg6xvXpAhT8Ow2Drmv0KGCkxkrU2aymyLHE0MkPx0LPmrRtKk7IKBh0Mb
+ M7dnSotclzRsoIZY98zxhpqKfeg_.nC0lAn4hLIUdtEsBGl8g0XMVPNkDiTSOk9f3xsgZNEwDKXH
+ F1b2YaaRD3kXyboto16xUnthDkHPDuA2f4DEcII.o7MC4yxAiDOtXeHhv__43WiqerR0LIW9owut
+ oOuIXPf8fNwT6YHQ7fTHDqsKRq5omeD4UcJ9EdxD9acVdSe5Ct3tjW0R_YRLgljNH98XkVrJ3R6z
+ 8RKt3JotiKC9sdILfruv4NtoJ2jyZm7.jSbeal_I7H2sdoO7Y7to7UGYPJKx_ff.MCUHc5yiahLQ
+ 44_mjwSlMLzt_SN7k.urwIEzHTchUOVjyrHtmjRgT87wVt7Jas49ZSAnCNP0iYiiuicdoD4imrAn
+ TcDU0KGc_r1emB8NZvmahv2UhzHmKiTSg8XOl7Rkdz8SRUh1qhNGRmqUIqJHjCIQPJMdKnHnDNv3
+ H1CjdCf.eTSM3hvcwLV31M7tdQsG1diFbxruncp.BePrYqEz_Usr865rQXKY2tcaaTSlPX83KnxT
+ 2XH9hsXJ0JBH1gbTGc3WVCQKxs9yL9mWiaDS8iUcD9rosFf2qKL.iol_3fUzPC5DN01SElMWNyuc
+ tN9X5v297FOIuXimgnEqYzyBb7QTTX2VCt.W8mbQPakRXn1vY0RBuPQZpNYAx9GzODhHQxj_wx57
+ 9KqWBuZROlKNhb1h8Z2HK0smrzVx3XR1_0uoHnLzzY5TmPzXkfbY.x2a2iAIEQ0_L3_0TLHhJFku
+ a47dGb3ahZKtnB691RN88oHmyhNBhAkI.ueFf70gvAODPzw9_Hi5SnBK.gOgfBDeXqbzFiC.drIf
+ _T.phhHDZ5uqVnYHn_bV79V5opvbx9zoUuHaLDguhx9IZoA_ghhd53BqZI8ik7kKy5XqDFBwWvP9
+ 8vgydHFy6mfx0Vm0xMFkEbkEvwtBrEG71eOqaTMwnWS3Z8U8AUE3hNttwEmQqSfzTu8KtqWG6Dm7
+ pehHm6yTB7d4kQBPcXsuaqyV7Ig7GVKXajc9IUPXuAKXjxrC6AstXadZT1F69zGotbJeZuvHiplF
+ tTgpihKqdIpde1DqRUzbUSocHB03L_B6YucuxxqtCfo1OhuSptjba3E1Ym2TSoab6hbMiVGQ0Csi
+ aYnKwmmi3deixtRp5RrSmI1ME6ZfWsUHd69aWi6BxDVIOpUATq.SnCp16.6WSzbzdV2dBFUTDLdd
+ 7PZlNpi5ZMn8Qc0VhO4Kmo05Azlt8lAP.MWbP1iXrMwHb6okXMY_N5h4MU1kiNq7YfYTaKTrZ9HD
+ W3bSXut9Yx95OdrypBmykRK40vVuZNy0Lte1eRa9sSCZ_pEpJ1b_YhMHS.W3luYPMmRcFQRSaBAg
+ SHxqFeICeDXFs7SKtcI0WBLGtNnxDq3ndBw1QOAh72mqVq.VqurFyB0X7nn6_64WMcJCvcwmtW_R
+ N2zdWz6wrZ9F55PVXBBAAAFsEVx8IppNS8AL3aQiYdJbNoHk_oedoFQnrdb1Ey_K784qNi4reuCG
+ ys4s47Gzrdhm5caH1DTLIWeNAWYfI_vw4sdVP462QDGQ3I40rFR5ORG.HAu3eRJ62OcaszKr1hQm
+ _Dr3Ck9FqleXiY9uGyyeZrXkq8l6dIo12iFa7csTi98rI4v4FOTOOWMQja2hH8qENb.esEAJU3q6
+ HWlV9SQ--
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic321.consmr.mail.gq1.yahoo.com with HTTP; Mon, 2 May 2022 02:40:06 +0000
+Date: Mon, 2 May 2022 02:40:17 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: Miguel Bacigalupe <mab2427@columbia.edu>, 
+	Bo Dincer <Bd2561@columbia.edu>
+Message-ID: <207660333.2602508.1651459217030@mail.yahoo.com>
+In-Reply-To: <gh5ATJ9L9WeweWRtwm3DpruC7JPWM4xfsGi2NDyc@journals.library.columbia.edu>
+References: <gh5ATJ9L9WeweWRtwm3DpruC7JPWM4xfsGi2NDyc@journals.library.columbia.edu>
+Subject: Re: [CBLR] Submission Acknowledgement
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2602507_1107627419.1651459217029"
+X-Mailer: WebService/1.1.20118 YahooMailAndroidMobile
+Content-Length: 3279
+
+------=_Part_2602507_1107627419.1651459217029
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Your welcome.=C2=A0
+
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Mon, May 24, 2021 at 8:15 AM, Miguel Bacigalupe<mab2427@columbia.edu> =
+wrote:   Bo Dincer:
+
+Thank you for submitting the manuscript, "Corporate Risk Management at the =
+Offset of a Global Pandemic: Our Nation suffers as individuals, and the mar=
+ket will follow suit." to Columbia Business Law Review. With the online jou=
+rnal management system that we are using, you will be able to track its pro=
+gress through the editorial process by logging in to the journal web site:
+
+Manuscript URL: https://journals.library.columbia.edu/index.php/CBLR/author=
+Dashboard/submission/8369
+Username: bd2561
+
+If you have any questions, please contact me. Thank you for considering thi=
+s journal as a venue for your work.
+
+Miguel Bacigalupe=20
+
+________________________________________________________________________
+Columbia Business Law Review =20
+
+------=_Part_2602507_1107627419.1651459217029
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Your welcome.&nbsp;<div id="yMail_cursorElementTracker_1651459194306"><br></div><div id="yMail_cursorElementTracker_1651459194513"><br><br><div id="ymail_android_signature"><a id="ymail_android_signature_link" href="https://go.onelink.me/107872968?pid=InProduct&amp;c=Global_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=ym&amp;af_sub1=Internal&amp;af_sub2=Global_YGrowth&amp;af_sub3=EmailSignature">Sent from Yahoo Mail on Android</a></div> <br> <blockquote style="margin: 0 0 20px 0;"> <div style="font-family:Roboto, sans-serif; color:#6D00F6;"> <div>On Mon, May 24, 2021 at 8:15 AM, Miguel Bacigalupe</div><div>&lt;mab2427@columbia.edu&gt; wrote:</div> </div> <div style="padding: 10px 0 0 20px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;"> <div id="yiv0203313517">Bo Dincer:<br>
+<br>
+Thank you for submitting the manuscript, "Corporate Risk Management at the Offset of a Global Pandemic: Our Nation suffers as individuals, and the market will follow suit." to Columbia Business Law Review. With the online journal management system that we are using, you will be able to track its progress through the editorial process by logging in to the journal web site:<br>
+<br>
+Manuscript URL: <a rel="nofollow noopener noreferrer" target="_blank" href="https://journals.library.columbia.edu/index.php/CBLR/authorDashboard/submission/8369"></a><a rel="nofollow noopener noreferrer" target="_blank" href="https://journals.library.columbia.edu/index.php/CBLR/authorDashboard/submission/8369" class="yiv0203313517submissionUrl-style-class">https://journals.library.columbia.edu/index.php/CBLR/authorDashboard/submission/8369</a><br>
+Username: bd2561<br>
+<br>
+If you have any questions, please contact me. Thank you for considering this journal as a venue for your work.<br>
+<br>
+Miguel Bacigalupe <br><br>
+________________________________________________________________________<br>
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://journals.library.columbia.edu/index.php/CBLR">Columbia Business Law Review</a></div> </div> </blockquote></div>
+------=_Part_2602507_1107627419.1651459217029--

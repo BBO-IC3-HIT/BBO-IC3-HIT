@@ -1,0 +1,195 @@
+From - Thu Jul  7 10:55:38 2022
+X-Account-Key: account1
+X-UIDL: AP+NHGNGtA0lYsb/6AND8OuV6Uo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.36.75
+ by atlas112.free.mail.bf1.yahoo.com with HTTPS; Thu, 7 Jul 2022 15:46:47 +0000
+Return-Path: <ms60710444266@yahoo.com>
+X-Originating-Ip: [74.6.128.111]
+Received-SPF: pass (domain of yahoo.com designates 74.6.128.111 as permitted sender)
+Authentication-Results: atlas112.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 7 Jul 2022 15:46:48 +0000
+X-YMailAVSC: oXRwcJo3bBtPzIIJg150a_E41C7V05KE5ncGbiHpyNwFxp6
+ POBJbbrDodkFQd1RcLLj_SAaD4qB4jDb5fOr2qGWJ.nopKJTB0FNlz1WpkL_
+ kKehLvvyxKo37kAlos5gZO3ekm9HGD_Y3kH6AJuI836wRCEXhhpkQn2BPzVx
+ 5NcMgsqCU3l4LpKPbthljoMUyO.mOFE41syOaS8ww5WgjHL5SVfYN9ahanjm
+ XiSft.2ozPu81hDeZeF.nfHI3XIPgYTMM5gOiNGA8xLssNKajYmoG2UibnYj
+ Uy8l5ugswhb7QJ8kh0C1ub.CradP42slLGe.E0BOPyj4_UN0_onWNlsMphMk
+ zTTNlla6likn79nlMDREx8Js.vyPZUGBdnmDAnuvp9vHzJ9vVRYkoFw--
+X-YMailISG: mk5ZJ3AWLDv0E8pAPBWHx1I175wl_vzwkTkeKK_d1SrdAp_1
+ FTLa26d1RIKX7WyeE9pnH2_oz_NEwlfreb22nGIqtjX9kVAlpytqRnS4tUqi
+ Gth.4K9bz1DssS2YT0O6q7oxBvPGhXwXw10Zc8zOrgYybhMt2Ku5DdoKIesl
+ 31eK0.s1ni9EmU9ICHqL_MF1mctgUMG0p1R7mtiZyzite2x1IDxsUbOJsKdk
+ 5ahTdb0PmMMjxSvEh7wQVtWEXNV2JZGvzu41beoKBV1OWo76ejuHyhOm60L3
+ N8BXydBgJJ_bn.Sg5.xUVBy.FzucGidA3U5C54L4EXOjZ28tdZP6750HdUJ5
+ UI5VYegcgok6OJSgIfQpPsRpSG8JNiKEKwR2R6fOlJDOuQEOTNYmOM9V2S6O
+ l9QPKYBXObK8dBWDsuNn_4Os22YyjQlLqCUIqj5kH6V6VWSVSykOxIaWcrUS
+ PLlkX0CaTMRFWsTBIQ5dpD_lXrFLBnbcvr2yYp4huaEhQ_l8UQACRhQFWTkY
+ Bc4cDCxIkd4KyZfPJvRZlvQjqMDj5H_c2oeFT.AE0OrHG7yxuRe3LapHB2r2
+ .EjdR15R3xxq2qkZLyHOoKC1_fdKMqcCa2_fp26uyeezLlCCagpOPKxMliqc
+ O5GMRmB9MKSe4sj60yXQYZRqKl2ATLKWtj0AYIxVK4y9SaeQ17m7nTNsZ0m2
+ 3zlCo6YKGzNRjyQJB5EOOMXLNaacIp85mYm5bV.40luwyzdPQxXB4eHAbyfM
+ 87Uw03WDD9uMvnZzp7JH3gGPNn4Xu.cSX0CmFBjyX2mpUJejX4iKdqMcXbAJ
+ GKQV9nSS0o59kPtGwoms1Cbzij02qgEW7ETs5hF4IRHMYJrFLEaYjy2bBWby
+ XxnaXH39ZehW5Hcfsa.2eRGrneoW86yfq5X9WY5hDHsW1zCbE42U46U2.tNw
+ 5XlruCzm9pKvYw2jGGdjIyHfWf1qLV6VcstowYHiQ.BiuOshiWtMSfZQe9hO
+ BrfHrfBZWAlFA2jGn2vGYBN2TfNikPMF4rtSC2poY2VqgxQ0KAZ6jORSbW8J
+ 292Riq6KKvz_KKQOvjEQG4Yp4iCaXhXXVrRdih7u6gO4J2s_W9s.tduSDwKQ
+ GsMOHim01N0D9nwd1rA..E06JrlbKEEtJ_KWw6dYozp8Dj1UIQxpyzE_7hvm
+ uPyr.SS4uALZNERYYw--
+Received: from 74.6.128.111 (EHLO sonic312-49.consmr.mail.bf2.yahoo.com)
+ by 10.197.36.75 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Thu, 07 Jul 2022 15:46:47 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657208807; bh=5d+gZOHjQds2txY3yX+FD1H3TBBNuKZUOYhqZiCn+14=; h=Date:Subject:References:To:Cc:From:In-Reply-To:From:Subject:Reply-To; b=ZnsbBNhgM+MwrqOkKPTqHFGV1ljlTwRAT+lZp13QgKd0/bmCFG7UwCDuy8vL5Pv4p5WLj6Tp9MaBzhVT8A7C7kvP7HwFMyEuLhlKes+wEToMgRKdAzZPWl7oSYc7e41AK6QPlJlNDcxtvF3T7UvVknLOERFSgJPwJKR/NKRqd3Qj7P4MSw8T6Hm8+7wO5CWfSTlWqRj4AaU9IT6TF74Q6t6xcWtdmz+47ETCsVcJHvGsmgKCsLzApJfvJNnsVbMG/ZjS5/8ruaqQqD/KE1krTlI+tA8nHfPWLMjLjZhX3qENoorTy0m4kMk/zRVBFYHVLTWtGdY7Hrcj29nUKZM9tg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1657208807; bh=pC3/nlwuOn+sbTHrjq7mvbXks3lgEzgMvzOPK8b/WTB=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=WUEPZWiwiM4dIWQlL67optbHU86uC4mGqXNC7nNfWvedlRSRf5FDIwJYFb1YDpSOOMZ46LxLgbpC3YFCRcDqIBpu2SIGVRoe1hqanYO8ZsTlU5P1aymS2srAUWMI4W65JoCu8tKkjEwhWXstprcvsgNCo5auvUGJ7o0e8Eaqwg4OPiTEGf7VIuL8rGxrS1YTBuZGIW76SRe6xW1azisBceAiyftf+bPks4n3+JXPdo4GkEoHDsGQVpoiWEECruSDR74z+r06ibu8B3W1I/UI7hztir+DkJl/kD859ANBnVD/p64l1qj4Zlr7qAy1vak1BD363deWIAU6zV+011T/hg==
+X-YMail-OSG: M2sTnGIVM1kgvlg3J1gR3gRzo72DbpAwzwXDRpF14HKOclpeM_skQCquNB1e9Ep
+ qoa07_SxBKP1CoorbKrWDJey3YHWgFkofzss.iRR9RJXvWJ8ly8T9r1PF7Ao0rM7ofnriMn4PdIv
+ E0T4WJi8dVYAUIjExqvwGqN0MxF6ScJ8p6kkVI8bVa0aFIJQM21J1ApC_ZTTV8taVc2vPXnL.itL
+ p5QUcpetW4_Oh4SgBO9jPf6PNf5mX6lFq3F5nzeUjQUPi.8Hr9OWNnTJ8qPvBysiG5JMujIrnZ22
+ .v8jMjH4GhoEj.dMLPgDVFtuGs1V_E94ubvbmIsKCf83fPPRHGFYa2brwiMibnz8df3q57N5__xu
+ yKk8DScz8J.pM.xqI2NKVE3lSU_3BSZq0TEWTjQ2xX58xOmDmr1aJq9RbDPfktMUDDXc.b2oKnSp
+ 8kJrDlTVhS9g42z4Z.QNQrIDdq_38l3FMn66mCeiHSERm07FFVdHXrIqrEs.sDeYeQbrU2.80bez
+ fbr6lFwEaQDQdtlMHERttn50A.LpbiS76BkdEwtlxzJx2E.9QHv2nMWpdcAiTp0Q90zgutSXB3iI
+ X.FY0KrC2.XiHYsG_EVlWOfq._0MRxY0IDs8F.zTzOEg4iuwQLL1751yuGHW1dfKycoJgpZF7ADq
+ 9Mfr4lJvH1Ko9uQg2OuItO9SG274RkLkSP9G9wgvjNzl10MwDP.19tSTKXlzwC2rWAuMByF0_Rgq
+ Cb7cZvVzcf3iiyh6kkCftiAR4hEy0fJ2xEiIIsSAOe7STn_KDKkNtvwU1oRQhK1hEShLPIKizq9k
+ J4.5gLRyxmmOIwiHD47ZfnJmSwFkRagX9.E2SY4eT.SdScXSxY0gqgMs9CpKINjlwfLmJ26dBWSD
+ d0GkEG7Xw32905MCBn5uSkIEuf67tboItaiVJjmkEgdarqtbyvQwjIvFpFsCKC4zR5PJz9e1Db8u
+ 7Vq1dzcD1zYcrM5QTaxy_noFAvOgcHwcwGGvAxxFsDy0N4scyb0YSQVtrQ9gwb3a.xnngpAlrI8j
+ fw.GEtqkHrfnGIzW3QFvdvz0L6tgL_os8szgYI7IX.ao.xn3HESBFeeefe3R4L9Tao.SYWJVynhQ
+ piOWm8sx1o9lXVKImux0faEI7sHiDiALSx9gm9DOUAdq9m8.yd0E08drV8P8xohRzr89Fq5FHhlF
+ n4EtKlVUHtiDi_I86hCdCx7mmobHGrCIsUbQUcux7Yhb66urs.SS1xhGVRAekkOmKdBx1y57ToNS
+ .t7aWjt3HQuO9Vuly2Hqs1I.5V3i24qlMEv4jCuPssGVp289Mg.8Y1UpPwWyqaRuWWTI24Vlqoo8
+ Ki.JGV8aadENNReo5yipBxRmQeIAlvYe6_0FaPAQAOHXe7qVuYNWhT3EjLKOcnJ.bJo6ckz7ykKt
+ yJC3tzHkU4gKxyz0yxaCSHAwoug4VFH52xhpQSF7TTZaQnLTxV1LDAYA4LXVMEch5RluIjUU8Oq1
+ mvzXYZUj.YyA3NE4H.1q5HhNvyXSvpJ974ZiBgTIYtSn8ZAxO4TWIVkiMNnERVBvIJ_0xFXMoIXD
+ AJzxUBXxbyuTS5qfwR8LMeIUYxvEyCA_wTYG9.qDYq.FSZHNqS7sfyyRBV7Oh_tqzs_TzfzTzLk9
+ v4Xj7icZI8nRVieBmQSips8.04hlZXOUqtVwktL8kDKOQA2du957T65ff78WX2o7dr9KPq9TmFrf
+ pdQDRvlHSGvqG0nWher94xWxorPysGsuH8rRCKaerX7wieY1.geFCiq6N.mYITbBUS1QtBC9ONwb
+ dViT2QiAu4ymmmprX14nuHqTNYx6N2zPR_Bf.XfVw3k0M2ng7ysVhFg_TzbpvCIYpiL9AmYfHJa2
+ BBsuWWKw8M4fORQ_CmhsoI4PRQQbwAfWtZrRS9BU1uyuuuZ9.i4agoe4bhGWiob.OjH9qHoD5c0R
+ ZdFUTvgNkgZ5yz2DWxyarxXe2cKJ_Yi1j8Cc1sZS3IZN.8nnCS3q28jlT7zLstpOGQFhTmTyCm9T
+ SeAWWwr.hOeYWJ1TGWIjg_oSvI2a9aYq5ndNRVXy42ClxC_hMWxUaY.EMt3Xt_srvCjYwNTHPA0M
+ 3JV1gf2jJ5_Fr1Sc.3dqD81NBaF6.VB10emuLgHRx3QlA8ha_0QSRHe_XOq4VRu.e2x5dMZCUQZr
+ 7isShK6zd3Y5eKoOkMLNCrOC0fPCo1ot1dKajgXJ8Cj.twWqJE3KOTowV83HV.WxUdLDOK196vyX
+ gH3LSLcZTH21gI5cScaZw3WZ.jbw9tRK62iI9_Az.N48jCniKpGB.2ZftT_Caslb_AtQ-
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic312.consmr.mail.bf2.yahoo.com with HTTP; Thu, 7 Jul 2022 15:46:47 +0000
+Received: by hermes--production-ne1-7864dcfd54-hwfdm (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 1b219e9b4136c19b403b506d6e71a62c;
+          Thu, 07 Jul 2022 15:44:46 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="------------nJ5z6r7G00AGye9n0v7xj81t"
+Message-ID: <3099077f-36f6-0ef8-e6a5-220c418da04d@yahoo.com>
+Date: Thu, 7 Jul 2022 10:44:35 -0500
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Fwd: Read: Fwd: Fw: 153974/2020 >> 400842/2020 >> 251334/2021 [ CLEAR
+ ]
+Content-Language: en-US
+References: <6bcce45c5efe47408361eda94b7384e6@pfsweb.com>
+To: "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>,
+ Ricki Roer <ricki.roer@wilsonelser.com>,
+ "ms60710444266@yahoo.com" <MS60710444266@YAHOO.COM>
+Cc: CBPMEDIARELATIONS <CBPMEDIARELATIONS@cbp.dhs.gov>
+From: B D2022 <ms60710444266@yahoo.com>
+Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
+In-Reply-To: <6bcce45c5efe47408361eda94b7384e6@pfsweb.com>
+X-Forwarded-Message-Id: <6bcce45c5efe47408361eda94b7384e6@pfsweb.com>
+X-Mailer: WebService/1.1.20381 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+Content-Length: 3081
+
+This is a multi-part message in MIME format.
+--------------nJ5z6r7G00AGye9n0v7xj81t
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+
+
+-------- Forwarded Message --------
+Subject: 	Read: Fwd: Fw: 153974/2020 >> 400842/2020 >> 251334/2021 [ 
+CLEAR ]
+Date: 	Thu, 30 Jun 2022 19:35:46 +0000
+From: 	Mint Support <usmint-support@pfsweb.com>
+To: 	B D2022 <ms60710444266@yahoo.com>
+
+
+
+Your message
+
+    To: Mint Support
+    Subject: Fwd: Fw: 153974/2020 >> 400842/2020 >> 251334/2021 [ CLEAR ]
+    Sent: Friday, July 1, 2022 1:02:03 AM (UTC+05:30) Chennai, Kolkata, 
+Mumbai, New Delhi
+
+  was read on Friday, July 1, 2022 1:05:46 AM (UTC+05:30) Chennai, 
+Kolkata, Mumbai, New Delhi.
+--------------nJ5z6r7G00AGye9n0v7xj81t
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html data-lt-installed="true">
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Forwarded Message --------
+      <table class="moz-email-headers-table" cellspacing="0"
+        cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Subject:
+            </th>
+            <td>Read: Fwd: Fw: 153974/2020 &gt;&gt; 400842/2020 &gt;&gt;
+              251334/2021 [ CLEAR ]</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Date: </th>
+            <td>Thu, 30 Jun 2022 19:35:46 +0000</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">From: </th>
+            <td>Mint Support <a class="moz-txt-link-rfc2396E" href="mailto:usmint-support@pfsweb.com">&lt;usmint-support@pfsweb.com&gt;</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">To: </th>
+            <td>B D2022 <a class="moz-txt-link-rfc2396E" href="mailto:ms60710444266@yahoo.com">&lt;ms60710444266@yahoo.com&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="Generator" content="Microsoft Exchange Server">
+      <!-- converted from text -->
+      <style>.EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; }</style>
+      <font size="2"><span style="font-size:11pt;">
+          <div class="PlainText">Your message <br>
+            <br>
+               To: Mint Support<br>
+               Subject: Fwd: Fw: 153974/2020 &gt;&gt; 400842/2020
+            &gt;&gt; 251334/2021 [ CLEAR ]<br>
+               Sent: Friday, July 1, 2022 1:02:03 AM (UTC+05:30)
+            Chennai, Kolkata, Mumbai, New Delhi<br>
+            <br>
+             was read on Friday, July 1, 2022 1:05:46 AM (UTC+05:30)
+            Chennai, Kolkata, Mumbai, New Delhi.</div>
+        </span></font>
+    </div>
+  </body>
+  <lt-container></lt-container>
+</html>
+
+--------------nJ5z6r7G00AGye9n0v7xj81t--

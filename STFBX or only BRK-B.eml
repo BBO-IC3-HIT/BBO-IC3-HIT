@@ -1,0 +1,113 @@
+From - Wed May  4 16:08:17 2022
+X-Account-Key: account1
+X-UIDL: ALr127lHhFosYnD7Aw0y6JLiYt4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.205
+ by atlas211.free.mail.bf1.yahoo.com with HTTPS; Tue, 3 May 2022 09:50:59 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.152.39]
+Received-SPF: pass (domain of mms.att.net designates 166.216.152.39 as permitted sender)
+Authentication-Results: atlas211.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 3 May 2022 09:50:59 +0000
+X-YMailAVSC: PNWwEJo3bBs0BiCEqC57DJ120yO0q7sMUhAWBVP3vu6xSI1
+ FQdkmmUhpgosm5ih.O9pCv7KrPBRxX.RhzIjR.50gYjiFApsPGAJpebK9qFP
+ _pWD6P0a1OMnb8AtJjA9wE2t_RdTGVGTHYPV1BwOJP1CP6FAdpmhv.gapwlR
+ kmscbrNM1nOA.VaKGQqGleVHDxMZs3TxrSxvOl3XzsA4xJvB5hJD8C..r3uy
+ Cvd8dwN3mYz7Arm91RkpEmSFTk83lsT_fzMU1xTznZb4_fsMp4T.WHLRE7Yg
+ vCDbh7P7di2u_Sc1X0CbhXUdcyoOXcYexfTzEJTVORYW5JSUbK9tE1TtxTbo
+ H5B12mgMeMhgvHIwCTwinYmU0axnEvZgg
+X-YMailISG: 13nXS7YWLDtNf7boEXeKgSELY8DWwuRAdw60djncq_WcOfZ8
+ y.v4vkuh_RupF0CIJowreGlCPS.aCrsK9qb2MmXhzSy7TtkF.oX2pKnF_Lgt
+ nRnrwd8Sf5mI7UjDrUBwevHYnQoLrVZH9oGxlWJ0nW0EhtNlAeSLeW3BfgXo
+ ZwZasG4nroWjDeW7jk51V33A9vC6iNLOU0IBuwc9eZnPbTYcLdKsC8cDSeAG
+ ANivXNeJtwGsXL6eox7JkSWc8ILXBU1noWoKiMzFy8h4PdAjG_uaN2YNAaVf
+ J2__pR8vtdRHpAoPTv8Oi7_N6Icry5DfJiJW8dDmdUpKryseOQGtPR8Z2KlF
+ c3y_FGvqD0WRY3Co2lbyA2PsG8ar8VH9R3NnGC3KwJksO4eEO2sgXEpvOzSw
+ _sa6V_E2n1eP03SFmizqUQNb9i0vKdm.Zxv1BTEJcuigLpXC27cfwFpjtXUX
+ ysneRh93u3jt79x.i_UQFFt6lq9TjQHOsaBd9ee4jXynTsgXtRlpfedKjGSg
+ umXAam4iBfqlPNG4Dv.yFbyJ9gs6y_Kyl4XsdBQnYmVhtewyi8F.SU2CHK0q
+ HwoxbZJ9m0sfT2moAodr47WAUdlge3wIf0ZMIjL4ATk.JscsfOwDHYETZb8V
+ 2Dqkt14rVQ7Ru0v6HQhQbpbhYfNhoEMxUjX9tPvfEKGNP_rAfTv1W62r5_7e
+ WGDAlXXWw79fQ2KsUlCMcWPRCVtP3go7RLn2.oQKY4ZEKah3TLckz669a6ih
+ S3C0yfJbnG36ZjoqD_Ff9tqT3ZdNf0D5MUImb1wvoonff1JlUrxmI_lIJ_YI
+ 9uaGenQoUckCLjku.J.BOtB0GFWwD7JiM85FCBfJSTGKL3ZVm.FVKyZiVYfj
+ SgrPhl9Uwt0mRMocBIoggi6ikvr1Ft8LgSU.heJAt1TxOU.R9lrGSaI.Sj5M
+ 7UVmtuw32_Lnw7bUjMt_Zi..Z1XQxgqCq_wYJfpN1676ku6H4k3P0ZPC.pEw
+ 7P.dsd6An.q6ZpHL6_cLy7FmFMVB4_v6AG6qSsjbIHfj65eusfywoxzuTmdN
+ fZZPdoJB7W8.bjmj1NbiRbLC3DaMG.N_8TNqXL_yxoq5iXszvL5rUB28Wa_6
+ QC1F1kPPWKAD_ojfCeAJBhRsexVbxdJlcJcWkrMKWydXpcxaWCx4SMH275U0
+ B9Ovucy.IwzB9pDij3w-
+Received: from 166.216.152.39 (EHLO stcceg-mtmta03.wnsnet.attws.com)
+ by 10.197.33.205 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 03 May 2022 09:50:59 +0000
+Received: from zbot1bmmsc01nfe002.wnsnet.attws.com ([107.79.70.31])
+	by bizsmtp with ESMTP
+	id lpBLnrkOLXR7AlpBLnegWk; Tue, 03 May 2022 04:50:59 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651571459;
+	bh=oF/YqWCIqtnoYZ3GFnNH+u8DhGACebTp45e7LsxSGo0=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=YlE5/GanbhMGPendFt8KpKCXhvXC4VBIlejIy0qb2qeJCG2twwzy/dsi9sYCjq881
+	 3B/fm+XHwfYMD9tq1GoMMIAQVfhnGLMM9/b5T5qD/t5PD/+IRrK09iPiWg86+DE7xc
+	 oc0JlYuW3LGPXlUiaJPH1MVh+D1m/CQzA2gZKUABIzhHCoJ1W3V12uHsKiqoiaoLVb
+	 /CFesxzXwEnrPgEnGsxfM4uzy7WNDmvyTepbIbG/bVQRV21L72T1ecq31FbOabFzfu
+	 /C4+OfT8NBm3USC0/CfakUnGJtZzhmYDUGt7VYTMtEvtE+LDrY54TK4Cbct8zjvhEQ
+	 0icC5GVlWqaDA==
+Message-ID: <lpBLnrkOLXR7AlpBLnegWk@txt.att.net>
+In-Reply-To: 1216349564.97291473.1651571459020.JavaMail.nems@zbot1bmmsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651571456-282
+X-Mms-MMS-Version: 1.2
+To: abanews@americanbar.com, chicago@sec.gov, newsletters@latimes.com, 
+	news@penews.com, nlrt@bloomberg.net, bbrief@bloomberg.net, 
+	ir-operations-team@tudor.com, info@kpmg.com, info@ey.com, 
+	info@statefarm.com, mutualfunds@statefarm.com, 
+	ms60710444266@yahoo.com, publicinfo@fdic.gov, media@chi.frb.org, 
+	finraproductmanagement@finra.org, finrawebmaster@finra.org, 
+	josephine.vella@finra.org, jpminvestorrelations@jpmchase.com, 
+	comments@dfs.ny.gov
+Subject: STFBX or only BRK-B
+From: 6462563609@mms.att.net
+Date: Tue, 3 May 2022 09:50:59 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_97291472_931583865.1651571459020"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfNSHenHt0wzj5Y8K4IGLPmcXiDEnkAap/EIXhbTThrKyx4hhZVD0URPNgGnjDtuW9/iD45uHG+gDksTA2uZEOlhzjOU/TsVsOLZK8uO06FPAYqGUznEa
+ WMJi9y8itf8k5J+Mr1aTLidHCFHHUBgifSxP3vDpVixIAA9yEPvUyPq7BsjkUzvf7BZnwLL+eBS+Qcr9CKZWzaZ5tXZl/U88BKB21cXpS2mEfJLJjR2clA3I
+Content-Length: 1760
+
+------=_Part_97291472_931583865.1651571459020
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+wqDCoMKgIMKgwqDCoCAiLi4uUkVQUkVTRU5UQVRJVkVTIFNIT1VMRCBCRSBESVNCQVJSRUQuLi4i
+CldlZCwgSnVuIDMsIDIwMjAsIDI6MjAgUE3CoMKgIMKgIMKgwqAgUkVDRUlWRUQgTllTQ0VGOiAw
+OC8wOS8yMDIwIMKgwqAgCsKgwqDCoCDCoMKgwqAgIi4uLiBXaHkgZG9uJ3QgeW91IGp1c3QgdGFj
+ayBvbiB0aGUgOSBiaWxsaW9uIGRvbGxhcnMgTllDIGlzIGluIHRoZSBob2xlIHdoaWxlIHlvdSdy
+ZSBhdCBpdD8gLi4uIgoJ4oCiCWh0dHBzOi8vaWFwcHMuY291cnRzLnN0YXRlLm55LnVzL255c2Nl
+Zi9WaWV3RG9jdW1lbnQ/ZG9jSW5kZXg9VHhBYTdjTlZJSEt0bkpVL25pL3p2Zz09CgoqKioqIFNF
+TUktQU5OVUFMIEhPTERJTkcgUkVQT1JUCgrCoMKgwqAgKiogU3RhdGUgRmFybSBBc3NvY2lhdGVz
+JyBGdW5kcyBUcnVzdArCoMKgwqAgKiogW04tQ1NSU13CoMKgwqDCoMKgwqDCoCAwMDAxMTkzMTI1
+LTIwLTIwMDgxMArCoMKgwqAgKiogUkVQT1JUIERBVEU6wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqAgMjAyMC0wNS0zMQrCoMKgwqAgKiogRklMSU5HIERBVEU6wqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgIMKgwqAgMjAyMC0wNy0yOAoJ4oCiCWh0dHBzOi8vd3d3LnNlYy5nb3YvQXJjaGl2ZXMvZWRn
+YXIvZGF0YS8wMDAwMDkzNzE1LzAwMDExOTMxMjUyMDIwMDgxMC9kOTEzNDk3ZG5jc3JzLmh0bQri
+gKgyMSBKVUxZIDIwMjDCoMKgwqAgTllTQ0VGIERPQy4gTk8uIDUzwqDCoCDCoCDCoMKgwqAgwqDC
+oMKgIFJFQ0VJVkVEIE5ZU0NFRjogwqDCoMKgIDA3LzIxLzIwMjAKwqDCoMKgIMKgwqDCoCAiLi4u
+UkVQUkVTRU5UQVRJVkVTIFNIT1VMRCBCRSBESVNCQVJSRUQuLi4iCgnigKIJaHR0cHM6Ly9pYXBw
+cy5jb3VydHMuc3RhdGUubnkudXMvbnlzY2VmL1ZpZXdEb2N1bWVudD9kb2NJbmRleD1MTVVFOWdf
+UExVU19rNnZDbUtnZkNTSkV6dVE9PQoJ4oCiCWh0dHBzOi8vaWFwcHMuY291cnRzLnN0YXRlLm55
+LnVzL255c2NlZi9WaWV3RG9jdW1lbnQ/ZG9jSW5kZXg9VHhBYTdjTlZJSEt0bkpVL25pL3p2Zz09
+CgojI8KgwqDCoCBlYTIwMjAxMDMwX2NvbWJpbmVkX2NvbnNlbnRfb3JkZXJzIyPCoMKgwqAgQUEt
+Q0UtMjAyMC03MQo=
+------=_Part_97291472_931583865.1651571459020--
