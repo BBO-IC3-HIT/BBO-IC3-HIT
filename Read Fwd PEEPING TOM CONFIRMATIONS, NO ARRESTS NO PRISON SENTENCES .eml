@@ -1,0 +1,168 @@
+From - Fri Aug 12 22:26:48 2022
+X-Account-Key: account1
+X-UIDL: AJBmJgEHT8BoYvcFHg4ZYAtri6k
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.9
+ by atlas102.free.mail.bf1.yahoo.com with HTTPS; Sat, 13 Aug 2022 01:57:50 +0000
+Return-Path: <tenley.chepiga@davispolk.com>
+X-Originating-Ip: [144.211.197.20]
+Received-SPF: pass (domain of davispolk.com designates 144.211.197.20 as permitted sender)
+Authentication-Results: atlas102.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@davispolk.com header.s=pxironport2;
+ spf=pass smtp.mailfrom=davispolk.com;
+ dmarc=pass(p=QUARANTINE) header.from=davispolk.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 13 Aug 2022 01:57:50 +0000
+X-YMailAVSC: l1tqs8c3bBt7WIZh1CiocEwjJs9gxdTJlRiy3d8l8YcdkFn
+ .vez2o4DnRajctinJy6jaiLo24UjgYuDmy6ZI5CzgEiMrvwBp56R_l_DqmSn
+ Muge9F0.UTlnKmlDWmTMdUyj9fd6OBHdO94nP9ZY1D0eTSQAAHI5H.7PqQt2
+ n1fHTVm6oX6wOrNUJg63z6xal0TVGWF2uj_dOXH.t6sZD1KP5qPttVdJgSS0
+ aoqy5QjvCO1mghgwgnL1bJEczT56RHs6zJgmt1wN6p_WwsFAtOVkq4MRw9_r
+ KxwAlkXcrgrp0A6hZTIDLoXHcEH7YQFYsUfDRPFkjT6._jsBwBF8S8LhoDRr
+ zE5ih9vQyNdqOeNDNs2nHvVzrdUbKbWeQsdd70urXLJ3.A66kL.BKovOhxVy
+ obbMmVJZiJZnX0SVllplw8SPrb0fHYWiICEet.pyUCp33aBun9UqcrqEMkfc
+ .ZdGTEWAUbdwSfItw8x5PsI4NCctKj8l3yDdN3YbcN1gfWRaErK2.nKCPDIQ
+ x3StCn66ceq_3yifdDSwqCEpRTYW6I8Wz381evYpP0tfDrYDWHWjbN3ml.Zv
+ 5RWhkiMoFIFrS4VRNH0zIvqZfjBkSXk8zRBvs82v9kYSufbQkF9MIT9cd6XY
+ Q1MKQPZNRDLQl9fEDLF3KNrIF2deq4qd5HBmUg0lsMgMRm0n0lM8P2qKuX5A
+ XFu0c1JxQSke753.Y0Dk4qRuxQDakPxKLt9n01cdPTR63avp0R6X6BBz8xMr
+ 5qDNPp7SSyuu5fV3TxpTj3FfzwZ1q3.wYceMUDsRxsEPrLWO3rzW2oVt5kJs
+ mD1wHr6kKkadSHO7Nls29nxfD_KsAeafPnZgyAS060804ep4eT1IWec4K5tW
+ dSNRNRG4cd_T6KaI9xZGok2jZmfZWO_Wg4fW91dWTtnYKre1yN_5fAlk53uM
+ lk_dc7rkiw6rgihVQDtjYYEhbIOYGAeBucRDQEX9ZSOtSzHKbVCDqoTF0a1d
+ 8LPjuINHQnL_jOIW_d_BQkJaLJ9sUolEG0gQdp4VhwtVGrIalYBTm9vC0kiH
+ ffUugFhcqBEQ-
+X-YMailISG: QAj5V4UWLDsBj0_h8UBcnlsQr2ShdigX1FGMKruR_k453KEi
+ B9fbzkQYIhAvZI3mQigCddrFE4_M7G17iTkT0ETnzhv1twcHmC1..mXFhJnl
+ lnIg0fHpdE8IRMOl.wbg.dQ_IDWttTJuZeR3y6a5GgheqddjcdFTLfOnrrxF
+ 3seGxozDtDC_B6urlmkg6KjIi3geoq8qGOcU1obg8pm6_BjXOimds3k9w3gX
+ 7NdNY0gyUNLP3l2Gb_uGjphw4akqWw0Tg2a.wNZI1KW5FzjARDoq4c_0rnor
+ 6v7tZKqaJZQQ0EHdzUY0YQApkOf5R072egc86VqqhjRTfL4CDjCA1P3.FfVd
+ 4d70x3qB3qKqpDyFxYs8AknZJj8lWYzBkXfX_J7t2Bt2jHxtLBRK_1jXGDaM
+ MrVbsSUcFgi6qpNa8BluadNY6mgBiRidZX7SajOzJ2e6Q43iTCc7mEEucM0r
+ kJQpdSBk.lbVpElmUGK2tlXGoel2eCeJR25yqHFtq39Sa1XTnpmY5qsHyaMl
+ EekZPaUtP80R84_._NCUoUqfOkwb4apSdat_L6yiSSXV38JAGTaM.jWhpLmd
+ sWEwZ2KoZpgNhmErGzoKWUWppoEqHV.uCwX8bmeI6KI_uGB_LBzoZm0OHE63
+ Lujm8ymraOhjiT88YE.I2n._nk8LTZwt.gDQgwhZIgXumtcGGIzcagn8xAT4
+ m51LPpoMfmcKahCfonmShN9AZMK_Kh109ttmpnEg4zZNFZ9ABpKic4hCqUC3
+ xumlWdQvIofrtb..iwVwe1PMUU2uXeBKV2eG42VSppt.aGEPq.hX72CKx._J
+ cdhrpMdLvw1.pvHwcqaEXDV5sD9qdPkUmYnUY_jx4GSJ5UMJMI3fgd1wMKDo
+ yUd4lPHvFnURFY0hMYjCLR3ovEsdqI5PtB.v1u6kILf4_.prTyrTRAKV_vNS
+ .QCsd8.kbZZwSfWfZHdT9GbS.D1a6zErr0ZqAdYlZTxt5yn_yis4ts9lvcj7
+ FzIkiIBaPksb4l5oq45yWNkeiC1OxUynSVW4.bi4VNDrWRlf6jz4YdZF7kO3
+ kRN3wRRmmyx3lf5eEgnF3mpCf1Co6SgfV94FYCJa9ppkkYoukC7t75o2IB2c
+ _sr9QipkCGoQ1m0J3HjzwsJcrLDQ1CQrZBGqvhA_3.iSLRGbgPTOFYv8oQbA
+ AAwu7DT76O9i4Hv6kMpt9H2q_lUPjb1GnTLsmYD0v4GsCf.5kzvO5tmJSojK
+ KtQlCc5.x1Bo.bPsGOBpMBhNF63.q5mILladqq1xQZLli9ly2hRKPN9ZxuKl
+ YkliqbpXOZ2O9QDublK1AMAfbEjWvA35vbF.E.jePMDgoQ--
+Received: from 144.211.197.20 (EHLO s5.gw.dpw.com)
+ by 10.197.32.9 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 13 Aug 2022 01:57:50 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=davispolk.com; i=@davispolk.com; q=dns/txt;
+  s=pxironport2; t=1660355871; x=1691891871;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=UZTNaHkGZZus/1QsLHTXinnWTBUAAK9xWERAa4TaehQ=;
+  b=WWqS1BYCgBmcWhdurrHPH2jzneGX3BkfQCDmo2R7zMr3fSx6t46feAAz
+   sWzmRbiZSWg83O0EshidmCnRbJgSF90R6e3DqAKpsGFaMEJIDOWsB8zL0
+   SjRY0oRM03CWF2zqG3frjXQYRx+dsgzwU/tQJLAdBEN2Ykf5LL++wR+6W
+   53IBqOijEUXhOiAaLaSIH4D7k9+WiqnqEdZ1Y46MiV/xZ6sTzGUlNQplB
+   07q9++UvKLkQoSM+6iZG9AjeC6wuyP5nYrRQmLh0EFUXWRfuaE2ppE6Hy
+   6Tyfw7DH7xSzfp6T9K2afe8mALjuRWoNbE7yEqROl9UL2Z5Jcmv6A6Wt6
+   A==;
+X-Cloud_Email_Provider: False
+X-DPW-RU-UA-BY-DPWUsers: False
+X-DPWSPF-Check: Null
+X-DPW-RU-UA-BY-Whitelists: False
+X-IronPort-AV: E=Sophos;i="5.93,233,1654585200"; 
+   d="scan'208,217";a="162770297"
+X-ARCHIVED: TRUE
+Received: from unknown (HELO pyexch07.ad.dpw.com) ([10.204.54.77])
+  by pxironport2.gw.dpw.com with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 12 Aug 2022 18:57:50 -0700
+Received: from pyexch06.ad.dpw.com (10.204.54.76) by pyexch07.ad.dpw.com
+ (10.204.54.77) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.1118.7; Fri, 12 Aug
+ 2022 21:57:47 -0400
+Received: from pyexch06.ad.dpw.com ([fe80::5444:a75c:103b:6928]) by
+ pyexch06.ad.dpw.com ([fe80::5444:a75c:103b:6928%20]) with mapi id
+ 15.02.1118.007; Fri, 12 Aug 2022 21:57:47 -0400
+From: "Chepiga, Tenley Laserson" <tenley.chepiga@davispolk.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: PEEPING TOM CONFIRMATIONS, NO ARRESTS? NO PRISON
+ SENTENCES?
+Thread-Topic: PEEPING TOM CONFIRMATIONS, NO ARRESTS? NO PRISON SENTENCES?
+Thread-Index: AQHYrp+mtbKX7sFUs0i4xchWMlXT9g==
+Date: Sat, 13 Aug 2022 01:57:47 +0000
+Message-ID: <52940984037d4ddd9bbb86d00275f6e0@davispolk.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_52940984037d4ddd9bbb86d00275f6e0davispolkcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+Content-Length: 2028
+
+--_000_52940984037d4ddd9bbb86d00275f6e0davispolkcom_
+Content-Type: multipart/alternative;
+	boundary="_002_52940984037d4ddd9bbb86d00275f6e0davispolkcom_"
+
+--_002_52940984037d4ddd9bbb86d00275f6e0davispolkcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Chepiga, Tenley Laserson
+   Subject: Fwd: PEEPING TOM CONFIRMATIONS, NO ARRESTS? NO PRISON SENTENCES=
+?
+   Sent: Friday, August 12, 2022 7:02:20 PM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Friday, August 12, 2022 9:57:47 PM (UTC-05:00) Eastern Time (U=
+S & Canada).
+
+--_002_52940984037d4ddd9bbb86d00275f6e0davispolkcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Chepiga, Tenley Laserson<br>
+&nbsp;&nbsp; Subject: Fwd: PEEPING TOM CONFIRMATIONS, NO ARRESTS? NO PRISON=
+ SENTENCES?<br>
+&nbsp;&nbsp; Sent: Friday, August 12, 2022 7:02:20 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, August 12, 2022 9:57:47 PM (UTC-05:00) Eastern Ti=
+me (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_52940984037d4ddd9bbb86d00275f6e0davispolkcom_--
+
+--_000_52940984037d4ddd9bbb86d00275f6e0davispolkcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; tenley.chepiga@davispolk.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: c0aSq+BnZkKk68ghIrMkPQ==
+Original-Message-ID: <82019c27-acfe-bf4e-f08d-1e946d4f6407@yahoo.com>
+X-Display-Name: Chepiga, Tenley Laserson
+
+
+--_000_52940984037d4ddd9bbb86d00275f6e0davispolkcom_--
