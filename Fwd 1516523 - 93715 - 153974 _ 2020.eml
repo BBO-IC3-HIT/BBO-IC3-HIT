@@ -1,141 +1,6 @@
-From - Sat May 21 23:53:25 2022
-X-Account-Key: account1
-X-UIDL: AFdjRY1hmQu3YokZrAjpQI5Sc7w
+From - Sat, 21 May 2022 17:53:42 GMT
 X-Mozilla-Status: 0001
-X-Mozilla-Status2: 00000000
-X-Mozilla-Keys:                                                                                 
-Received: from 10.215.171.92
- by atlas124.free.mail.gq1.yahoo.com with HTTPS; Sat, 21 May 2022 16:56:11 +0000
-Return-Path: <Governor.Hochul@exec.ny.gov>
-X-Originating-Ip: [161.11.121.124]
-Received-SPF: pass (domain of exec.ny.gov designates 161.11.121.124 as permitted sender)
-Authentication-Results: atlas124.free.mail.gq1.yahoo.com;
- dkim=unknown;
- spf=pass smtp.mailfrom=exec.ny.gov;
- dmarc=pass(p=NONE) header.from=exec.ny.gov;
-X-Apparently-To: ms60710444266@yahoo.com; Sat, 21 May 2022 16:56:11 +0000
-X-YMailAVSC: 8ro0Oso3bBtzYkp2BZg1WhN5j7826tDkjLvbi0y4aptCjqC
- 2Mh_dciNtTv8wwoNGnOcTWV4WGRKiMCs5RL7Y_3B7a_M0l2JB9HdViKwCBSx
- EcAXkeTXkZIHgk8jPEugGyulvOQ1uGj2Hb5DSeiu0VpxDQ6bcF57vs4TtxBF
- O_3rgghgJr6ultJYuZFwQ0keEBkxSggkvFSxS0wXgeGrRC01EXtQHKlnu5yv
- y_.tJFVR660x2sfP_ESeYtXHy2aQQuO0.2uqhC3npGL1Q0He2RATAYeBnKkK
- rgerOodxnWXnhoEyWguu4JOxxVTL4M2Yt.neb8JLxsz9NxP7_VQEgBho-
-X-YMailISG: GNArUUQWLDt6NqYWv5Rr9Qsuc4cIbGbc7dE4NKSmOjYnhoL_
- lVYmKwiTmsBzmGITWpOKUfQxFNb6uY4.UTfgbgZU4ayCKUBQqzW7o8rIcYRC
- VBuKIVfNi9Qv90.ehVoXb7zo9YoNneQdKiXH.RnV1V8o2uAu6hisIxteWWRK
- RtkSfGTqQ6Fhvwh52f6MJLdvXY3_QABd8zUskhF3ADb0DPJ9apx.vyZtslgp
- qV5ar8qPuMrdXP4wnR9ZnTb6TmOa0MngFl2lKMIgWc6saXRsiIfzJx.xa5SJ
- 130jzWu5X__2eT0k.jKqAjxod.Vco6A7mj07AaaH.JGYZ2m2KTCifhDMflNm
- qh8gQfDfl3V8J1.V.wZu48Kx9vEkzL6JtkZKeg1mS5URAOxjEbZfbUqKr5_V
- fM9fwtIhJrit4DQnt53BsUd4IJ3juwCQLUbbqDgOneGPR0kaBrJAqSiZ.CFu
- T0hgRsCj_uQLF6Zy9mvMmyEodsRoCmP5CjyGu0mXKuwJGGrneboOv.3W8RzV
- 69kTKogatRZ.WXac5A7kjwfeHlAXisuKOYtPr9XrpWOG3vt7SjOShqVwWFkM
- h1ZDyiZKgXx_uGCCBof94djCHw9TlLNrpROG_VHWKLFYyZb7cmmLtGwxH_fI
- 723OSqpC0OU7hLyuqa5E1u6qN5yRe7L.nxOe3I2dLaUOdV8SesnTFFubO_Bg
- kfNDkyOJqPfHHYXFVOA4pFBfEhIDzXI1_RTJoSPGhTsB_vuIOpB0Un2vcaSs
- UGmuWh8cp4w9ZuBG9X2wSUKgylUM4nWrZ9tc7Gj9BVeib5IRtF5VRWgIF_C7
- BxwjRKt6LFhWaUuUeAeTl_zFFCHRL0Gm8fgJs0nOyIQBV3Rh0bJIB22uHCD2
- Ke_eqYz4X6Q2RPge4wUBjhE3hDQ.WC1Ttev.z63vKvhE_MQX0ecGHVbpDO8C
- huUnVNmTBrQY__Vkhe_zKuvuFLNjvSNZoE1fxM4HqsusbGVBCVO9m3pzdeT7
- RNriSrc.vBp6OVtr
-Received: from 161.11.121.124 (EHLO mail4.chamber.state.ny.us)
- by 10.215.171.92 with SMTPs
- (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
- Sat, 21 May 2022 16:56:10 +0000
-Received: from localhost (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with SMTP id 6EE5ED2063
-	for <ms60710444266@yahoo.com>; Sat, 21 May 2022 12:56:08 -0400 (EDT)
-From: "Governor.Hochul@exec.ny.gov" <Governor.Hochul@exec.ny.gov>
-Content-Type: multipart/mixed;
-	charset="utf-8";
-	boundary="TMMSG_28946607_458D_099A_DC2B_5E2E5AF2C421"
-Subject: =?utf-8?B?TWFpbGJveCBOb3QgTW9uaXRvcmVk?=
-Date: Sat, 21 May 2022 12:55:59 -0400
-MIME-Version: 1.0
-To: <ms60710444266@yahoo.com>
-X-TM-AS-GCONF: 00
-X-TM-AS-Product-Ver: IMSVA-9.1.0.1817-9.0.0.1002-26908.001
-X-TMASE-Version: IMSVA-9.1.0.1817-9.0.1002-26908.001
-X-TMASE-Result: 10--20.395500-10.000000
-X-TMASE-MatchedRID: JorHcieTUskEC8rNTltqbLTDRJYmI12MgCgxvjJCHkH5vOQjFIPDg1Wr
-	LH2cfZwd/UhHSdHyK7uwOmfjQ30zeVjAexvcqHO+5OawNrXTmOQxlKYUfocUGeYV84nXs2gghhX
-	pc0cXBhzrBYwAlbcczWQYj6+BFPEwZvn8G/riJmu15eNIExieafB4jQLJD9WAWORIf0s6Ilb1Ay
-	aBIVBW6t9r75l8w5DYLGzDOk/IlANPnKxAOPp4WZm3OIVSf4P5Z/UBVwWDvB472WqFZzcmkuwgZ
-	cMOXhaGt6KqoCwrB+K9IR33rBDbthT+tsOINhqj1V+wDpv1a83CgKg355kONo86i7wAXPvIfUP7
-	Wg7+RVy+5A6bt9euMCeaCBMY8cEnrogFtKd/P7eysPB8dBBorWdrjZkJClxeNt2+duVuDoBT0gF
-	hwwXJ3dMTibAggP6Ss0T0PE+KHuVZoq85oEW2FAMuv289VbCIOZIW98PNU9jTBny6ZQSSs/vkFT
-	Kx3bMbMIhcW3smg4aNyH/G92IcfNY3ddD/vCxPOT3+89TCwZ7kxDJs+d/I6H1yebCBA566a7yaV
-	ax2nbHM0QPdYuYm9/8xygBCGWz0F65hwMinMASe5PYgiQgmVBk/4jCT+SWRMI7fV6xAkbyTPLly
-	+b9WA3lclORe1/Q8gd/NYmefR6jfVqwz+CynaV+MVaBHQLyD3SlEgVuyN9uHn8V9O2m/SGgRlIs
-	wqMsEIArEMNwJlak9cOFh/F1R/a4sbbURvhPzwyzogwih92KtyaYPv+ErX+BPbNdhr3+dPZex/k
-	xUIHUEs/H1wMysplIZuIPZ7iVnxQVtmU1krK6hnyL1SpbiQ9YAMXaQI5ebjVMQg8/yFOQuecdM8
-	S5EMnc7gObNPqZiqGvFpaGkvmQIgyb4ZFcvBP0Pl30DLzSMdLZleEls9u+DQaQm4MuZH5Fzr2Mt
-	JGSrUaykaaR4U10IY0USSuEzSAKBkTSRam9rK0v9RnB12Z6uRlPIX9eDVfp57CGc0OHL
-X-IMSS-DKIM-White-List: No
-X-TMASE-SNAP-Result: 1.821001.0001-0-1-22:0,33:0,34:0-0
-Message-Id: <20220521165608.6EE5ED2063@mail4.chamber.state.ny.us>
-Content-Length: 1995077
-
-This is a multi-part message in MIME format.
-
-
---TMMSG_28946607_458D_099A_DC2B_5E2E5AF2C421
-Content-Type: text/plain;
-	charset="utf-8"
-Content-Transfer-Encoding: base64
-
-VGhpcyBtYWlsYm94IGlzIG5vdCBtb25pdG9yZWQuIFlvdSBtYXkgY29udGFjdCBHb3Zlcm5vciBI
-b2NodWwgdXNpbmcgdGhpcyBsaW5rOiANCg0KaHR0cDovL3d3dy5nb3Zlcm5vci5ueS5nb3YvY29u
-dGFjdC1pZnJhbWUgDQoNClJlbWVtYmVyIHRvIHZpc2l0IEdvdmVybm9yIEhvY2h1bCBvbiBGYWNl
-Ym9vaywgd2hlcmUgeW91IGNhbiByZWNlaXZlIHJlZ3VsYXIgdXBkYXRlcyBvbiB0aGUgYWN0aW9u
-cyBvZiB0aGUgR292ZXJub3Iu
-
---TMMSG_28946607_458D_099A_DC2B_5E2E5AF2C421
-Content-Type: message/rfc822
-
-Received: from mail4.chamber.state.ny.us (mail4.chamber.state.ny.us [127.0.0.1])
-	by IMSVA (Postfix) with ESMTP id 35968D2063
-	for <governor.hochul@exec.ny.gov>; Sat, 21 May 2022 12:55:59 -0400 (EDT)
-Received: from sonic317-53.consmr.mail.bf2.yahoo.com (sonic317-53.consmr.mail.bf2.yahoo.com [74.6.129.108])
-	by mail4.chamber.state.ny.us (Postfix) with ESMTPS
-	for <governor.hochul@exec.ny.gov>; Sat, 21 May 2022 12:55:59 -0400 (EDT)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1653152158; bh=JaFZUggtE0baB2GWtc5ZyhM832PV1L9VHvWXoVyrrPQ=; h=Date:Subject:References:To:From:In-Reply-To:From:Subject:Reply-To; b=DQ4mmmstvS3IaaLnrroQt5Ts83h4JM7G6nZQvfTy0Ddd4CxDJeC23F//xznWpJdK5FwY0THK0DU8yepbn2yy7ze/S3OFMHtkQoipIntTB4aYPdInXFZW4Oek91Ki7L2AtqoH/Rmr6dmtlb8SOA6UXMgfQ9HF2BcBRx544vprXut95tykf3dlF8MXFZfUy77EjMmEZ+o96rEOhY5h1ZPNUc+dvgQvgolN2U1GRvCj5xJckeAxT+o7g8mDbzPwkA8NVtu+3urrzArECN8qaBnb/9VhcpqeOOejKChRvwzOva2AMzoysb37Gfx3FVi7YGPXzMFW9nve9XOUOHnPa9wKSw==
-X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1653152158; bh=J+sTPsUvnKONVkaYeiO+BJ2nHQn/RCCHhHwRPnj/8xl=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=FslbXgHBWmbuvTONyJnOYqBdH+j/RZgL06vU0pwxqlajWEaaiKj2NtTIS7xxe2tenNSu9mgyEcnBYv83yWAlwcsQ6O8rEiKWpugNBvVbrKAI83FeizfVEBemghA1MmAL555FEuCuovhmyh5Zwqq8su71EsopUKhat0wxDtMMvMPmRXH+u5otItGJOqBSLDyr+CRg6QdMI/qyH+YwA5iuVNkhfZE72tTPbKLArHAaSLU6SMX94hXyJor+Xcb57Z9grdc8G1LQV6cSqa8t2mhqRZfyiuZnzES+rwLh2hw8ev62QmjdcjRL5kl+bSbY5Y4ZQzza2B+Xz8it3wUW2hziAw==
-X-YMail-OSG: BmBhoiYVM1liMhsr5KwetsrdHJGwoFN0s9gt7_nktiq9zuO1__Pb.KJ35a9cHQk
- 8MCkvit31D17EbeiAqjnEGXhb.4Q2NxRzexKu.ozX_WyrZQKN6__xokwH3DrrkvEHglsoMUyRqNy
- gisotgHX9.ywiNqSc2nIYU_emE_p5LRh_06XJaay9voPhzRCrTexNECUyF7eCMNTC5FuTDnL3ZyN
- FsxXG9GiDKVYWre_NsrUHEUpPh6yFDKuCMqD6DXUYGxQy8yj4lo7UOk9MCQixGM7_Rza.s20ggfo
- UCp2YM3ZziX3qxTZJn9JCi.Grzykjp1QXsX6GSIS1ExEieQCHaQvmoEuveYJwCV7WrMPbbisTuYX
- lk5qXkEWVYxzstDFJBRwRWsyFxZMuOsfobgbtTnTmJsMqhgP9x.z25JazxQH5FLoWmwY8UgPLYs3
- 1Kdu6hu5XMweADrRnDDHcEseFYDTgb8X17KgEe5Z8afi8TyPpXnD6W9shrFtsd3sy1x9swutNRPD
- a0o8WfAb67vL5uUxGBBK91sjPlFRb4Yg8vEnMzssI9nWIYNjAWiG8mVF3A2_9gYo9rb.ioAg55_w
- _bATYwORNwDzUO.OIxu4A41Z7yM5RglimRNnbLRIkdfwG3QE7yHC8JAqEjJp.Acw8Gf3vqoOXsK8
- mos1VIkeMMA.EjM8erlniK6JqYTOVsQv2x5v.GJY0Y76ycsT9CZsf1OSXluCrv7S9mMYxtvlBwvB
- NMuDFjACACZFG_5UQfboEFA4ajAefCZBP0tInbUPksQi.xrEISlB9IJXNMfoAXjrjYdoa0xGPYbR
- vfrqTyHA2pFUDsyIznbsLz4bKwkUpCgAldaExgsZiZIEzWP.KJJFb_lO7m7oZ36z2CFYIi76IF8B
- L2ck3GUFroG1Q7lZuS47wNj44bFj_mFEByU0BdkEOebWxgzzoFIVWeSWFw23chUxICTPVfhpuuZo
- vzhbXzPt0jwVfAyFxDtdnqDQo.dku_qcW9nZB4ggzD.OhGgCDD2HfbMB81QXcHuzT_ZTE1VF4D3v
- _sTXPZwohwMiDqPJTKJzeI5tIHHDNoZuQmvDyyKLs2zFb7Qjaqfl1hVRUtkxOyR1eKmz0gad0DXQ
- t.ylTfgi6KhOphkDDfNYBLkPZ85OmTjxf8eGcp6DgB_eMH_r4GnT99NtVuDce44R5aMxNSAzEiMP
- .mAv_yV.vaHO0SVtqF9icD8.F1K4XZ_wUHItLQ7LQaCsPpgXwyRaRNNhT04GfI9XRA6HpnQbLPr2
- VMgBtvoeJQjg.oHozyUMgoPTZZg0ReE8MymR..N99X1hC6XX00ntIVaaKjQcCnJR7H3QA_WvuAnf
- b26g5qEMxS1vRZaDJ4B5k9pGBIc2l2gdzFyX0dD9gZDL0vieE4k76nRP0cRNpfm5k38.uVwhuSCK
- yYW3Q8WztMXRlDFL2O1VEviPzE.r.8nud30Br9x2Wp3X5UPzaMUifmZsVU9bt2UbeHJSmJgdiiM4
- RQxJouqPswyYZddHPxwWgxWynwPqA85QYGQY8eyYsu_IWopGE7zuflVILWWU40.fi6hLpRKAgG35
- K3cGmj7rTHqg2IQX6aXTBbWBwEeQQvkllEG6bOsGKPunSXlZy6TETAorfGKbao4RuVL2djhnmuhD
- o.bV42v80mric0uKNEFcytUN360y.snfVs08pG3hAkq8OFPGnXkbrvTKWcu2GNq.h5iWB.SqdqsH
- CsxJr.6HeYFchWsh8fBdctW92QS15.Vkoz6nzcnAYo4tcxQl0iisxRbB7lA7u9..uZjtgr61lGJI
- 0wjj0KbUbFLAOFHLF8mXPe5t3HbuA5IBTOKSUzMaIY0O_5QAt7zXseV52aoO7xRXdZsOpkIDq6Lo
- ksFaj1k.Vqs93zMJZEbeSUopOyCnQWSCq6VNoM2o__iWgnPTyt0Jtv1x4mk6rVyvMNkIlq3PTo7M
- CT5NgbhS2ocjgox76_bDl6zvxxWNxTRaQXCqXpy61jM4QXK.ojznh8iEc8Q5zXXbYaXpY2w7Bikn
- sJokyO14zxnzqGwFO3djVFZ1IHOCOLoKCOXCNwbIAFPpIEDwkxx43s5Ndbrflszp8mlns110yn6x
- sdq8pNg3qNHeNUUPKcrX5ybd64ZdmP2m_Zw9jvDaCBLQ66QEpv27kHbkB6U.xNy.oqHUrykFIkXt
- Gld2MA8HVCqOVGLN0om_KV8UVPgMywjGOMT7zMSKE8ijdWVeZLqWT7U_9m9tUTqyBb1jGDu_MVz7
- zxEvqQR7OQnHJtStcTK5Y2vOZ5Pcro8EVwlrdn35ezdftGneXCansFjQcO814zo0Bje1RvA--
-X-Sonic-MF: <ms60710444266@yahoo.com>
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic317.consmr.mail.bf2.yahoo.com with HTTP; Sat, 21 May 2022 16:55:58 +0000
-Received: by hermes--canary-production-bf1-5d4b57496-srbfg (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 46a9395323e7c5cfde3cea53df72c747;
-          Sat, 21 May 2022 16:53:40 +0000 (UTC)
+X-Mozilla-Status2: 00800000
 Content-Type: multipart/mixed; boundary="------------P5jrcxosztUg0dBbUBQA0F7L"
 Message-ID: <198c8ff1-9f6e-9797-e939-b8f83b68b4e9@yahoo.com>
 Date: Sat, 21 May 2022 12:53:19 -0500
@@ -143,6 +8,71 @@ MIME-Version: 1.0
 User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101
  Thunderbird/91.6.1
 Subject: Fwd: 1516523 - 93715 - 153974 / 2020
+Bcc: COCKARENS@VOUCHERSRUS.ORG, CBPMEDIARELATIONS@cbp.dhs.gov,
+ LYLE.ADRIANO@KEYMEDIA.COM, media.relations@kcc.com,
+ "media@chi.frb.org" <media@chi.frb.org>, mediainquiries@brooklynnets.com,
+ mediainquiries@POINT72.COM, "mediarelations@ap.org" <mediarelations@ap.org>,
+ "privacy@groupninemedia.com" <privacy@groupninemedia.com>,
+ WMPrivacy@warnermediagroup.com, news@golfchannel.com,
+ LA TIMES NEWSLETTERS <NEWSLETTERS@latimes.com>,
+ "newsoffice@mit.edu" <newsoffice@mit.edu>,
+ THE NEW YORK TIMES <NYTNEWS@nytimes.com>,
+ Dow Jones <pronewsletter@dowjones.com>,
+ American Bar Association <abanews@americanbar.org>,
+ Newsroom Books <books@nytimes.com>, CORRECTIONS@YAHOONEWS.COM,
+ customerservices@penews.com, "desk@dailynewspix.com"
+ <desk@dailynewspix.com>, InvestmentNews <editorial@investmentnews.com>,
+ emil.herzog@goodnewsjail.org,
+ InvestmentNews Daily Pulse <investmentnews@editorial.investmentnews.com>,
+ GUEST OF A GUEST <NEWS@guestofaguest.com>, news@penews.com,
+ The Real Deal <news@therealdeal.com>,
+ Ace Anki Tech Newsletters <newsletters@ace.anki-tech.com>,
+ INFO@physiciansmutual.com, KEVIN ROCK <krock5@bloomberg.net>,
+ "leaston@ap.org" <leaston@ap.org>, "nmeir@ap.org" <nmeir@ap.org>,
+ rss@ap.com, inbox@kellyandryan.com, efile@nycourts.gov,
+ BXElectricalIR@buildings.nyc.gov, MNElectricalIR@buildings.nyc.gov,
+ RETANSELECTOPNKABC@ABC.COM,
+ "retranselectionKABC@abc.com" <retranselectionKABC@abc.com>,
+ Kids Privacy <kidsprivacy@viacomcbs.com>,
+ "stationservices@cbs2ny.com" <stationservices@cbs2ny.com>,
+ "andrew.blankstein@nbcuni.com" <andrew.blankstein@nbcuni.com>,
+ "DAVID.LI@NBCUNI.COM" <david.li@nbcuni.com>,
+ "suzanne.gamboa@nbcuni.com" <suzanne.gamboa@nbcuni.com>,
+ "tom.winter@nbcuni.com" <tom.winter@nbcuni.com>,
+ 3827-staff@lists.cs.columbia.edu, COLUMBIA@lists.columbia.edu,
+ columbiacommunity@lists.columbia.edu, COLUMBIAUNIVERSITY@lists.columbia.edu,
+ COMS-COURSEREG@lists.columbia.edu, cs3136@lists.cs.columbia.edu,
+ gsba-owner@lists.columbia.edu, gsba@lists.columbia.edu,
+ no-reopencu-attestations@lists.columbia.edu, president@lists.columbia.edu,
+ PS-MS-STUDENTS@lists.columbia.edu, REOPENCU-ATTESTATIONS@lists.columbia.edu,
+ UMS@lists.columbia.edu,
+ "ashok.patel@standardandpoors.com" <ashok.patel@standardandpoors.com>,
+ "engineering@spglobal.com" <engineering@spglobal.com>, ir@tigerglobal.com,
+ "plumbingenfir@buildings.nyc.gov" <plumbingenfir@buildings.nyc.gov>,
+ opsdirector@bainbridge.com, kmccaffrey@virtu.com,
+ ir-operations-team@tudor.com, interviews@hirevue.com,
+ inquiry@newyork.bbb.org, "Inquiries@Point72.com" <Inquiries@Point72.com>,
+ inquiries@deshaw.com, Concierge Auctions <inquiries@conciergeauctions.com>,
+ info@virtu.com, "help@virtu.com" <help@virtu.com>,
+ "CommunityAffairs@occ.treas.gov" <CommunityAffairs@occ.treas.gov>,
+ HouseconnectionIR@buildings.nyc.gov,
+ "DMastronardi@tigerglobal.com" <DMastronardi@tigerglobal.com>,
+ "alex.zuluaga@ey.com" <alex.zuluaga@ey.com>,
+ "david.brown1@ey.com" <david.brown1@ey.com>,
+ Deborah M Jones <Deborah.Jones@ey.com>, "info@ey.com" <info@ey.com>,
+ "jacqueline.kelley@ey.com" <jacqueline.kelley@ey.com>,
+ "karim.anani@ey.com" <karim.anani@ey.com>,
+ "kevin.klimara@ey.com" <kevin.klimara@ey.com>,
+ "lee.henderson@ey.com" <lee.henderson@ey.com>,
+ "mark.schwartz1@ey.com" <mark.schwartz1@ey.com>,
+ "rachel.gerring@ey.com" <rachel.gerring@ey.com>,
+ Governor Hochul <governor.hochul@exec.ny.gov>,
+ "ikawasaki@kpmg.com" <ikawasaki@kpmg.com>, "info@kpmg.com" <info@kpmg.com>,
+ isabel.zisselsberger@kpmg.com, jean-pascal.nepper@kpmg.lu,
+ Jenny Roche <jennyroche@kpmg.com.au>,
+ "juliojhernandez@kpmg.com" <juliojhernandez@kpmg.com>, kbolla@kpmg.ca,
+ "pmaes@kpmg.com" <pmaes@kpmg.com>, tim.knight@kpmg.co.uk,
+ ukfmseniorhi@KPMG.co.uk, wgirth@kpmg.at
 References: <20220521164706.35D4FD2063@mail4.chamber.state.ny.us>
 Content-Language: en-US
 To: "megan.disciullo@pwc.com" <megan.disciullo@pwc.com>,
@@ -175,8 +105,6 @@ To: "megan.disciullo@pwc.com" <megan.disciullo@pwc.com>,
 From: B D2022 <ms60710444266@yahoo.com>
 In-Reply-To: <20220521164706.35D4FD2063@mail4.chamber.state.ny.us>
 X-Forwarded-Message-Id: <20220521164706.35D4FD2063@mail4.chamber.state.ny.us>
-X-Mailer: WebService/1.1.20225 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
-X-TM-AS-GCONF: 00
 
 This is a multi-part message in MIME format.
 --------------P5jrcxosztUg0dBbUBQA0F7L
@@ -27678,6 +27606,3 @@ dGFydHhyZWYKNjE2OTgKJSVFT0YK
 
 
 --------------P5jrcxosztUg0dBbUBQA0F7L--
-
---TMMSG_28946607_458D_099A_DC2B_5E2E5AF2C421--
-

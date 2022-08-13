@@ -1,6 +1,82 @@
-From - Tue, 19 Apr 2022 22:26:18 GMT
+From - Tue Apr 19 17:36:21 2022
+X-Account-Key: account1
+X-UIDL: AEz0F1pEgRMGYl83VwEVWC4Z+1E
 X-Mozilla-Status: 0001
-X-Mozilla-Status2: 00800000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.164
+ by atlas220.free.mail.gq1.yahoo.com with HTTPS; Tue, 19 Apr 2022 22:28:42 +0000
+Return-Path: <ms60710444266@yahoo.com>
+X-Originating-Ip: [74.6.130.229]
+Received-SPF: pass (domain of yahoo.com designates 74.6.130.229 as permitted sender)
+Authentication-Results: atlas220.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 19 Apr 2022 22:28:42 +0000
+X-YMailISG: LuS4AMQWLDu9hee_CRykaBgsNUbQo.3644LjXQzFhV_BDFWj
+ d7eraEaSfWSpFyN0cjoq6tLTSwmyIpcmGryRZAjdwRMo0NmZ48jS.ci7ftiv
+ 1EVgJmt.BG1zHGrpRAm4zsj4Jf.5HSqGMsHWGooX41tyHpiroqw9QEmA.FP8
+ b2Ww2w4d.7QZbKYMoh9RH.QYX_A8t3sfp9PEgE2vDsENI6DWzg.LfuTRBpK5
+ PrPgOBTZNp60FR3npnMLmWyIH5KWut5yONguumENIKtQ_5kSbNmfVNdE5CzX
+ 7h7vIYtcMPzQm4ehIgKSydytGCxXtnNXP5nAk5mfTXTOwbY7S7CM5.Vr2Zn5
+ 7VcbkGI8pPF6MW8leGNfhceItdBfBhmq7HNE.dfkbAufDPRmkPuP9PDrWix0
+ 7pV1vpEAF.LqVcnN1anM734zI.uwuj2f7hsQdbdPvNHXW.zCIlrMaQUJHSUL
+ XtogJqZmIKgPs6NLt_WyfxF_VRivwnyFfGEfzpTRMlg8wu8WulVPQlmJIJyA
+ Jr1WqPYQEiZwmuHmZWVtVymBsyGwDrfyGZQehVvHncbBas2ay1rrFVJi1usT
+ 3.HWpSmVND0vw1QYgLck7lWP2hClYj4qvlClIOheVKOKEHZ_YaUp7mEK1h4g
+ GyIUmSpFQR74dqJ0zYTxHb.InUjDfxNyJ25ZiMnDxX_PDjyTsLehUDn5AnL0
+ 12Kr0l_fe6NrQXG8RokSU7hY0jGMiVHHuGBIpKZa_MFpA1BrJZCZf56oaG9g
+ ZzwrwrObSN5PW_vPmfqvq6BG7gcTgvzSgnll6OXZ2LoknwnCDoyE8S5gnlZs
+ uP5Bwpoi9fbJjcLf.R4FVzw6WPiv_G1kCS_4wEJPDG3XnKgosR2pEASVg.gA
+ BE3JhPDNl2_yFFvzbVJ3wmYBK0TS9mV.ANIZiiksSZfLdbl9rkglfN7cMMVN
+ Yk.pW7MyWTuDsZQtags.xSPG_HTinp1Uu39W4MY3L2yBxoL0clq707FifrTE
+ DWx.Ns4_RG8BOJln1b3OWFyselQ7v3TqI7.aTz__psjn4kAPy7y4K8g1jwqA
+ D1.dH.qQLp7l6zerGhnfgb75Np92DhtFu3DcK2S1ySVcb26hxzlYnBWF_tAr
+ U.zR2vQFz_QEScifPJaYJZ7w69hlDm7lSpAvpXjYo74NURFvjXE9tcqr_.5.
+ w35st5kkF68-
+Received: from 74.6.130.229 (EHLO sonic308-30.consmr.mail.bf2.yahoo.com)
+ by 10.253.62.164 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 19 Apr 2022 22:28:42 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1650407320; bh=n2rzIpU0rNDm5WISPbgXyDlg8AbxZ/tvhRvq3AIX1xo=; h=Date:Subject:To:References:From:In-Reply-To:From:Subject:Reply-To; b=jIOnQDAY1b0FOPwu4hI1rTN1qNC7XgzAlK5Hv7nHxCAADnQNsu8abYD3v6BW2KjbLYGh8cE32YvblbqtWlrSEt3s/9pO1X+GGH/cqjGFL0j+BrkSwo6WACvUNiBWl6l1orcV4eMHycBhbHEeZ6DKhrrHXXvDujpGUlWkLY+tGsVuW2uUY0gdUDqt2Ju1O2CKxWGY9jRykWL9Vr3+Oc4aE6SqJf5KJ/X74oQTpTBVKzCjL2ANN0y5+wcWgfoLEzq1Ilanr5RALRx6F5lyLbmroq/EEjEoo+2Zp0DpwaZ6POIjZsJ01iMSdUGTIjEpL3L0OCeVvwJFGEjvFURG+F8INg==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1650407320; bh=uc8yxUdSE8MyUqRcFey7riCugVk/8BqBfmvkfu61o9q=; h=X-Sonic-MF:Date:Subject:To:From:From:Subject; b=RIvk+Dbva6Z1PGZCohjDknM12kFIpduVtwHkEolu9hoqit1b1ywbxzMdvSBtOsZDsDTe81L3lTJ1G8k8IX0xIQD4e/1MjQ9cSxDayDyHlvHPrKnGbdemkX0M4FfzWCtExFty4xapszRKVnxrFNI4f3Ol7RmWzjH0EaBrgwK7zuEkzln+7TFeQswPPc45G8Y1S0jYiY3XUqddRr8uodWsdXvtHdUXsG/Edr0TykRDUt5zo4OdsiZN0VdIy0eHS69quxOgje/wDjbhAPONsSOxuxJEOEMkC5r9lI83LsiFUycsZCCqr+r+L/MoHYQ/nSdXg8b+23PMJJOHG+ohqfm3cg==
+X-YMail-OSG: rRLLls8VM1lAUfHlnilr8oD.UUnZba.SlyxYUriY8dNLmsOklugzwagO1N9m5Xs
+ CFnbQ27khcp.iqqcbqtS5x9G9k3SB2whIvm.bKngd9F3cxl3.OGgV9IrCJKOFu0YXJtCiH04iO0Q
+ 4.KtP5wn4DjUzR8O9z9CxwzfSMohFmRWj3IEmXuCfE8E8ZZH90Zvvz.d8hc.nZAk_csHsHjY9.zj
+ 9iKMUARmga7KlSqhZys5wWKcXxfJijjXVkLBKph4ZlmtuOcJGlV0JiTH3J47.GVmAnXXZuIUw8nJ
+ 1wg4dtkWKUvfMVrdZJE_4s30JXk8U.zZ6Thb85eB6zLBUSGviP6MNBQ8iybd.fk5S5JaniSxe09g
+ 0xlR4n5UJAhouNVJ_UMK2sOtrYsjISimxtAMlGL.SQimBMz5B1Y7HEy1_FWxNGHN3dXyKoOEFWBc
+ Tx75iSQ_kFMJZLJUe9RYKF3dZcjBuXxVGDTPfy2TLM.6IhKs9X_NCFnfEcsfDFYbJNJLi7z3Orsj
+ G5LhJCp_trd3H0oll7nH1RNbbQT6IfUCb0Zd4Wq9P_0MSjkuRErSj_2POvY8bUHvhm5UjEly9IyS
+ pxBSv23uqWCCGtskt30KK2o9.Si3MZjfImHSsRs3nErofokLw0wftxlzhgTJPOLHMFkNrL90Njm1
+ RX.xZanhEBaaJ5z0yJv.zReh0eRm8605v0oHAhf09nH5iVvNFPiqhzXOD2R.hY3iXKNiTxm5KLv4
+ wnJKUQ3OCNblRaguPKlCz8UNuF9UiN1Hr_B6VU5bbt70n4jS5mM7K9YoDeEpUHSG2SRQbNHDCMn0
+ RPQL4DmF_uzA6oq1h2PhRXS3wpBnttwvnnLpINmKMfHLNAcsHCgRWNYPBE7TwMBY96THBLMCBM4P
+ zQQzOVFE5CgFzDRJnjvqEjtyOhdRs5Rjce_taH5VcMmzH_kTDJYXloljJTltGEeKr32H6fZB5f0O
+ 9bkF4JVKr0kQM.x1X0OG3lL5srFfEBsHaDxRMkxZ0IKKJ3Bz0bsvuGuhK1JInMkzWN82h.uheM4d
+ QUQQLNjqtRn5qVFK1g2UJZPFZc4Fe_3dgn7lGafc6ti7P4hIOyJ5qYpWYY2O83LQDz5e6DLj69aG
+ DgXs_Z5.1FCvqbP09wz4s6iDRzRFc4kb7obaaBDYsEdtJLE4IBs4FbABDB7.IzjB0mKIHCO1UWYP
+ 22eY1oZ5oUtms6ebfZ1HHDUFf84ZG4.MOI5YyThlFY4eJMbxGuwoExZ_OvSMcqb398_c.F6OrYd4
+ .EcwvmJWbZxcTzMIC_G0zgtROCZyCltFrK3zs7PIeURVkQSn5bwHc44_hSykVxCEL.V1kPVX5QdB
+ JgNWkg0bJdUstW0i7azVD_pAlBumygsSKw0Qn9vfDf3C_0WWuar1nuMsSIzudkDkx.IbAZG8NIBe
+ w_HqLfXZ96sDLhBrqL8YOvQ3cv54wFq_tgsucEmGMOnk_KmDv8_YmIxCmTcT3sSY5jTczmIg238R
+ ZrqqvYSzg.8pmNxjbb6TNEFfDBVImIExv7cutay_iLCrjwBlfo6jfFe51MsWtHWiRQNMydS09lMW
+ kQRDnUnO_3q568076tipk2slLSH5jexDZE40PrIxadryeqFmAlhdZdgCViLcAvkBl10W5TWweFwt
+ AlVMjbSVQB_y7Oc9a3eq7B3s.Tpakn0onsGKIJMNBxCwhFYuSRSxVwWsKRFpVDLdEgqzi16mRxsJ
+ VL9ovE3i1_DI9PCXeylesVIQ_efWpITn1_sX.CyRAv5p1dEpRN5Ci4LPheANYUyv5a._pjFExcyS
+ 1I9ODH5JNe7itd3lmkzSGnqSDX8jmBzbULcVKSpfFLQZ.J6W_9GQkloe1FjANuZ9NQ_ppNe_2fmu
+ ovDo91BwyAKnuVNdLtyuHhovLYKjZkFygPCvvhc2vhG0jK4WynX__04XqVIJLfEQDCm7EdQ1Ko9H
+ qRJbenW7wMZYNHJ4oozMOmDWjhMIav4w6lEZp6IzvuG1i3pRPRyp0a4LTShwMdWlmAd1j9t1JEo6
+ CHztknLT0Wh2VDXYv0BMiLrLgS4SlCq9kEfY3RIjUFeEvuGUBgMZL.wAYgSQycyzSedAqcA_OBN_
+ RTD3WWqNiWUGTagZTxrPK.POpciQfQwbYG5hwIj6l2F1gDEg767omFebv5.zgGI_2TgOntawhDqn
+ 20S.X46PFmnRjLAPeFph4.5OYe6LOCDEcUv2eBo1aHSDLM_d_LLJA5CZdAOTjLwYnLtd.I9lSBst
+ KVmRjUe3qQbjOT7C3SlChK1MizrVsUrvlbWSeg89xHoxz1Xaz2fcUhqtbo_FdK3nQ6Cp9l44ol0.
+ q0g--
+X-Sonic-MF: <ms60710444266@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic308.consmr.mail.bf2.yahoo.com with HTTP; Tue, 19 Apr 2022 22:28:40 +0000
+Received: by hermes--canary-production-bf1-7cfdddd556-vhbr4 (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID dc47954bf65ede682c653231791d0ee1;
+          Tue, 19 Apr 2022 22:26:35 +0000 (UTC)
 Content-Type: multipart/mixed; boundary="------------3Rvm8wovOzIMNEGsPnO5JQF3"
 Message-ID: <d27a33bf-8683-dc6f-42d6-6e3fb5879d0e@yahoo.com>
 Date: Tue, 19 Apr 2022 17:26:08 -0500
@@ -19,61 +95,10 @@ To: Bo Dincer <bdincer66@icloud.com>, cockarens@vouchersrus.com,
 References: <A52BF55D-8056-4E0A-BFE2-C2FF32DE6677@icloud.com>
  <6DDF7747-D8D4-42CD-B758-EEF750F1EFB3@icloud.com>
 From: B D2022 <ms60710444266@yahoo.com>
-Bcc: NYM-PREAComplianceMgr-S@bop.gov, will.b.hodges@pwc.com,
- ryan.a.cangialosi@pwc.com, JPMCinvestorrelations@jpmchase.com,
- MediaRequests@fdic.gov, PRAGHURAM2@bloomberg.net, IARrules@sec.gov,
- DCAOLetters@sec.gov, NYROBankruptcy@sec.gov, Secretarys-Office@sec.gov,
- cohenassistant@point72.com, Newyork <newyork@sec.gov>, Chair
- <chair@sec.gov>, Bop Info <info@bop.gov>, ptad.cpa@cpa.texas.gov,
- colin.brooks@morgan.stanley.com, OCMgmtGrp@fdic.gov,
- jennifer.vanoss@pwc.com, jordana.strosberg@pwc.com, kivalena.starr@pwc.com,
- larissa.vonlockner@pwc.com, megan.disciullo@pwc.com, wmckenzie@nycourts.gov,
- bofamarkets@bofa.com, Depositorservices@fdic.gov, Ombudsman@sec.gov,
- Regs@fdic.gov, asbpolicy@fdic.gov, assessments@fdic.gov,
- boathousereception@pollgroup.net, Assetmarketing@fdic.gov, careers@fdic.gov,
- efoia@fdic.gov, foiaconsultsandref@atf.gov, foiapa@sec.gov,
- info@sagaftra.org, lzucker@mskyline.com, oca@sec.gov, philadelphia@sec.gov,
- premerger@ftc.gov, publicinfo@fdic.gov, publicinfo@sec.gov,
- realestateforsale@fdic.gov, supervision@fdic.gov, texas@sec.gov,
- tips@latimes.com, Tudor Info <info@tudor.com>,
- Solowresidential Info <info@solowresidential.com>, Ap Info <info@ap.org>,
- BRIAN HODGSON <BRIAN.HODGSON.NYZ6@statefarm.com>,
- Baris Dincer <bondstrt@protonmail.com>,
- Amy Hanrahan <amy.hanrahan@wilsonelser.com>,
- Bressler Info <INFO@bressler.com>, Carl Hoecker <OIG@sec.gov>,
- Alan Rubin <alan.rubin@wilsonelser.com>,
- Extellmanagement Info <info@extellmanagement.com>,
- FINRA Corporate Notification <finracorporatenotification@finra.org>,
- FINRA Product Management <finraproductmanagement@finra.org>,
- FOX ROTHSCHILD <jrose@foxrothschild.com>,
- JAMES GORMAN <james.gorman@morganstanley.com>,
- Josephine Vella <josephine.vella@finra.org>,
- LA TIMES NEWSLETTERS <NEWSLETTERS@latimes.com>, MATT LOWE <MLOWE@fdic.gov>,
- MILTON MCKENZIE <ms60710444266@yahoo.com>,
- OIG Hotline <oighotline@fdicoig.gov>, PAM OLSON <PAM.OLSON@us.pwc.com>,
- Pamela Gibbs <OMWI@sec.gov>, Ricki Roer <ricki.roer@wilsonelser.com>,
- Rule-Comments <Rule-comments@sec.gov>, Sec News <news@sec.gov>,
- Sec News <webmaster@sec.gov>,
- "Ashley V. Humphries" <ashley.humphries@wilsonelser.com>,
- "60710 BD. 153974" <bo.dincer@yahoo.com>, tips@insider.com, tips@nypost.com,
- slaskowitz@ingramllp.com, edi.civil.rights.division@irs.gov,
- inbox@livekelly.com, "Alisa Maksimova [FRB-NY]"
- <Alisa.Maksimova@ny.frb.org>, "Solis, Anita" <anita.solis@chi.frb.org>,
- Cynthia.H.Francis@frb.gov,
- "dallas-reserve-mgmt@dal.frb.org" <dallas-reserve-mgmt@dal.frb.org>,
- "Mielke, Evan P" <evan.p.mielke@chi.frb.org>,
- "general.info@ny.frb.com" <general.info@ny.frb.com>,
- "general.info@ny.frb.org" <general.info@ny.frb.org>,
- kenneth.j.fraser@frb.gov, "media@chi.frb.org" <media@chi.frb.org>,
- ny.public.information@ny.frb.org,
- "ny.reserves@ny.frb.org" <ny.reserves@ny.frb.com>,
- "ny.reserves@ny.frb.org" <ny.reserves@ny.frb.org>,
- "nyreporting.forms@ny.frb.org" <nyreporting.forms@ny.frb.org>,
- "oighotline@frb.gov" <oighotline@frb.gov>,
- "reserves@chi.frb.org" <reserves@chi.frb.org>, COCKARENS@VOUCHERSRUS.ORG,
- mdistenfeld@bloomberg.net
 Disposition-Notification-To: B D2022 <ms60710444266@yahoo.com>
 In-Reply-To: <6DDF7747-D8D4-42CD-B758-EEF750F1EFB3@icloud.com>
+X-Mailer: WebService/1.1.20048 mail.backend.jedi.jws.acl:role.jedi.acl.token.atz.jws.hermes.yahoo
+Content-Length: 1983391
 
 This is a multi-part message in MIME format.
 --------------3Rvm8wovOzIMNEGsPnO5JQF3
@@ -582,7 +607,7 @@ Section 6662(h) increases the penalty to 40 percent in the case of a
 gross valuation misstatement under chapter 1
 (“gross valuation misstatement”).
 
-...
+..
 
 *R7-2 PROPERTIES.* ***Base Cap Rate: * Which is the Department of 
 Finance's estimate of the rate of return that an ordinary investor would 
