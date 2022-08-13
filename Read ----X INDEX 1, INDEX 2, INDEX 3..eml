@@ -1,0 +1,121 @@
+From - Fri Aug 12 14:44:10 2022
+X-Account-Key: account1
+X-UIDL: AOb4ouNbjPfUYvZsJQXMYJLDldE
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.249.94
+ by atlas309.free.mail.ne1.yahoo.com with HTTPS; Fri, 12 Aug 2022 15:05:09 +0000
+Return-Path: <boathousereception@pollgroup.net>
+X-Originating-Ip: [184.75.105.88]
+Received-SPF: pass (domain of pollgroup.net designates 184.75.105.88 as permitted sender)
+Authentication-Results: atlas309.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=pollgroup.net;
+ dmarc=unknown header.from=pollgroup.net;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 12 Aug 2022 15:05:09 +0000
+X-YMailISG: uyzxzAAWLDvXEU_K7TAmSTqCXCmgTuvv5O4acuVxNmvkHIKq
+ ln_0VygneCgSzEBWtyT_k7HqtNeyHYZjlD4PewsBB3YWDCzHtLmJZ4rV5bAr
+ BPe4gOCXfpO2Frwr4awKW1djMaln74fBDr7T.P8q10aQCSSGtMVI3SHBLKb3
+ 0ag12yEv0a5vgb81LY6zKxnOE4TnGudwBX8_WbaFN_1TBqg1lBdEcvfHWaVX
+ E4b4iXR8wzH1L9unh2k7gyu7KbOyCoPlPFYzgot5MQ6ieHOJ_uy9oiwtvR8D
+ l37dhf6__ldi6r09PR17zcNcAvuQ.m_d8WtW0BBsnNiDmfyucDE7DHym1uRI
+ RT9qhLynOmQTIbpAw3MBkXyT_t5t9PsqAIFY6.0rBDCF3K1hiaF7eVsa3Xvu
+ kOlUtDscjPR6wsdditC4jg5vm5nAJIxaM7rMjOewocAxNkX1YlZ4W3XEb9w5
+ ri6jCRJaAN9t.yhtAKBaEEpWGJK.68kj3AJzBoEkIL7G10AaniFndnFCWzvQ
+ sZKUt3EYjF_oxEBImS0F_XoGLrE0fV_iYGde1X_qn1NfJDcQYjsuwB1CGAD0
+ 38707N2nmyAyNiMe6Cd5.UlNAFejkzuGOHRI8bPzhs1SXCNo.KARjkTWZlI6
+ .1MGgNxuC8Taz9SOp909lsrG.5hl.yFR.EdVmigU9IsFXz0Zli8W1LXZK2Ui
+ OTjqky.ae3Eq8v5RU0IANvcFm.3BnkJ.M70cDOaqzs92A1uBaUzc_HXy9zSA
+ 3M8APS7CvrzeBXGkVjuCn0M8DzJ6AmskQIs6QPs5XRWHpbSCwlHRO15ToJsy
+ ar6ffDwX4L7VdORG2hgUk460zueB.rJoC5NelfBxMilWK.0suUx_n1PQv79g
+ fOuYLU_Hci7BXFjTKr8OwBba2sFS1EwepPMKMK8DQW9Gxax2QvgNcjlNQIIW
+ AVXiDIuJ.JVWbi6fMGKyxx2lVj7Ttgp4hzpgu_svapnmJDMx._2_.YXGCcvO
+ S1QtmGkyp0tb_f5ElhSopJnoNzyDPUFm8H6bPjcHobYlEtKP8M.mXUlLy0PN
+ Q.A.8Bte641PHr_spq6t3T1vdmkehqWa1Kc-
+Received: from 184.75.105.88 (EHLO mail.pollgroup.net)
+ by 10.223.249.94 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 12 Aug 2022 15:05:09 +0000
+Received: from Mail.int.pollgroup.net (192.168.11.11) by
+ Mail.int.pollgroup.net (192.168.11.11) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2308.27; Fri, 12 Aug 2022 11:05:08 -0400
+Received: from Mail.int.pollgroup.net ([::1]) by Mail.int.pollgroup.net
+ ([::1]) with mapi id 15.01.2308.027; Fri, 12 Aug 2022 11:05:08 -0400
+From: Boathouse Reception <boathousereception@pollgroup.net>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: ----X INDEX 1, INDEX 2, INDEX 3.
+Thread-Topic: ----X INDEX 1, INDEX 2, INDEX 3.
+Thread-Index: AQHYra9T38snDGI360WsknkFUcL14q2qRsYAgAEXycY=
+Date: Fri, 12 Aug 2022 15:05:07 +0000
+Message-ID: <9cdb19ad7bf64423a1c42fd305cd9471@pollgroup.net>
+In-Reply-To: <d69a9fe6-6d4a-ee25-5b94-612d6032d9a5@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [207.97.167.114]
+Content-Type: multipart/report;
+	boundary="_000_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+Content-Length: 1893
+
+--_000_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_
+Content-Type: multipart/alternative;
+	boundary="_002_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_"
+
+--_002_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Boathouse Reception
+   Subject: Re: ----X INDEX 1, INDEX 2, INDEX 3.
+   Sent: Thursday, August 11, 2022 2:24:08 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Friday, August 12, 2022 11:05:31 AM (UTC-05:00) Eastern Time (=
+US & Canada).
+
+--_002_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Boathouse Reception<br>
+&nbsp;&nbsp; Subject: Re: ----X INDEX 1, INDEX 2, INDEX 3.<br>
+&nbsp;&nbsp; Sent: Thursday, August 11, 2022 2:24:08 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, August 12, 2022 11:05:31 AM (UTC-05:00) Eastern T=
+ime (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_--
+
+--_000_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; boathousereception@pollgroup.net
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: QJJgZoTPikKg8X8EP6cuAg==
+X-Display-Name: Boathouse Reception
+
+
+--_000_9cdb19ad7bf64423a1c42fd305cd9471pollgroupnet_--

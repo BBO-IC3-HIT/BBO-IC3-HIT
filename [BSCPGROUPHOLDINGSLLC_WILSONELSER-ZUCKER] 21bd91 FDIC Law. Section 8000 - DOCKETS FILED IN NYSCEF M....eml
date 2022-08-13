@@ -1,0 +1,150 @@
+From - Thu Jun  2 19:09:26 2022
+X-Account-Key: account1
+X-UIDL: AJWQwspAg05rYplRBAnu+A1wnIA
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.220.180.164
+ by atlas117.free.mail.ne1.yahoo.com with HTTPS; Fri, 3 Jun 2022 00:08:36 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.209]
+Received-SPF: pass (domain of github.com designates 192.30.252.209 as permitted sender)
+Authentication-Results: atlas117.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 3 Jun 2022 00:08:36 +0000
+X-YMailAVSC: 3aqgrBc3bBuLg2gczeNR1m1OVcsV4TB6Wd9QaK1Y7vOTd4N
+ KBvPC1ZX_qFa_8TFIrva3nSd.01aTHAVanQv6ey97ZDcwXRqqrnjo4xki5xl
+ 4xq39XD2tPqKQcdlhz2SY7c03YH5PEXBfVO25BrDCDbBkmIQJntCYuk7Liro
+ Wyzwi_MMWA7WFe2tXJAxJRbuXEd1c_hz.7sR6TCFDxYARXNW7YpECkTqS5Bc
+ a0.8VrGPxz1nSRrkmUsKPIjJWHcUpr_BGwQXdzt5Op0r6gpuL2B4hNDxw.Sk
+ BOkfhZ7kDMM2J0s3m.WDRoi2rtABt.MIo0srFjjbUV9aNOUJwUlmPdUqcQ0.
+ 0SMyxTJfF32mVARgkFGVuuv_CE9GRUpYq
+X-YMailISG: XKPz4SYWLDu9g63OJ4f6R4IoUO7pC5oAJH94wKuFUcFCnS6J
+ Z1WZlC5Uqr3RaidU4dwPmhylXYNEtLpPM35SleOTbemL5j127xZNPlpX7DDm
+ iB8zyBzLo7Ob05ev4vBcERocVtqUXhZUCZ4hEWWevKw0y4cWmS6GTLVkXu2U
+ KUojoZPcn5kt8EJwLRO6UYfsYumJ1nZFjZv0FDrGvJ.93RchS._QGDYKQ_eo
+ 5diTNAQsRPwZMcok7L9dQc7iemrOAf9ZrMwWmRY8wiiMHpnvQHx9VyZZWy6x
+ sBG2lBNaBoWv.tasEtBLKvrktzuDkv8cBIbYwrcHOAbk2mhlo2PutXZ6ET2d
+ u9sYeQ6lNI8DzRwz8wB0yAkUk9JP.sxEqBiULC0EGWURFhQtUAW6w2upPk_O
+ VGRb..BIqFX9_y4uD0SOs8hTXthH3fIA.OdjT.QgriD4NNLBnG46QO.jy2dp
+ 03SN6qHeYrzxcDw4OQaH.DlRTYJ68c.hm5kgYWkG6N71Q5oQgvmvyYWHs68j
+ WcVd3peJ5OQhztCorYkfw5GyUpQf0wyIt0h5ZzqlbFNsql2SmPqB4D30zaWF
+ sjulN2Apo8tm9DKTy9I0dp0qg2uvNezWfpAk4qlr._.4mybqXzQp0MIPeTwU
+ H_g_fUVHJGrrcRSzP3Z5zcIwjKWDBD.eG.Ji0J5NmavTVOCuVpgu6MKc0cVf
+ nmPKm2BdzxI0tZXcni3uLV8zpe6NbhwxgDaTkp8mWBsZqkraAdVGKpYZ6MOq
+ i5oUME5PTaoFrZQA71PfQEa6tppAYhNYG8gfzwmyIFH7W0hJy27mXvyU15_A
+ hm8R11WAlC.GyENUIqWrgJxxBQdVsTacwHsA7Wabovd9mLto6V1XK0aVqRmD
+ YH_6d3RTqpNzTdgyMPYnqM1IH3OqVmSQ4G7VtWX2RLgoPlQm8zt5yS1QmWSs
+ tIYDscbm2C89yC4bzEwYwx2L6mk2mHcv9p4Vz6DQDAjqFpSO5ZEkCALKobWL
+ S8haaL.A5vfwJFL_U82B445ms1_JQU98CBuT22xrEAhJ6Zp8_HGAIBeDiQ3N
+ 6LTZHZgDGSTgTu2b6dV633Tf5klEZC5uOq4o4k8oNb0C32lii2QisUzAJiwK
+ LXhZIWhn_0d3Ybb2zWDhEbjtVZoWUXWuZzHyhgZXX64lp3QrBjRpef7sH30u
+ 6bwUAU8m29FUDdvxPvbtYg--
+Received: from 192.30.252.209 (EHLO smtp.github.com)
+ by 10.220.180.164 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 03 Jun 2022 00:08:36 +0000
+Received: from github.com (hubbernetes-node-8c31778.ash1-iad.github.net [10.56.209.84])
+	by smtp.github.com (Postfix) with ESMTPA id C8F375E03B4;
+	Thu,  2 Jun 2022 17:08:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1654214915;
+	bh=UHhRCxO7V0N0Lq3UTjK+yNGJEKmd3KAfQxG3NFvRj/M=;
+	h=Date:From:To:Subject:From;
+	b=Rqhpc+srPSvZUrD+jdhSae0RHHOWT8pltgjqMvkCwrY+cGXCqU6JgtSK22odnBwOl
+	 cdBMNMn4ZKYHiwIzLV6ti7CRxjjLnMWYet7VuGRkQFU0y7ydBksuam8cHSqC6SpzBS
+	 A1adokVJG7xidCCv2jgiklaKp7G06ye3H2bVotpw=
+Date: Thu, 02 Jun 2022 17:08:35 -0700
+From: 1212-5858 <noreply@github.com>
+To: MS60710444266@YAHOO.COM, 
+ governor.hochul@exec.ny.gov
+Message-ID: <BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER/push/refs/heads/C16-93715-1516523-OBSTRUCTION-WILSONELSER/b589bb-21bd91@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER] 21bd91: FDIC Law. Section
+ 8000 - DOCKETS FILED IN NYSCEF M...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: C16-93715 OBSTRUCTION & OMISSION [ STFGX - STFBX ] HOLDING
+X-GitHub-Recipient-Address: MS60710444266@YAHOO.COM,governor.hochul@exec.ny.gov
+X-Auto-Response-Suppress: All
+Content-Length: 2273
+
+  Branch: refs/heads/C16-93715-1516523-OBSTRUCTION-WILSONELSER
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER
+  Commit: 21bd91bbc44c16bba0530f4a46cbbca091f597c0
+      https://github.com/BSCPGROUPHOLDINGSLLC/WILSONELSER-ZUCKER/commit/21bd91bbc44c16bba0530f4a46cbbca091f597c0
+  Author: 1212-5858 <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-06-02 (Thu, 02 Jun 2022)
+
+  Changed paths:
+    A FDIC Law. Section 8000 - DOCKETS FILED IN NYSCEF MATTER 153974 2020 FOR 93715.zip
+
+  Log Message:
+  -----------
+  FDIC Law. Section 8000 - DOCKETS FILED IN NYSCEF MATTER 153974 2020 FOR 93715
+
+MILTON MCKENZIE <ms60710444266@yahoo.com>
+To:
+Bill Cassese (ICE BONDS SECURITIES)
+,
+Joel Clark Isda
+,
+MSRB
+,
+TRACE Data Services
+,
+tradingandmarkets@sec.gov
+and 8 more...
+Cc:
+tmc-corps@bloomberg.net
+,
+r.fairbrother@ice.com
+,
+fairbrother@tmcbonds.com
+,
+bofamarkets@baml.com
+,
+Compliance
+and 9 more...
+Bcc:
+Goldman Sachs
+,
+GOLDMAN INVESTOR RELATIONS
+,
+jpmcinvestorrelations@jpmchase.com
+,
+bofamarkets@bofa.com
+,
+Ir-operations-team
+,
+ir-operations@tudor.com
+Hide
+
+Thu, Jun 2 at 7:07 PM
+
+Hey Bill,
+
+Thanks for sending me another email.
+
+I would HATE for the regulators to check the prints between TMCC and MSCO prior to and immediately following the merger and with the HOLDINGS of both MORGAN STANLEY as the promoter and yourselves as a known counterparty to their Municipal Bond and Corporate Bond Dealings.
+
+State Farms Family of Funds: in the former CIK filer 93715 and 1516523 had to liquidate a material proportion of their assets from the STFBX and SFBDX ( a municipal bond fund and a corporate bond fund ) which also carries the interest of ISDA with respect to the underlying single name CDS of the tickers in STFGX which were also sold in posthaste.
+
+I only placed the larger institutions you cover in the BCC to make sure they are aware of full disclosure to all participants on the platform, which I understand is also your priority based on prior dealings.
+
+Don't email me again. I'll email you when I feel like it is necessary.
+
+/s/ BD.
+    646-256-3609
+
+
+
+On Thursday, June 2, 2022, 06:57:43 PM GMT-5, MILTON MCKENZIE <ms60710444266@yahoo.com> wrote:
+
+
+send me another email I will bankrupt your company, go tell your counselors.
+
+

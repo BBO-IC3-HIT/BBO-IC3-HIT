@@ -1,0 +1,108 @@
+From - Fri Jun 10 16:39:32 2022
+X-Account-Key: account1
+X-UIDL: AOIYlgR42QB/YqNhrwxUQOq4/ww
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.33.137
+ by atlas103.free.mail.bf1.yahoo.com with HTTPS; Fri, 10 Jun 2022 15:22:23 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.152.37]
+Received-SPF: pass (domain of mms.att.net designates 166.216.152.37 as permitted sender)
+Authentication-Results: atlas103.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 10 Jun 2022 15:22:23 +0000
+X-YMailAVSC: EAHKAmY3bBtStlT2pPhjQ9btY_BbKVlwbos3mUHtBIyPpuq
+ N8A1p7nWDsPc82eV9nrN.8sakg_I8ypZ6EmZ4AnQyh_JPaeWanC2kDH091JK
+ IyXsvmwKyh6INdh9.URcs2vulQamF0gXZW6RXnSFFfF.1xz56T.xM2vqZAQZ
+ YNA6yUskXwMfjC7KP6_IfRqgyYKE_OuOJiQO1ti.QkiSb48eMjdMte9O4T0p
+ 6Pjq7XU9XInC0.V749N.ca6raBNQnNqYmnv22X96ceyDqSm9rbskIs69cE4s
+ kPYh3nPCcbk4T8r.fBiRWpNvkZTLmphacNNPrxArYFYKzs21p2UvT9zKXdl7
+ b_BSg6IKdrYi.Engj_rSzsPTdeV5YMrPIyrE-
+X-YMailISG: .VRuH8cWLDsgGFHpGPFUdNXXPqwoa7K.3VfGxD3yEQQmsZmQ
+ gS7WKXiKLCsGOOQeeBc_ZRh6YhYLWbxZAng8zgIP6N40dTylKqhNTKKTYmId
+ 0sVyqFvpTp1qa77blZU3ItOHCrPXa25LWFJYxMvZxQhbrbremv2Mu9xtBQaK
+ dSGb2APkiO1HtrAlziA0U_ti5cdwWA0LtJchijy4vNgO0tilD.eps5kViAzf
+ EqfnPa9i3twA5LhzcpKgFawjzJwybjuAQcAn3T1ErSH2eY.nCjArxjV1l8XY
+ 0sXQKye0IFB_UEf6sCwXiixc.0BT8JI686ov5rI35lWnC_fiShkABgg1hDId
+ F3RWqN6IjCU_ZHIqzQ9Ur_GW7H9NQxwxJQZ8Y0m3X7WOtbh328rmZDmXWsjZ
+ SvMJibUwaZmWa8Fo8JaTbPue4YRX_ze5HWYfAgIbE9.IvE3DK3vpqtn1ys1u
+ .CbjTdtejH7fsrCm1jc2nYhEsf42tbSVEBFSte4bOR5Dp4nnWm75tKOaUHHJ
+ A.cYkQO2ngF2eHyne1FeQMg7lK2gGrTXZLjHiKi__SCa3q5qmeymMPrqFkLZ
+ rqE5Xs2UpddfYi0IfP.fP4YjnF1FfKnjGwcIFGuJxguMuvOq3B6qy.FQZuS2
+ fphe60rUn..uT4kVwNQCwlnG.LWvd8jhI3Bi_HlHtL5Yu7hFGO5T6JzZiyga
+ 8m_44DkOGw1pr8h8RhX2D5ygYSC5wuoHzBf8x_TpFtMAkG44vO.4XnwaInuk
+ mbax2cBTZJYXncsiyTFaMmx0Ppw8HQC86y4.XHEJQsv.uqZtflSRIQUx3wDR
+ W48J00k4mBOgevydchAefCFXpaCvbqc3YhYf5FtG1CaAGGy1b7UetmBDVvkR
+ M0ztLGPmTyOw0prhP0e6S6aLNKJVGygO.7sH0mZ_jdkx3ZZ3KtlmmKIfqr_I
+ g088Tl._c.K9QRHkF2sJqbMd7q3wqKDuywt_2oa_rQLrpTuS8lEyWBW0ZQCh
+ adbG3suicAgUIczDwhgDBbG_Z7DnDwR6YkJupeadO9ClIm.YMaY0LGWLwkxj
+ pteU_Ga6JEt3qgV.DE7AvWZxXE6ZX02c7pwtAqJH4v_cbWa9GKT6rKLTStsa
+ DkUTuRF.
+Received: from 166.216.152.37 (EHLO stcceg-mtmta01.wnsnet.attws.com)
+ by 10.197.33.137 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 10 Jun 2022 15:22:23 +0000
+Received: from zbot1bmmsc01nfe002.wnsnet.attws.com ([107.79.70.25])
+	by bizsmtp with ESMTP
+	id zevgn9Iz8fdpFzgStnOiLf; Fri, 10 Jun 2022 10:22:23 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1654874543;
+	bh=Ks+f/+Ec+yjRiwzhv1/jH9ZKZahUEA9VDtYbp/Vu6XQ=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=deC5EkQca0ON8kRrk+cCeKde9DtFDD09ksfcKWwiSo7gZyktipkhiiMdk//5idk+2
+	 uTlU3XXGOxLg1bC2J2zKi4KpqSK2DUjF6+kIBnOVOlhUGMN0tV0dG9+FPZk0JdbvMK
+	 u17B5RUngYlWAF/N5citgF9B9BkyLURMPNNFFTVY4rXhvjlgd+NV9GfZqeFswkyFgW
+	 sNJo9hoMwQEUa4XjaiRWAiDrCMwDDqRJz+n5f4TfBCcxXjZLxWoprRrbvuL6uHSWn7
+	 aNl3o/Sv9uUEo8OftOgSaEeKDizTfX1qnWTeLCqd4C+GnAqUPtflBrtplFv7ngfm87
+	 vck8OF5CAYZ3Q==
+Message-ID: <zevgn9Iz8fdpFzgStnOiLf@txt.att.net>
+In-Reply-To: 2063862812.163895705.1654874543040.JavaMail.nems@zbot1bmmsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1654874541-517
+X-Mms-MMS-Version: 1.2
+To: josephine.vella@finra.org, ms60710444266@yahoo.com, chicago@sec.gov, 
+	bbrief@bloomberg.net, newsletters@latimes.com, info@ey.com, 
+	info@kpmg.com, jpminvestorrelations@jpmchase.com, media@chi.frb.org, 
+	comments@dfs.ny.gov, ir-operations-team@tudor.com, news@penews.com, 
+	nlrt@bloomberg.net, mutualfunds@statefarm.com, 
+	finraproductmanagement@finra.org, publicinfo@fdic.gov, 
+	info@statefarm.com, abanews@americanbar.com
+Subject: All Tax Classes
+ https://www1.nyc.gov/assets/finance/downloads/tar/avroll 23.zip  ## Tax
+ Class 1 https://www1.nyc.gov/assets/finance/downloads/tar/tc1 23.zip  ##
+ Tax Classes 2, 3 and 4
+ https://www1.nyc.gov/assets/finance/downloads/tar/tc234 23.zip All Tax
+ Classes https://www1.nyc.gov/assets/finance/downloads/tar/avroll 23.zip  ##
+ Tax Class 1 https://www1.nyc.gov/assets/finance/downloads/tar/tc1 23.zip
+  ## Tax Classes 2, 3 and 4
+ https://www1.nyc.gov/assets/finance/downloads/tar/tc234 23.zip
+From: 6462563609@mms.att.net
+Date: Fri, 10 Jun 2022 15:22:23 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_163895704_92333687.1654874543040"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfAKm9NclgdWisdy4pQi/J/m28jRU57ajenEw3hAurPeSVo8wqh6Qv4/yP4ZhQnQ3HUXISJUE9EZs88+YHI25Q1ObAg/ZlZ8CspOj8lvvocYZRwNsGH1s
+ +bLjySFcQA57ubnu6uL9ZBllqC/t6onfCei3Js/Ce2maUlrQQlAgcob+yP7xYrg58s7IMvvmj2Xx/RuwD1UT9xLC1Pdh9hTdtirymK/qvB5Xd6jXPhBcYxeN
+Content-Length: 949
+
+------=_Part_163895704_92333687.1654874543040
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+QWxsIFRheCBDbGFzc2VzCmh0dHBzOi8vd3d3MS5ueWMuZ292L2Fzc2V0cy9maW5hbmNlL2Rvd25s
+b2Fkcy90YXIvYXZyb2xsXzIzLnppcAoKIyMgVGF4IENsYXNzIDEKaHR0cHM6Ly93d3cxLm55Yy5n
+b3YvYXNzZXRzL2ZpbmFuY2UvZG93bmxvYWRzL3Rhci90YzFfMjMuemlwCgojIyBUYXggQ2xhc3Nl
+cyAyLCAzIGFuZCA0Cmh0dHBzOi8vd3d3MS5ueWMuZ292L2Fzc2V0cy9maW5hbmNlL2Rvd25sb2Fk
+cy90YXIvdGMyMzRfMjMuemlwCkFsbCBUYXggQ2xhc3NlcwpodHRwczovL3d3dzEubnljLmdvdi9h
+c3NldHMvZmluYW5jZS9kb3dubG9hZHMvdGFyL2F2cm9sbF8yMy56aXAKCiMjIFRheCBDbGFzcyAx
+Cmh0dHBzOi8vd3d3MS5ueWMuZ292L2Fzc2V0cy9maW5hbmNlL2Rvd25sb2Fkcy90YXIvdGMxXzIz
+LnppcAoKIyMgVGF4IENsYXNzZXMgMiwgMyBhbmQgNApodHRwczovL3d3dzEubnljLmdvdi9hc3Nl
+dHMvZmluYW5jZS9kb3dubG9hZHMvdGFyL3RjMjM0XzIzLnppcA==
+------=_Part_163895704_92333687.1654874543040--

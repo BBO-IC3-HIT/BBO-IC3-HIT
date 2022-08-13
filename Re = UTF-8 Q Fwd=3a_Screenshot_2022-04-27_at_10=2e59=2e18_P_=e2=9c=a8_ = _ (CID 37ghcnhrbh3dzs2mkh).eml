@@ -1,0 +1,103 @@
+From - Sat Apr 30 16:08:48 2022
+X-Account-Key: account1
+X-UIDL: AEqdfzUH/EiWYmsUaA8LkHlzpuY
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.9
+ by atlas117.free.mail.bf1.yahoo.com with HTTPS; Thu, 28 Apr 2022 22:25:44 +0000
+Return-Path: <noreply@dowjones.com>
+X-Originating-Ip: [205.203.136.134]
+Received-SPF: pass (domain of dowjones.com designates 205.203.136.134 as permitted sender)
+Authentication-Results: atlas117.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=dowjones.com;
+ dmarc=pass(p=NONE,sp=REJECT) header.from=dowjones.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 28 Apr 2022 22:25:44 +0000
+X-YMailAVSC: kFZr5ys3bBtd7y9oT3UreDig.e0pS6hacpJO4wnqeBNfL_6
+ cIj9uNhH.Iz8XpMTScQHHtBak.WL1dCkZlwYgg2.LPdizmaJK._RHYxeSv1_
+ 13ACwTmjZtvkvaQTH2qh_NGYClEyzCVTm4imVb4nFv9E_0lKFvS_HzCOKrML
+ pDlCOdGBFxzBR0BwMrjsnE9PTqrArmtDl3UFD9WpfyVcW3IoCXVReI_yDnCL
+ bWLoZvpGBPpcfqTFL0D9y9uNZ
+X-YMailISG: elnSzcIWLDvpiVsZQSqeQ1z2ANHAdoNwf16krTbqc9F38TsO
+ HM04qB251RcmRnMz798WNuZubQZlpt2LvVzC3vWU2J249yQhFtm7Q5EveaYE
+ odxiGuGp_lS11NBjT1qnnhXzL4fCMATKR_Muekgmk.mArBoq2fCMhj54fCL4
+ 8vsOrUBTXf4Hwti.CGTVnU3dGMzuv2SrrgqxnUDerl7F_l5M9dNDpwC_cbS8
+ qjF6Hy50CzwYoBSOBTKdYY4m5Bn4QLIQnw_4gyVMnk.1cUv_aj_ZUV0UKIDG
+ NWjMY.vYTJhz4oRtMVN5eBzzSMz5u3C3WzzFGxdswXCyE2hiLZOmOE9vQenL
+ geeX67Sqwq1FPmcRGsXtJoroi4kw9wekkgBL5JVFHEZMqqEI2DDtnAFNUJXW
+ KtCGacElk47wA..70xy5_gHSx2gh3g75SQxHu5mQlUQvpE2hg17mms0LAWYD
+ fT8ENU7G3CqfHgdFtSL1pyfaHhGf6xrTQbWHXobbDaAhCw3Xjhbr5.QL11TS
+ Gdd1R40wPF.93TJvIL2eE5toYCDFZWKhPN_iYHQ1z4YtZP12rZUXyluZydv_
+ 0Z5OPjIeSIJrpCKqZVGj1A82xg0Xlk8gU1dpHOXhYPA5DInQ2YvbV0Zxkv.H
+ 46IJh1rgj6ReYpMhDwdY578i1DnLqNhYU0dmqWur_OA964nI3J6P2pcbYpNM
+ 9q_mtfSMywxZ9XvAyFgfgRnbRlRWGku8IdOfrJHuDJKvnezMc0ajROngBP3y
+ tkwU0iFWqsCGMO04hQE_WS5OcT_uy0UjmC1OfdmGqvA3qfKu15QyJ38B4M5f
+ L9PFS5u6emXklQkzU5hwyZmcGP.ZkYjNcEi5MLdW.geTyG8kyeSxYkFDvec8
+ aQVyOjM_L9CKAgX6PkxdRk7LIXs9XoFbtC6M_HVQhUnC40TfEbOjVruhCCA0
+ 6btQF2VN4wZPbaFSc70VePBgxlp3hWzslJEGxa0STJDRmhGHlwlpyUgBn3Gs
+ j0GfqwOlfXzbyusNu2Se3lFzkJlUBGcfPnrOJUcL9fCQWkhuOIhKxTq0nbx6
+ V_lOf7HoJiiLnA5D1rQdtDqOdymf0Vr8l5cyjvXrHdVL_NkZaCF2pR.MEro3
+ BXLLTEHCPAS7
+Received: from 205.203.136.134 (EHLO secinmr02.dowjones.com)
+ by 10.197.32.9 with SMTP;
+ Thu, 28 Apr 2022 22:25:44 +0000
+Received: from unknown (HELO DEN158GIC074) ([104.251.193.145])
+  by secinmr02.dowjones.net with ESMTP; 28 Apr 2022 18:25:44 -0400
+Date: Thu, 28 Apr 2022 18:25:43 -0400
+Content-Type: multipart/alternative;
+ boundary="------------Boundary-00=_WAM28YudXvCl$FMaBC$E"
+From: "noreply@dowjones.com" <noreply@dowjones.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: =?utf-8?B?UkU6ID0/VVRGLTg/UT9Gd2Q9M2FfU2NyZWVuc2hvdF8yMDIyLTA0?=
+ =?utf-8?B?LTI3X2F0XzEwPTJlNTk9MmUxOF9QXz1lMj05Yz1hOF8/PSDinKgg?=
+ =?utf-8?B?KENJRDozN2doY25ocmJoM2R6czJta2gp?=
+Importance: Normal
+X-Priority: 3 (Normal)
+Priority: Normal
+Message-ID: <626B1468.034093.00C60@DEN158GIC074.caas.local>
+mime-version: 1.0
+Content-Length: 2274
+
+This is a multi-part message in MIME format.
+
+--------------Boundary-00=_WAM28YudXvCl$FMaBC$E
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+4oCL4oCLVGhhbmsgeW91IGZvciBjb250YWN0aW5nIERvdyBKb25lcy4gIEEgbWVtYmVyIG9m
+IHRoZSBDdXN0b21lciBTZXJ2aWNlIHRlYW0gd2lsbCByZXNwb25kIHRvIHlvdXIgaW5xdWly
+eSBhcyBzb29uIGFzIHBvc3NpYmxlLiAgRHVlIHRvIGhpZ2ggdm9sdW1lLCBwbGVhc2UgZXhw
+ZWN0IGEgbG9uZ2VyIHRoYW4gdXN1YWwgcmVzcG9uc2UgdGltZS4g4oCLDQoNCg0KSWYgeW91
+IGFyZSBjb250YWN0aW5nIHVzIHRvIGNhbmNlbCB5b3VyIHN1YnNjcmlwdGlvbiBwbGVhc2Ug
+Y2FsbCArNDQoMCkgMjAgMzQyNiAxMzEzIHRvIGNhbmNlbCB5b3VyIGFjY291bnQgYnkgcGhv
+bmUuIE91ciBob3VycyBvZiBvcGVyYXRpb24gYXJlOiBNb25kYXkgLSBGcmlkYXk6IDlhbSB0
+byA1OjMwcG0gQ0VULiANCg0KDQpSZWdhcmRzLA0KRG93IEpvbmVzIEN1c3RvbWVyIFNlcnZp
+Y2UNCg0KVGhpcyBlLW1haWwgbWVzc2FnZSB3YXMgc2VudCBmcm9tIGEgbm90aWZpY2F0aW9u
+LW9ubHkgYWRkcmVzcyB0aGF0IGNhbm5vdCBhY2NlcHQgaW5jb21pbmcgZS1tYWlsLiBQbGVh
+c2UgZG8gbm90IHJlcGx5IHRvIHRoaXMgbWVzc2FnZS4=
+
+--------------Boundary-00=_WAM28YudXvCl$FMaBC$E
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGh0bWwgZGF0YS1sdC1pbnN0YWxsZWQ9InRydWUiPg0KICA8aGVhZD4NCiAgICA8bWV0YSBo
+dHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1V
+VEYtOCI+DQogIDwvaGVhZD4NCiAgDQo8Ym9keSBkaXI9ImF1dG8iIHNwZWxsY2hlY2s9ImZh
+bHNlIiBkYXRhLWdyYW1tPSJmYWxzZSI+DQoNCjxQIGNsYXNzPU1zb05vcm1hbD7igIvigItU
+aGFuayB5b3UgZm9yIGNvbnRhY3RpbmcgRG93IEpvbmVzLiAgQSBtZW1iZXIgb2YgdGhlIEN1
+c3RvbWVyIFNlcnZpY2UgdGVhbSB3aWxsIHJlc3BvbmQgdG8geW91ciBpbnF1aXJ5IGFzIHNv
+b24gYXMgcG9zc2libGUuICBEdWUgdG8gaGlnaCB2b2x1bWUsIHBsZWFzZSBleHBlY3QgYSBs
+b25nZXIgdGhhbiB1c3VhbCByZXNwb25zZSB0aW1lLiDigIs8YnI+DQpJZiB5b3UgYXJlIGNv
+bnRhY3RpbmcgdXMgdG8gY2FuY2VsIHlvdXIgc3Vic2NyaXB0aW9uIHBsZWFzZSBjYWxsICs0
+NCgwKSAyMCAzNDI2IDEzMTMgdG8gY2FuY2VsIHlvdXIgYWNjb3VudCBieSBwaG9uZS4gT3Vy
+IGhvdXJzIG9mIG9wZXJhdGlvbiBhcmU6IE1vbmRheSAtIEZyaWRheTogOWFtIHRvIDU6MzBw
+bSBDRVQuIDxicj4NClJlZ2FyZHMsPGJyPg0KRG93IEpvbmVzIEN1c3RvbWVyIFNlcnZpY2U8
+YnI+DQpUaGlzIGUtbWFpbCBtZXNzYWdlIHdhcyBzZW50IGZyb20gYSBub3RpZmljYXRpb24t
+b25seSBhZGRyZXNzIHRoYXQgY2Fubm90IGFjY2VwdCBpbmNvbWluZyBlLW1haWwuIFBsZWFz
+ZSBkbyBub3QgcmVwbHkgdG8gdGhpcyBtZXNzYWdlLjwvcD4NCg0KPC9ib2R5Pg0KPC9odG1s
+Pg==
+
+--------------Boundary-00=_WAM28YudXvCl$FMaBC$E--

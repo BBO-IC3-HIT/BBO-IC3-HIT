@@ -1,0 +1,95 @@
+From - Sun Apr 17 12:10:44 2022
+X-Account-Key: account1
+X-UIDL: AK6e2CIxBCYyYlh7rQ2z0LekUO8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.200
+ by atlas121.free.mail.bf1.yahoo.com with HTTPS; Thu, 14 Apr 2022 19:53:17 +0000
+Return-Path: <bondstrt007@gmail.com>
+X-Originating-Ip: [209.85.166.175]
+Received-SPF: pass (domain of gmail.com designates 209.85.166.175 as permitted sender)
+Authentication-Results: atlas121.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20210112;
+ spf=pass smtp.mailfrom=gmail.com;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 14 Apr 2022 19:53:17 +0000
+X-YMailISG: t_IHsaMWLDvJhwoQjE5o3mVucPM.SO79BtLpcxG0w2rERwup
+ 06pmPR2yzLKHum2g80TkWQM4VCQU5oHO6OWUfiJFhATyN04NMVuGMF0rppyo
+ B7DLOe9rzXuxyResL04UEdZaw0dD2fBMOAJHOBRshBBH4SfG1Nfk4Mx_J41T
+ pCnSNynzgQncUIeXoIoHL.ygFSOkeXyf.c_akV2ichZFcCGP1wvt7lSsBugj
+ gQQD_iuDvyFOZMvt_NUd8f3C5F7frdUvgbAZ4zlQYqAMgMNJXuph0FrB1Ahc
+ 74vnC8QakRPHoWb6zCj3AxWcV3jwWFWpTkKNImP8BztwoIj53lLugmnLrGaE
+ 5S4fzB3ceXQXauD9Wx4vzAUPLAgQg9O9YSGHy5mzKMZV1PewNt2im_UJCn6_
+ hGw2SRuTkne6rfr4f4p6f_nZVY4XzWDa9pLwvQgKYovJHIDk2llM2yYtqlQL
+ 8_wYkp25cxiomVXqFPw.gpq6yiXc_O7S_4AtHwhaC8i6TgUr2_hUxw.dLdNK
+ jHv27Rj7GHgqqQg0SMe1BIFEE2.bDBv5C8CxuGCmPjPRq6qNVcDC5g_ZXrCl
+ WQioPAVIZjEiY.L1nrRxR38P_s3xodmbTevoaEy68a49hmjGuHlP3So4thZW
+ ar7_E0oANcJN5K5ew_SzmcnzOSyGZtJSWo5R5bGAEG8olvU.PZVq6MI0iXEP
+ RWwS2.c_cFIEddfRpLej4UqeUGPggqhNHxoARgRvTdM5P7EMdl6XUt3qEfI1
+ PWPShEDVEzq5rP1oMkLZClCPvB8LAjp9FQzgctzOlY6Tyvt.XJzsWV_3eGiy
+ p.F4viXwZbggrGspn_XBrMy775d8REL3Z0OwZ797K3augKO7hd6NocG5E17s
+ p88mGyq4ubWzAvq.PTm5bA0bHi1Z1XnjkqkGo9yku73MXV3UmRu1qg9pSDnN
+ L6NNr95XBrzKGNjLPDFwv.qGpuqWmJB0CYNIDnyo31iUYQMjfKwxtpYsXGoQ
+ JP4quWsuNViV76TPeM7MYHLPKpgQWKEhSvz8o0PMStU5cDsLLgEP1FFvPqjQ
+ qnAZ_85_SW36PNm3nHnBk1I3EUErX1xQQMA4AZI02TaoGk_zlfLpmdg6SIuc
+ y0i6LcvsKog75tw_uC92d5KDkhFVt8KA6tYsFN9WAILcRVBa3wZDRImvsZ0P
+ BHaTgr8F1bm0
+Received: from 209.85.166.175 (EHLO mail-il1-f175.google.com)
+ by 10.197.39.200 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Thu, 14 Apr 2022 19:53:17 +0000
+Received: by mail-il1-f175.google.com with SMTP id d4so3765915iln.6;
+        Thu, 14 Apr 2022 12:53:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=IIkGfQUUlRIUO8WZWFoI6nKp08RiCJleF45myD03G5Q=;
+        b=GR8KIKE07246pLCtxSSBNILaWAjtitk/gWPka8ZxJ83BZwLI2vU+ZgCDdxfBXH+kr7
+         CvacMsceb55yhqyfYXi5017GalgXLaELKILbPPtDhEgCnuIMyELK8AYFaehFncZwyQgi
+         kVsiH08Ikp86LCa8cTjk12uaWTU+26BhSeaXX4zyqkxv9JGe41XJfFrpAim3KP1dkYor
+         bddvyVqtEBcgT47Nqz7AmpcYm+zpkkRBQmQtwGoaVl6ddU9Qy0FcqgKJG641lhwMdRl/
+         Lp6XzX8Wbty9sd/VCPqv050J+AbXuOiZz7ViUZ9Av8hySLedDjd6czitMSHm7IB3Lw7o
+         s1tA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=IIkGfQUUlRIUO8WZWFoI6nKp08RiCJleF45myD03G5Q=;
+        b=CHtRNeTnO4tepHjMCMilxVCL2p4Q0yTxC2fX1QvEd4vC47jg4NcVwEyOLwv9prNi2+
+         NBqtymOE6AMLr+0gNYr5GUFJ2+qXKK2tp3/s8BcdwpATCGtvBaVIuwchovHM2BFxyxbH
+         W1rbmMTsQN1ybQ09aZXYPAIWu8PE9dq5/hIPstaE17T80cAXp47flsblDKGMdOe/QuU5
+         Yxfu+YvMgPtp3JS8nXn7PHhnuS3hgbEaf0WfSZnqltvxceJImo8B30tZEWzYJAfj/uMB
+         +/AW+EEkTOqbtAoq8ExewIQF74TZe8vY7yvr9LllyHyGZ5Y/4WdcZtvHbsv6eSd5JEJp
+         0kRQ==
+X-Gm-Message-State: AOAM530AsP2soOgott6BXQRQMULsGg8M6i4r58wLNU9v8s5BPvbr/WAx
+	qy0gvfMeE2W27ZGNH4dMbJdB1ucUNxK3Nm1mTmw=
+X-Google-Smtp-Source: ABdhPJxDrN+tOiZLQ/8HpVupi8J9sP49PVHUihvJtMViYUIEXHefQZjE43GPbaPRjsIY/WSVogfqkekOmJITD68XrCw=
+X-Received: by 2002:a05:6e02:1486:b0:2cb:cdff:4c12 with SMTP id
+ n6-20020a056e02148600b002cbcdff4c12mr1626256ilk.319.1649965995553; Thu, 14
+ Apr 2022 12:53:15 -0700 (PDT)
+MIME-Version: 1.0
+From: BO DINCER <bondstrt007@gmail.com>
+Date: Thu, 14 Apr 2022 15:53:04 -0400
+Message-ID: <CAOHu488HoPXS2-vO1qXLab8sz1B8aDVycqM=-CGKgEBRKm24HA@mail.gmail.com>
+Subject: State Farm files motion for new trial against Shannen Doherty
+To: espnfrontrow@espn.com, BBO 121 <ms60710444266@yahoo.com>, 
+	Bo Dincer <BO.DINCER@yahoo.com>
+Content-Type: multipart/alternative; boundary="0000000000000e798c05dca2a58f"
+Content-Length: 679
+
+--0000000000000e798c05dca2a58f
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.insurancebusinessmag.com/us/news/breaking-news/state-farm-files-motion-for-new-trial-against-shannen-doherty-316194.aspx
+
+--0000000000000e798c05dca2a58f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://www.insurancebusinessmag.com/us/news/b=
+reaking-news/state-farm-files-motion-for-new-trial-against-shannen-doherty-=
+316194.aspx">https://www.insurancebusinessmag.com/us/news/breaking-news/sta=
+te-farm-files-motion-for-new-trial-against-shannen-doherty-316194.aspx</a>=
+=C2=A0</div>
+
+--0000000000000e798c05dca2a58f--

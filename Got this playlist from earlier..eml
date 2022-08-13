@@ -1,0 +1,100 @@
+From - Wed Apr 27 11:54:12 2022
+X-Account-Key: account1
+X-UIDL: AOFFqRlUE0ELYmgSKgnH6KFGoEY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.214.155.146
+ by atlas108.free.mail.gq1.yahoo.com with HTTPS; Tue, 26 Apr 2022 15:39:22 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.7]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.7 as permitted sender)
+Authentication-Results: atlas108.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 26 Apr 2022 15:39:22 +0000
+X-YMailAVSC: jgkjKZ03bBuL5m0E6I8yceuVC9rAzOGhMfs6xj8_I5X__cP
+ UkZeiiafHi8ZKhXoLFmRhfpYJ3DAUjUF6WbSUhcw6J6AkQsqBzQSQSHJgE3m
+ hiBDcLkKxoI1P00Ls_s3AFjrtZPDz0T74VSZ9LXt3GL6Ergum.opv.UbsY6T
+ wqVfiY1lHy_Rh5kSovSfcVi0vye2wjOo8JoK4rA4Il9csHPkvQxRFdE8YY_k
+ jjPNqwLS3AtQOQLNuyHccmLLyohNoowWbp_Kkn0YIwq3_pJ52Oluq3g1e1Qb
+ WU96jQuDyOhmqb2gb0ZuU6k_hqn4.saFCXh0ytvIMGSpqLHD87Xr3YoCUkS4
+ R4gwAeODzz0woq0Dak_T3fsPZCX9dc7z7XoHv35shTxPbsZ0nWmw-
+X-YMailISG: 5V6ASeUWLDsXTPXKAprs55_jdg3qUugJVaWBOENv2UzhUk1_
+ zLVEhfXJO6cXpyYbIcKYH9SjPRWjtIdgEFjsXa.xbIhKE2n_tun5I21r90pi
+ N75qJgvlPUynD5uXQMbpSwrn6fBNwyGVZidtLHj_KMM29prWH3Vo_XELUURi
+ HYM7OFJNaVfGMwQ5jxmtGg8cNk4HlJFPUyXQxNMCodfgwwd7gGuXaf.O8aPV
+ uMQyf9Iq8LuQmnep52rN1Qd0Ad3hfiQY8A_mlw4yry5yyiBRGchBkFUsYboD
+ j7LVWug0x_brZI5BmnLonueXJ6a2tKNQzZywZvBNzv340HtjiL78iq7tqwuG
+ 8GGYmjcMQF7saxvEYBKLu0p5WxpLRcEoN6yiRz3a3krTGvKpniylhjlH2fDV
+ 05l59iAn7yTtJ9AiLq7ltnvEA3nIPhkUADvSv3Z8K69bJ7Zepgj_o37K5B9w
+ zXJBr1RxbKqQjCJdiXhtcXvmobRAOKTFwT_s.BzLJNJTK3X.iY_0lj7rLUMb
+ s3rKKadP8uRyuO5FaBajRscXP0Isj2MLjAh8QLz47J6TzJrohXr9kGjPLw27
+ EFqleeUqEwD2nlKnw3f8xvecXQlnmS2ZFkFmyKu09JL2tgLG9X.MXRm6sU9Z
+ GzR0LDBbRRcDFo9aH999uJQm_mt1PwW.ct8aFthqwe4Y7M6b.51kS8BAmDrJ
+ dq5TOA0GBxkVpDno4qyDWrxDRzxlarx858zw5LO9OLkTx3w3niIuQRfTmxL5
+ s8KbHUY4CPYfDAmmnxlgPBpfbLOQtFCEjXtyIn82n0_aMEinods7sa.8FuEh
+ QXJv_myK0MFDekmppvru8nOnmVjI2D_fb.nRMDf98ex34GW7AWbFqOQsfGfJ
+ 4KwcQFEIryfm_2kYaI4AbamonPMoMVj2yM_5BSeoHwIfZDWW.wSfv9VZU4ND
+ bIabVCFab60cPwHqF6DcNS1R4V0vgq8xOdl3DUBxrhSM3.IT2gp6y4zTT9w7
+ r2l48hyW.3VB.t1Qz6rXrfdbiu.PLCVk9C56V8DFyPHR.thKHftghsijoZSO
+ mKigsIyYDT5FBSK3f3BRiNB7kOyfrrC4MQ1gRw_yaOovVGVWz8zlXiCUTtvJ
+ 4XwTU5SubBZXgKPWv.RLVN4slc.VWnVohcUsp1YCQ0DQcFQwEWVy2X_.Vw--
+Received: from 166.216.149.7 (EHLO alpemg-mtmta04.wnsnet.attws.com)
+ by 10.214.155.146 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 26 Apr 2022 15:39:22 +0000
+Received: from zatn1bmmsc01nfe001.wnsnet.atn1b.tci.att.com ([107.78.102.25])
+	by bizsmtp with ESMTP
+	id jJrlnIkoZBkeSjNHdnZXE9; Tue, 26 Apr 2022 11:39:21 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1650987561;
+	bh=Q3/u1NGnm4D4Py0/VlIY/8g9gAtnw0kfT1m4XiIFDTc=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=J2mzMc0K8t4Lb4KYmvo4rTUZk65bnvey8zYWybbCJdEoQcWSPYMudQwLAwoOzHSrq
+	 PKaqyVxYqXCusiKD1gY5qE4XQ3Qe06R461DBEqK/SwW1gaXDPL4E2mPRPWHwg/Ipmz
+	 wHKR6u2Lgxg4yBjgZ1/w7T186rpv3IZ9IkhFF8HRdKvLZ2hVvIDeRSrHSkotpE3qus
+	 vfmYCW+vOie7sjbH242hfb8oZJUgrAysCNX6u6/GjLSNxnHUg8LJDgh6FhM4vB3g0M
+	 ItuAnJbS/A5QEGWygT6OL+9LciB3dlz9TRH7vBNDBd7n3ZfwD3JyrRDLuadNI4wDyF
+	 EGBWRxJSMZb2Q==
+Message-ID: <jJrlnIkoZBkeSjNHdnZXE9@txt.att.net>
+In-Reply-To: 289270069.42289857.1650987561395.JavaMail.nems@zatn1bmmsc01nfe001
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1650987559-39
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, bbrief@bloomberg.net, tips@nypost.com, 
+	tips@latimes.com, pronewsletter@dowjones.com, 
+	wsjprosupport@dowjones.com, iceglobalnetwork-info@ice.com, 
+	bcassese19@bloomberg.net, praghuram2@bloomberg.net, 
+	inquiries@point72.com, rule-comments@sec.gov, tips@nytimes.com, 
+	premerger@ftc.gov, webmaster@sec.gov, texas@sec.gov, 
+	shareholderproposals@sec.gov, Secretarys-Office@sec.gov, 
+	publicinfo@sec.gov, philadelphia@sec.gov, OMWI@sec.gov
+Subject: Got this playlist from earlier.
+From: 6462563609@mms.att.net
+Date: Tue, 26 Apr 2022 15:39:21 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_42289856_358280059.1650987561394"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfL6jynVa/ChZuMEaFrpDIQs5aqY4zT77ONfB7OHlpMVCJxX8ArODRoytDZ5edopd1rCpavxVmjnkdP15FInigy7ELw3+xzY/3fd8rJbzJHQnYeqWgn7v
+ 45BscZn4gXPDy1l3QEZ+8dTKv8EOj3DEgSw3PWPhH0v/aTJyJZJ6JUAeQF6yz28lZ2YCPJ5rdncjBDvjgCv3M1MdXzFjzZyUEz51euu2ghvGZrYO5mXJNh8B
+Content-Length: 884
+
+------=_Part_42289856_358280059.1650987561394
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3BsYXlsaXN0LzFEMFU3cjA2QTFhdXpaQ09nVVVpUVk/
+c2k9Uk44akg5NmhRSmFmSFRtN3JhUFpxUQoKSnVzdCBsb29rIGluIHRoZSBkZXNjcmlwdGlvbiBh
+bmQgYXNrIHRoZSBGRElDIHdoeSB0aGV5IGNoYW5nZWQgZGVwb3NpdG9yeSAoY3VzdG9kaWFucykg
+ZnJvbSA5MzcxNSBpbnRvIDE1MTYzMjUuCgoKaHR0cHM6Ly9zYWF6ZTIzMTFwcmRzcmEuYmxvYi5j
+b3JlLndpbmRvd3MubmV0L2NsZWFuL2UyZmU4MmMxYzZhMmVjMTFiNDAwMDAyMjQ4MzE2MzgzLzE1
+Mzk3NF8yMDIwX1N1bGxpdmFuX1Byb3BlcnRpZXNfTF9QX3ZfQmFyaXNfRGluY2VyX0VYSElCSVRf
+U19fMjMxJTIwLSUyMDQlMjBhdWd1c3QlMjAyMDIwJTIwLSUyMG5vJTIwY2VydGlmaWNhdGUlMjAt
+LSUyMHNlZSUyMGFsc28lMjBieWxhd3MlMjBhbmQlMjBkZWFkbGluZXMucGRmCg==
+------=_Part_42289856_358280059.1650987561394--

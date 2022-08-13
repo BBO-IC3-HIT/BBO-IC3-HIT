@@ -1,0 +1,105 @@
+From - Fri Jul  1 23:57:59 2022
+X-Account-Key: account1
+X-UIDL: AAwbk15TJJCEYr/QWAQqaCgF8nM
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.134.204
+ by atlas219.free.mail.ne1.yahoo.com with HTTPS; Sat, 2 Jul 2022 04:58:00 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.204]
+Received-SPF: pass (domain of github.com designates 192.30.252.204 as permitted sender)
+Authentication-Results: atlas219.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 2 Jul 2022 04:58:00 +0000
+X-YMailAVSC: ESLl0jQ3bBvxp55qwEBvZeNnNO3onuw1PBv_eAbmeIa7vyu
+ IIzMcAwBzEdjEyRZq43n4oWbITZoJg0GNnIatPoLByM3OU_QDLVVDEUn6BUo
+ 2MqdyZe7mc9QbqwS2OIuxKvn_nRIUY3ZmH6xaS78FdJGKy6j9vPBuNHNGUhH
+ wxiHtlEVd5MTjeD0FVZqpFib8HycryryHATIm8sV7CpBMBeWeSC.HzCndlzr
+ riYnSGbQeU9qFeOvWn54qZY1G4W0iu3KjJg_F8F_d42jjJSbGJO__BJmBABr
+ KhuOpBfV0JqRUIexqSmsHP.PBaJsXsvIEfGl4OcH_QxOhMxNMy5jjXcS7KEs
+ y
+X-YMailISG: IphhOk0WLDsEoR3Ej.wSFIOuE7kP1EGVsKj36XpYak.zt5ES
+ HBK3Nk9T8wRvc2x9jg7tkDABaZj6D8zQJhq7N8zLdLnbCqIjSu9rPYaDIA.g
+ cVs7y1354Fdiu73Xqgkhls5VwWwoW26MDXpEuztYA9UyMAVdTD3oKFk4IT0W
+ mRCSCmXUA2v8gV3b2S4BgBFvkEEYTlYMh7epEZprJtCcL_0CulG0xSAENzyv
+ n.1hdL5veqJdAfyRQGisHIwbHFV30.c5ImX3Ug2y82H.hBW1UnYAys0dqcrp
+ 5uKYXM6D1Q2P.Wdjr_2U2qbqOSm7W7c6zL.KT.ujGoNO3DaEkeQFotmoe7Ig
+ OU82wdahmaAuh64FCzBApyGgVXaR0m3z5m4uxqvb.BMBQ48ySc.PBpsIZuSN
+ Uyweju6vVdyxX1za_NR0JajgLySgTENxEVhyPWbm7rmlMp1aItrUka8MU.wr
+ ZW7aBBBy__paITvma.Mr_Dq5NIYi0wfJrJbo4fjMBmccScJUiz.pcfp6T21t
+ 5ka3fHPFSgFDWtZAc0q0S6eAritvtQyKet2EnKfxs.dIZJUFHca5M8b.fs6V
+ wggizpFwG3OK0dKzpDdqkvZ2YNoUSXzPHny0d3SN4hN6cgZnlNISZ7xu8.jI
+ s4olSsvXYth0RJ.qCgi99MH2626eQSo8luD3NwFHFdZnrLIh7e74Df9SgXOY
+ 0iU_O8nPSjBeps.5ySp8Bmz5VuFWHA9ecMqstKRauOVYtHTnDTp1fg9N6SlP
+ jmSTF0wjNjVIIycfbfhVRzjBSQELDQsEooS.tY2Q3SX_5xaDfIzGsaJZgq_1
+ X4gTlr43a5_SHciJVFd.CTQFbELMwTAV6duoMDCiwgoEHE.uwQ0y1bodgPBv
+ Z3evUDAuzS8i62sH6zfJtn4hJqnwsg0DgPOz5EmVmaE8MF6vNAPKgxPNVpDb
+ t0TUa8ts23AtUl96rABGCPkm1hawn5rVsL4lft8TG0T6.Jg87_MExjNLha8l
+ l5Rqe7JVShpxFm.ibY5Q0u4gMi9EHt_maJ8MrBLnvY3gAusEo14hvne.nTty
+ cOruFQGPiWaqcSE3Dt2TYwqpjOIFW75R4gjO6J1q8Dl6T_8g.tST3wakryUP
+ LrcX2ag6r2e84LA_lmDrQfNGq4sytkz1MfvoHYY7X_6nFCxS1Up.d5HVWxC9
+ fARprW0Lf5DZ66OoOdrXl9lSCPV_qRgxkLiTHLhnSbo-
+Received: from 192.30.252.204 (EHLO smtp.github.com)
+ by 10.217.134.204 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 02 Jul 2022 04:58:00 +0000
+Received: from github.com (hubbernetes-node-79054d0.ac4-iad.github.net [10.52.205.85])
+	by smtp.github.com (Postfix) with ESMTPA id AA2CF520624;
+	Fri,  1 Jul 2022 21:57:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1656737879;
+	bh=dwaZ5fiTotORBrvvizI5BlMlz6il8CC3tGs6qWFw2u4=;
+	h=Date:From:To:Subject:From;
+	b=1oyvarTBbLjg37qF/L0xSw7N/IbQGvaoZZjeoiZBERifdUb2z1pexLoiP61DeSuuA
+	 HgGNAwptk03V4F7eUfjo0o61v31xJeLE2y7aXA2m92a6suaXvmKbJaR2cjdBHpDV6z
+	 5x9jMHgvxpWxEKx7jscdhx/sYiM7ne/CMLi0e434=
+Date: Fri, 01 Jul 2022 21:57:59 -0700
+From: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER <noreply@github.com>
+To: NYCTLservicing@tcmfund.com, 
+ ms60710444266@yahoo.com
+Message-ID: <WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES/push/refs/heads/main/5ea52c-58a3de@github.com>
+Subject: [WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES] 58a3de: Read Fwd
+ VIOLATED. USC 18.2, 18.4, 18.21, 18.215, ...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: ACTIONABLE ITEMS -- 153974/2020 FOR PRECEDENT
+X-GitHub-Recipient-Address: NYCTLservicing@tcmfund.com,ms60710444266@yahoo.com
+X-Auto-Response-Suppress: All
+Content-Length: 1792
+
+  Branch: refs/heads/main
+  Home:   https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES
+  Commit: 58a3de6b996e7f8da6b29ec87fc0b0f01a1d9e71
+      https://github.com/WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER/RELATIVES/commit/58a3de6b996e7f8da6b29ec87fc0b0f01a1d9e71
+  Author: WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER <108204659+WILSON-ELSER-STATEFARM-SULLIVAN-ZUCKER@users.noreply.github.com>
+  Date:   2022-07-01 (Fri, 01 Jul 2022)
+
+  Changed paths:
+    A Read Fwd VIOLATED. USC 18.2, 18.4, 18.21, 18.215, 18.225.eml
+    A Read NO MANDATORY ATTENDANCE REQUIRED..eml
+    A Read NOTICE TO MORGAN STANLEY.eml
+    A Read Re Automatic reply [EXTERNAL] Fwd [BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER] 2d1c49 C16-93715 --- PEEPING TOMS AND...-1.eml
+    A Read Re Fwd unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN C.eml
+    A Read Re LOAN 50074 annexed IN 153974_2020 State Farm and Sullivan Properties LP. [ receipt ].eml
+    A Read https _github.com_BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER_tree_TAX-OBSTRUCTIONS.eml
+    A Read https _github.com_BSCPGROUPHOLDINGSLLC_WILSONELSER-ZUCKER_issues_20.eml
+
+  Log Message:
+  -----------
+  Read Fwd VIOLATED. USC 18.2, 18.4, 18.21, 18.215, 18.225.eml
+
+Read Fwd VIOLATED. USC 18.2, 18.4, 18.21, 18.215, 18.225.eml
+Read https _github.com_BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER_tree_TAX-OBSTRUCTIONS.eml
+Read https _github.com_BSCPGROUPHOLDINGSLLC_WILSONELSER-ZUCKER_issues_20.eml
+Read NO MANDATORY ATTENDANCE REQUIRED..eml
+Read NOTICE TO MORGAN STANLEY.eml
+Read Re LOAN 50074 annexed IN 153974_2020 State Farm and Sullivan Properties LP. [ receipt ].eml
+Read Re Automatic reply [EXTERNAL] Fwd [BSCPGROUPHOLDINGSLLC_ELSER-AND-DICKER] 2d1c49 C16-93715 --- PEEPING TOMS AND...-1.eml
+Read Re Fwd unlawful RENT and PAYMENTS in CUSTODY at JP MORGAN C.eml
+
+

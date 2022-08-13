@@ -1,0 +1,110 @@
+From - Sun May  1 23:11:25 2022
+X-Account-Key: account1
+X-UIDL: AAJmFB4WEkY7Ym5+EAUwIHziJu8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.216.85
+ by atlas218.free.mail.bf1.yahoo.com with HTTPS; Sun, 1 May 2022 12:34:40 +0000
+Return-Path: <6462563609@mms.att.net>
+X-Originating-Ip: [166.216.149.6]
+Received-SPF: pass (domain of mms.att.net designates 166.216.149.6 as permitted sender)
+Authentication-Results: atlas218.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mms.att.net header.s=EMG20171113;
+ spf=pass smtp.mailfrom=mms.att.net;
+ dmarc=unknown header.from=mms.att.net;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 1 May 2022 12:34:40 +0000
+X-YMailAVSC: gX7X4j83bBu8fJc7c6rTczICmoYd7MSF8gexV0EnolCtoOW
+ VHoJ8G7y143hDHCZVkwKsoTlcDJRw0MFw2xKyo1fNcmzu9Z8Z3psiYvz_6nR
+ MGsruU3vd7E6bYb3E_5U0A6xc1zn_H6hLfmZl_65E9K1LLfAEdbl.Qr8K_Zh
+ SQHqhkFGtGXjrZggbz4N_7ku_LEHsnnjNu6NlQjlasVKmGoQrlmBiHE6WALI
+ bB1_.K5ua39P15zcHJvdbzJRb4f2SYtkWtQxsEdqEpU.LovZRSSyYf892Wkv
+ ymSJ1vHTfSLZlWQF6ddHMz5Y_HEbMH347tAworyAjpiF8PWWa9R2tsIAZkiE
+ HTY6PAaplBlwsx91FjJsfL6eNQ6Qz7cpX
+X-YMailISG: TOu.ancWLDt7ePoiG5naLp7vaPIIfgocJ3IKGmTvbsPY_cMK
+ kdIaeGZA34brl.rUWMG6oibje4aatun17VMrxi9Z4dvaoo_gZOMXD1Uc0QzA
+ js_VnDPLKbZ82TjroZhiXMuM__iFHKAJgRi6zwmviG28m.liF9HCS8acEgEq
+ vzLXRpKYEfyAV660jiKiDpIr0bpkPBmAP8PR5RBAiF1c_sVskC476mY2aa2Q
+ BL0ym1txyL1aRUnXeRB.wIeq.4ED_uzAZI1i4FyGQn1e8mHhubHOhoTT4cWX
+ lVJGyMJVmDWI2qtTPUiEGLkLNaBFvArGq2Mf0tRh7emY9f8RVCF4XvdbzkB_
+ OVasafe9sMT3jLbVu5hSdPujgdCFt76.xRlek8r1DwZsyHfNYKloZuhfHXBT
+ JwZWIUuSeHEUua5LT6NDId8idEWpEypH51uSShTllwV7RNcB5GrKq_pHmPAl
+ adwKXPDBtkBsxElg3DoesDo1aFQwDNLPsAe50gYRoYTFIYhKMjUuRCL2BM2r
+ XYlil9VtYkQWbBgUvWtWnWScUegKgrCR1MD7uZGD5szEqiscZJOxlF5b4fSt
+ y7zbiiMMqC3JCds1dnMZi2umrnZ9HV7rAsp8FqOeIy5Ng3KnMWOTYRIkDgRK
+ KyyclCQ_Ue1bI5Ozd.RcYiBhtU3KMz7pKvsI.XEdIhaimhTCx0kvX_yiKq43
+ wxdnKoEnPa_Iea3VRAydyu__bgGBIMx2mV6JkqvSxzeUaXecbZT1kVcraJLF
+ mDqrawrevr2S3PKxNyHFz5VIg.v3oyRqulnYQZj5aUcEzao0xVLhe8Jl9QS.
+ eF0yNUX5Gdc2g_qtkP9_Ptf5ACf1_4lF43OwBlzToJKpQoyKodYogPR3Id90
+ DXW42JztbXSyOt71yLs5i6qVYhNQAzPXn8ocTKHgoILfri.x8jcNgQKQVuLo
+ HHWj4X4YP6EHOfutJ_jHNz.jM3bjIzCHmiw_EKmKo2VS4l1f50xgsd7Igc0x
+ 0gaLhcTziAQRcCRaJ60eCK4yuOqFkihKVReHpHfDlBWg30njGmDL_Op5Zl1D
+ oW2eN.adlyM1Sxb.hTqGw7lg3QTuqa8.IZjPUvhy7MLl7KsB3UB4gKp9zaHh
+ kJOGK3XvuUg1K_1Y2AlrTnz.zMYDb6zY7roYE253OAScvjiosP81S1S2V.3O
+ r7JMNOlJvOZB
+Received: from 166.216.149.6 (EHLO alpemg-mtmta03.wnsnet.attws.com)
+ by 10.196.216.85 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 01 May 2022 12:34:40 +0000
+Received: from zdll2ammsc01nfe002.wnsnet.dll2a.tci.att.com ([107.78.102.29])
+	by bizsmtp with ESMTP
+	id l8jdndAT1WHVbl8mdnNB97; Sun, 01 May 2022 08:34:39 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mms.att.net;
+	s=EMG20171113; t=1651408479;
+	bh=0U8vs43RxvKHhqnSJJ9G11TuwLO9TNES88UympYkAAQ=;
+	h=In-Reply-To:To:Subject:From:Date;
+	b=EXb7Jrvy+bo/gs2fH+l2ukkldc2Y5Oa3eYNV8Os81oyHfT/dC751HUhdE99KOrczO
+	 71Td/gwUZ78GTc9UCTDCXbvyPqKjYL16JA0Rax89Q9XUn0N3xGwbrPON6CUXb7blJz
+	 9OKghpnRnJ2JFk6UYWfm5+YVh8XRYbnax7xen8sTlZHEDC+k5tzbkzPgh8aF24PtXz
+	 xTJyK7fw7Xyr9ukuc0zWTwsvpFrUwbmpXLCwYYsn/tkHIt0aZWFDO9ADjMFxKmaRGF
+	 R5pnUHNIEIuarQrwjWcORyBBQd5BwVp3BQPY6ltAsFoM+W82l78fYW8zUtjFfH/Uyv
+	 NQP6r8+tQA/rQ==
+Message-ID: <l8jdndAT1WHVbl8mdnNB97@txt.att.net>
+In-Reply-To: 2041489854.105703249.1651408479906.JavaMail.nems@zdll2ammsc01nfe002
+X-Mms-Message-Type: m-send-req
+X-Mms-Transaction-Id: 1651408476-54
+X-Mms-MMS-Version: 1.2
+To: ms60710444266@yahoo.com, cfaimali@isda.org, isda@isda.org, 
+	isdaeurope@isda.org, jclark@isda.org, ldobbs@isda.org, nlu@isda.org, 
+	nsawyer@isda.org
+Subject: Insider trading.
+From: 6462563609@mms.att.net
+Date: Sun, 1 May 2022 12:34:39 +0000 (UTC)
+X-Mms-Sender-Visibility: Show
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_105703248_1230237328.1651408479906"
+MIME-Version: 1.0
+X-CMAE-Envelope: MS4xfImiSNBJf+bjgJrEWW1Ai3sMntCnozb9erviAGWlhEIzmtGeB+WfJgvFDIfKa/2BdsA5VfOHXXEBNo2X4c3+nolSzlxsc6ZZu0Tm2Fzf9HNo/OmULwPM
+ 3v0qd0jSqlV+KZ3bvQuu25p4kvnXw89XQgUnxOiG2RVquas3Eg+78wvhIWLdprHixCNWMmLJPkciTQwAl8jAErwzrZeUoHvdWnl3ccmARsuKDQtgqx1wH7Hk
+Content-Length: 1942
+
+------=_Part_105703248_1230237328.1651408479906
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: Attachment; Filename=text_0.txt; Charset=UTF-8
+Content-ID: 0
+Content-Location: text_0.txt
+Content-Transfer-Encoding: BASE64
+
+QW5uZXhlZC7CoApodHRwczovL2lhcHBzLmNvdXJ0cy5zdGF0ZS5ueS51cy9ueXNjZWYvVmlld0Rv
+Y3VtZW50P2RvY0luZGV4PUpqS2lXTlVUQmVpcGNFU1FmRml3VlE9PQoKaHR0cHM6Ly9naXRodWIu
+Y29tL0JTQ1BHUk9VUEhPTERJTkdTTExDL0VMU0VSLUFORC1ESUNLRVIvY29tbWl0L2RmYTgwZDcx
+ZmFkNWYxZGQ4NDZmYzZiMWQ4MjUxMDYxMjU1YzdiODQKCk5ZU0NFRiBET0MuIE5PLiAzNDggwqAg
+wqDCoMKgIMKgwqAgwqAgQVVHVVNUIDkgMjAyMQpXZWQsIEp1biAzLCAyMDIwLCAyOjIwIFBNwqDC
+oCDCoCDCoMKgIFJFQ0VJVkVEIE5ZU0NFRjogMDgvMDkvMjAyMCDCoMKgIArCoMKgwqAgwqDCoMKg
+ICIuLi4gV2h5IGRvbid0IHlvdSBqdXN0IHRhY2sgb24gdGhlIDkgYmlsbGlvbiBkb2xsYXJzIE5Z
+QyBpcyBpbiB0aGUgaG9sZSB3aGlsZSB5b3UncmUgYXQgaXQ/IC4uLiIKCeKAoglodHRwczovL2lh
+cHBzLmNvdXJ0cy5zdGF0ZS5ueS51cy9ueXNjZWYvVmlld0RvY3VtZW50P2RvY0luZGV4PVR4QWE3
+Y05WSUhLdG5KVS9uaS96dmc9PQoKKioqKiBTRU1JLUFOTlVBTCBIT0xESU5HIFJFUE9SVAoKwqDC
+oMKgICoqIFN0YXRlIEZhcm0gQXNzb2NpYXRlcycgRnVuZHMgVHJ1c3QKwqDCoMKgICoqIFtOLUNT
+UlNdwqDCoMKgwqDCoMKgwqAgMDAwMTE5MzEyNS0yMC0yMDA4MTAKwqDCoMKgICoqIFJFUE9SVCBE
+QVRFOsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDIwMjAtMDUtMzEKwqDCoMKgICoqIEZJTElO
+RyBEQVRFOsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCDCoMKgIDIwMjAtMDctMjgKCeKAoglodHRw
+czovL3d3dy5zZWMuZ292L0FyY2hpdmVzL2VkZ2FyL2RhdGEvMDAwMDA5MzcxNS8wMDAxMTkzMTI1
+MjAyMDA4MTAvZDkxMzQ5N2RuY3Nycy5odG0K4oCoMjEgSlVMWSAyMDIwwqDCoMKgIE5ZU0NFRiBE
+T0MuIE5PLiA1M8KgwqAgwqAgwqDCoMKgIMKgwqDCoCBSRUNFSVZFRCBOWVNDRUY6IMKgwqDCoCAw
+Ny8yMS8yMDIwCsKgwqDCoCDCoMKgwqAgIi4uLlJFUFJFU0VOVEFUSVZFUyBTSE9VTEQgQkUgRElT
+QkFSUkVELi4uIgoJ4oCiCWh0dHBzOi8vaWFwcHMuY291cnRzLnN0YXRlLm55LnVzL255c2NlZi9W
+aWV3RG9jdW1lbnQ/ZG9jSW5kZXg9TE1VRTlnX1BMVVNfazZ2Q21LZ2ZDU0pFenVRPT0KCeKAoglo
+dHRwczovL2lhcHBzLmNvdXJ0cy5zdGF0ZS5ueS51cy9ueXNjZWYvVmlld0RvY3VtZW50P2RvY0lu
+ZGV4PVR4QWE3Y05WSUhLdG5KVS9uaS96dmc9PQo=
+------=_Part_105703248_1230237328.1651408479906--

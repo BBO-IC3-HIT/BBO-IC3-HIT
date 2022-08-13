@@ -1,0 +1,113 @@
+From - Sat Jul  9 08:29:30 2022
+X-Account-Key: account1
+X-UIDL: AK6E8E0/2qnWYsmBogQimHFRzxQ
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.136
+ by atlas307.free.mail.bf1.yahoo.com with HTTPS; Sat, 9 Jul 2022 13:24:50 +0000
+Return-Path: <3oYHJYgwIDeY6y0A+VWZMXTgVIZI.OWdUaoipjimmmkoogIPWW.KWU@listserv.bounces.google.com>
+X-Originating-Ip: [209.85.216.71]
+Received-SPF: pass (domain of listserv.bounces.google.com designates 209.85.216.71 as permitted sender)
+Authentication-Results: atlas307.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@nara.gov header.s=google;
+ spf=pass smtp.mailfrom=listserv.bounces.google.com;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=nara.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 9 Jul 2022 13:24:50 +0000
+X-YMailAVSC: nw9co.o3bBuwjWLGe.OJ4Xh1XWF6tVXXc4_jRCoUgT94t_l
+ BADDeHy6kLx7G9cQpcC_D9evmjEllySM6yuXrO97Bno0uBSfGw0Wc02AupeF
+ avRGlU_DExdmmsyPWEpCBfKcNVBMSFhgmb5M4T.UDuVxk5xENVLcKvQ5.KmM
+ BJ7ylIkWC56jr4dpZWpsUpyQ6KD4NeC0m3n6O5ayzWSrNZ1tZeo0I1HgvkwC
+ 4exfpMeqQ4p_2mfCBADwZKEs1wGUHUAClBe9j95u8UZ4cA1QDjQBYXULJRb1
+ 6aWarlhDxoZbLYhpTB4LF4hRlU9QPAuU.bbPtkoTCdVreXoJE_jl2TF2ecDQ
+ Qz7DeFQ4CC7s2CiLSe.siWXIBCE2sJlUjIBsREg--
+X-YMailISG: sBb0LikWLDsDupoOxMq8bNsi76MPj.gHiPJVtfKdVUeTqqLC
+ AIzv.o27jAxoeYr2QMJS3lYVvDzC._d1daEMHHJT9zCApEFBEXfERltPQ9_5
+ AxWN7Widk1SKggK6TtfvHzrmgFgCjJpNJD6PXl2VKupUiJb4nn6bEMrqLrCG
+ JZp3sQh9btnoA9v3JtOuEHBAyRJkMyd_jG7UNDlZXclau9o32NWPzHYWJRh.
+ OugUM6e9tkjZOBGMfKMeM4jkGDehHT5TgsXB5NOo1i6t2AUAP95asRac.DlC
+ CxSJEq8sW_mX.L9jFHWK2uYX9Jp3Tu9zVmrZbzrSzSui_cpvH7zPvcIp6TU2
+ mhla8UVKD9oAvaoKy5JdC3X2re8yww7ysWU0itf.vR7LDXo64O7LHaLjv9ke
+ iepZcBdCNUmCgtmyEYv1gmVhCNtfbJCQkoOWFiFBrfnuTtLefcNjwEjBOln.
+ ERyyJ0q5rRGlueVOjOQ5CZiWSARLQNurHByfxMz5eytdeug1WNMv3gYkRV0i
+ _nvf06tg2aWQVdnyws25RQ_ViTS.Vkwtdn3JMpuvHFc0TTnxizcO7IcBaC3c
+ pGHbn0DXRyKYWx0_uxhfD..ErS.BgOFlCJD6p7ie0mrhwES0VCyDcuWH5GA7
+ cpWR9cDBsXDH9l.gXM0sIFGgZjHqq7alBek2PCtw8XjjzoJk2lOmOPqPxMtv
+ fXGsg05LPaxWzwDKP47v2AM9oH4Ln152dUugWLMhHiXmk7FueGpEFG4WnLOM
+ W7q9iH4vRcrwE8OW_iasNb_rxHdcUOHrJIH16jwIj51YJs.n5g.crsdSuYH.
+ 08hl_x9TBxkQqwBPIOXB6DnRQ.EpXmpxzEQIpIH7ButfwaMu1VZp0ox7eK4.
+ yXszKgcp.wb97D22u4VW_kg.tFEEtw1pr_iFCWOUpSOeDFNwWqT0vcd_IjFz
+ VXNwqdac.fSEVtz0j8iK3zn3Dd0PGqj_fXVwLkNsmUr8x9sV3AciDbFgIKVh
+ PdR3mAtg4YTcw_O2pIJaxZpyuVjWxS_Z5Nk0rHPrMqq70Cm2aYQCovMEaEhR
+ 7hxKK7ZiFXonE_z47S0a7tt2wAJ5XbQe6JV8H1.gT1Zq8NJXBA.TPqLeUYIs
+ CsY68NdRDEVstq2cq6PJQAaweV4dOZpP3baWgG9e31mhpB5I76GABxRH0Xbl
+ BsaoVtbYBRQ9g5n9.tatdHzDZmK4hbA-
+Received: from 209.85.216.71 (EHLO mail-pj1-f71.google.com)
+ by 10.197.40.136 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 09 Jul 2022 13:24:50 +0000
+Received: by mail-pj1-f71.google.com with SMTP id k91-20020a17090a4ce400b001efb15ece33so415686pjh.4
+        for <ms60710444266@yahoo.com>; Sat, 09 Jul 2022 06:24:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nara.gov; s=google;
+        h=mime-version:auto-submitted:in-reply-to:references:from:to:subject
+         :message-id:date:content-transfer-encoding;
+        bh=HVCpm08lMy9edAZXWLxS1q9CAX0gTJX3BMF9w7bsiQg=;
+        b=Q0cG3iHanEnHP0HU4HW0E1YNlwTQMEUW3FW9VuLxjdfLCTKYZnjzME3ubKCZf/Igs8
+         VGSdnlMtJ253Jqz8XcFFWZYXR894MVkNayHPhGVKfPvBgARVQbG1KWljEfLtb3kr9j2Q
+         rxKma7TATPgQhESgVQsCnXwDC0nyTgYwRGNo8=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:auto-submitted:in-reply-to
+         :references:from:to:subject:message-id:date
+         :content-transfer-encoding;
+        bh=HVCpm08lMy9edAZXWLxS1q9CAX0gTJX3BMF9w7bsiQg=;
+        b=CiS+tQ2kCYnz0j/7WXHHFJeP6Mtj3QKfkPw9bkW9omB4SL+UhunXs2WAIOR05bAyWr
+         fsiTraITQlhpxSNPQH+rnkDoe8YpJkQH2j1OG55RAu/X5/olrsIYdZRzZbNxWll9VtQm
+         dzoVqENWq5kNmC85vfDJxZhQFRonvj6U5d6fBt7QV56YT1wehpzg9fNi5GPkzVHEctN/
+         A1Mn3LHG5BTDIRCnH00lUQND0a6EyiLNLy7JOwkPSFYZWWy98spxKBaRv3MtmmTIFhMk
+         HR2thDNG3m3d0UZAC26TI3Q2osBEN9QEJ8Jf2XGffjIEriA8lc7TgjiExYUryVKHqLSs
+         ySVw==
+X-Gm-Message-State: AJIora8c5he1y7jS4RpKmjxsSUCqgj2LbXtq3dzo9traHlvVQ/3F757V
+	gN+6jWH3gP6uhXz6B7Q+cPCdDF+dKAnsmP/BbHNWghF3WLI=
+X-Google-Smtp-Source: AGRyM1tfdi+ylcRU7Xp64tby+BF/Js6gB42Gf+2ZZkkk9ramalB2dxAZ9ByxPfxrL1QPdKk3mFi5Ye8BLgGh/xQ9wdc4Vaaj
+X-Received: by 2002:a17:903:120e:b0:16b:8167:e343 with SMTP id l14-20020a170903120e00b0016b8167e343mr9082074plh.112.1657373089394;
+        Sat, 09 Jul 2022 06:24:49 -0700 (PDT)
+MIME-Version: 1.0
+Auto-Submitted: auto-replied
+In-Reply-To: <9ab7a14f-276d-1675-85b6-fe4d2a54412d@yahoo.com>
+References: <2fca5b20-e7f3-d8a6-30a5-20dfa6acb0c3@yahoo.com> <9ab7a14f-276d-1675-85b6-fe4d2a54412d@yahoo.com>
+From: OGIS <OGIS+noreply@nara.gov>
+To: <ms60710444266@yahoo.com>
+Subject: Re: HOTEL RECEIPTS- PUT THEM IN A SPREADSHEET - LET ME KNOW WHAT YOU DISCOVER.
+Message-ID: <00000000000040ebf605e35f3e42@google.com>
+Date: Sat, 09 Jul 2022 13:24:49 +0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 1068
+
+Thank you for contacting the Office of Government Information Services. Thi=
+s is an auto reply message.
+
+If you requested our assistance with resolving a Freedom of Information Act=
+ (FOIA) dispute and have not done so already, please send us a brief descri=
+ption of your dispute and copies of your FOIA request, the agency=E2=80=99s=
+ response to your request, your appeal letter (if you filed an appeal), and=
+ the agency's response to your appeal (if received a response).
+
+Due to the COVID-19 outbreak, at present we can only receive and respond to=
+ inquiries via email. Please send materials as PDF attachments to ogis@nara=
+.gov. Please note that there is an increased demand for our services; for t=
+his reason, there may be a delay in our response. We apologize for any inco=
+nvenience and look forward to assisting you.
+
+Sincerely,
+The OGIS Staff
+
+--
+OFFICE OF GOVERNMENT INFORMATION SERVICES
+National Archives and Records Administration
+Email: ogis@nara.gov
+Phone: 202-741-5770
+Website: https://www.archives.gov/ogis
+Blog: http://foia.blogs.archives.gov/
