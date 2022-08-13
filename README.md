@@ -11,6 +11,11 @@ via.: 6462563609@mms.att.net<br>
 ### NOTICE TO STATE FARM
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==<br>
 
+
+### ASSIGNMENT OF LEASE AND RENTS ON FILED ON MAY 26TH 2020 
+##### FROM: STATE FARM LIFE INSURANCE, TO: SULLIVAN PROPERTIES LP
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==<br>
+
 ## ..//BBO-IC3-HIT/find/main
 https://github.com/BBO-IC3-HIT/BBO-IC3-HIT/find/main<br>
 
