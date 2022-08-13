@@ -15,7 +15,7 @@ https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==<br>
 
 ## ASSIGNMENT OF LEASES & RENTS REGISTERED WITH THE DFS AND FILED: MAY 26TH 2020 
-##### FROM: STATE FARM LIFE INSURANCE, TO: SULLIVAN PROPERTIES LP<br>
+##### FROM: STATE FARM LIFE INSURANCE COMPANY, TO: SULLIVAN PROPERTIES LP<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=7Ry3LAoVfWOLjSXhyJZ94A==<br>
 > ACRIS Detailed Document Information (2019000021408)2019010800475001<br>
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=bVk8sIt7n3kGwHqebPg0fw==<br>
