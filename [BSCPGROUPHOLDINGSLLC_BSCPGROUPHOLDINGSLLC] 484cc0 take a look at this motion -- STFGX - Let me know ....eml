@@ -1,0 +1,91 @@
+From - Sun May  8 05:17:06 2022
+X-Account-Key: account1
+X-UIDL: AJzK/XEEAoYSYneW/ATeGNSZa+E
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.31.112
+ by atlas224.free.mail.gq1.yahoo.com with HTTPS; Sun, 8 May 2022 10:10:00 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.201]
+Received-SPF: pass (domain of github.com designates 192.30.252.201 as permitted sender)
+Authentication-Results: atlas224.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 8 May 2022 10:10:00 +0000
+X-YMailAVSC: LxrDgAc3bBvthSSiBWhYsk2ejGrHTwPFy1LX6RvfgRFIDur
+ QDujXFoHnyCAnyN5HT1Gk9BjbCDe6oRZyMT4E5xxUpGzRXsBuO7VT590pzj6
+ SKrAV5AhFDuE6asb812tNFsVz740lTNCwAgcnAeMBB2EKNfKbU87MCDJI9kM
+ 0FZUt_.d1cLTGRcX.PGvFHt0t28jza1S.FQ0C_s6SGIjHYqQ2hK2_oOSIs_f
+ K60o7PiFE3rDRXBtjblP_oXFSSOMEnO_iok3XupMKVod45bRxpXGH.CItMXG
+ T8uT664ALFb6KbNs5zD4pFICU1XsEqlHAnMeh66PLC8V1ym7.Rp31z5MUHA-
+ -
+X-YMailISG: jviurskWLDuCo_kh1extCII4rEwcv.5ncnWZRTJwV7fEvnmJ
+ 9NFKj0sHjObwDX0R9oTju.fX_XlZyxttpaqtz9gp9hbG2z8fkKAx1EAPoP.q
+ 16Ev48j8prPIsEAlbJNNBT1tSDYFN.X3mALLvpvfjAiMVST3YoE7qVqxlIfx
+ 2D6iETDe1ZvOJkdxQsFmb09HgMJTbwdXvaXhql2sBm1Ssz8VbRXV2yvD78b_
+ Mtp6p5mzFAsqaVS5ipvbW.YQbICQCg8tBEMdsCx1wMaJ2JsF.GTdH9WHGb0r
+ ZC.SRoMjpWdVp4YmV_4UMkpUu6tyx1zBt7lUtTIlIYd6Wa_xAOp516clQa5Q
+ 6O9iENpRXFJh3S.FRzttxWz988PWwGwfViWUtuYW4bKKfja1gpDv9MmY9tsP
+ LYzjBiP3qwSOYol1gIKNXQUEvLgbDN17hJEppRYbgM8hAhAHTbvCRwVCFeWw
+ .TaGgP7o0QQhsImkULsY3V2YzBqBdsU9Fs.8jt85j2IdKzYTNvgLsCQ23lkh
+ ONaomcmJtIEaq8JUClsrjk8baGAiMXEU90sCSkWz2k0nf0NMB5KD_.sfhmAR
+ ECpoM986DwH5G27U_0p12jzNg9Tw3BZfXUiwkeaR6GfEtkodmdaUKBpecAzB
+ 1D5rWt0n6zGBevhm5VS4htPyu.V7_WiHNzGq9tuhpRULZJbqGJnrHkkoPRUS
+ Fyp_BH4SI9gl73gjB1Z6YitZ_yjOLLjpBU8golIy7mVSp1kIptydORwzdXNo
+ mSII50KQlbVzXsL9NsoWM4mFhxZrYYLhxikToS9jYabQP2E0brhEbnIDwN6G
+ l5Yg7mskmRqoipuWPymyD3LUcsLGxzFT352_hafhLd6J6UbsEKGYAU5EjV8o
+ FmpGSAH3kkTctn1p1nqIEAKijZ2JQCQZPBuwlctV0AAcvJmsIJzEXSVrbGji
+ 6RA6LHEoM.JJ92L8u5kkZVPypdZoOV_LGfCzta4JR0EOd0WGE9knuGvy6yJz
+ 27ZwxhCwggLevQ7Snl998ha7527IquyU8oYKBuIm7ZubiG0ocio2szE8nP3t
+ PhISgkF1e5cz2jY0xeGsnSPc3OVY1y6BKjQeMxQyPBGOBPx.Oc2KuyJENFat
+ g5Mf.tE0AAoA4p_n_bOcopiNhtCU4XRhbE9CyQeZVkrtHsZq0_3ZwDIDMsE2
+ JFX24Wb5x44-
+Received: from 192.30.252.201 (EHLO smtp.github.com)
+ by 10.253.31.112 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sun, 08 May 2022 10:10:00 +0000
+Received: from github.com (hubbernetes-node-fbb0608.va3-iad.github.net [10.48.205.37])
+	by smtp.github.com (Postfix) with ESMTPA id 8917E3403ED;
+	Sun,  8 May 2022 03:09:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1652004599;
+	bh=K/gtQvu1IfVS2GrhzQHfXAfVnRxxq4DYvggYXa0356A=;
+	h=Date:From:To:Subject:From;
+	b=tJp0j14oo5tj+iQF2/j92kK7+XHhbHvTzr9v+f4wVxHoIKKvVRCpr9ad48SSZ9ldv
+	 GNK/PDBiVuUOoiphrROluaI4M6BUtxP3f8WzdL1ZuGjBdhWulGS3g4Tg3+akLUjoGR
+	 LxEpTolZo6HAMABTvcl6fwGmrBZB49Q0zR75Q9go=
+Date: Sun, 08 May 2022 03:09:59 -0700
+From: "DINCER & CO." <noreply@github.com>
+To: ombudsman@tdcj.texas.gov, 
+ MS60710444266@YAHOO.COM
+Message-ID: <BSCPGROUPHOLDINGSLLC/BSCPGROUPHOLDINGSLLC/push/refs/heads/main/21d041-484cc0@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/BSCPGROUPHOLDINGSLLC] 484cc0: take a look at
+ this motion -- STFGX - Let me know ...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: cik filers 93715 & 1516523
+X-GitHub-Recipient-Address: ombudsman@tdcj.texas.gov,MS60710444266@YAHOO.COM
+X-Auto-Response-Suppress: All
+Content-Length: 533
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/BSCPGROUPHOLDINGSLLC
+  Commit: 484cc067b5e37c758bd12e5dd0d845db6a34576a
+      https://github.com/BSCPGROUPHOLDINGSLLC/BSCPGROUPHOLDINGSLLC/commit/484cc067b5e37c758bd12e5dd0d845db6a34576a
+  Author: DINCER & CO <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-05-08 (Sun, 08 May 2022)
+
+  Changed paths:
+    A STFGX
+
+  Log Message:
+  -----------
+  take a look at this motion -- STFGX - Let me know if you all were informed.
+
+thank you
+
+

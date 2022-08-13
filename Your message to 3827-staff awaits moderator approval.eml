@@ -1,0 +1,91 @@
+From - Thu Apr 21 18:21:21 2022
+X-Account-Key: account1
+X-UIDL: AC5GtcsvETdVYmHN3AUYsJ1En2Y
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.212
+ by atlas318.free.mail.ne1.yahoo.com with HTTPS; Thu, 21 Apr 2022 21:34:20 +0000
+Return-Path: <3827-staff-bounces@lists.cs.columbia.edu>
+X-Originating-Ip: [128.59.11.253]
+Received-SPF: pass (domain of lists.cs.columbia.edu designates 128.59.11.253 as permitted sender)
+Authentication-Results: atlas318.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=lists.cs.columbia.edu;
+ dmarc=unknown header.from=lists.cs.columbia.edu;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 21 Apr 2022 21:34:20 +0000
+X-YMailISG: qLu8l2MWLDuoLC6.jegq5xTLe9W7jo.6psbwSqXIigMBYOCx
+ 6ki_LKouuF..HbELi6FrWzewN5.zYtYpodgZF8rTr5rIgG_PBWoP7kFLex_Q
+ MCclYq7iyikAI4OK.wo_rd_qXlMKqt8iAEHezMpCT.7ATuatTLuzK0kSczSM
+ t4SgqHMW95.yU.AUYwbZmemtdX_30q1xPJ2I5CdnxeweCRW3cxjYyW0uFI5W
+ JvXaoUSdX2cFPegYMpVi2WgIrKqNCzZ07GLH1oOdtdTNanOKEN5qalkj44M9
+ IwisYS2Fz_PP6jLt8oOQNygQaUT5S7NPve9uKqJeTIaNGcToYpDUY6vDPEZ2
+ ZeWG.zWs3SbRWiOFPtWRh.k2Wq9pr.ngoxGN3ReLpggh1dwNNw2gna71kJNT
+ A9v2MLZg5DfN4CK93.ZdAgbom4jDh58rwJAnX1oQANkfVcHwL55l5z0UCOJd
+ QaqLZ8U3FzkJQ27MtOK_yI9W0z0B17_gXBEAEpNHy8jZFKghwPGcML5UC.80
+ MC_lrwMTA9qqlyTvq_gSufYmLHoxkb5KM_.EKspE25LNOI7XZmk5l7OThGzS
+ aFBE51VJOeyA5ZT0SzUxbZ02v9Weh6Q62PtIzdDFBPFtz3DlH_UtQi1ssb.r
+ JpJbQk0I28qn8KcA5GTJS3lpIyU2AyhsIkzeIncjVWuk860bCSypZTsxQf96
+ u8d0r4aeCO4YHFtwwrGkiP4tPl5HZbGNXg7lz1VmGXDxRY8blB_Dij6hD7Fq
+ vigJPlBEjpGvWHchqVfc.ri3GvCV_JnHZNojFRtwbZRWq20eJDvC0RdtDZE_
+ X3urhD7k4TLkcN6PevosSukE2cLBt0BzBEjiTTAIFcrPx.Z6vcymsAi8D8bU
+ 0qoI55hgIGPXvst_KjsbjJ22SCBgX3R2HYMRtaOH5QFEyrdWJcIPp8idhy1h
+ VxfA4XFYZ79SjiuZ.7PmX2lCBAfXbBpjHT9xG450.3YRmW1j3IrRIWGkitzT
+ d..BLdTLBZ5hz.oS5duaDeDZM6YS_.oQcdFKDsb8ojy0tsbK98IvU8mGkBj3
+ GH.iFR6ZtKQuJlbJdyNhl4jZ82OBD0YsCPobndHGNhnf3wWNbXLOD5h6ecUF
+ MJfeYgAfuzUgrlHilqP3xBHeWCdIKLxMqQKqYHd9mJiXQf1gpM9ACC53JDnq
+ TLeg6oJ8pnNkOn1MfmbdWdoGB0nvjObmlw--
+Received: from 128.59.11.253 (EHLO mm01.cs.columbia.edu)
+ by 10.217.135.212 with SMTP;
+ Thu, 21 Apr 2022 21:34:20 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by mm01.cs.columbia.edu (Postfix) with ESMTP id B9B2E4B1B7
+	for <ms60710444266@yahoo.com>; Thu, 21 Apr 2022 16:56:59 -0400 (EDT)
+X-Virus-Scanned: at lists.cs.columbia.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.161
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.161 required=6.1 tests=[ALL_TRUSTED=-1,
+	BAYES_00=-1.9, FROM_STARTS_WITH_NUMS=0.738, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from mm01.cs.columbia.edu ([127.0.0.1])
+	by localhost (mm01.cs.columbia.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id M88FXi3aLgVr for <ms60710444266@yahoo.com>;
+	Thu, 21 Apr 2022 16:56:58 -0400 (EDT)
+Received: from mm01.cs.columbia.edu (localhost [127.0.0.1])
+	by mm01.cs.columbia.edu (Postfix) with ESMTP id C82B64B10B
+	for <ms60710444266@yahoo.com>; Thu, 21 Apr 2022 16:56:58 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Subject: Your message to 3827-staff awaits moderator approval
+From: 3827-staff-bounces@lists.cs.columbia.edu
+To: ms60710444266@yahoo.com
+Message-ID: <mailman.35393.1650574617.15285.3827-staff@lists.cs.columbia.edu>
+Date: Thu, 21 Apr 2022 16:56:57 -0400
+Precedence: bulk
+X-BeenThere: 3827-staff@lists.cs.columbia.edu
+X-Mailman-Version: 2.1.14
+List-Id: <3827-staff.lists.cs.columbia.edu>
+X-List-Administrivia: yes
+Errors-To: 3827-staff-bounces@lists.cs.columbia.edu
+Sender: 3827-staff-bounces@lists.cs.columbia.edu
+Content-Length: 591
+
+Your mail to '3827-staff' with the subject
+
+    Fwd: violated. FILER 93715 [151623] THE EXCESS OF 852,000,000.00
+REGISTERED IN LOSSES
+
+Is being held until the list moderator can review it for approval.
+
+The reason it is being held:
+
+    Message body is too big: 14451579 bytes with a limit of 5200 KB
+
+Either the message will get posted to the list, or you will receive
+notification of the moderator's decision.  If you would like to cancel
+this posting, please visit the following URL:
+
+    https://lists.cs.columbia.edu/mailman/confirm/3827-staff/99f4aa6e9c16a7790fe00418244a3314e4d17741
+

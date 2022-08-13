@@ -1,0 +1,81 @@
+From - Wed May 18 00:05:08 2022
+X-Account-Key: account1
+X-UIDL: AMAMScceqol/YoRc5wMc4MZQ6W8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.211
+ by atlas221.free.mail.ne1.yahoo.com with HTTPS; Wed, 18 May 2022 02:41:42 +0000
+Return-Path: <bdincer66@icloud.com>
+X-Originating-Ip: [17.57.155.13]
+Received-SPF: pass (domain of icloud.com designates 17.57.155.13 as permitted sender)
+Authentication-Results: atlas221.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icloud.com header.s=1a1hai;
+ spf=pass smtp.mailfrom=icloud.com;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=icloud.com;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 18 May 2022 02:41:43 +0000
+X-YMailISG: sgh2h4QWLDshAWu2BWJQQCszc3ZadVLIqEIN9l0IrHLqBRC_
+ cf80bOpTOZT6m_BmzzmOWqBzxffFj21VokdUj8eyrCKSC.tOTZQocrwU8lUn
+ rMx49vZsugjbgwUbw9wqradD_H0yEx40m7u8ptgi.DEYgy8esu1cRCbAIDFk
+ txnGMeaDA0EqZQfXwoVBSLjyp03VqabD1R5NopMAXKuygWehepr_ahZqd_eV
+ 8TVCK3Jh5l5g00sDBmTy65qxtNrQax20kpIQiBqDH4r9aEHPxxndWuJapUB1
+ h5.hi76nW7uRZM1tKSnTqndHYzeHYbol7lwsvOKoR.sElxPtycPqT6aWbCGF
+ gCwHcz_CWHXXaACcsfLrsDoNZAEBMC_RtuDrdrY3DAmnCP8ktsZwwFwgZli9
+ ZJmcU.kK_NHm6XxgGOVafgiwK8K4T0xye5w4QXF1kUGoPUFqzYwDfvYK3QMS
+ j_GkXqAWFwA487pV5MzTXVm.D5InWcP4NEU2tCnD5bfc_d9rp9M7wLUB80Z.
+ 8UQO0X4jJpEESdJuUJ1A4esMFB0er5u66qz1qv9zj.X2G6zyxeOnvTAw_zkN
+ MeeWuzBAi6e7m8Fx.tnRn_rljXzKI6EDEhr0.Aowpbd8FKuaUWLqVhkUQlWt
+ vfVFnh5X1YfU5dGF9moo7jStMtnuPRmaPTXpjk7qkjPbDFUlLzk1uQQ98ugI
+ SSCLjpIQ.uNoKWXLr6ZGCccKg7B0AuAVwZI8Kv2fEw1g0LAU6yUDI7PkA7Xy
+ 73srgVxcBD.ylirrjMEkA_pRT7nrvvb8Q9NM1BSQFYHsgA0gvn3vMUNUB9Sv
+ mLbZ1qUdqioTw.pzihpvma1oYejXKGvxoQYbfdHFC6oW.lJbLhGhepDWl5L3
+ 51Jj1PxA8MDnWYOvK_n4RKHtOjGgJKV_1UDEpExpBu_9ERy_KY8irooQ7Yb0
+ nRmxtvF1rUr8a3Nq6v7beB_M1ohXkc0JH_ValVxUxR4GrJpTeLvaV7PTw8he
+ Ne_iZJfK2UlA0temRaDSkSeSmciv2LvNKMkhsJQrg2Ge2FFJaPjTMOGLY5bM
+ oRoB4u_VDoueuhPeeK7GSx46En14z9TVVph59NTOq8Hcuno0KK1zzY1i
+Received: from 17.57.155.13 (EHLO qs51p00im-qukt01072302.me.com)
+ by 10.217.135.211 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 18 May 2022 02:41:42 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1652841701;
+	bh=i7bpzHvrI3mh5BCqIPJ0SDW0UwEGkdREHqu8xQI/Kcs=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=wNxMAXM6K8BV4bt4NKRpXacKReSznsK6SKkcKu4Vg9CeDKBmsFgQjC9fvnnMXX/5N
+	 NvbT4cnh7sJFKucgmZi+iF/pWd//ggHuqs5vkP7MRfVHoKk09h9vR88np77kf0Qeza
+	 ulLh1TNNk9UNoP4T5WxC8Usegv+GPJThzTQJ/ce/szEajfSyyT9l6U3jotA92GBq1z
+	 sNIsC/HhHitxzNmXRnU9waDqdhlRtdOyAMwd/8Lcj+e1azpbZtRfS/tR2YZZAo2dA+
+	 E4sIM0d4BTdjkJSlUU6Ve3xX0PAnxt3OQ+oI5rO6SSmlqU3SiYYPcFJGW9kl8dkD6H
+	 PpZ5qdlyv2CTQ==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28])
+	by qs51p00im-qukt01072302.me.com (Postfix) with ESMTPSA id 412B263004EB
+	for <ms60710444266@yahoo.com>; Wed, 18 May 2022 02:41:41 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Bo Dincer <bdincer66@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 17 May 2022 22:41:41 -0400
+Subject: img_7396
+Message-Id: <134918F0-605B-497F-A30D-DFBC9996A8EC@icloud.com>
+To: BBO 121 <ms60710444266@yahoo.com>
+X-Mailer: iPhone Mail (18E212)
+X-Proofpoint-GUID: rjBhGBwEHhbHM-G0wFHMOLvOiqiC-bBz
+X-Proofpoint-ORIG-GUID: rjBhGBwEHhbHM-G0wFHMOLvOiqiC-bBz
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.425,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2022-01-11=5F01:2022-01-11=5F01,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ clxscore=1015 adultscore=0 bulkscore=0 spamscore=0 mlxlogscore=362
+ phishscore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.12.0-2202240000 definitions=main-2205180013
+Content-Length: 109
+
+https://saaze2311prdsra.blob.core.windows.net/clean/a39926c853d6ec11a7b5000d=
+3a1afadb/IMG_7396.jpg
+
+
+
+
+/BD
+

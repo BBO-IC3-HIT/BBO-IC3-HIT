@@ -1,0 +1,90 @@
+From - Thu Apr 21 18:21:21 2022
+X-Account-Key: account1
+X-UIDL: AAQNY5w0q7jmYmHN3AIi4GHQp5c
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.167
+ by atlas313.free.mail.bf1.yahoo.com with HTTPS; Thu, 21 Apr 2022 21:34:19 +0000
+Return-Path: <cs3136-bounces@lists.cs.columbia.edu>
+X-Originating-Ip: [128.59.11.253]
+Received-SPF: pass (domain of lists.cs.columbia.edu designates 128.59.11.253 as permitted sender)
+Authentication-Results: atlas313.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=lists.cs.columbia.edu;
+ dmarc=unknown header.from=lists.cs.columbia.edu;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 21 Apr 2022 21:34:19 +0000
+X-YMailISG: enPqTAMWLDs8Th.w3jo3JsyeMJPsFprWaJWRMEJ1X_GJBz1Z
+ yNsU6M6WNGAJxtNVSy7Rlk7kApaRmoI7j9NVDB.9pa_hsfa99k9sWFvid74L
+ w8VFoetSSiYM_B.Ers937zSR_hSUQhjW43ifzWRDP6V3UyOF89t339LDIHw0
+ XNK9JL.Hs70K.kwhzqxOl7PBeo0iS0zzDIqzDfjLvAN2mvRuIOK4STKX0HhB
+ h4S07P.yhzvC.5_okA8WstC4Xco5R.3ZMOfGhIlCnIOuJ_YB2_dQLYcGYS0E
+ ls21mXughLz4tEqaRBXtPXbC6OfbRWUrSAbF60g0VFunnwI0F7t5vlvrC0w_
+ _JItZNixgYjf_9p3sL6NcktqK7C.6Amo9zQm0KZHhxD2GF11I7Rn2pscDT0Q
+ BYI1EaveKmQzqYWgY.6YIajyNjq6ZVrElg8SLD8FtrPHDvJtQ1un7wdqfeVA
+ b8EbOOiLLZBNh6MSp_FOgHv4fIFmhxVWGgUjd7.yLrVbNdtjTFqU3_fDaoG8
+ TjdshsE5KD_adB_Rx_MbABvs59hf2d99FZhz8NnS5dugh3hNx6etBO6TJTDo
+ FCsfPTLDX2CL2Rit9PN4sk.yBDP5l1yicFC6PPX5KPE4gZIeNm5Ka7D2uJY1
+ CfcLHzzashUHIsVS9aaNP7dIz9sCkUCJA_A8NoQJ.IveY94lM6PwxsjinPXR
+ 3JgxrT1gO1g86d1p.LS1rFzEed6cF5THMxR5OOaBrWy1TIstMZlII73ILjpa
+ 5dhYvVGHwPSZVbNxEUJyWGazJFPzvWQF2H7IUs5gV5OSsOTmHnP9i5_tDuvh
+ qrDtnLXfATyjCEY.a5qvhP9dlyM1WJ2jqFPjbBKI26XgYBUfrNXvI4Qj.dVP
+ ziVNtgmlaFbV0bqGze9TC35GL2x8g9hT0z7ASqhQz4uUwaD0bSwa8qIymOlO
+ DPZVHTK_7ewXiMYXlKPNpS3wkKWU.Ma.QVSBIi_zwQU3qtxAdMy.hV.UxEtr
+ 7mJzWdp7n0AXXFV4TOslHbRB2G5EC1YhcSKl8R5DIvKqDifF2H5dqDXaemXJ
+ L78crsajI9mgPyPwnxJroOrp_xet2iC_Ji92YETYlScNOmVtpCbo9SNuV4NE
+ M1qhG7f6pxVrvdfUG4f0Wo2aE3959JPuDzIuHzGWGJpvHQFVSfK4k4fii5lH
+ QVJDRxVSOxviyJvl45bDTPQfHrm8l3bxu0O.Uxjok5LcjGRR
+Received: from 128.59.11.253 (EHLO mm01.cs.columbia.edu)
+ by 10.197.40.167 with SMTP;
+ Thu, 21 Apr 2022 21:34:19 +0000
+Received: from localhost (localhost [127.0.0.1])
+	by mm01.cs.columbia.edu (Postfix) with ESMTP id 73E114B203
+	for <ms60710444266@yahoo.com>; Thu, 21 Apr 2022 15:06:48 -0400 (EDT)
+X-Virus-Scanned: at lists.cs.columbia.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.899 required=6.1 tests=[ALL_TRUSTED=-1,
+	BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham
+Received: from mm01.cs.columbia.edu ([127.0.0.1])
+	by localhost (mm01.cs.columbia.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qZ-ceulaElyl for <ms60710444266@yahoo.com>;
+	Thu, 21 Apr 2022 15:06:47 -0400 (EDT)
+Received: from mm01.cs.columbia.edu (localhost [127.0.0.1])
+	by mm01.cs.columbia.edu (Postfix) with ESMTP id 5530F4B239
+	for <ms60710444266@yahoo.com>; Thu, 21 Apr 2022 15:06:47 -0400 (EDT)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Subject: Your message to Cs3136 awaits moderator approval
+From: cs3136-bounces@lists.cs.columbia.edu
+To: ms60710444266@yahoo.com
+Message-ID: <mailman.35368.1650568005.15285.cs3136@lists.cs.columbia.edu>
+Date: Thu, 21 Apr 2022 15:06:45 -0400
+Precedence: bulk
+X-BeenThere: cs3136@lists.cs.columbia.edu
+X-Mailman-Version: 2.1.14
+List-Id: <cs3136.lists.cs.columbia.edu>
+X-List-Administrivia: yes
+Errors-To: cs3136-bounces@lists.cs.columbia.edu
+Sender: cs3136-bounces@lists.cs.columbia.edu
+Content-Length: 571
+
+Your mail to 'Cs3136' with the subject
+
+    Fwd: Fwd: *** FILER 93715 [151623] STFGX | SFITX | 1.6662-2
+Accuracy-related penalty. $250MM +|
+
+Is being held until the list moderator can review it for approval.
+
+The reason it is being held:
+
+    Post by non-member to a members-only list
+
+Either the message will get posted to the list, or you will receive
+notification of the moderator's decision.  If you would like to cancel
+this posting, please visit the following URL:
+
+    https://lists.cs.columbia.edu/mailman/confirm/cs3136/5185f74ec4677a42032e9ad73b6d0c30ebf7c19e
+

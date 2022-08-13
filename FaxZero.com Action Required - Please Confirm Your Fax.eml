@@ -1,0 +1,82 @@
+From - Sat May 28 16:36:51 2022
+X-Account-Key: account1
+X-UIDL: AAf9ecxjMlw1YpKV3gxf+GjbvNY
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.249.98
+ by atlas321.free.mail.ne1.yahoo.com with HTTPS; Sat, 28 May 2022 21:36:30 +0000
+Return-Path: <support@faxzero.com>
+X-Originating-Ip: [67.227.156.183]
+Received-SPF: pass (domain of faxzero.com designates 67.227.156.183 as permitted sender)
+Authentication-Results: atlas321.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=faxzero.com;
+ dmarc=unknown header.from=faxzero.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 28 May 2022 21:36:30 +0000
+X-YMailISG: 6cnlU.4WLDs4yPTsxGxBSmjSDkN_BxBuIXDCusnOmQyf7BES
+ kavBJFr0inhnHb8zQncnrs_BIm8mj9BQMKgH_YgEiaaVmI7SRGF8nXEKGtcz
+ e1PG8nTTBGNZEm9A_112W2bRNwBA5EKesziqpwocI4wFuXz7b2wKa_MDWZHL
+ QYwAfrofw7EEroOvL4AiR2jpCZ56E9If_ARaMqk2NEpBL89G00GqxSp.nRaj
+ RDSNhYFGCggDxGPfPYJXRKGmvN5THI6S6kDHVweSn8PKYbg.szO6ODBDLc2U
+ rVmkavd8pp_oSug8ouvHmsYiF2Ws5Pp0LPvhUazN9JzQXebCAKkyxJuCfRx.
+ bbHFfA35gGAvdlJFzHPuwr3CRhU45n2bHKuI5OEjyruG3BUu80wua_BLhR_Z
+ 2JtikSzC_hW36MwDy86Q_vV3MN83OlPOEiWWjpj6GhwpO95AbD5phl1iQb0K
+ 5T9taUaqQCcgiZBgHF6frJK617V.9G5G3XFxXjY2Bah6P1ej48nsO4k7Tm66
+ 1NbCxxvV6t96pyBgAxPNwtEPbM8zDbIcUwiKFv90tnuE6M8qfkp.lsA7I7Nk
+ MQr2qqqVdSBEIEWgzo_UpAlcRLWxrJXI6tnYjFDgneFObk9WLsGg.RbckTOD
+ s55uzTFydSgSX95vhC0ZNrbO7G63YUFTWBvwpjyAHmkEt5xiowHtUufFtc0g
+ NXD8Gv_ugGdzXPs2lQDPrkAaFCEpcbKp4Ib1IlYyrmIq6VRZXQ8hM.g1BPH9
+ PNXPRR0xJULGusEwKafaMZ1kgThsFcwXbJ4lcMEmpk_cUT8yI_lmHCWYwLoe
+ z_B5W6iItHUsdZV3ExZEyoerBm3YbHzyZQ5iO0TRBSNaaj_gfdTFL58rLzb3
+ FN15emiGuZCFNAOKmnYtoqwHE.zXC.rJ5giiEagdkSYt1REkA17iQ0bveztR
+ nYKqejb4qGuMJNvA9VRLw3IGPwF_H7N6OxVI1wuOrwgaDA0_mfRczEM42g0R
+ n8JgVEiBlJajBL6bimIrYjbEqXxgAGRrns49wYFEr.HkRPfsZrifPvF1F_tq
+ nnP64uCtzEChxhRy
+Received: from 67.227.156.183 (EHLO hostess.faxzero.com)
+ by 10.223.249.98 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 28 May 2022 21:36:30 +0000
+Received: from nobody by hostess.faxzero.com with local (Exim 4.95)
+	(envelope-from <support@faxzero.com>)
+	id 1nv46o-0000Yq-Cg
+	for MS60710444266@YAHOO.COM;
+	Sat, 28 May 2022 17:36:30 -0400
+To: BARIS DINCER <MS60710444266@YAHOO.COM>
+Subject: FaxZero.com Action Required - Please Confirm Your Fax
+X-PHP-Script: faxzero.com/index.php for 50.74.77.2, 50.74.77.2, 34.229.92.227
+X-PHP-Originating-Script: 1001:index.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+X-IADB-IP: 67.227.156.183
+X-IADB-IP-REVERSE: faxzero.com
+X-IADB-URL: http://www.isipp.com/iadb.php
+From: FaxZero.com <support@faxzero.com>
+Message-Id: <E1nv46o-0000Yq-Cg@hostess.faxzero.com>
+Date: Sat, 28 May 2022 17:36:30 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostess.faxzero.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: Sender Address Domain - faxzero.com
+X-Get-Message-Sender-Via: hostess.faxzero.com: uid via acl_c_vhost_owner from authenticated_id: nobody from /only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: hostess.faxzero.com: nobody
+Content-Length: 800
+
+<html>
+<body>
+<p>Dear BARIS DINCER,</p>
+
+<p>Please click on the URL below to send your fax with 1 document to
+<b>Nicole Tamilyn Bowyer</b> at <b>5048404941</b>.</p>
+
+<p><a href="https://faxzero.com/confirm/31178160/1653773790">https://faxzero.com/confirm/31178160/1653773790</a></p>
+
+<p>Your fax will not be delivered until you do so.</p>
+
+<p>By clicking the URL, you agree to FaxZero.com's <a href="https://faxzero.com/terms_of_use.php">terms of use</a>.
+Do not use FaxZero to send advertisements, spam, abusive, harassing, defamatory, hateful or offensive material.</p>
+
+<p>While you're waiting for your document to be faxed, check out <a href="https://www.FreePrintableBusinessCards.net">Free Printable Business Cards</a> that you can download, customize, and print instantly.</p>
+</body>
+</html>

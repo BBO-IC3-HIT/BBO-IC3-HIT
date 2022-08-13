@@ -1,0 +1,84 @@
+From - Sat May  7 04:05:29 2022
+X-Account-Key: account1
+X-UIDL: AFDRgwcvb0W2YnY17ABdwPdmU0M
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.130.17
+ by atlas207.free.mail.ne1.yahoo.com with HTTPS; Sat, 7 May 2022 09:03:39 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.201]
+Received-SPF: pass (domain of github.com designates 192.30.252.201 as permitted sender)
+Authentication-Results: atlas207.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 7 May 2022 09:03:39 +0000
+X-YMailISG: OSRhSakWLDt1lvU6SMWHx3EyqHdtO0Wlw.D7Ag5OP.XV27Px
+ u1NHNk0a6w75.uGzUL6T893aWOSfoRUnNyE_cCkg_.Qyyzg7pXhdgpMJOv2G
+ UKFeC3ELN0fbcGgEBpMjnZ7cXrVXhmvvsU1Jz7KoNaV53qxDyrAA4AWr2UWG
+ __DZjHgRa7Ikl7zOkB90lNYGsmm6GhuT3QILcoMQT4xqFW2KnZIG5lZRPdN8
+ aNNckqU_BBZk6Tm6SnTY.25CAJUimYP27GJQb6qdeX0yeTVOPLtWs2_Pw6yz
+ ccP_kCw.UN9iJRtfo_94_dXevzv7bI_FpmJZgMtQI3blZm0EeQ53.uEZYf9G
+ psQqCjOpCvPAZJ2pZqFh9GufFS3uQenjEFMjY8exg5HbVOOl17L8z9zgcOgx
+ YpWIQYZ2vMz1SZfvhcSiWLToUrIVk3HbIJ64apBbbtMn8r2S4e7gWzRRr_Cv
+ t7shukuiJeh0HmBgavwkTZdWfcDEEOyrwiKP8mLJzi48WBxiWpmd1Y9JlzeI
+ X_FZEa0iYkYq9IFbZI9gkgiiANqARNyAUwDbg8EAfzWYEcHiRiflcu3DTJF7
+ cppf6DD1xfovBKYPLkwMugZqxT1c8uuQczud1Ne.lmb6tEbu_EqXI_1f__SZ
+ xQXbNAfavFVSMqNRVZdjM7GLhk56P5vPd6rRqvmvzbeFjxzNrqAxwoze_wRE
+ bkp0m6Vn.BYz5eZ1YpFa2EpRn4ajlC5qKfw4f_csiXoAW1qxZ4BpTlQ7hNP3
+ Ysc0Vpleh3Y.7wxm0F3Znff00gPxTM.6Ory3Ep6sQxhGxrDc..IQZWgZMtEx
+ yB.dInFegR9O8RxUK8tOWqwfbXphut_4cMc9wyhqboM_0k.1aSSUh5jGS1kb
+ qZnr5NcKu2Tx9DDM2PDYhIyBVVe.0wWtO9u17i_5ZWBjgpAWKHPIIBvQYr6K
+ UBxeJzbI1ItA3iaA_nACfkB37dCB2LZ97V9QWZSX6ckQPPVmrJ9hqyJ1T7Gs
+ V6h0TMAIZlgzg7HzenKQ65KfM5XnGimlD62iBZelz8cFJX1zQRuqp0w8m_0A
+ Tlb0eT0ewRSXCUSsOfnTupQ9fqNyKXCp8VImx_U1Lj8Ze4YhLiGQFa3zDXX3
+ 8Q19Ih8oKeIqTRbyqi0n05yjA4Pq7X.EG27s.fY8fpBf5qZ2cXxSsxGXxgqc
+ ghFcT5lvhd2BwLKNaGlNKNNkPB5h
+Received: from 192.30.252.201 (EHLO smtp.github.com)
+ by 10.217.130.17 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 07 May 2022 09:03:39 +0000
+Received: from github.com (hubbernetes-node-7065bd4.va3-iad.github.net [10.48.124.53])
+	by smtp.github.com (Postfix) with ESMTPA id 41532340703;
+	Sat,  7 May 2022 02:03:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1651914219;
+	bh=zlzUkc4RNl/1ciSFyXkQKFtsfBzpg9ZVRkyXIkYytoU=;
+	h=Date:From:To:Subject:From;
+	b=PuX36H05uRZmKnFaTUhOjMI9jUmJvGWqSVcj2qT6OOVGSCdunlxpS9IYNJ6BeqAzb
+	 SWblcU44Kn1P9aKKbIoJSdTOn1P8Z8GG908Cc2wgH0IhzmhagF9aLTnUUOIk8vsX6p
+	 fgQcmzQjMAgHowTFcyGnTRXzjpTFMCMrg34gKeEo=
+Date: Sat, 07 May 2022 02:03:39 -0700
+From: "DINCER & CO." <noreply@github.com>
+To: INFO@KPMG.COM, 
+ MS60710444266@YAHOO.COM
+Message-ID: <BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/push/refs/heads/main/b36970-dee9bd@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV] dee9bd:
+ UPDATED WITH THE STFGX closing price
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: MOV DISTRIBUTIONS ANNEXED
+X-GitHub-Recipient-Address: INFO@KPMG.COM,MS60710444266@YAHOO.COM
+X-Auto-Response-Suppress: All
+Content-Length: 537
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV
+  Commit: dee9bdfbb7a22374cc148ef3edbaf4f35804d4eb
+      https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/commit/dee9bdfbb7a22374cc148ef3edbaf4f35804d4eb
+  Author: DINCER & CO <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-05-07 (Sat, 07 May 2022)
+
+  Changed paths:
+    M README.md
+
+  Log Message:
+  -----------
+  UPDATED WITH THE STFGX closing price
+
+FOR EASE OF REFERENCE.
+
+

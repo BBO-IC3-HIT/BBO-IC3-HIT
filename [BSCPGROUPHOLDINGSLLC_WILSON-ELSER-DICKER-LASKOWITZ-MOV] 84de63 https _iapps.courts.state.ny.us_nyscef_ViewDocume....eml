@@ -1,0 +1,84 @@
+From - Sat May  7 04:32:41 2022
+X-Account-Key: account1
+X-UIDL: AGjzTPxMNU/vYnY8uAgp2O35Zsg
+X-Mozilla-Status: 1001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.248.247
+ by atlas113.free.mail.ne1.yahoo.com with HTTPS; Sat, 7 May 2022 09:32:42 +0000
+Return-Path: <noreply@github.com>
+X-Originating-Ip: [192.30.252.206]
+Received-SPF: pass (domain of github.com designates 192.30.252.206 as permitted sender)
+Authentication-Results: atlas113.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@github.com header.s=pf2014;
+ spf=pass smtp.mailfrom=github.com;
+ dmarc=pass(p=REJECT) header.from=github.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 7 May 2022 09:32:42 +0000
+X-YMailISG: GqpbW7EWLDv3gqVhCJIyrXwPZmOnWrdammCwroXx.MBbkFcB
+ MCb34lOdujoqsHl58Sjr6.ATxk_IpdRXBuEowp7wtkgiiJq5Av8WQtaf5rt5
+ ja6DW7pkO1_9SV3GxAacCjWhGVQSL_5OALcvo6axypzImeyaPg0kF1_BOmBv
+ 6AHPrvdjJacrDEb6y8RkABR_MIWr7d7kaFK8mlM3tNuBe6QIJ8jZeD4pqqCB
+ Ur8nAHBFW4JcSRnUOcAyhZOlFMCCGL0zyxb7sbjGMHAsM9.XIyNeJqaf2afZ
+ xjw.SL.uNOlE6q8eqgGUsvW94iWevyt1EVD5dp5kSX9DyZ_JJZ0bBdtVtnR.
+ mEU6TvO1.shDfymTpEY7ttr0Yq4wtTm6pt154sw9BhIjM_UR20kT5tVmF3PF
+ 8cSiWFP2QBSYzb57PzPDR2KmibnTrvhRLujtCpGxPCQTimoPPRlcmJoBUgob
+ LGt3APNgTwQCv5lHhesxYo.42GyAFOXfpWICm4175O6sHCBq1REw8Bmw77P8
+ rukQ61VT32rl1I.Fv2q5jzBCdVdrydckGt9PB6WhLLDd4LtnrZFm58vdb2Pt
+ FuuHJU2jY54yp2QHHidNSFut8yiV0HyM_RHr3oUnWKd9bgXs0m5hN7Oz1Ocz
+ NQriCzQucUq7UTwds.Cm.6RcYp0CrUkE0fEYMz9wRjKfPDf4L0iDsh4IWWdw
+ p2cRdKajc8cWfnEKWagw.9sRQCQE_hGm4vro.mzTIrstly520QPOKGch.KVs
+ uE6DSDpcFz93pmMsJ9QouAToMg7wIdl0jQ1jJzaODM7UYFPpm82YdCF2SOsL
+ wf.CG8w1Sl5vZJ1VwY2ZoJXQ_.esaMwigKpoYQQSH5TirSdYvuMW3QQAK79J
+ 9FZyjqjxXBwSVHUyrQSfeidwBYsJSbW0s.iDzAAJ8.1bVVkgAwF7Y7v5NBLl
+ P1fN3XsNZHsjb2hfBbjf9uAh9_8DSy40L80wDKql.tYU2H7nT9VzoHWSRe3s
+ 5IoO6Lm1o.Mib_AWnyUyJAt3oILZcJlwbdpRsV_0UNIEtQ6G9GTbbGjdXehs
+ 8kWBY7RjEFzNoPeN2pZify8pigzHBNVbAHwtJ4N9.bo6mufSksE9Jrr4yQhx
+ Hv7AvmA4DNBoIaI_.rSbHNr0SaBfIyt2XqiAklRddtT3Ydfo4MzXqG6BknVx
+ K02gb3f6v0IHWcTDGQVt3q0Mu4Gvow--
+Received: from 192.30.252.206 (EHLO out-23.smtp.github.com)
+ by 10.223.248.247 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Sat, 07 May 2022 09:32:42 +0000
+Received: from github.com (hubbernetes-node-49a732a.ac4-iad.github.net [10.52.206.86])
+	by smtp.github.com (Postfix) with ESMTPA id AE8B86002A1;
+	Sat,  7 May 2022 02:32:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1651915961;
+	bh=MwqDj8sVnvxvNpI/3B4q3fViDYuoEUtJnQPLwdFqKUE=;
+	h=Date:From:To:Subject:From;
+	b=Gm2SeYtXmUcakdn6DKxTQ3R6sc8TTW6SWT77s5pxFju0UcCa6RmYUt3uxvCQPq29A
+	 7q5xikdYJKGaqEvTgbB3XEq/K5AFRWterp5mvqnZHjA5re8L8noQjNMPNMBY8RJgfA
+	 +sFVIx7/vF8fEOYfdH41Qe6AzzxfvHkjsXRoQ0ww=
+Date: Sat, 07 May 2022 02:32:41 -0700
+From: "DINCER & CO." <noreply@github.com>
+To: INFO@KPMG.COM, 
+ MS60710444266@YAHOO.COM
+Message-ID: <BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/push/refs/heads/main/b4f6ce-84de63@github.com>
+Subject: [BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV] 84de63:
+ https://iapps.courts.state.ny.us/nyscef/ViewDocume...
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Approved: MOV DISTRIBUTIONS ANNEXED
+X-GitHub-Recipient-Address: INFO@KPMG.COM,MS60710444266@YAHOO.COM
+X-Auto-Response-Suppress: All
+Content-Length: 651
+
+  Branch: refs/heads/main
+  Home:   https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV
+  Commit: 84de63f8770cc2f9333342e8a9e55df5c4bae7b2
+      https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/commit/84de63f8770cc2f9333342e8a9e55df5c4bae7b2
+  Author: DINCER & CO <70865813+BSCPGROUPHOLDINGSLLC@users.noreply.github.com>
+  Date:   2022-05-07 (Sat, 07 May 2022)
+
+  Changed paths:
+    M README.md
+
+  Log Message:
+  -----------
+  https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
+
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=PWFQc/WFihoyIKwEunaalQ==
+
+
