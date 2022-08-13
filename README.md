@@ -11,6 +11,8 @@ via.: 6462563609@mms.att.net<br>
 ### NOTICE TO STATE FARM
 https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=K9sgXcweC7esRoSPO8MNtA==<br>
 
+## NO CERTIFICATE OF OCCUPANCY FILED ON AUGUST 4TH 2020
+https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=SgjFfExxNV4Y4DTX6pANaA==<br>
 
 ## ASSIGNMENT OF LEASES & RENTS REGISTERED WITH THE DFS AND FILED: MAY 26TH 2020 
 ##### FROM: STATE FARM LIFE INSURANCE, TO: SULLIVAN PROPERTIES LP<br>
